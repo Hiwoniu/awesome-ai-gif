@@ -1,0 +1,13 @@
+{
+  "name": "poster",
+  "title": "动态海报",
+  "note": "规格参考 gif-factory 的动态海报说明（MIT）。网点、粗墨线这类画面压缩差，颜色数给低一点。",
+  "width": 720,
+  "height": 960,
+  "seconds": 4,
+  "fps": 20,
+  "hold": 0.6,
+  "slats": 30,
+  "colors": 48,
+  "soft_max_bytes": 1500000
+}

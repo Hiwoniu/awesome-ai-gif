@@ -5,7 +5,7 @@
   codex_gen.py one --prompt character-prompt.md --image photo.jpg --out character.png --transparent
 复刻整套（读 remix_extract.py 的 plan.json，给每个还没有 new.png 的目录出图）：
   codex_gen.py remix <工作目录> [--character character.png] [--jobs 3]
-逐张复刻（工作目录下每个子目录放 prompt.md + ref.png，比如一套静态照片梗图）：
+逐张出图（工作目录下每个子目录放 prompt.md，要照着做的原图放成 ref.png，可以没有）：
   codex_gen.py each <工作目录> --image photo.jpg [--jobs 3]
   参考图顺序：--image 给的图在前，子目录里的 ref.png 最后。
 
@@ -155,17 +155,25 @@ def cmd_each(args) -> int:
         if new.exists() and not args.force:
             print(f"SKIP {d.name}: 已有 new.png（重画加 --force）")
             continue
-        images = extra + ([d / "ref.png"] if (d / "ref.png").exists() else [])
-        jobs.append((d.name, d / args.prompt_name, images, new))
+        has_ref = (d / "ref.png").exists()
+        images = extra + ([d / "ref.png"] if has_ref else [])
+        # 说明要按这一张实际带了哪些图来写，没有 ref.png 却说有，Codex 会停下来找图
+        if has_ref and extra:
+            note = f"附带 {len(images)} 张参考图：前 {len(extra)} 张是主角，最后 1 张是要照着做的原图，按提示词里的说法使用。"
+        elif has_ref:
+            note = "附带 1 张参考图（要照着做的原图），按提示词里的说法使用。"
+        elif extra:
+            note = f"附带 {len(extra)} 张参考图（主角），按提示词里的说法使用。没有别的参考图，不要去找。"
+        else:
+            note = "没有参考图。"
+        jobs.append((d.name, d / args.prompt_name, images, new, note))
     if not jobs:
         print("没有要出的图：子目录里要有提示词文件（默认 prompt.md）。" if not dirs else "全部已有 new.png。")
         return 0 if dirs else 2
-    note = (f"附带 {len(extra) + 1} 张参考图：前 {len(extra)} 张是主角，最后 1 张是要照着做的原图（ref.png），按提示词里的说法使用。"
-            if extra else "附带 1 张参考图（要照着做的原图），按提示词里的说法使用。")
     print(f"出图 {len(jobs)} 张，同时跑 {args.jobs} 个，{'透明底' if args.transparent else '不要求透明'}……")
     with ThreadPoolExecutor(max_workers=args.jobs) as pool:
         futures = {name: pool.submit(generate, prompt, images, new, args.transparent, note, args.model)
-                   for name, prompt, images, new in jobs}
+                   for name, prompt, images, new, note in jobs}
     ok = sum(report(name, f.result()) for name, f in futures.items())
     print(f"\n成功 {ok}/{len(jobs)}。拼一张 ref/new 对照图逐张验货，坏的改提示词后用 --only <名字> --force 重画。")
     return 0 if ok == len(jobs) else 1

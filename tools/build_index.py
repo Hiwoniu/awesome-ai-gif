@@ -17,6 +17,10 @@ START, END = "<!-- cases:start -->", "<!-- cases:end -->"
 
 SERIES_TITLES = {
     "wechat-stickers": "微信表情包",
+    "cards": "光栅变画卡",
+    "posters": "动态海报",
+    "signatures": "动态签名",
+    "storybooks": "动态绘本",
     "reactions": "反应类 GIF",
     "memes": "梗图 GIF",
     "product": "产品演示 GIF",

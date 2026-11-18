@@ -1,0 +1,32 @@
+[
+  {
+    "time": "2026-11-18T10:15:03",
+    "prompt": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-gif-factory-styles/_work/gen/clay/prompt.md",
+    "images": [
+      "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-gif-factory-styles/_work/character.png"
+    ],
+    "out": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-gif-factory-styles/_work/gen/clay/new.png",
+    "transparent": true,
+    "raw": null,
+    "seconds": 62,
+    "exit": 0,
+    "ok": false,
+    "replaced": null,
+    "log": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-gif-factory-styles/_work/gen/clay/codex-new.log"
+  },
+  {
+    "time": "2026-11-18T10:20:57",
+    "prompt": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-gif-factory-styles/_work/gen/clay/prompt.md",
+    "images": [
+      "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-gif-factory-styles/_work/character.png"
+    ],
+    "out": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-gif-factory-styles/_work/gen/clay/new.png",
+    "transparent": true,
+    "raw": "/Users/xiangming/.codex/generated_images/01a1ef3c-9dc3-74b1-8457-eb0083bf7043/exec-d0a02d0b-0c28-47a5-aa4b-953574e23d49.png",
+    "seconds": 168,
+    "exit": 0,
+    "ok": true,
+    "replaced": null,
+    "log": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-gif-factory-styles/_work/gen/clay/codex-new.log"
+  }
+]

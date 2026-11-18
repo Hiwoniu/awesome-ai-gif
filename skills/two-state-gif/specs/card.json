@@ -1,0 +1,13 @@
+{
+  "name": "card",
+  "title": "光栅变画卡",
+  "note": "规格参考 gif-factory 的光栅卡说明（MIT）。不是平台硬性规格，是看起来像实体光栅卡的经验值。",
+  "width": 480,
+  "height": 720,
+  "seconds": 6,
+  "fps": 20,
+  "hold": 0.6,
+  "slats": 24,
+  "colors": 128,
+  "soft_max_bytes": 1500000
+}

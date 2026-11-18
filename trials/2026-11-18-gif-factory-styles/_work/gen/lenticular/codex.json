@@ -1,0 +1,32 @@
+[
+  {
+    "time": "2026-11-18T10:15:05",
+    "prompt": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-gif-factory-styles/_work/gen/lenticular/prompt.md",
+    "images": [
+      "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-gif-factory-styles/_work/character.png"
+    ],
+    "out": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-gif-factory-styles/_work/gen/lenticular/new.png",
+    "transparent": false,
+    "raw": null,
+    "seconds": 64,
+    "exit": 0,
+    "ok": false,
+    "replaced": null,
+    "log": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-gif-factory-styles/_work/gen/lenticular/codex-new.log"
+  },
+  {
+    "time": "2026-11-18T10:20:15",
+    "prompt": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-gif-factory-styles/_work/gen/lenticular/prompt.md",
+    "images": [
+      "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-gif-factory-styles/_work/character.png"
+    ],
+    "out": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-gif-factory-styles/_work/gen/lenticular/new.png",
+    "transparent": false,
+    "raw": "/Users/xiangming/.codex/generated_images/01a1ef3c-9dc3-73f3-870f-add4672c9279/exec-fa19c684-f290-48d7-ad1d-337c92490858.png",
+    "seconds": 126,
+    "exit": 0,
+    "ok": true,
+    "replaced": null,
+    "log": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-gif-factory-styles/_work/gen/lenticular/codex-new.log"
+  }
+]
