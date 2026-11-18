@@ -1,0 +1,18 @@
+[
+  {
+    "time": "2026-11-18T09:21:51",
+    "prompt": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-snail-cat-remix/_work/gen/17/prompt.md",
+    "images": [
+      "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-snail-cat-remix/_work/photo.jpg",
+      "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-snail-cat-remix/_work/gen/17/ref.png"
+    ],
+    "out": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-snail-cat-remix/_work/gen/17/new.png",
+    "transparent": false,
+    "raw": "/Users/xiangming/.codex/generated_images/01a1ef04-a23b-73f2-b7b7-8ffb455b9118/exec-b1c686c5-87f4-4e0c-9e29-3def5fba3fee.png",
+    "seconds": 290,
+    "exit": 0,
+    "ok": true,
+    "replaced": null,
+    "log": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-snail-cat-remix/_work/gen/17/codex-new.log"
+  }
+]

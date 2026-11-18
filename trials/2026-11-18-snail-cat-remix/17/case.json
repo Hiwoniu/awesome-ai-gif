@@ -1,0 +1,31 @@
+{
+  "id": "",
+  "title": "气死",
+  "meaning": "气死",
+  "tags": [],
+  "route": "still",
+  "motion": "shake",
+  "remix_of": "~/Downloads/蜗牛-猫-表情包 第 17 张（ref.png）",
+  "engine": {
+    "provider": "openai",
+    "model": "codex image_gen (tool-managed)",
+    "channel": "codex exec"
+  },
+  "checks": {
+    "technical": true,
+    "visual": false,
+    "approved": false,
+    "notes": ""
+  },
+  "status": "draft",
+  "created": "2026-11-18",
+  "caption": {
+    "text": "气死我了",
+    "position": "bottom",
+    "reveal": "char",
+    "size": 40,
+    "color": "#FFFFFF",
+    "stroke-color": "#000000",
+    "edge-color": "#000000"
+  }
+}

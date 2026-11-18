@@ -1,0 +1,31 @@
+{
+  "id": "",
+  "title": "无语",
+  "meaning": "无语",
+  "tags": [],
+  "route": "still",
+  "motion": "breathe",
+  "remix_of": "~/Downloads/蜗牛-猫-表情包 第 11 张（ref.png）",
+  "engine": {
+    "provider": "openai",
+    "model": "codex image_gen (tool-managed)",
+    "channel": "codex exec"
+  },
+  "checks": {
+    "technical": true,
+    "visual": false,
+    "approved": false,
+    "notes": ""
+  },
+  "status": "draft",
+  "created": "2026-11-18",
+  "caption": {
+    "text": "……",
+    "position": "top",
+    "reveal": "char",
+    "size": 40,
+    "color": "#FFFFFF",
+    "stroke-color": "#000000",
+    "edge-color": "#000000"
+  }
+}

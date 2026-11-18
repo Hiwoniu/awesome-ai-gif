@@ -5,6 +5,9 @@
   codex_gen.py one --prompt character-prompt.md --image photo.jpg --out character.png --transparent
 复刻整套（读 remix_extract.py 的 plan.json，给每个还没有 new.png 的目录出图）：
   codex_gen.py remix <工作目录> [--character character.png] [--jobs 3]
+逐张复刻（工作目录下每个子目录放 prompt.md + ref.png，比如一套静态照片梗图）：
+  codex_gen.py each <工作目录> --image photo.jpg [--jobs 3]
+  参考图顺序：--image 给的图在前，子目录里的 ref.png 最后。
 
 做法：把提示词文件交给 `codex exec`，让它用内置 image_gen 按原文出一张图，
 再把 $CODEX_HOME/generated_images/ 下的原图复制到指定位置。每次调用的日志写在输出图旁边的
@@ -140,6 +143,34 @@ def cmd_remix(args) -> int:
     return 0 if ok == len(jobs) else 1
 
 
+def cmd_each(args) -> int:
+    work = args.work.resolve()
+    extra = [p.resolve() for p in args.image or []]
+    dirs = sorted(d for d in work.iterdir() if d.is_dir() and (d / args.prompt_name).exists())
+    if args.only:
+        dirs = [d for d in dirs if d.name in args.only]
+    jobs = []
+    for d in dirs:
+        new = d / "new.png"
+        if new.exists() and not args.force:
+            print(f"SKIP {d.name}: 已有 new.png（重画加 --force）")
+            continue
+        images = extra + ([d / "ref.png"] if (d / "ref.png").exists() else [])
+        jobs.append((d.name, d / args.prompt_name, images, new))
+    if not jobs:
+        print("没有要出的图：子目录里要有提示词文件（默认 prompt.md）。" if not dirs else "全部已有 new.png。")
+        return 0 if dirs else 2
+    note = (f"附带 {len(extra) + 1} 张参考图：前 {len(extra)} 张是主角，最后 1 张是要照着做的原图（ref.png），按提示词里的说法使用。"
+            if extra else "附带 1 张参考图（要照着做的原图），按提示词里的说法使用。")
+    print(f"出图 {len(jobs)} 张，同时跑 {args.jobs} 个，{'透明底' if args.transparent else '不要求透明'}……")
+    with ThreadPoolExecutor(max_workers=args.jobs) as pool:
+        futures = {name: pool.submit(generate, prompt, images, new, args.transparent, note, args.model)
+                   for name, prompt, images, new in jobs}
+    ok = sum(report(name, f.result()) for name, f in futures.items())
+    print(f"\n成功 {ok}/{len(jobs)}。拼一张 ref/new 对照图逐张验货，坏的改提示词后用 --only <名字> --force 重画。")
+    return 0 if ok == len(jobs) else 1
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = parser.add_subparsers(dest="cmd", required=True)
@@ -164,6 +195,17 @@ def main() -> int:
                     help="覆盖 plan.json 里的透明底设置")
     rm.add_argument("--model", help="指定 Codex 模型（默认用 Codex 配置）")
     rm.set_defaults(func=cmd_remix)
+
+    each = sub.add_parser("each", help="工作目录下每个子目录（prompt.md + ref.png）各出一张")
+    each.add_argument("work", type=Path, help="工作目录")
+    each.add_argument("--image", type=Path, action="append", help="每张都带的参考图（如主角照片），排在 ref.png 前面")
+    each.add_argument("--only", nargs="*", help="只画这些子目录")
+    each.add_argument("--force", action="store_true", help="已有 new.png 也重画（旧图改名保留）")
+    each.add_argument("--jobs", type=int, default=3, help="同时跑几个（默认 3）")
+    each.add_argument("--prompt-name", default="prompt.md", help="每个子目录里的提示词文件（默认 prompt.md）")
+    each.add_argument("--transparent", action="store_true", help="要求透明背景")
+    each.add_argument("--model", help="指定 Codex 模型（默认用 Codex 配置）")
+    each.set_defaults(func=cmd_each)
 
     args = parser.parse_args()
     if shutil.which("codex") is None:

@@ -1,0 +1,31 @@
+{
+  "id": "",
+  "title": "哦",
+  "meaning": "哦",
+  "tags": [],
+  "route": "still",
+  "motion": "breathe",
+  "remix_of": "~/Downloads/蜗牛-猫-表情包 第 19 张（ref.png）",
+  "engine": {
+    "provider": "openai",
+    "model": "codex image_gen (tool-managed)",
+    "channel": "codex exec"
+  },
+  "checks": {
+    "technical": true,
+    "visual": false,
+    "approved": false,
+    "notes": ""
+  },
+  "status": "draft",
+  "created": "2026-11-18",
+  "caption": {
+    "text": "哦～",
+    "position": "bottom",
+    "reveal": "char",
+    "size": 40,
+    "color": "#FFFFFF",
+    "stroke-color": "#000000",
+    "edge-color": "#000000"
+  }
+}
