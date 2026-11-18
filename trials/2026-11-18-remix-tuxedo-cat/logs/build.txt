@@ -1,0 +1,6 @@
+OK   cover-eyes: 6 个关键帧，6 帧，98KB
+OK   dinner: 6 个关键帧，6 帧，95KB
+OK   thanks: 6 个关键帧，6 帧，74KB
+
+合成 3 张，跳过 0 张，失败 0 张，在 /Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-remix-tuxedo-cat
+接下来：逐张打开看动作对不对、黑底查白边，填 case.json 的 meaning，再跑 check_assets.py。

@@ -1,0 +1,54 @@
+[
+  {
+    "path": "character.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "perimeter_exact_white": 0.05107741420590583,
+    "perimeter_near_white_243": 1.0,
+    "perimeter_range": [
+      253,
+      255
+    ]
+  },
+  {
+    "path": "_work/atlas.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "perimeter_exact_white": 0.11233040702314445,
+    "perimeter_near_white_243": 1.0,
+    "perimeter_range": [
+      252,
+      255
+    ]
+  },
+  {
+    "path": "_work/frames-sheet.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "perimeter_exact_white": 0.10946051602814699,
+    "perimeter_near_white_243": 1.0,
+    "perimeter_range": [
+      253,
+      255
+    ]
+  },
+  {
+    "path": "_work/banner-original.png",
+    "size": [
+      1717,
+      916
+    ],
+    "perimeter_exact_white": 0.0,
+    "perimeter_near_white_243": 0.0,
+    "perimeter_range": [
+      185,
+      251
+    ]
+  }
+]

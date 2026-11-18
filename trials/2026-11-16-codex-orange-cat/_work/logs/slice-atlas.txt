@@ -1,0 +1,2 @@
+OK 切出 16 张，每张 313×313，在 /Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-16-codex-orange-cat/_work/cells
+WARN 图片 1254×1254 不能被 4×4 整除，右侧/底部会丢 2×2 像素

@@ -1,0 +1,18 @@
+{
+  "character": "一只圆滚滚的白色小兔子，长耳朵内侧是粉色，左耳尖有一个深灰色小斑点，短尾巴像一团棉花",
+  "style": "简笔画卡通，线条粗细一致，颜色扁平，不超过 5 种主色",
+  "title": "棉团兔日常",
+  "intro": "圆滚滚的小白兔，用招手、大笑、比心和小脾气，陪你表达日常心情。",
+  "copyright": "原创试作",
+  "animated": true,
+  "review_status": "未提交",
+  "submitted": null,
+  "generation_count": 4,
+  "generation_breakdown": {
+    "character": 1,
+    "poses": 1,
+    "frames": 1,
+    "repair": 1,
+    "banner": 0
+  }
+}

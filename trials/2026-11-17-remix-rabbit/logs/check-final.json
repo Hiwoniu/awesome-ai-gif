@@ -1,0 +1,81 @@
+{
+  "spec": "wechat",
+  "final": true,
+  "summary": {
+    "FAIL": 1,
+    "WARN": 1,
+    "OK": 12
+  },
+  "items": [
+    {
+      "level": "OK",
+      "target": "wx-001-greeting",
+      "message": "8 帧，93KB"
+    },
+    {
+      "level": "OK",
+      "target": "wx-002-laugh",
+      "message": "8 帧，90KB"
+    },
+    {
+      "level": "OK",
+      "target": "wx-003-cry",
+      "message": "8 帧，103KB"
+    },
+    {
+      "level": "OK",
+      "target": "wx-004-stomp",
+      "message": "8 帧，95KB"
+    },
+    {
+      "level": "OK",
+      "target": "wx-005-heart",
+      "message": "8 帧，103KB"
+    },
+    {
+      "level": "OK",
+      "target": "wx-006-shy",
+      "message": "8 帧，95KB"
+    },
+    {
+      "level": "OK",
+      "target": "wx-007-shrug",
+      "message": "8 帧，100KB"
+    },
+    {
+      "level": "OK",
+      "target": "wx-008-eat",
+      "message": "8 帧，94KB"
+    },
+    {
+      "level": "OK",
+      "target": "wx-009-wave",
+      "message": "6 帧，59KB"
+    },
+    {
+      "level": "WARN",
+      "target": "wx-005-heart",
+      "message": "和 wx-006-shy 首帧轮廓相近，并排看一下：只是表情不同算正常，姿势和动作也一样才会被判整套差异不足"
+    },
+    {
+      "level": "OK",
+      "target": "整套",
+      "message": "成品 9 张"
+    },
+    {
+      "level": "OK",
+      "target": "cover",
+      "message": "表情封面图 240×240，35KB"
+    },
+    {
+      "level": "OK",
+      "target": "icon",
+      "message": "聊天面板图标 50×50，4KB"
+    },
+    {
+      "level": "FAIL",
+      "target": "banner",
+      "message": "详情页横幅不能是纯白底"
+    }
+  ]
+}

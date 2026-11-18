@@ -1,0 +1,31 @@
+{
+  "id": "wx-008",
+  "title": "eat",
+  "meaning": "开吃",
+  "route": "atlas",
+  "motion": "bounce",
+  "source_cell": 13,
+  "engine": {
+    "provider": "OpenAI",
+    "tool": "image_gen.imagegen",
+    "model": "tool-managed-undisclosed",
+    "channel": "Codex built-in"
+  },
+  "cost": {
+    "generations": 0,
+    "shared_generations": 1,
+    "shared_source": "_work/atlas.png",
+    "usd": null,
+    "note": "八张共用一次图集生成，禁止逐张累加 shared_generations；另有一次共用角色定稿"
+  },
+  "checks": {
+    "technical": true,
+    "visual": false,
+    "approved": false,
+    "black_background": true,
+    "continuous_white_halo_seen": false,
+    "notes": "已打开切格、黑底拼图及动作序列复核，主体完整，动作可见，未见连续白边。 橘色填充有轻微渐变，与严格扁平色要求存在偏差，visual 保守记为 false。"
+  },
+  "status": "draft",
+  "created": "2026-11-16"
+}

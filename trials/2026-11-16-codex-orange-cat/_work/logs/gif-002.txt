@@ -1,0 +1,9 @@
+{
+  "path": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-16-codex-orange-cat/wx-002-laugh/result.gif",
+  "bytes": 144272,
+  "frames": 8,
+  "duration_ms": 100,
+  "colors": 255,
+  "within_limit": true,
+  "motion": "bounce"
+}

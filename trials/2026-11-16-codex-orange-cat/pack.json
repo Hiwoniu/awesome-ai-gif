@@ -1,0 +1,16 @@
+{
+  "character": "圆滚滚橘猫",
+  "title": "橘团日常",
+  "intro": "圆滚滚的橘猫，用挥爪、大笑、比心和小脾气，陪你聊聊每天的心情。",
+  "copyright": "原创试作",
+  "animated": true,
+  "review_status": "未提交",
+  "submitted": null,
+  "generation_count": 4,
+  "generation_breakdown": {
+    "character": 1,
+    "atlas": 1,
+    "frames": 1,
+    "banner": 1
+  }
+}

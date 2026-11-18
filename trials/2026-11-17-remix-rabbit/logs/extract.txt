@@ -1,0 +1,11 @@
+still   wx-001-greeting: 8 帧，nod ×1.0，吻合度 0.96 → poses/ref.png 第 1 格
+still   wx-002-laugh: 8 帧，bounce ×1.0，吻合度 0.97 → poses/ref.png 第 2 格
+still   wx-003-cry: 8 帧，sway ×1.0，吻合度 0.98 → poses/ref.png 第 3 格
+still   wx-004-stomp: 8 帧，bounce ×1.0，吻合度 0.99 → poses/ref.png 第 4 格
+still   wx-005-heart: 8 帧，nod ×1.0，吻合度 0.98 → poses/ref.png 第 5 格
+still   wx-006-shy: 8 帧，sway ×1.0，吻合度 0.99 → poses/ref.png 第 6 格
+still   wx-007-shrug: 8 帧，sway ×1.0，吻合度 0.97 → poses/ref.png 第 7 格
+still   wx-008-eat: 8 帧，bounce ×1.0，吻合度 0.97 → poses/ref.png 第 8 格
+frames  wx-009-wave: 6 帧 → 6 个关键帧，wx-009-wave/ref.png
+
+OK 9 张，需要出图 2 次。计划在 trials/2026-11-17-remix-rabbit/_work/plan.json

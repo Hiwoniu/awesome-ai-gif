@@ -1,0 +1,5 @@
+frames  cover-eyes: 18 帧 → 6 个关键帧，cover-eyes/ref.png
+frames  dinner: 14 帧 → 6 个关键帧，dinner/ref.png
+frames  thanks: 40 帧 → 6 个关键帧，thanks/ref.png
+
+OK 3 张，需要出图 3 次。计划在 /Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-remix-tuxedo-cat/_work/remix/plan.json

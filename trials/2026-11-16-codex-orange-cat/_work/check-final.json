@@ -1,0 +1,91 @@
+{
+  "spec": "wechat",
+  "final": true,
+  "summary": {
+    "FAIL": 0,
+    "WARN": 3,
+    "OK": 13
+  },
+  "items": [
+    {
+      "level": "WARN",
+      "target": "review",
+      "message": "还没有 result.gif"
+    },
+    {
+      "level": "OK",
+      "target": "wx-001-greeting",
+      "message": "8 帧，153KB"
+    },
+    {
+      "level": "OK",
+      "target": "wx-002-laugh",
+      "message": "8 帧，144KB"
+    },
+    {
+      "level": "OK",
+      "target": "wx-003-cry",
+      "message": "8 帧，150KB"
+    },
+    {
+      "level": "OK",
+      "target": "wx-004-stomp",
+      "message": "8 帧，142KB"
+    },
+    {
+      "level": "OK",
+      "target": "wx-005-heart",
+      "message": "8 帧，159KB"
+    },
+    {
+      "level": "OK",
+      "target": "wx-006-shy",
+      "message": "8 帧，151KB"
+    },
+    {
+      "level": "OK",
+      "target": "wx-007-shrug",
+      "message": "8 帧，141KB"
+    },
+    {
+      "level": "OK",
+      "target": "wx-008-eat",
+      "message": "8 帧，153KB"
+    },
+    {
+      "level": "OK",
+      "target": "wx-009-wave",
+      "message": "6 帧，100KB"
+    },
+    {
+      "level": "WARN",
+      "target": "wx-002-laugh",
+      "message": "和 wx-003-cry 画面太像，可能被判整套差异不足"
+    },
+    {
+      "level": "OK",
+      "target": "整套",
+      "message": "成品 9 张"
+    },
+    {
+      "level": "WARN",
+      "target": "review",
+      "message": "case.json 里还没填含义词（meaning）"
+    },
+    {
+      "level": "OK",
+      "target": "cover",
+      "message": "表情封面图 240×240，51KB"
+    },
+    {
+      "level": "OK",
+      "target": "icon",
+      "message": "聊天面板图标 50×50，4KB"
+    },
+    {
+      "level": "OK",
+      "target": "banner",
+      "message": "详情页横幅 750×400，248KB"
+    }
+  ]
+}

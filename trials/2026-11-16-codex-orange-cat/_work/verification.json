@@ -1,0 +1,152 @@
+{
+  "cases": [
+    {
+      "case": "wx-001-greeting",
+      "frames": 8,
+      "duration_ms": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "bytes": 153489,
+      "max_white_edge_ratio": 0.0028169014084507044
+    },
+    {
+      "case": "wx-002-laugh",
+      "frames": 8,
+      "duration_ms": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "bytes": 144272,
+      "max_white_edge_ratio": 0.0017094017094017094
+    },
+    {
+      "case": "wx-003-cry",
+      "frames": 8,
+      "duration_ms": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "bytes": 149670,
+      "max_white_edge_ratio": 0
+    },
+    {
+      "case": "wx-004-stomp",
+      "frames": 8,
+      "duration_ms": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "bytes": 141919,
+      "max_white_edge_ratio": 0.002250562640660165
+    },
+    {
+      "case": "wx-005-heart",
+      "frames": 8,
+      "duration_ms": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "bytes": 159151,
+      "max_white_edge_ratio": 0
+    },
+    {
+      "case": "wx-006-shy",
+      "frames": 8,
+      "duration_ms": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "bytes": 150930,
+      "max_white_edge_ratio": 0.0042643923240938165
+    },
+    {
+      "case": "wx-007-shrug",
+      "frames": 8,
+      "duration_ms": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "bytes": 141260,
+      "max_white_edge_ratio": 0
+    },
+    {
+      "case": "wx-008-eat",
+      "frames": 8,
+      "duration_ms": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "bytes": 152965,
+      "max_white_edge_ratio": 0.001949317738791423
+    },
+    {
+      "case": "wx-009-wave",
+      "frames": 6,
+      "duration_ms": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120
+      ],
+      "bytes": 99757,
+      "max_white_edge_ratio": 0
+    }
+  ],
+  "wave_seam": {
+    "first_last_dhash": 0,
+    "first_last_rgb_mean_absolute_difference": 2.6482349537037035,
+    "pixel_identical": false
+  },
+  "all_assertions_passed": true
+}

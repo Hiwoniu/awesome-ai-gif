@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "title": "捂眼睛",
+  "meaning": "害羞",
+  "tags": [],
+  "route": "frames",
+  "remix_of": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-remix-tuxedo-cat/_work/src/cover-eyes.gif",
+  "engine": {
+    "provider": "openai",
+    "model": "codex image_gen (tool-managed)",
+    "quality": null,
+    "channel": "codex exec 0.169"
+  },
+  "cost": {
+    "generations": 2,
+    "usd": null,
+    "shared": null
+  },
+  "checks": {
+    "technical": true,
+    "visual": false,
+    "approved": false,
+    "notes": "原 GIF 本身是一次性动画，首尾不接（原图 seam 97–100%），check_assets 的首尾 WARN 沿用原节奏，可接受"
+  },
+  "status": "draft",
+  "created": "2026-11-18"
+}

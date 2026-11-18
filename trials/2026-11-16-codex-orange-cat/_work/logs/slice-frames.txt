@@ -1,0 +1,1 @@
+OK 切出 6 张，每张 512×512，在 /Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-16-codex-orange-cat/_work/frames

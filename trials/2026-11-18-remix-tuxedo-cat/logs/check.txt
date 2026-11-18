@@ -1,0 +1,15 @@
+[WARN] cover-eyes: 末帧和首帧差得较远（达到动作幅度的 100%），可能没回到起点，循环到头会跳一下，实际播放看一遍
+[WARN] dinner: 末帧和首帧差得较远（达到动作幅度的 99%），可能没回到起点，循环到头会跳一下，实际播放看一遍
+[WARN] thanks: 末帧和首帧差得较远（达到动作幅度的 88%），可能没回到起点，循环到头会跳一下，实际播放看一遍
+[WARN] 整套: 成品 3 张，成套至少 8 张
+[WARN] cover-eyes: case.json 里还没填含义词（meaning）
+[WARN] dinner: case.json 里还没填含义词（meaning）
+[WARN] thanks: case.json 里还没填含义词（meaning）
+[WARN] pack.json: 还没填专辑名称（title）
+[WARN] pack.json: 还没填专辑介绍（intro）
+[WARN] pack.json: 还没填版权信息（copyright）
+[WARN] cover: 缺表情封面图（assets/cover.png）
+[WARN] icon: 缺聊天面板图标（assets/icon.png）
+[WARN] banner: 缺详情页横幅（assets/banner.png）
+
+0 FAIL · 13 WARN · 0 OK（规格：微信表情开放平台）

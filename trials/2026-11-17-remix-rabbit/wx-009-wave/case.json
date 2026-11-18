@@ -1,0 +1,32 @@
+{
+  "id": "wx-009",
+  "title": "挥爪循环",
+  "meaning": "挥爪",
+  "tags": [],
+  "route": "frames",
+  "remix_of": "trials/2026-11-16-codex-orange-cat/wx-009-wave/result.gif",
+  "engine": {
+    "provider": "OpenAI",
+    "tool": "image_gen.imagegen",
+    "model": "tool-managed-undisclosed",
+    "channel": "Codex built-in"
+  },
+  "cost": {
+    "generations": 1,
+    "usd": null,
+    "shared": null,
+    "note": "全套实际出图4次：角色1、共享姿势1、挥爪1、姿势修订1。共享次数不逐张累加。"
+  },
+  "checks": {
+    "technical": true,
+    "visual": false,
+    "approved": false,
+    "notes": "已实际打开黑底首帧、完整动作总览和挥爪逐帧图。白色主体、短尾和修订气团保留，未见连续白边。粉色略有明暗和线宽偏差，严格扁平色验收保守不通过。浏览器连接不可用，Chrome 控制未获批准，实时播放未验证。详见 REPORT.md。 挥爪抬落顺序正确，原张嘴笑变成闭嘴笑，存在局部线形漂移。",
+    "black_background": true,
+    "continuous_white_halo_seen": false,
+    "playback_verified": false
+  },
+  "status": "draft",
+  "created": "2026-11-17",
+  "remix_motion": null
+}

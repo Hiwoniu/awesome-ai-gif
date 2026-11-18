@@ -1,0 +1,4 @@
+OK 表情封面图 240×240，35KB（上限 500KB），在 trials/2026-11-17-remix-rabbit/assets/cover.png
+OK 聊天面板图标 50×50，4KB（上限 100KB），在 trials/2026-11-17-remix-rabbit/assets/icon.png
+WARN 横幅四角都接近纯白，平台不接受纯白底，换一张有底色的源图
+OK 详情页横幅 750×400，212KB（上限 500KB），在 trials/2026-11-17-remix-rabbit/assets/banner.png

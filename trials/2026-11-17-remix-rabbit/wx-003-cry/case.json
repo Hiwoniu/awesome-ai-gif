@@ -1,0 +1,38 @@
+{
+  "id": "wx-003",
+  "title": "cry",
+  "meaning": "委屈",
+  "tags": [],
+  "route": "atlas",
+  "remix_of": "trials/2026-11-16-codex-orange-cat/wx-003-cry/result.gif",
+  "engine": {
+    "provider": "OpenAI",
+    "tool": "image_gen.imagegen",
+    "model": "tool-managed-undisclosed",
+    "channel": "Codex built-in"
+  },
+  "cost": {
+    "generations": 0,
+    "usd": null,
+    "shared": "poses",
+    "note": "全套实际出图4次：角色1、共享姿势1、挥爪1、姿势修订1。共享次数不逐张累加。"
+  },
+  "checks": {
+    "technical": true,
+    "visual": false,
+    "approved": false,
+    "notes": "已实际打开黑底首帧、完整动作总览和挥爪逐帧图。白色主体、短尾和修订气团保留，未见连续白边。粉色略有明暗和线宽偏差，严格扁平色验收保守不通过。浏览器连接不可用，Chrome 控制未获批准，实时播放未验证。详见 REPORT.md。",
+    "black_background": true,
+    "continuous_white_halo_seen": false,
+    "playback_verified": false
+  },
+  "status": "draft",
+  "created": "2026-11-17",
+  "remix_motion": {
+    "motion": "sway",
+    "strength": 1.0,
+    "phase": 0,
+    "score": 0.979962010923801,
+    "static_score": 0.8558931908404356
+  }
+}

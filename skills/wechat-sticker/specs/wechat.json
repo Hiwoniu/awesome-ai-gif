@@ -1,0 +1,53 @@
+{
+  "name": "wechat",
+  "title": "微信表情开放平台",
+  "source": "官方制作规范的第三方归档（抓取于 2026-08-26）。官方声明为动态文档，投稿前以 sticker.weixin.qq.com 当页为准。",
+  "sticker": {
+    "width": 240,
+    "height": 240,
+    "max_bytes": 500000,
+    "formats": ["GIF"],
+    "must_loop": true,
+    "min_frames": 2
+  },
+  "pack": {
+    "min_count": 8,
+    "max_count": 24,
+    "similar_distance": 6,
+    "still_distance": 1
+  },
+  "copy": {
+    "meaning_max_chars": 4,
+    "title_max_chars": 8,
+    "intro_max_chars": 80,
+    "copyright_max_chars": 10,
+    "banned_words": ["微信"]
+  },
+  "assets": {
+    "cover": {
+      "label": "表情封面图",
+      "files": ["cover.png"],
+      "width": 240,
+      "height": 240,
+      "max_bytes": 500000,
+      "transparent": true
+    },
+    "icon": {
+      "label": "聊天面板图标",
+      "files": ["icon.png"],
+      "width": 50,
+      "height": 50,
+      "max_bytes": 100000,
+      "transparent": true
+    },
+    "banner": {
+      "label": "详情页横幅",
+      "files": ["banner.png", "banner.jpg"],
+      "width": 750,
+      "height": 400,
+      "max_bytes": 500000,
+      "transparent": false,
+      "no_pure_white": true
+    }
+  }
+}

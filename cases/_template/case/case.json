@@ -1,0 +1,26 @@
+{
+  "id": "wx-001",
+  "title": "橘猫点头打招呼",
+  "meaning": "你好",
+  "tags": ["打招呼", "开心"],
+  "route": "frames",
+  "engine": {
+    "provider": "OpenAI",
+    "model": "gpt-image-2.6-sunburst",
+    "quality": "medium",
+    "channel": "ChatGPT"
+  },
+  "cost": {
+    "generations": 0,
+    "usd": null,
+    "note": "ChatGPT 内出图记次数；API 出图记实测金额"
+  },
+  "checks": {
+    "technical": false,
+    "visual": false,
+    "approved": false,
+    "notes": ""
+  },
+  "status": "draft",
+  "created": "2026-11-16"
+}

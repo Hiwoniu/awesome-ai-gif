@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "pose_sheets": [
+    {
+      "dir": "poses",
+      "grid": [
+        3,
+        3
+      ],
+      "count": 8
+    }
+  ],
+  "items": [
+    {
+      "name": "wx-001-greeting",
+      "source": "trials/2026-11-16-codex-orange-cat/wx-001-greeting/result.gif",
+      "frames": 8,
+      "total_ms": 800,
+      "route": "still",
+      "base": 4,
+      "motion": {
+        "motion": "nod",
+        "strength": 1.0,
+        "phase": 0,
+        "score": 0.9626002955632083,
+        "static_score": 0.9001898590728193
+      },
+      "duration": 100,
+      "sheet": "poses",
+      "cell": 0
+    },
+    {
+      "name": "wx-002-laugh",
+      "source": "trials/2026-11-16-codex-orange-cat/wx-002-laugh/result.gif",
+      "frames": 8,
+      "total_ms": 800,
+      "route": "still",
+      "base": 2,
+      "motion": {
+        "motion": "bounce",
+        "strength": 1.0,
+        "phase": 0,
+        "score": 0.9689012710627041,
+        "static_score": 0.9141927272267837
+      },
+      "duration": 100,
+      "sheet": "poses",
+      "cell": 1
+    },
+    {
+      "name": "wx-003-cry",
+      "source": "trials/2026-11-16-codex-orange-cat/wx-003-cry/result.gif",
+      "frames": 8,
+      "total_ms": 800,
+      "route": "still",
+      "base": 0,
+      "motion": {
+        "motion": "sway",
+        "strength": 1.0,
+        "phase": 0,
+        "score": 0.979962010923801,
+        "static_score": 0.8558931908404356
+      },
+      "duration": 100,
+      "sheet": "poses",
+      "cell": 2
+    },
+    {
+      "name": "wx-004-stomp",
+      "source": "trials/2026-11-16-codex-orange-cat/wx-004-stomp/result.gif",
+      "frames": 8,
+      "total_ms": 800,
+      "route": "still",
+      "base": 2,
+      "motion": {
+        "motion": "bounce",
+        "strength": 1.0,
+        "phase": 0,
+        "score": 0.9869675137726598,
+        "static_score": 0.9050135390731249
+      },
+      "duration": 100,
+      "sheet": "poses",
+      "cell": 3
+    },
+    {
+      "name": "wx-005-heart",
+      "source": "trials/2026-11-16-codex-orange-cat/wx-005-heart/result.gif",
+      "frames": 8,
+      "total_ms": 800,
+      "route": "still",
+      "base": 0,
+      "motion": {
+        "motion": "nod",
+        "strength": 1.0,
+        "phase": 0,
+        "score": 0.9799588675135711,
+        "static_score": 0.9072795563869201
+      },
+      "duration": 100,
+      "sheet": "poses",
+      "cell": 4
+    },
+    {
+      "name": "wx-006-shy",
+      "source": "trials/2026-11-16-codex-orange-cat/wx-006-shy/result.gif",
+      "frames": 8,
+      "total_ms": 800,
+      "route": "still",
+      "base": 0,
+      "motion": {
+        "motion": "sway",
+        "strength": 1.0,
+        "phase": 0,
+        "score": 0.9857223764237941,
+        "static_score": 0.8663024668982744
+      },
+      "duration": 100,
+      "sheet": "poses",
+      "cell": 5
+    },
+    {
+      "name": "wx-007-shrug",
+      "source": "trials/2026-11-16-codex-orange-cat/wx-007-shrug/result.gif",
+      "frames": 8,
+      "total_ms": 800,
+      "route": "still",
+      "base": 0,
+      "motion": {
+        "motion": "sway",
+        "strength": 1.0,
+        "phase": 0,
+        "score": 0.9673470215435858,
+        "static_score": 0.8618237626436959
+      },
+      "duration": 100,
+      "sheet": "poses",
+      "cell": 6
+    },
+    {
+      "name": "wx-008-eat",
+      "source": "trials/2026-11-16-codex-orange-cat/wx-008-eat/result.gif",
+      "frames": 8,
+      "total_ms": 800,
+      "route": "still",
+      "base": 2,
+      "motion": {
+        "motion": "bounce",
+        "strength": 1.0,
+        "phase": 0,
+        "score": 0.9715520339939057,
+        "static_score": 0.9244234684453905
+      },
+      "duration": 100,
+      "sheet": "poses",
+      "cell": 7
+    },
+    {
+      "name": "wx-009-wave",
+      "source": "trials/2026-11-16-codex-orange-cat/wx-009-wave/result.gif",
+      "frames": 6,
+      "total_ms": 720,
+      "route": "frames",
+      "keyframes": [
+        {
+          "index": 0,
+          "duration": 120
+        },
+        {
+          "index": 1,
+          "duration": 120
+        },
+        {
+          "index": 2,
+          "duration": 120
+        },
+        {
+          "index": 3,
+          "duration": 120
+        },
+        {
+          "index": 4,
+          "duration": 120
+        },
+        {
+          "index": 5,
+          "duration": 120
+        }
+      ],
+      "grid": [
+        3,
+        2
+      ]
+    }
+  ]
+}

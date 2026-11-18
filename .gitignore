@@ -1,1 +1,12 @@
 .DS_Store
+__pycache__/
+*.pyc
+# 切图和合成的中间产物
+frames/
+cells/
+# 第三方原套素材和个人照片不入库（试做目录里只保留自己生成的图）
+trials/2026-11-18-remix-tuxedo-cat/_work/photo.jpg
+trials/2026-11-18-remix-tuxedo-cat/_work/src/
+trials/2026-11-18-remix-tuxedo-cat/_work/remix/*/ref.png
+trials/2026-11-18-remix-tuxedo-cat/_work/refs-check.png
+trials/2026-11-18-remix-tuxedo-cat/_work/new-check.png

@@ -1,0 +1,11 @@
+/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-17-remix-rabbit/review/build_review.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  stat=dict(name=name,route=item['route'],original_frames=len(old),new_frames=len(new),original_durations_ms=od,new_durations_ms=nd,original_total_ms=sum(od),new_total_ms=sum(nd),original_loop=oi.get('loop'),new_loop=ni.get('loop'),bytes=(ROOT/name/'result.gif').stat().st_size,motion=item.get('motion'),original_boxes=[f.getchannel('A').getbbox() for f in old],new_boxes=[f.getchannel('A').getbbox() for f in new],max_white_edge_ratio=max(white_edge_ratio(f) or 0 for f in new),opaque_near_white_min=min(sum(1 for r,g,b,a in f.getdata() if a>=128 and min(r,g,b)>=240) for f in new))
+wx-001-greeting 8 8 [100, 100, 100, 100, 100, 100, 100, 100] [100, 100, 100, 100, 100, 100, 100, 100] white_edge 0.002 white_body_min 12472
+wx-002-laugh 8 8 [100, 100, 100, 100, 100, 100, 100, 100] [100, 100, 100, 100, 100, 100, 100, 100] white_edge 0 white_body_min 11195
+wx-003-cry 8 8 [100, 100, 100, 100, 100, 100, 100, 100] [100, 100, 100, 100, 100, 100, 100, 100] white_edge 0 white_body_min 12081
+wx-004-stomp 8 8 [100, 100, 100, 100, 100, 100, 100, 100] [100, 100, 100, 100, 100, 100, 100, 100] white_edge 0.002 white_body_min 11452
+wx-005-heart 8 8 [100, 100, 100, 100, 100, 100, 100, 100] [100, 100, 100, 100, 100, 100, 100, 100] white_edge 0 white_body_min 11363
+wx-006-shy 8 8 [100, 100, 100, 100, 100, 100, 100, 100] [100, 100, 100, 100, 100, 100, 100, 100] white_edge 0 white_body_min 12442
+wx-007-shrug 8 8 [100, 100, 100, 100, 100, 100, 100, 100] [100, 100, 100, 100, 100, 100, 100, 100] white_edge 0 white_body_min 13684
+wx-008-eat 8 8 [100, 100, 100, 100, 100, 100, 100, 100] [100, 100, 100, 100, 100, 100, 100, 100] white_edge 0.001 white_body_min 10382
+wx-009-wave 6 6 [120, 120, 120, 120, 120, 120] [120, 120, 120, 120, 120, 120] white_edge 0 white_body_min 15113

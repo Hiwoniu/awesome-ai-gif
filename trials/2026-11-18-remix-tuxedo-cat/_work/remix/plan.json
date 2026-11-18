@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "pose_sheets": [],
+  "items": [
+    {
+      "name": "cover-eyes",
+      "source": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-remix-tuxedo-cat/_work/src/cover-eyes.gif",
+      "frames": 18,
+      "total_ms": 1440,
+      "route": "frames",
+      "keyframes": [
+        {
+          "index": 0,
+          "duration": 320
+        },
+        {
+          "index": 4,
+          "duration": 160
+        },
+        {
+          "index": 6,
+          "duration": 240
+        },
+        {
+          "index": 9,
+          "duration": 240
+        },
+        {
+          "index": 12,
+          "duration": 240
+        },
+        {
+          "index": 15,
+          "duration": 240
+        }
+      ],
+      "grid": [
+        3,
+        2
+      ]
+    },
+    {
+      "name": "dinner",
+      "source": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-remix-tuxedo-cat/_work/src/dinner.gif",
+      "frames": 14,
+      "total_ms": 1120,
+      "route": "frames",
+      "keyframes": [
+        {
+          "index": 0,
+          "duration": 160
+        },
+        {
+          "index": 2,
+          "duration": 80
+        },
+        {
+          "index": 3,
+          "duration": 160
+        },
+        {
+          "index": 5,
+          "duration": 160
+        },
+        {
+          "index": 7,
+          "duration": 240
+        },
+        {
+          "index": 10,
+          "duration": 320
+        }
+      ],
+      "grid": [
+        3,
+        2
+      ]
+    },
+    {
+      "name": "thanks",
+      "source": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-remix-tuxedo-cat/_work/src/thanks.gif",
+      "frames": 40,
+      "total_ms": 1200,
+      "route": "frames",
+      "keyframes": [
+        {
+          "index": 0,
+          "duration": 270
+        },
+        {
+          "index": 9,
+          "duration": 120
+        },
+        {
+          "index": 13,
+          "duration": 180
+        },
+        {
+          "index": 19,
+          "duration": 150
+        },
+        {
+          "index": 24,
+          "duration": 240
+        },
+        {
+          "index": 32,
+          "duration": 240
+        }
+      ],
+      "grid": [
+        3,
+        2
+      ]
+    }
+  ]
+}

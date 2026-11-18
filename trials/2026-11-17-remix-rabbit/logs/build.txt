@@ -1,0 +1,12 @@
+OK   wx-001-greeting: nod ×1.0，8 帧，93KB
+OK   wx-002-laugh: bounce ×1.0，8 帧，90KB
+OK   wx-003-cry: sway ×1.0，8 帧，103KB
+OK   wx-004-stomp: bounce ×1.0，8 帧，95KB
+OK   wx-005-heart: nod ×1.0，8 帧，103KB
+OK   wx-006-shy: sway ×1.0，8 帧，95KB
+OK   wx-007-shrug: sway ×1.0，8 帧，100KB
+OK   wx-008-eat: bounce ×1.0，8 帧，94KB
+OK   wx-009-wave: 6 个关键帧，6 帧，59KB
+
+合成 9 张，跳过 0 张，失败 0 张，在 trials/2026-11-17-remix-rabbit
+接下来：逐张打开看动作对不对、黑底查白边，填 case.json 的 meaning，再跑 check_assets.py。

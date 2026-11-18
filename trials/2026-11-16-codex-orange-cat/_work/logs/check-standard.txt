@@ -1,0 +1,18 @@
+[WARN] review: 还没有 result.gif
+[OK  ] wx-001-greeting: 8 帧，153KB
+[OK  ] wx-002-laugh: 8 帧，144KB
+[OK  ] wx-003-cry: 8 帧，150KB
+[OK  ] wx-004-stomp: 8 帧，142KB
+[OK  ] wx-005-heart: 8 帧，159KB
+[OK  ] wx-006-shy: 8 帧，151KB
+[OK  ] wx-007-shrug: 8 帧，141KB
+[OK  ] wx-008-eat: 8 帧，153KB
+[OK  ] wx-009-wave: 6 帧，100KB
+[WARN] wx-002-laugh: 和 wx-003-cry 画面太像，可能被判整套差异不足
+[OK  ] 整套: 成品 9 张
+[WARN] review: case.json 里还没填含义词（meaning）
+[OK  ] cover: 表情封面图 240×240，51KB
+[OK  ] icon: 聊天面板图标 50×50，4KB
+[OK  ] banner: 详情页横幅 750×400，248KB
+
+0 FAIL · 3 WARN · 13 OK（规格：微信表情开放平台）

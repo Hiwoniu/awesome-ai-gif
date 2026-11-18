@@ -1,0 +1,27 @@
+{
+  "id": "wx-009",
+  "title": "挥爪循环",
+  "meaning": "挥爪",
+  "route": "frames",
+  "engine": {
+    "provider": "OpenAI",
+    "tool": "image_gen.imagegen",
+    "model": "tool-managed-undisclosed",
+    "channel": "Codex built-in"
+  },
+  "cost": {
+    "generations": 1,
+    "usd": null,
+    "note": "参考图集第1格，另与全套共用一次角色定稿"
+  },
+  "checks": {
+    "technical": true,
+    "visual": false,
+    "approved": false,
+    "black_background": true,
+    "continuous_white_halo_seen": false,
+    "notes": "已打开切格、黑底拼图及动作序列复核，主体完整，动作可见，未见连续白边。 橘色填充有轻微渐变，与严格扁平色要求存在偏差，visual 保守记为 false。 六帧顺序正确，主体有微小漂移，机位为正面，首尾 dHash=0但像素不完全一致，未验证实时播放流畅度。"
+  },
+  "status": "draft",
+  "created": "2026-11-16"
+}

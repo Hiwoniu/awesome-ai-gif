@@ -1,0 +1,16 @@
+[OK  ] wx-001-greeting: 8 帧，93KB
+[OK  ] wx-002-laugh: 8 帧，90KB
+[OK  ] wx-003-cry: 8 帧，103KB
+[OK  ] wx-004-stomp: 8 帧，95KB
+[OK  ] wx-005-heart: 8 帧，103KB
+[OK  ] wx-006-shy: 8 帧，95KB
+[OK  ] wx-007-shrug: 8 帧，100KB
+[OK  ] wx-008-eat: 8 帧，94KB
+[OK  ] wx-009-wave: 6 帧，59KB
+[WARN] wx-005-heart: 和 wx-006-shy 首帧轮廓相近，并排看一下：只是表情不同算正常，姿势和动作也一样才会被判整套差异不足
+[OK  ] 整套: 成品 9 张
+[OK  ] cover: 表情封面图 240×240，35KB
+[OK  ] icon: 聊天面板图标 50×50，4KB
+[FAIL] banner: 详情页横幅不能是纯白底
+
+1 FAIL · 1 WARN · 12 OK（规格：微信表情开放平台，提交前模式）

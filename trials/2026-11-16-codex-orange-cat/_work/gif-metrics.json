@@ -1,0 +1,171 @@
+[
+  {
+    "case": "wx-001-greeting",
+    "frames": 8,
+    "bytes": 153489,
+    "durations": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "loop": 0,
+    "white_edge_ratio": 0.0018709073900841909,
+    "first_last_dhash": 7,
+    "movement_dhash": 7
+  },
+  {
+    "case": "wx-002-laugh",
+    "frames": 8,
+    "bytes": 144272,
+    "durations": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "loop": 0,
+    "white_edge_ratio": 0.0,
+    "first_last_dhash": 6,
+    "movement_dhash": 10
+  },
+  {
+    "case": "wx-003-cry",
+    "frames": 8,
+    "bytes": 149670,
+    "durations": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "loop": 0,
+    "white_edge_ratio": 0.0,
+    "first_last_dhash": 7,
+    "movement_dhash": 14
+  },
+  {
+    "case": "wx-004-stomp",
+    "frames": 8,
+    "bytes": 141919,
+    "durations": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "loop": 0,
+    "white_edge_ratio": 0.001488095238095238,
+    "first_last_dhash": 2,
+    "movement_dhash": 7
+  },
+  {
+    "case": "wx-005-heart",
+    "frames": 8,
+    "bytes": 159151,
+    "durations": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "loop": 0,
+    "white_edge_ratio": 0.0,
+    "first_last_dhash": 3,
+    "movement_dhash": 9
+  },
+  {
+    "case": "wx-006-shy",
+    "frames": 8,
+    "bytes": 150930,
+    "durations": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "loop": 0,
+    "white_edge_ratio": 0.0042643923240938165,
+    "first_last_dhash": 9,
+    "movement_dhash": 21
+  },
+  {
+    "case": "wx-007-shrug",
+    "frames": 8,
+    "bytes": 141260,
+    "durations": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "loop": 0,
+    "white_edge_ratio": 0.0,
+    "first_last_dhash": 8,
+    "movement_dhash": 16
+  },
+  {
+    "case": "wx-008-eat",
+    "frames": 8,
+    "bytes": 152965,
+    "durations": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "loop": 0,
+    "white_edge_ratio": 0.0019455252918287938,
+    "first_last_dhash": 5,
+    "movement_dhash": 12
+  },
+  {
+    "case": "wx-009-wave",
+    "frames": 6,
+    "bytes": 99757,
+    "durations": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      120
+    ],
+    "loop": 0,
+    "white_edge_ratio": 0.0,
+    "first_last_dhash": 0,
+    "movement_dhash": 4
+  }
+]
