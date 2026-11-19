@@ -1,0 +1,29 @@
+{
+  "id": "insp-099",
+  "title": "LetsMeme：AI 模板匹配加文案生成的免费表情包工具",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.producthunt.com/p/letsmeme/letsmeme",
+    "platform": "Product Hunt",
+    "author": "LetsMeme 团队",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "免费 AI 表情包生成器，一句话描述即可从 400 多个模板中匹配并写文案，支持导出带文字的真动态 GIF",
+  "why": "模板匹配加文案生成加拖拽编辑的组合很顺：先匹配再改文案，多语言描述输入，无注册无水印",
+  "borrow": [
+    "AI 模板匹配加文案生成加拖拽编辑的组合流程",
+    "多语言描述输入的做法",
+    "带文字的真动态 GIF 导出方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借流程组合，不用它的模板库与示例文案"
+  },
+  "tags": ["表情包", "Product Hunt", "模板匹配", "多语言"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

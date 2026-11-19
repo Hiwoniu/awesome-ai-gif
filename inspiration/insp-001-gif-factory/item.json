@@ -1,0 +1,67 @@
+{
+  "id": "insp-001",
+  "title": "gif-factory 的动图类型清单",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/WoYun520/gif-factory",
+    "platform": "GitHub",
+    "author": "WoYun520",
+    "found_at": "2026-11-18",
+    "found_by": "向明"
+  },
+  "what": "一个做各类 AI 动图的 Skill 合集：表情包、光栅变画卡、动态海报、动态签名、动态绘本等九类",
+  "why": "类型划分和各类规格很完整，正好补我们“不只表情包”的规划",
+  "borrow": [
+    "类型划分",
+    "光栅卡规格",
+    "动态海报规格",
+    "像素和黏土画风"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "MIT",
+    "note": "仓库代码 MIT；它的展示案例多用 IP 角色（毒液、路飞等）和真人照片，只借类型和规格，不复刻画面"
+  },
+  "tags": [
+    "Skill"
+  ],
+  "status": "landed",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-18",
+    "note": "借类型划分、光栅卡和动态海报规格、像素和黏土画风；不复刻它的 IP 和真人案例"
+  },
+  "landed": [
+    {
+      "ref": "trials/2026-11-18-gif-factory-styles",
+      "date": "2026-11-18"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "向明",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "Claude",
+      "note": "灵感池建立前已按它做过试做 trials/2026-11-18-gif-factory-styles 并写了 two-state-gif Skill；补录进池，等主人补审批"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "approved",
+      "by": "向明",
+      "note": "借类型划分、光栅卡和动态海报规格、像素和黏土画风；不复刻它的 IP 和真人案例"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "landed",
+      "by": "Claude",
+      "note": "落成 trials/2026-11-18-gif-factory-styles"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "insp-162",
+  "title": "Figma Weave：图生视频加遮罩节点的 Cinemagraph 工作流",
+  "type": "posters",
+  "source": {
+    "url": "https://www.figma.com/resource-library/how-to-make-a-cinemagraph/",
+    "platform": "Figma",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Figma Weave 的 Cinemagraph 指南：图生视频模型（Kling、Runway、Luma）生成动效，遮罩节点只留一个区域动，串成可复用的工作流，换照片不用重搭。",
+  "why": "把生成动效与遮罩定区拆成两个节点串起来的工作流思路很干净；Mask Extractor 与 Mask by Text 自动取遮罩的做法值得借。",
+  "borrow": [
+    "生成动效与遮罩定区拆节点的串联思路",
+    "Mask by Text 自动取动区的办法",
+    "一次搭好、换照片复用的工作流组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "Figma 官方资源库指南；只借工作流思路"
+  },
+  "tags": ["Cinemagraph", "Figma Weave", "遮罩", "工作流", "图生视频"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

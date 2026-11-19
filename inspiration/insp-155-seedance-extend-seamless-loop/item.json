@@ -1,0 +1,36 @@
+{
+  "id": "insp-155",
+  "title": "Seedance 2.5：末帧接续加首尾归位做无缝循环",
+  "type": "multi",
+  "source": {
+    "url": "https://www.seedance.tv/blog/how-to-extend-video-seedance-2-5",
+    "platform": "Seedance",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Seedance 2.5 延长视频的教程：以上一段末帧为下一段起点逐段接续，循环就是让结尾回到开头构图，再按最接近的帧裁剪，必要时短交叉淡化。",
+  "why": "末帧接续是视频模型做长循环的通用做法；循环等于回到开头的接续这个定义很干净，可直接当验收标准。",
+  "borrow": [
+    "末帧当下一段起点的接续流程",
+    "循环等于结尾回到开头构图的定义",
+    "只在必要时用短交叉淡化的收尾取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借循环做法；用自己的原创角色与画面"
+  },
+  "tags": ["Seedance", "无缝循环", "视频接续", "末帧", "循环定义"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

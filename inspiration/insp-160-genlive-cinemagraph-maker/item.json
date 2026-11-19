@@ -1,0 +1,36 @@
+{
+  "id": "insp-160",
+  "title": "GenLive Studio：浏览器里做 Cinemagraph 活照片",
+  "type": "posters",
+  "source": {
+    "url": "https://genlive.app/studio/templates/cinemagraph-maker",
+    "platform": "GenLive Studio",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "浏览器里的 Cinemagraph 模板：点要动的东西（水、天空、头发衣服、灯光），视频模型以锁定机位做无缝循环，只动那部分，其余保持静止。",
+  "why": "点什么动的交互比写提示词更直接；模板默认走 MiniMax H3、Seedance 可换，模型可换的组织值得参考。",
+  "borrow": [
+    "点名动什么的模板交互",
+    "锁定机位做无缝循环的提示词取向",
+    "模型可换的模板组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "免费试用有每日限额；只借模板与提示词思路"
+  },
+  "tags": ["Cinemagraph", "活照片", "GenLive", "浏览器工具", "无缝循环"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dd-009",
+  "title": "多多·我很乖",
+  "meaning": "我很乖",
+  "tags": [
+    "好吃鬼",
+    "偷感",
+    "真实照片"
+  ],
+  "route": "photo",
+  "source_image": "_work/gen/09-good/new.png",
+  "checks": {
+    "technical": false,
+    "visual": false,
+    "approved": false,
+    "notes": ""
+  },
+  "status": "draft",
+  "created": "2026-11-18",
+  "motion": "bounce",
+  "caption": {
+    "text": "我很乖",
+    "position": "bottom",
+    "reveal": "char",
+    "size": 44,
+    "color": "#FFFFFF",
+    "stroke-color": "#000000",
+    "edge-color": "#000000"
+  }
+}

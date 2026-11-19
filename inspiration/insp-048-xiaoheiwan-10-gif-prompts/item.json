@@ -1,0 +1,30 @@
+{
+  "id": "insp-048",
+  "title": "小黑丸：GPT-Image-2.6 实测，10 个 GIF 玩法提示词",
+  "type": "multi",
+  "source": {
+    "url": "https://upgrade.xiaoheiwan.com/aihot/kss7rjmanc8dv5mpj60jtdzgd",
+    "platform": "小黑丸",
+    "author": "小黑丸",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一篇中文实测：整理 10 个 GIF 玩法（黏土定格动画、表情包、剪辑贴纸、loading 图、PPT 动态图表、爆炸拆解图等），并测了跨对话角色记忆、局部圈改、动作序列网格对齐三项新能力，也指出成本翻倍与人脸一致性短板",
+  "why": "玩法覆盖面最广：从表情包到 PPT 图表到 loading 图都有，提示词结构各不相同；三项新能力（角色记忆、局部圈改、网格对齐）对我们做成套与多格内容有直接参考",
+  "borrow": [
+    "10 类玩法的提示词结构分类：定格动画、表情包、贴纸、loading、图表、拆解图",
+    "跨对话角色记忆的用法：打标签点名复用角色",
+    "局部圈改微小特征防篡改的做法",
+    "动作序列网格对齐的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例角色是对方原创的大肥鱼娘与社畜猴子，只借玩法分类与新能力用法，不用它的角色与文案"
+  },
+  "tags": ["GPT Image 2.6", "中文实测", "GIF 玩法", "角色记忆"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

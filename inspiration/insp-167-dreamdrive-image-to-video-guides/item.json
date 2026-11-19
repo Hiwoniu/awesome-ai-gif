@@ -1,0 +1,36 @@
+{
+  "id": "insp-167",
+  "title": "Dreamdrive：38 篇图生视频指南合集，含循环设置",
+  "type": "multi",
+  "source": {
+    "url": "https://www.dreamdrive.ai/learn/topics/image-to-video/",
+    "platform": "Dreamdrive",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "图生视频指南合集（38 篇）：Kling、Runway、Pika、Hailuo 四组加跨平台对比，含首尾帧、运镜、延长、抽象材质动效的循环设置，以及各平台首尾帧支持对照。",
+  "why": "按模型分栏、按任务取用的合集组织很好；哪些平台支持首尾帧的对照表对我们选循环路线有直接参考价值。",
+  "borrow": [
+    "按模型分栏、按任务取用的合集组织",
+    "首尾帧支持情况的跨平台对照",
+    "抽象材质动效的循环设置写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "指南合集页；只借组织与对照思路"
+  },
+  "tags": ["图生视频", "指南合集", "Kling", "Runway", "Hailuo", "首尾帧"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

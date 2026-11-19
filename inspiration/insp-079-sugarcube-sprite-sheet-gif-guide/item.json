@@ -1,0 +1,30 @@
+{
+  "id": "insp-079",
+  "title": "SugarCube：用精灵图做 AI GIF 的全流程",
+  "type": "multi",
+  "source": {
+    "url": "https://sugarcube.art/blog/zh/how-to-make-ai-gifs-from-sprite-sheets/",
+    "platform": "SugarCube",
+    "author": "SugarCube",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "不走视频模型、改走精灵图路线做 GIF 的完整流程：3×3 九帧模板、网格检查、Sharp 拆帧、FFmpeg 调色板编码，附 4 个起步动画创意",
+  "why": "本轮最完整的精灵图方法论文档，网格尺寸换算、边界取整、帧时长计算都写清楚了，可作为我们 sprite sheet 工作流的参考底稿",
+  "borrow": [
+    "3×3 九帧精灵图提示词的布局、一致性、动作与循环四段结构",
+    "先检查网格等大与动作顺序、再拆帧编码的验收顺序",
+    "用共享边界公式避免裁切错位的拆帧方法",
+    "按动作幅度选帧数与帧时长的起步参数表"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借流程与参数写法，不抄它的提示词模板原文"
+  },
+  "tags": ["精灵表", "教程", "FFmpeg", "拆帧"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

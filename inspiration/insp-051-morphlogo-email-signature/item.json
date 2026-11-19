@@ -1,0 +1,29 @@
+{
+  "id": "insp-051",
+  "title": "MorphLogo：动态邮件签名 GIF，首帧即 logo 的规则",
+  "type": "signatures",
+  "source": {
+    "url": "https://morphlogo.com/blog/animated-email-signature",
+    "platform": "MorphLogo",
+    "author": "MorphLogo",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一份动态邮件签名指南：用 AI logo 动画引擎把已有 logo 做成邮件尺寸 GIF，核心规则是首帧必须就是完整 logo（因为旧版 Outlook 只显示首帧），导出规格是最长边 240 像素、10 帧每秒、播一次后停在末帧，并附各邮件客户端播放兼容表",
+  "why": "首帧即 logo 这条规则是动态签名最关键的验收点，导出规格（240 像素、10fps、播一次停末帧）与兼容表可以直接拿来当我们的签名验收标准",
+  "borrow": [
+    "首帧即 logo 的规则：不播也能看，先保证第一帧完整",
+    "导出规格：最长边 240 像素、10 帧每秒、播一次停在末帧",
+    "按邮件客户端列播放兼容表的验收方法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例是对方引擎渲染的 logo 动画，只借规则与规格"
+  },
+  "tags": ["动态签名", "logo 动画", "邮件兼容", "首帧"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

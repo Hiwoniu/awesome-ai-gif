@@ -1,0 +1,29 @@
+{
+  "id": "insp-052",
+  "title": "Ohneis 的 Instagram 教程：一句提示词出精灵表循环 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfV5T8YgJuD/",
+    "platform": "Instagram",
+    "author": "Ohneis（Andries Ohneisser）",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一条 Instagram 教程视频：用 ChatGPT 一句提示词做循环 GIF，做法是让模型画 3 列×2 行共 6 帧的精灵表，同一角色、同一相机、同一背景与光线，末帧接回首帧，6 帧每帧 200 毫秒、1.2 秒循环，示例覆盖表情、吉祥物、转盘产品与反应梗图",
+  "why": "它是精灵表路线的最简形态：一句提示词、6 帧、1.2 秒，参数全部公开，适用面列得很全（吉祥物、产品转盘、反应梗图），适合当作最轻量的入门模板",
+  "borrow": [
+    "最简精灵表写法：3×2 共 6 帧、同一角色相机背景光线、末帧接回首帧",
+    "6 帧每帧 200 毫秒、1.2 秒循环的参数",
+    "适用面清单：吉祥物、转盘产品、反应梗图"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "视频示例是对方的角色与梗图，只借精灵表写法与参数，不用它的画面"
+  },
+  "tags": ["Instagram", "ChatGPT", "精灵表", "教程", "GPT Image 2.6"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

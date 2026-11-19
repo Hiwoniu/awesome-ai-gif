@@ -1,0 +1,36 @@
+{
+  "id": "insp-156",
+  "title": "xTool：家用打印机做光栅卡，测 LPI 再印",
+  "type": "cards",
+  "source": {
+    "url": "https://support.xtool.com/article/3802",
+    "platform": "xTool 支持中心",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "xTool O1 全能打印机加 Studio 的光栅卡打印指南：先实测卡片 LPI（约 75.1），再按场景选图：换图 2-5 张、可打印动画 5-12 帧、3D 效果 8-20 张。",
+  "why": "从测 LPI 到按效果选帧数的打印全流程很完整，0.1 LPI 误差就出条纹的提醒很实在；可打印动画 5-12 帧正好对应我们的逐帧思路。",
+  "borrow": [
+    "先实测 LPI 再印的校准流程",
+    "按效果分档的帧数取舍：换图/动画/3D",
+    "光栅条纹须与 X 轴平行的对齐要求"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "打印指南；只借规格与流程"
+  },
+  "tags": ["光栅卡", "打印", "xTool", "LPI", "逐帧动画"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

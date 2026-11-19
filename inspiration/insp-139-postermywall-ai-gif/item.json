@@ -1,0 +1,36 @@
+{
+  "id": "insp-139",
+  "title": "PosterMyWall AI：现成海报改动画 GIF 的对话式做法",
+  "type": "posters",
+  "source": {
+    "url": "https://support.postermywall.com/hc/en-us/articles/49406950230029-What-can-you-do-with-PosterMyWall-AI",
+    "platform": "PosterMyWall 官方帮助中心",
+    "author": "PosterMyWall",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用对话式 AI 把现成海报设计改成动画、视频或 GIF，可改速度，示例为把传单标题改成闪烁 GIF。",
+  "why": "动态海报的另一条路线：不是从头生成，而是给现成海报加动效，适合批量做活动海报 GIF。",
+  "borrow": [
+    "海报元素的动效拆分：标题闪烁、局部动",
+    "生成后调速的做法",
+    "对话式改稿流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借动效拆分思路"
+  },
+  "tags": ["动态海报", "海报转GIF", "对话式AI", "局部动效"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

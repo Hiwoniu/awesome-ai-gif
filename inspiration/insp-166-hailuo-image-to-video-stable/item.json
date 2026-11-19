@@ -1,0 +1,36 @@
+{
+  "id": "insp-166",
+  "title": "Hailuo 图生视频：先稳住主体再谈动效",
+  "type": "multi",
+  "source": {
+    "url": "https://www.ai-hailuo.com/blog/hailuo-image-to-video/",
+    "platform": "Hailuo AI",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Hailuo 图生视频防走样短指南：先确认一张清晰主图，再只写动效（风、走路循环、推镜、视差），主体漂移就降动效强度、重新挂参考图，短片段验证后再延长。",
+  "why": "只写动效、不写构图的提示词纪律很干净；降强度、重挂参考图的纠偏步骤可直接当检查清单。",
+  "borrow": [
+    "只写动效的提示词纪律",
+    "主体漂移时降强度、重挂参考图的纠偏步骤",
+    "先短片段验证再延长的流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "第三方站点短指南；只借提示词与纠偏思路"
+  },
+  "tags": ["Hailuo", "图生视频", "主体稳定", "提示词", "纠偏"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

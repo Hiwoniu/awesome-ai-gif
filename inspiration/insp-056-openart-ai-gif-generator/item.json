@@ -1,0 +1,29 @@
+{
+  "id": "insp-056",
+  "title": "OpenArt AI GIF 生成器：一句话或一张照片出循环 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://openart.ai/features/ai-gif-generator/",
+    "platform": "OpenArt",
+    "author": "OpenArt",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "OpenArt 的 AI GIF 生成器页面：基于 GPT Image 2.6，输入一句话或一张照片、描述一个动作即可出短循环 GIF，同一工作区里可把已生成的海报、吉祥物、产品图再转成 GIF",
+  "why": "它把先出图、再让图动起来这两步放在同一个工作区，贴纸、海报、产品循环都能复用同一张底图，适合当作工作流参考",
+  "borrow": [
+    "一句话只描述一个动作的写法",
+    "已生成图片复用为 GIF 底图的工作流",
+    "按场景给的示例组织：猫、霓虹灯牌、咖啡蒸汽"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例图是对方平台的，只借工作流与写法"
+  },
+  "tags": ["OpenArt", "GPT Image 2.6", "GIF 生成器", "工具"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

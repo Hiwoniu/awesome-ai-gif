@@ -1,0 +1,30 @@
+{
+  "id": "insp-013",
+  "title": "vargHQ 的 gpt-image-sticker-pack Skill：一张定妆照出整套多平台表情包",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.skillsdirectory.com/skills/varghq-gpt-image-sticker-pack",
+    "platform": "Skills Directory",
+    "author": "vargHQ",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "vargHQ 的贴纸包级 Skill：先审一张定妆照，再按 6-8 种情绪各出一张循环 GIF，最后按各平台规格导出（微信 GIF、Telegram 视频贴纸、WhatsApp 动态 WebP 等）",
+  "why": "它是 insp-005 单张 GIF Skill 的包级搭档：定妆照先行、每情绪一张 GIF、各平台规格表都已核对过官方文档，可直接对照补我们的规格表",
+  "borrow": [
+    "先审定妆照再批量出 GIF 的工作流",
+    "6-8 种情绪各一张 GIF 的成套规划",
+    "已核对官方文档的多平台规格表思路",
+    "导出脚本统一转码的流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "需要 VARG API Key 才能跑它本体；只借方法和规格思路，不搬代码和示例角色"
+  },
+  "tags": ["Skill", "竞品", "提示词", "GPT Image 2.6", "多平台"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

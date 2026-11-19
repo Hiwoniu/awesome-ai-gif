@@ -1,0 +1,29 @@
+{
+  "id": "insp-008",
+  "title": "Veevid：单张 sprite sheet 提示词直出 9 帧循环 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://veevid.ai/ai-gif-generator",
+    "platform": "Veevid",
+    "author": "Veevid",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "每个示例 GIF 都公开对应提示词：用一句固定前缀让 GPT Image 2.6 一次画出单张动画 sprite sheet，再合成 9 帧 200ms 的循环 GIF",
+  "why": "它的提示词前缀和帧参数非常具体，和我们的六帧序列图公式高度相关，可对照优化",
+  "borrow": [
+    "sprite sheet 提示词前缀结构",
+    "9帧x200ms的循环参数",
+    "反应表情/吉祥物/产品循环的分类示例组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "商业产品，只借提示词结构和参数，不抄它的示例文案"
+  },
+  "tags": ["提示词", "sprite sheet", "GPT Image 2.6"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

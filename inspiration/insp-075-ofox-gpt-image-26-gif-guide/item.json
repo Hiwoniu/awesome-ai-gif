@@ -1,0 +1,30 @@
+{
+  "id": "insp-075",
+  "title": "Ofox 实测：GPT Image 2.6 做 GIF 的三路线对比",
+  "type": "multi",
+  "source": {
+    "url": "https://ofox.ai/blog/gpt-image-2-6-gif-guide/",
+    "platform": "Ofox",
+    "author": "Ofox",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "对比 ChatGPT、原生 Images API、精灵表拼装三条 GIF 路线的教程，含一次 Flare API 实测与六段式提示词结构",
+  "why": "三路线选择表加 API 参数表，是目前最完整的 2.6 GIF 工作流参考；API 帧数与帧时长参数可直接作我们的调用依据",
+  "borrow": [
+    "ChatGPT / 原生 API / 精灵表拼装三路线选择表",
+    "六段式提示词结构：输出—主体—动作—不变量—风格—验收",
+    "API 帧数与帧时长参数范围的实测记录",
+    "看满循环、查帧时序的验收标准"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借路线选择与参数写法，不抄它的提示词模板原文"
+  },
+  "tags": ["GPT Image 2.6", "教程", "API", "三路线"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

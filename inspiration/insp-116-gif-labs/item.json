@@ -1,0 +1,30 @@
+{
+  "id": "insp-116",
+  "title": "GIF Labs：浏览器本地 GIF 工作室加 AI 循环 GIF 生成",
+  "type": "multi",
+  "source": {
+    "url": "https://webmail.hunted.space/dashboard/gif-labs",
+    "platform": "Product Hunt",
+    "author": "GIF Labs",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "浏览器本地做的 GIF 工作室：图片与短视频转 GIF、转换、压缩、加字幕都不上传；想用 AI 生成循环 GIF 再按次买点数",
+  "why": "本地处理不上传的形态值得借：免费工具留本地、AI 生成才收费，一次性点数包而非订阅",
+  "borrow": [
+    "浏览器本地处理、不上传文件的工具形态",
+    "视频转 GIF、图片拼动画、剪辑一体的组织方式",
+    "GIF、WebP、APNG、AVIF 多格式导出的对照",
+    "本地工具免费、AI 按次付费的产品分层"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借产品形态与导出组织，不抄它的界面与示例"
+  },
+  "tags": ["工具", "浏览器本地", "多格式", "Product Hunt"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

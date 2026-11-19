@@ -1,0 +1,29 @@
+{
+  "id": "insp-045",
+  "title": "Flixly：GPT Image 2.6 GIF Maker 实测与示例",
+  "type": "multi",
+  "source": {
+    "url": "https://www.flixly.ai/blog/gpt-image-2-6-gif-maker",
+    "platform": "Flixly",
+    "author": "Flixly",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Flixly 的 GPT Image 2.6 GIF 指南：Flare 与 Sunburst 两个模型都能出 4-16 帧循环 GIF，尺寸分 512 方形、768×432 宽幅、432×768 竖幅三档，给了产品循环与反应贴纸两类实测示例，含模型、尺寸、帧数与生成耗时",
+  "why": "示例都带完整参数（模型、尺寸、帧数、速度、耗时），产品循环的写法尤其有用：产品固定、只让蒸汽动、文字区稳定，适合做产品类循环",
+  "borrow": [
+    "三档尺寸按用途分：方形贴纸、宽幅横幅、竖幅故事",
+    "产品循环的写法：产品固定、只动蒸汽或反光、文字区稳定",
+    "反应贴纸的写法：一个动作、粗白描边、纯色底、无缝循环"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例角色是对方的猫与咖啡杯，只借参数与提示词结构"
+  },
+  "tags": ["GPT Image 2.6", "Flixly", "产品循环", "实测"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

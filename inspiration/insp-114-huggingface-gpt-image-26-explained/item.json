@@ -1,0 +1,29 @@
+{
+  "id": "insp-114",
+  "title": "Hugging Face：解析 GPT Image 2.6 原生 GIF 的原理与三条路线",
+  "type": "multi",
+  "source": {
+    "url": "https://huggingface.co/blog/a2aprotocol/gpt-image-26-explained-how-an-image-model-creates",
+    "platform": "Hugging Face Blog",
+    "author": "a2aprotocol",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "解析 GPT Image 2.6 原生 GIF 的教程：动画等于静帧序列、GIF89a 帧延迟以百分秒计、API 直接返回 Base64 GIF",
+  "why": "把验收与分流的依据讲透了：官方指南 2-64 帧、API 参考 2-16 帧且需预览权限，循环时长等于帧数乘帧延迟",
+  "borrow": [
+    "循环时长等于帧数乘帧延迟的换算关系",
+    "ChatGPT 直接要、API 原生 GIF、精灵表自拼的三条路线对比",
+    "帧数上下限与权限要求的验收依据"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借原理与分流依据，不抄它的示例"
+  },
+  "tags": ["GPT Image 2.6", "Hugging Face", "原理", "GIF89a", "分流"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

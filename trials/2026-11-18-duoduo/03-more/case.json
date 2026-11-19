@@ -1,0 +1,30 @@
+{
+  "id": "dd-003",
+  "title": "多多·还要",
+  "meaning": "还要",
+  "tags": [
+    "好吃鬼",
+    "偷感",
+    "真实照片"
+  ],
+  "route": "photo",
+  "source_image": "_work/gen/03-more/new.png",
+  "checks": {
+    "technical": false,
+    "visual": false,
+    "approved": false,
+    "notes": ""
+  },
+  "status": "draft",
+  "created": "2026-11-18",
+  "motion": "bounce",
+  "caption": {
+    "text": "还要",
+    "position": "bottom",
+    "reveal": "char",
+    "size": 44,
+    "color": "#FFFFFF",
+    "stroke-color": "#000000",
+    "edge-color": "#000000"
+  }
+}

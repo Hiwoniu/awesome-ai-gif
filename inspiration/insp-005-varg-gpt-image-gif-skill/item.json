@@ -1,0 +1,30 @@
+{
+  "id": "insp-005",
+  "title": "vargHQ 的 gpt-image-gif Skill：循环锁与像素预算",
+  "type": "multi",
+  "source": {
+    "url": "https://www.skillsdirectory.com/skills/varghq-gpt-image-gif",
+    "platform": "Skills Directory",
+    "author": "vargHQ",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一个把静态图/吉祥物/Logo 或提示词变成循环 GIF 的 Claude Skill，基于 GPT Image 2.6 原生 GIF 输出",
+  "why": "它实测了不同帧数的像素预算表，还有先审静态图再动起来的工作流，是直接竞品兼方法库",
+  "borrow": [
+    "loop-lock 提示词措辞：首尾同姿势、锁定比例和地平线",
+    "2/4/6/9/12/16 帧的像素预算实测表思路",
+    "approve-a-still-first 工作流",
+    "转 WebP/MP4 的后处理脚本思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "需要 VARG API Key 才能跑它本体；只借方法和实测结论，不搬代码"
+  },
+  "tags": ["Skill", "竞品", "提示词", "GPT Image 2.6"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

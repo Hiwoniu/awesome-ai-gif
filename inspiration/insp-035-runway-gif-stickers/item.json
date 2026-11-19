@@ -1,0 +1,29 @@
+{
+  "id": "insp-035",
+  "title": "Runway Tool 模式：Flare 24 秒出 4 张循环 GIF 贴纸",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfqAutIj53N/",
+    "platform": "Instagram（Runway 演示）",
+    "author": "Glenn Williams",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Runway Tool 模式里接 GPT Image 2.6 的演示：用 Flare 24 秒生成 4 张循环 GIF 贴纸，同一模型再出 12 个扁平风 SVG 图标（带分组名与色值），切 Sunburst 出 4 张透明底产品图，最后拼成一套品牌套件",
+  "why": "它演示了 Flare 与 Sunburst 的分工：Flare 出 GIF 贴纸与矢量图标、Sunburst 出写实产品图；三类素材拼品牌套件的流程对我们做成套资产有参考",
+  "borrow": [
+    "Flare 与 Sunburst 的分工：贴纸图标走 Flare、产品图走 Sunburst",
+    "GIF 贴纸加 SVG 图标加产品图拼品牌套件的流程",
+    "24 秒出 4 张贴纸的速度参考"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "带推广性质的演示视频，只借分工与流程，不用它的示例角色"
+  },
+  "tags": ["Runway", "GPT Image 2.6", "品牌套件", "Instagram"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

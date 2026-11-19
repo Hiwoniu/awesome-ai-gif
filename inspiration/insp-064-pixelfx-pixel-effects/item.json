@@ -1,0 +1,29 @@
+{
+  "id": "insp-064",
+  "title": "pixelfx：244 个像素风特效代码库，带 Claude Skill 与 GIF 导出",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/patch-gg/pixelfx",
+    "platform": "GitHub",
+    "author": "patch-gg",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一个开源像素特效库：244 个像素风特效（火焰、爆炸、魔法、天气、UI 等）各是一小段代码，配 Claude Code Skill 可现做新特效，能导出精灵表、透明 PNG 序列与 GIF",
+  "why": "它是代码驱动像素动效的路线：特效不是画出来的，是用代码逐帧算出来的，导出精灵表与 GIF 的链路完整，适合像素风贴纸与海报的动效参考",
+  "borrow": [
+    "代码逐帧算特效、再导出精灵表的路线",
+    "特效的表演结构：蓄势、命中定格、受击回摆、恢复",
+    "导出精灵表加帧信息 JSON 的组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "特效代码是对方的开源库，只借路线与表演结构；用前先核对仓库里的协议"
+  },
+  "tags": ["GitHub", "像素风", "特效", "Claude Skill", "精灵表", "开源"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

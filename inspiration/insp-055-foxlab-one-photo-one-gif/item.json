@@ -1,0 +1,29 @@
+{
+  "id": "insp-055",
+  "title": "foxlab 实测：GPT Image 2.6 一张照片一步出 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://medium.com/@foxlab/one-photo-one-step-one-gif-trying-gpt-image-2-6s-new-gif-mode-3feccf47fce1",
+    "platform": "Medium",
+    "author": "foxlab",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Medium 实测文章：用 GPT Image 2.6 的 GIF 模式把一张照片一步变成 9 帧 1.8 秒循环，对比了旧的精灵表三步做法，并总结出照片转 GIF 的四条提示词规则",
+  "why": "同一只挥手猫两种做法并排对比，直出 GIF 与精灵表拼帧的取舍一目了然，四条规则可以直接拿来验收",
+  "borrow": [
+    "照片转 GIF 四条规则：一个动作、写清收尾、固定机位、背景干净",
+    "精灵表做法与直出 GIF 的取舍对照",
+    "产品图只动蒸汽或反光的克制做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例是对方的猫与产品照片，只借规则与对比结论；真人照片做表情时注意肖像授权"
+  },
+  "tags": ["Medium", "实测", "GPT Image 2.6", "照片转 GIF", "提示词规则"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

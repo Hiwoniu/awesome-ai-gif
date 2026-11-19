@@ -1,0 +1,29 @@
+{
+  "id": "insp-053",
+  "title": "Veevid：GPT Image 2.6 做 GIF 的提示词结构与实测参数",
+  "type": "multi",
+  "source": {
+    "url": "https://veevid.ai/blog/gpt-image-2-6-gif",
+    "platform": "Veevid",
+    "author": "Veevid",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Veevid 的 GPT Image 2.6 GIF 指南：按 OpenAI 官方示例拆出提示词结构（开场白、分步动作、固定项、风格、排除项），实测 9 帧、每帧 200 毫秒、1.8 秒循环，并区分 Flare 与 Sunburst 的选型",
+  "why": "它把官方示例的提示词拆成了可复用的五段结构，还给了 1.8 秒这个关键时长锚点，适合当提示词模板的参考底本",
+  "borrow": [
+    "五段式提示词结构：开场白、分步动作、固定项、风格、排除项",
+    "9 帧×200 毫秒、1.8 秒循环的参数",
+    "Flare 与 Sunburst 按用途选型的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例角色是对方的狐狸吉祥物与咖啡杯，只借结构与参数，不用它的画面"
+  },
+  "tags": ["Veevid", "GPT Image 2.6", "提示词结构", "GIF 指南", "Flare"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

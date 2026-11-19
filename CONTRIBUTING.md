@@ -17,6 +17,10 @@ cases/<系列>/<分组>/<编号>-<动作>/
 
 从 [cases/_template/](cases/_template/) 拷模板，字段说明也在那里。
 
+## 从灵感池来的案例
+
+别处看到的好 case 先收进 [inspiration/](inspiration/README.md)，仓库主人审批通过后才能用。落成案例时在 `case.json` 写 `"inspired_by": "insp-xxx"`，没通过的 `build_index.py` 会报错并把案例从索引里剔除。
+
 ## 案例标准
 
 每个案例必须有：

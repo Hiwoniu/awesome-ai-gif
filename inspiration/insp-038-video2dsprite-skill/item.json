@@ -1,0 +1,29 @@
+{
+  "id": "insp-038",
+  "title": "video2dsprite Skill：Grok 视频转密帧精灵图",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/0x0funky/agent-sprite-forge/tree/main/skills/video2dsprite",
+    "platform": "GitHub",
+    "author": "0x0funky",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "agent-sprite-forge 里的一个 Skill：把一张 2D 角色静帧先用 Grok 的图生视频功能做原地运动，再抽帧、抠纯色背景、采样归一化，拼成条带、网格或 GIF，专做走跑循环这类需要密帧的动作",
+  "why": "它补了一条和逐格画表不同的路线：先让视频模型把动作跑顺，再从视频里取帧，比一格格画更适合跑步、行走这种连续动作",
+  "borrow": [
+    "视频先行再抽帧的路线：静帧、原地运动视频、抽帧、抠色、采样、拼表",
+    "密帧与稀疏帧的分工：密帧走视频路线， crisp 的像素表走逐格画",
+    "纯色背景抠色的抽帧做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "该 Skill 只在 Grok Build 环境可用，需要它的图生视频工具，其他 Agent 环境跑不了；只借路线思路"
+  },
+  "tags": ["Skill", "精灵图", "Grok", "视频转帧", "GitHub"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

@@ -34,8 +34,22 @@ def visible_dirs(folder: Path) -> list[Path]:
     return sorted(d for d in folder.iterdir() if d.is_dir() and not d.name.startswith(("_", ".")))
 
 
+def inspiration_status() -> dict[str, str]:
+    """灵感池里每条的状态，给 inspired_by 校验用。"""
+    pool = ROOT / "inspiration"
+    out = {}
+    if pool.exists():
+        for d in visible_dirs(pool):
+            path = d / "item.json"
+            if path.exists():
+                it = json.loads(path.read_text(encoding="utf-8"))
+                out[it.get("id", "")] = it.get("status", "")
+    return out
+
+
 def collect() -> tuple[list[dict], list[str]]:
     cases, errors = [], []
+    pool = inspiration_status()
     seen: dict[str, str] = {}
     for series in visible_dirs(CASES):
         for group in visible_dirs(series):
@@ -62,6 +76,11 @@ def collect() -> tuple[list[dict], list[str]]:
                 if not case_dir.name.startswith(case_id):
                     errors.append(f"{rel} 的目录名应以编号 {case_id} 开头")
                 seen[case_id] = rel
+                src = meta.get("inspired_by")
+                if src and pool.get(src) not in ("approved", "landed"):
+                    errors.append(f"{rel} 的灵感来源 {src} " + ("不在灵感池里" if src not in pool else
+                                  f"还没审批通过（{pool[src]}），不能落成案例，已从索引里剔除"))
+                    continue
                 engine = meta.get("engine", {})
                 cases.append({
                     "id": case_id,
@@ -80,6 +99,7 @@ def collect() -> tuple[list[dict], list[str]]:
                     "status": meta.get("status", "draft"),
                     "review_status": pack.get("review_status", ""),
                     "created": meta.get("created", ""),
+                    "inspired_by": meta.get("inspired_by"),
                     "path": rel,
                     "gif": f"{rel}/result.gif" if (case_dir / "result.gif").exists() else None,
                     "prompt": f"{rel}/prompt.md" if (case_dir / "prompt.md").exists() else None,

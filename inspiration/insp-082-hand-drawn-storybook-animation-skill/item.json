@@ -1,0 +1,30 @@
+{
+  "id": "insp-082",
+  "title": "手绘动画绘本 Skill：代码实时画绘本，接豆包配音",
+  "type": "storybooks",
+  "source": {
+    "url": "https://dgnewlive.com/github/hand-drawn-storybook-animation-skill",
+    "platform": "dgnewlive.com",
+    "author": "Hailey",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "详解 Hailey 开源的 hand-drawn-storybook-animation Skill：剧本经三轮打磨后由代码在浏览器实时画出水彩、水墨、工笔长卷等风格的动态绘本，配豆包语音、生成式配乐和中英双语字幕，附多部成片演示",
+  "why": "动态绘本方向本轮唯一有完整工作流和多风格成片的候选，代码绘图保证风格统一、可局部修改的思路与我们绘本类型直接相关",
+  "borrow": [
+    "剧本先经三轮打磨、再拆分镜与运镜的分镜工作流",
+    "用代码实时绘制线稿晕染与翻页转场、而非逐帧生图的做法",
+    "按语音时长反向调整画面节奏的声画对齐思路",
+    "同一套流程切换水彩、水墨、工笔长卷等风格的复用结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "原 Skill 在 GitHub 开源，详解页未注明许可证，以原仓库为准；只借工作流，不抄它的剧本与成片"
+  },
+  "tags": ["动态绘本", "Skill", "代码绘图", "豆包配音"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

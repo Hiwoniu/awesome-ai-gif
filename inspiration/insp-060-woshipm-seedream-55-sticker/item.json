@@ -1,0 +1,29 @@
+{
+  "id": "insp-060",
+  "title": "人人都是产品经理：Seedream 5.5 连改 20 轮仍是同一个人，附 GIF 表情包教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.woshipm.com/ai/6491515.html",
+    "platform": "人人都是产品经理",
+    "author": "花叔",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "花叔的 Seedream 5.5 实测长文：同一张人像连改 20 轮再逐一改回去仍是同一个人；拆解发现 ChatGPT 出 GIF 的逻辑是先画 4×3 多格图再切帧，并给出角色设定图加八格精灵图的完整表情包做法",
+  "why": "连改 20 轮的压力测试证明了多轮编辑的一致性上限，4×3 多格图的拆解点破了 GIF 直出的底层做法，两点都值得单独记一条",
+  "borrow": [
+    "多轮编辑一致性的压力测试方法：连改再改回去对照",
+    "GPT GIF 直出等于 4×3 多格图加切帧的拆解思路",
+    "角色设定图加八格精灵图、每格底部同字幕的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "作者用的是自己的照片做测试；文中 Skill 本身已收为 insp-028，这里只收这篇文章的测试方法与拆解结论，不重复收 Skill"
+  },
+  "tags": ["Seedream 5.5", "实测", "多轮编辑", "GIF 表情包", "人人都是产品经理"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

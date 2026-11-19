@@ -1,0 +1,25 @@
+{
+  "id": "insp-000",
+  "title": "",
+  "type": "unknown",
+  "source": {
+    "url": "",
+    "platform": "",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": ""
+  },
+  "what": "",
+  "why": "",
+  "borrow": [],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": []
+}

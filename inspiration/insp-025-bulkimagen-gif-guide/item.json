@@ -1,0 +1,29 @@
+{
+  "id": "insp-025",
+  "title": "BulkImagen 实测：16 张贴纸总结的一主一体一动提示词结构",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://bulkimagen.com/blog/gpt-image-2-6-gif",
+    "platform": "BulkImagen",
+    "author": "BulkImagen",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "BulkImagen 的 GPT Image 2.6 GIF 实测：用同一提示词结构做了 16 张贴纸（四种风格）加一张真狗照片，默认 9 帧、每帧 200 毫秒，总结出一个主体、一个动作、一种风格的提示词写法",
+  "why": "它用 16 张的量验证了一个极简提示词结构的有效性，还测了透明底不可靠、改尺寸会压平 GIF 等坑，和我们先审再批量的思路一致",
+  "borrow": [
+    "一个主体、一个动作、一种风格的极简提示词结构",
+    "9 帧、每帧 200 毫秒的默认参数",
+    "透明底不可靠、改尺寸压平 GIF 的避坑点"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "含自家产品推广，只借实测结论和提示词结构"
+  },
+  "tags": ["提示词", "教程", "GPT Image 2.6", "实测"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

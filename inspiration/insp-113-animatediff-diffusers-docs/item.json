@@ -1,0 +1,30 @@
+{
+  "id": "insp-113",
+  "title": "AnimateDiff 官方文档：diffusers 四条管线与 export_to_gif",
+  "type": "multi",
+  "source": {
+    "url": "https://huggingface.co/docs/diffusers/api/pipelines/animatediff.md",
+    "platform": "Hugging Face",
+    "author": "guoyww 等",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "给个性化文生图模型加运动模块做动画的经典开源框架官方文档，含 AnimateDiffPipeline、ControlNet、SDXL、V2V 四条管线",
+  "why": "官方管线文档是静态角色转短循环的对照基线：运动适配器注入时间注意力、16 帧、1024 档、标准出 GIF 接口",
+  "borrow": [
+    "MotionAdapter 在 UNet 各层注入时间注意力的原理",
+    "16 帧、1024x1024 档的规格",
+    "export_to_gif 作为文生 GIF 标准出口的做法",
+    "四条管线的选型对照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借管线与规格，以 diffusers 现行文档为准"
+  },
+  "tags": ["AnimateDiff", "Hugging Face", "官方文档", "运动模块"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

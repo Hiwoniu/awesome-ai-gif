@@ -1,0 +1,30 @@
+{
+  "id": "insp-092",
+  "title": "老张博客：ChatGPT 做 GIF 的五要素提示词公式与 API 成本实测",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://blog.laozhang.ai/en/posts/how-to-make-a-gif-in-chatgpt",
+    "platform": "blog.laozhang.ai",
+    "author": "老张",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "ChatGPT 内直接做 GIF 的教程，给出五要素提示词公式，并实测 API 帧数限制与成本",
+  "why": "五要素公式很干净：主体、动作、帧数、每帧毫秒、画幅；还实测了 16 帧每帧 100 毫秒能被精确执行",
+  "borrow": [
+    "五要素提示词公式：主体加动作加帧数加每帧毫秒加画幅",
+    "9-16 帧的选帧经验法则",
+    "GIF API 默认 9 帧乘 200ms 的参数",
+    "帧数与成本的实测写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借公式与参数，不抄它的示例提示词原文"
+  },
+  "tags": ["GPT Image 2.6", "教程", "提示词公式", "API", "成本"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

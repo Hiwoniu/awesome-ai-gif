@@ -1,0 +1,30 @@
+{
+  "id": "insp-125",
+  "title": "编程导航：GPT Images 2.6 一键生成 GIF 动图首发实测",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://nextoriginweb.codefather.cn/post/2118243160973983745",
+    "platform": "编程导航",
+    "author": "codefather 团队",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "GPT Images 2.6 发布首发实测：7 张动图覆盖表情包、真人整活、微信聊天记录，每例附完整提示词",
+  "why": "微信聊天记录 GIF 很少见：消息逐条弹出的做法很新鲜；精灵图机制揭示与逐帧改台词、调速也值得记",
+  "borrow": [
+    "微信聊天记录 GIF 的做法：消息逐条弹出",
+    "精灵图机制揭示：8 帧拼一张大图再连播",
+    "逐帧改台词与调速的用法：0.25-2 倍、8 档",
+    "草图动画的玩法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借聊天记录 GIF 与逐帧改法，不抄它的 7 组提示词原文与示例角色"
+  },
+  "tags": ["GPT Image 2.6", "实测", "微信聊天记录", "逐帧改台词"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

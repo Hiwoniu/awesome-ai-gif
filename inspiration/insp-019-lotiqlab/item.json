@@ -1,0 +1,29 @@
+{
+  "id": "insp-019",
+  "title": "LotiqLab：浏览器本地 AI 生成 Lottie 并转 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://lotiqlab.com/",
+    "platform": "LotiqLab",
+    "author": "LotiqLab",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "免费在线 Lottie 编辑器：AI 模式用文字提示词直接写出可编辑的 Lottie 文件，编辑、改色、调图层后导出 GIF、MP4、JSON 或 dotLottie；解析渲染都在浏览器本地完成，不上传文件",
+  "why": "与 insp-018 同属矢量动画路线，但它是浏览器本地路线：不用上传、导出即时，适合对照评估两种矢量方案的取舍",
+  "borrow": [
+    "浏览器本地解析渲染、不上传文件的思路",
+    "AI 直写 Lottie 再进编辑器改的流程",
+    "转 GIF、MP4、JSON、dotLottie 的导出组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "免费工具加付费版，只借流程，不用它的示例动画"
+  },
+  "tags": ["工具", "矢量动画", "Lottie", "本地"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "insp-074",
+  "title": "Sprite Animation Assets Skill：定身份锚点再出多状态精灵表",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/DwDestiny/codex-visual-asset-skills/tree/main/skills/sprite-animation-assets",
+    "platform": "GitHub",
+    "author": "DwDestiny",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "开源 Skill：先定一张 canonical base image 作身份锚点，再按状态分批生帧，最后用脚本组 atlas、每状态导出 GIF 预览并出验收报告",
+  "why": "它把精灵表流程拆成定规格、定锚点、分状态生帧、目视 QA、脚本组装五步，manifest 与验收报告的组织方式可直接复用",
+  "borrow": [
+    "先定 canonical base image 作身份锚点的流程",
+    "manifest 记录每状态帧数、尺寸与帧时长的组织方式",
+    "compose_sprite_set.py 组 atlas、未用格子全透明的做法",
+    "每状态导出 GIF 预览加 sprite-set-report.json 的验收流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": "只借流程与脚本组织，不抄它的提示词模板原文"
+  },
+  "tags": ["Skill", "精灵表", "atlas", "MIT"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "insp-022",
+  "title": "Promptslove 的 GPT Image 2.6 提示词生成器：五段式简报与 GIF 参数",
+  "type": "multi",
+  "source": {
+    "url": "https://promptslove.com/free-tools/gpt-image-prompt-generator/",
+    "platform": "Promptslove",
+    "author": "Promptslove",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "免费提示词生成工具：按 OpenAI 建议的五段式简报（场景、主体、细节、用途、约束）拼提示词，内置循环 GIF 贴纸等模板，并标出帧数 2-16、每帧 20-2000 毫秒等 API 参数",
+  "why": "它把提示词结构化成表单，对照我们的提示词公式很有用；循环 GIF 贴纸模板把一个主体、一个小动作、回到起始姿势写成了固定套路",
+  "borrow": [
+    "五段式简报结构：场景、主体、细节、用途、约束",
+    "循环 GIF 贴纸的固定模板套路",
+    "帧数与帧时长的参数取值范围"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "免费工具，只借提示词结构和参数，不用它的示例"
+  },
+  "tags": ["提示词", "工具", "GPT Image 2.6"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

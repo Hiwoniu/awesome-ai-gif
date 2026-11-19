@@ -1,0 +1,29 @@
+{
+  "id": "insp-089",
+  "title": "CVY.AI：GPT Image 2.6 GIF 实测，Flare 与 Sunburst 对比",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://cvy.ai/blog/gpt-image-2-6-gif",
+    "platform": "CVY.AI",
+    "author": "CVY.AI",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 新功能实测教程，含 GIF 开关、Flare 与 Sunburst 对比和猫咪挥爪贴纸的完整提示词示例",
+  "why": "把模型选型讲清楚了：Flare 求快、Sunburst 求精，还点出 GIF 模式下透明背景与高分辨率不可用的限制",
+  "borrow": [
+    "Flare 与 Sunburst 按用途选型的思路",
+    "主体加动作加回起点加纯白底加固定机位的提示词结构",
+    "GIF 模式的限制清单写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借提示词结构与选型结论，不抄它的示例动作原文"
+  },
+  "tags": ["GPT Image 2.6", "教程", "模型选型", "Flare", "Sunburst"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

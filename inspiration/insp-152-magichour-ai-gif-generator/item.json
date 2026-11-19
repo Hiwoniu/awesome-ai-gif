@@ -1,0 +1,36 @@
+{
+  "id": "insp-152",
+  "title": "Magic Hour：文字直出 GIF，每天 3 次免费免注册",
+  "type": "multi",
+  "source": {
+    "url": "https://magichour.ai/products/ai-gif-generator",
+    "platform": "Magic Hour",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一句话描述动画，几秒出循环 GIF，每天 3 次免费、不用注册、无水印，另有每张 0.047 美元的 API。",
+  "why": "免费额度与无水印的组合很适合快速试动作；产品定位写明了发 Discord、Slack、iMessage 的聊天场景。",
+  "borrow": [
+    "一句话一个动作的极简输入",
+    "每天免费 3 次、无水印的试玩门槛",
+    "按张计价的 API 形态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "免费额度与价格以官网为准；只借产品形态"
+  },
+  "tags": ["文字转GIF", "Magic Hour", "免费工具", "API", "聊天GIF"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

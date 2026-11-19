@@ -1,0 +1,29 @@
+{
+  "id": "insp-088",
+  "title": "zzo.ai：GPT Image 2.6 直出 GIF 工具，4/6/9 帧与按帧计价实测",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://zzo.ai/ai-gif-generator",
+    "platform": "zzo.ai",
+    "author": "zzo.ai",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 GPT Image 2.6 从文字或一张图生成循环 GIF 的按次付费工具，公开了帧数、时长、耗时与计价的实测数据",
+  "why": "把 GIF 参数讲得很全：4/6/9 帧、每帧 200ms、循环 0.8-1.8 秒，还有按帧计价和生成耗时的实测，是做贴纸成本估算的参考",
+  "borrow": [
+    "4/6/9 帧、每帧 200ms 的帧数与时长搭配",
+    "一个主体加一个回到起点的动作的提示词结构",
+    "按帧计价与生成耗时的成本估算思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借参数与提示词结构，不抄它的示例画面"
+  },
+  "tags": ["GPT Image 2.6", "工具", "帧数参数", "成本实测"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

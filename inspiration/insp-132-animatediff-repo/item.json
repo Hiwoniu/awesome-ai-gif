@@ -1,0 +1,36 @@
+{
+  "id": "insp-132",
+  "title": "AnimateDiff：给文生图模型插运动模块的开源动画框架",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/guoyww/AnimateDiff",
+    "platform": "GitHub",
+    "author": "guoyww 等",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "给个性化文生图模型插入运动模块、无需针对性微调即可生成动画的开源框架，可直接导出 GIF，另有 MotionLoRA 适配新运动模式。",
+  "why": "文本转 GIF 路线的技术源头，运动模块即插即用的思路与纯提示词路线是不同的技术维度，值得作为本地开源路线的参照。",
+  "borrow": [
+    "运动模块即插即用的思路",
+    "MotionLoRA 低成本适配新动作的做法",
+    "提示词加负提示词加帧数的参数结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借技术路线与参数结构"
+  },
+  "tags": ["AnimateDiff", "开源框架", "运动模块", "文本转GIF"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "insp-127",
+  "title": "静觅：用 Ace Data Cloud Studio 做一套微信动态表情包",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://cuiqingcai.com/4936306.html",
+    "platform": "静觅博客",
+    "author": "崔庆才",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "以卡皮巴拉形象为例，在 Ace Data Cloud Studio 聊天窗口里完成整套微信动态表情包：构思、选稿、GIF、头像、横幅",
+  "why": "九宫格选稿定角色的工作流很实用；微信横幅 750x400、大于 500KB 会被压缩的规格也记下来了",
+  "borrow": [
+    "九宫格选稿定角色的工作流",
+    "Agent 对话式全流程：构思、选稿、GIF、头像、横幅",
+    "微信横幅 750x400 的规格与压缩提醒",
+    "提交到微信表情开放平台的完整步骤"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借选稿工作流与横幅规格，不用它的卡皮巴拉形象"
+  },
+  "tags": ["微信表情包", "Ace Data", "九宫格选稿", "横幅规格"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

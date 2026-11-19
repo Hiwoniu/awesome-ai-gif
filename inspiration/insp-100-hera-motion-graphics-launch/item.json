@@ -1,0 +1,29 @@
+{
+  "id": "insp-100",
+  "title": "Hera：用 AI 动态图形做发布视频与 GIF 循环缩略图",
+  "type": "posters",
+  "source": {
+    "url": "https://hera.video/blog/ai-motion-graphics-for-product-hunt-launch",
+    "platform": "Hera",
+    "author": "Hera Team",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 AI 动态图形做发布视频、GIF 风格循环、缩略图与社交剪辑的工作流指南",
+  "why": "动态海报的构图思路很实用：先讲清产品再读标语，结尾用可循环品牌帧作 GIF 缩略图",
+  "borrow": [
+    "先讲清产品再读标语的动态海报构图思路",
+    "结尾可循环品牌帧作 GIF 缩略图的做法",
+    "发布视频加循环 GIF 加缩略图的成套工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借构图与工作流，不抄它的示例画面与文案"
+  },
+  "tags": ["动态海报", "教程", "发布视频", "循环缩略图"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

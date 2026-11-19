@@ -1,0 +1,36 @@
+{
+  "id": "insp-159",
+  "title": "PrismPoster：只动一个元素的 Cinemagraph 指南",
+  "type": "posters",
+  "source": {
+    "url": "https://www.prismposter.com/blog/how-to-make-a-cinemagraph-with-ai",
+    "platform": "PrismPoster",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用图生视频做 Cinemagraph 的指南：整帧只动一个元素、锁定机位，循环用倒放接续或首尾交叉淡化两种办法，导出按渠道选 MP4 或 GIF。",
+  "why": "一个动元素加锁定机位的定义非常干净；倒放接续与交叉淡化两种循环办法各有适用场景，写清楚了取舍。",
+  "borrow": [
+    "只动一个元素、其余锁死的构图原则",
+    "倒放接续与首尾交叉淡化两种循环办法",
+    "按渠道选 MP4 或 GIF 的导出取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借构图与循环办法；用自己的原创角色与画面"
+  },
+  "tags": ["Cinemagraph", "动态海报", "活照片", "循环", "图生视频"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

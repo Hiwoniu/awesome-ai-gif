@@ -1,0 +1,29 @@
+{
+  "id": "insp-047",
+  "title": "Blog du Webdesign：ChatGPT GIF 实测，三种用途的尺寸与翻车点",
+  "type": "posters",
+  "source": {
+    "url": "https://www.blogduwebdesign.com/blog/tech/chatgpt-images-gif-anime.html",
+    "platform": "Blog du Webdesign",
+    "author": "Blog du Webdesign",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一篇法文实测：免费账号做三张 GIF（网页横幅、LinkedIn 祝福、logo 动画），逐文件量了尺寸、帧数、时长与体积，记录了文字逐帧漂移、雪花不连续、文件过重等翻车点，并提醒生成 GIF 带 C2PA 来源元数据",
+  "why": "它是少有的带逐文件实测数据的评测：横幅 9 帧 4 秒 251KB、祝福 9 帧 3.2 秒 660KB、logo 31 帧 3.2 秒 740KB，失败模式写得很具体，适合做我们的验收对照",
+  "borrow": [
+    "逐文件量尺寸、帧数、时长、体积的验收写法",
+    "三种用途的取舍：横幅重文字稳定、祝福重氛围、logo 重保真",
+    "失败模式清单：文字漂移、元素不连续、文件过重"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "法文实测，示例是对方的虚拟 logo，只借验收方法与失败清单"
+  },
+  "tags": ["GPT Image 2.6", "实测", "横幅", "logo 动画", "法文"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

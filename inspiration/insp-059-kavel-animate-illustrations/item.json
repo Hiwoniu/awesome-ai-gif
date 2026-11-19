@@ -1,0 +1,29 @@
+{
+  "id": "insp-059",
+  "title": "Kavel AI：让绘本插画动起来，只动故事该动的部分",
+  "type": "storybooks",
+  "source": {
+    "url": "https://www.kavel.ai/video/animate-illustrations",
+    "platform": "Kavel AI",
+    "author": "Kavel AI",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Kavel AI 的绘本动画页面：把成品插画页交给图生视频模型，只加两三个小动作（眨眼、摇尾、灯光闪烁），并用否定清单锁住角色、笔触与页面文字不动，验收标准是文字不能跟着动",
+  "why": "它把绘本动效的验收说得很清楚：先定什么不许动，再挑两三个动作，文字不动是硬标准，适合当绘本动效的检查清单",
+  "borrow": [
+    "先定不动清单、再挑两三个小动作的提示词写法",
+    "文字不动、角色笔触不动的验收标准",
+    "只动封面与结尾页、其余页保持静态的克制思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例插画是对方的，只借动效写法与验收标准"
+  },
+  "tags": ["Kavel AI", "绘本", "图生视频", "动效验收"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

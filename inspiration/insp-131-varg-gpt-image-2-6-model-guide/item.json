@@ -1,0 +1,36 @@
+{
+  "id": "insp-131",
+  "title": "vargHQ 的 GPT Image 2.6 模型指南 Skill：Flare 与 Sunburst 分工",
+  "type": "multi",
+  "source": {
+    "url": "https://www.skillsdirectory.com/skills/varghq-gpt-image-2-6",
+    "platform": "Skills Directory",
+    "author": "vargHQ",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 的模型指南 Skill：Flare 与 Sunburst 双模型分工、尺寸档位、价格实测、失败模式，以及海报、明信片、分镜表等提示词配方。",
+  "why": "它是池里 vargHQ 几个 GIF Skill 的模型底座，16 帧上限等硬约束和拒单清单是理解 GIF 能力边界的关键参考。",
+  "borrow": [
+    "Flare 求快、Sunburst 求稳的选型分工",
+    "16 帧上限等硬约束清单的写法",
+    "海报、明信片、分镜表等可迁移的构图配方类型"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借选型与约束清单，不抄提示词原文"
+  },
+  "tags": ["Skill", "GPT Image 2.6", "模型指南", "Flare", "Sunburst"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

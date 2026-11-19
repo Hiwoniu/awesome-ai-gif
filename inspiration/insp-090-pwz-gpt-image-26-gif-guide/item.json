@@ -1,0 +1,29 @@
+{
+  "id": "insp-090",
+  "title": "pwz.com：GPT Image 2.6 GIF 实用指南，含动态文字 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.pwz.com/blog/gpt-image-2-6-ai-gif-guide",
+    "platform": "pwz.com",
+    "author": "James Whitfield",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 做 GIF 的实用指南，覆盖文生 GIF、图生 GIF、透明背景、动态文字、无缝循环与分享",
+  "why": "按输入类型分流的工作流表很实用，还单独讲了动态文字 GIF 这种容易翻车的场景",
+  "borrow": [
+    "按输入类型分流的工作流表：文字或图片对应主体、风格、动作三要素",
+    "动态文字 GIF 的做法与使用场景",
+    "无缝循环的检查思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借工作流结构，不抄它的示例文案"
+  },
+  "tags": ["GPT Image 2.6", "教程", "动态文字", "工作流"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

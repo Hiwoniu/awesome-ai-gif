@@ -1,0 +1,29 @@
+{
+  "id": "insp-106",
+  "title": "anicraft：纯 Rust 开源 2D 动画工具，兼容 Adobe Animate",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/soof-golan/anicraft",
+    "platform": "GitHub",
+    "author": "soof-golan",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "纯 Rust 开源 2D 动画工具，兼容 Adobe Animate 文件格式，导出动画 GIF、MP4、PNG 序列与精灵表，带 MCP 接口",
+  "why": "时间轴动画转 GIF 的结构很完整：经典补间、运动补间、形状补间，还有真实大文档验证过的导出能力",
+  "borrow": [
+    "时间轴动画转 GIF 的结构：补间、矢量、位图、文字、符号",
+    "导出 GIF、MP4、PNG 序列、精灵表的分流组织",
+    "MCP 接口接 Agent 的工具形态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借时间轴转 GIF 的结构思路，不抄它的示例动画"
+  },
+  "tags": ["开源", "Rust", "时间轴动画", "Adobe Animate", "MCP"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

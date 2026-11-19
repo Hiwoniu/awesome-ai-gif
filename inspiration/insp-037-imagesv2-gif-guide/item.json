@@ -1,0 +1,29 @@
+{
+  "id": "insp-037",
+  "title": "imagesv2：GPT Image 2.6 做 GIF 的设置、提示词与实例",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://imagesv2.ai/blog/gpt-image-2-6-gif",
+    "platform": "imagesv2",
+    "author": "imagesv2",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一份 GPT Image 2.6 GIF 教程：文生图与图生图两条路线都实测过，列出帧数档位（4、6、8、9、12、16 帧）与快慢三档速度，给出反应贴纸、像素跑步循环、产品循环等场景的帧数取法，背景分不透明与透明两档",
+  "why": "参数给得最全：帧数、速度、尺寸、背景四项都有推荐值，还按场景给了帧数对照表，照着就能配一套可复用的参数组合",
+  "borrow": [
+    "按场景选帧数的对照思路：反应贴纸 6 帧、简单手势 6 帧、复杂动作用更多帧",
+    "提示词公式：主体加起始姿势、一个动作、回到起始姿势、风格、背景、镜头固定",
+    "背景分不透明与透明两档的取舍：纯色底直接发，透明底做贴纸"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例角色是对方的猫与幽灵，只借参数与提示词公式，不用它的角色"
+  },
+  "tags": ["GPT Image 2.6", "GIF 教程", "参数", "透明底"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

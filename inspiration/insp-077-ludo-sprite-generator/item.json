@@ -1,0 +1,30 @@
+{
+  "id": "insp-077",
+  "title": "Ludo AI 精灵图生成器：四种动作驱动方式",
+  "type": "multi",
+  "source": {
+    "url": "https://ludo.ai/features/sprite-generator",
+    "platform": "Ludo",
+    "author": "Ludo",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "从文字或上传角色生成精灵图并做成动画精灵表的工具，含 641 个动作预设、关键帧、参考视频迁移与 8 方向渲染",
+  "why": "四种动作驱动方式加首尾同姿势成环，是精灵表方向最完整的产品级参考；动作预设库的组织方式值得借鉴",
+  "borrow": [
+    "四种动作驱动：动作提示词/关键帧/参考视频迁移/动作预设",
+    "关键帧首尾同姿势、循环回到起点的成环做法",
+    "透明 PNG 精灵表加 TexturePacker JSON 导出的交付格式",
+    "同一动作换 8 个朝向复用的角色控制器思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "产品页示例是对方的角色，只借动作驱动与导出组织"
+  },
+  "tags": ["精灵表", "工具", "动作预设", "8 方向"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

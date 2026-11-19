@@ -1,0 +1,30 @@
+{
+  "id": "insp-123",
+  "title": "掘金：ChatGPT Image 2.6 直接生成 GIF 表情包实测",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://juejin.cn/post/7704455397478891555",
+    "platform": "掘金",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Images 2.6 GIF 功能的掘金实测文，拆解官方示例，讲清 Sunburst 与 Flare 选型和两个关键参数",
+  "why": "API 的关键区别点出来了：GIF 输出在图片生成接口，图片编辑接口暂不支持；官方示例的拆解也很细",
+  "borrow": [
+    "官方示例的拆解写法：模型、帧数、时长逐项对",
+    "Sunburst 精细与 Flare 速度的选型结论",
+    "complexity 与 quality 两个参数的说明",
+    "GIF 输出接口与编辑接口的区别提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借拆解与选型结论，不抄它的示例画面"
+  },
+  "tags": ["GPT Image 2.6", "掘金", "实测", "模型选型", "API"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

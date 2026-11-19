@@ -1,0 +1,36 @@
+{
+  "id": "insp-134",
+  "title": "博客园 foxlab 实测：GPT Image 2.6 的 GIF 帧数与时长边界",
+  "type": "multi",
+  "source": {
+    "url": "https://www.cnblogs.com/foxlab/p/23593779",
+    "platform": "博客园",
+    "author": "foxlab",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 与 2.5 的对比实测，重点测 GIF：帧数 2 到 16、时长 1 到 5 秒可调，并指出 16 帧上限导致的卡顿与帧间抖动。",
+  "why": "明确给出了 GIF 能力的边界，简单小动作可用、复杂画面不行，能帮我们给项目里的玩法标注适用范围。",
+  "borrow": [
+    "帧数与时长参数的设置方法",
+    "纯色背景加小动作最稳的适用场景判断",
+    "帧间抖动的规避思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借参数边界与规避思路"
+  },
+  "tags": ["实测", "GPT Image 2.6", "帧数", "能力边界"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "insp-007",
+  "title": "Hotshot-XL：SDXL 生态的开源 Text-to-GIF 模型",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/hotshotco/hotshot-xl/blob/HEAD/README.md",
+    "platform": "GitHub",
+    "author": "hotshotco",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "开源文本到 GIF 模型，配合任意微调 SDXL 模型生成 1 秒 8fps GIF，支持 LoRA 和 ControlNet",
+  "why": "这是 GPT Image 之外的另一条引擎路线：用 LoRA 锁个性化主体、不用重训运动模块，对我们换引擎规划有参考",
+  "borrow": [
+    "LoRA锁主体+运动模型分离的思路",
+    "ControlNet控制构图做GIF",
+    "短时长高帧率的参数取向"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "CreativeML Open RAIL++-M",
+    "note": "写实和文字渲染弱；只借路线，不一定落地"
+  },
+  "tags": ["开源模型", "Text-to-GIF", "GitHub", "SDXL"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

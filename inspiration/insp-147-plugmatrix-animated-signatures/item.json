@@ -1,0 +1,36 @@
+{
+  "id": "insp-147",
+  "title": "PlugMatrix Signatures：6 秒循环的动态邮件签名做法",
+  "type": "signatures",
+  "source": {
+    "url": "https://www.plugmatrix.io/products/signatures/",
+    "platform": "PlugMatrix",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "把短视频或 GIF 剪成 6 秒内循环、压到 500KB 以下做邮件签名头像与 Logo 动效，并注明经典版 Outlook 只显示首帧。",
+  "why": "动态签名类型少见的规格化做法：时长上限、体积上限、首帧兜底三点齐全，可直接作签名 GIF 的验收依据。",
+  "borrow": [
+    "6 秒循环加 500KB 以内的签名规格",
+    "首帧必须自成设计的兜底规则",
+    "按客户端列兼容表的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借规格与兜底规则"
+  },
+  "tags": ["动态签名", "邮件签名", "循环", "首帧兜底"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

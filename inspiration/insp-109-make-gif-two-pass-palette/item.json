@@ -1,0 +1,28 @@
+{
+  "id": "insp-109",
+  "title": "make-gif Skill：视频转高质量 GIF 的两遍调色板工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://www.typingmind.com/skills/gupsammy-make-gif",
+    "platform": "TypingMind",
+    "author": "gupsammy",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "把视频片段转成高质量 GIF 的 Skill，强制两遍调色板工作流",
+  "why": "视频转 GIF 的标准收尾规范：先生成调色板再用调色板编码，两遍做法能明显减少色带与抖动",
+  "borrow": [
+    "两遍调色板的工作流：palettegen 再 paletteuse",
+    "视频源 GIF 的通用收尾规范"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借调色板工作流，不涉及他人画面"
+  },
+  "tags": ["Skill", "视频转GIF", "调色板", "ffmpeg"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

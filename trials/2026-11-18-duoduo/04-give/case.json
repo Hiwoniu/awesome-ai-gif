@@ -1,0 +1,30 @@
+{
+  "id": "dd-004",
+  "title": "多多·给我",
+  "meaning": "给我",
+  "tags": [
+    "好吃鬼",
+    "偷感",
+    "真实照片"
+  ],
+  "route": "photo",
+  "source_image": "_work/gen/04-give/new.png",
+  "checks": {
+    "technical": false,
+    "visual": false,
+    "approved": false,
+    "notes": ""
+  },
+  "status": "draft",
+  "created": "2026-11-18",
+  "motion": "shake",
+  "caption": {
+    "text": "给我",
+    "position": "bottom",
+    "reveal": "char",
+    "size": 44,
+    "color": "#FFFFFF",
+    "stroke-color": "#000000",
+    "edge-color": "#000000"
+  }
+}

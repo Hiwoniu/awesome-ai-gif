@@ -1,0 +1,29 @@
+{
+  "id": "insp-010",
+  "title": "Gootaku：为 X 帖子做的宽幅环境循环 GIF 与提示词公式",
+  "type": "posters",
+  "source": {
+    "url": "https://gootaku.com/blog/anime-gif-for-twitter-x-header",
+    "platform": "Gootaku",
+    "author": "Gootaku",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "面向 X/Twitter 传播的宽幅循环 GIF 指南：慢速环境动效（头发、衣摆、光影微动）+ 固定提示词公式，并提醒 X 主页头图不会动、动图只能发帖",
+  "why": "动态海报正缺宽幅和平台传播的实测细节；环境微动比大动作更适合海报循环",
+  "borrow": [
+    "宽幅环境循环提示词公式：宽景+慢速环境动效+氛围光影+风格+柔和无缝循环",
+    "X平台对GIF的展示限制",
+    "环境微动而非主体大动作的海报思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借公式和平台经验，不用它的动漫角色示例"
+  },
+  "tags": ["动态海报", "X", "提示词", "宽幅循环"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

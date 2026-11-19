@@ -1,0 +1,29 @@
+{
+  "id": "insp-126",
+  "title": "TRAE 宝表情包生成 Skill：MIT 开源，四种基础风格加两种彩蛋",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://forum.trae.cn/t/topic/464129",
+    "platform": "TRAE 社区",
+    "author": "luomiluomi",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "TRAE 宝表情包工厂 Skill，MIT 开源：四种基础风格加两种彩蛋风格，附四套生成实例与 Python 中文合成流程",
+  "why": "Skill 结构很完整：风格预设、批量成套、文章插图复用；中文合成流程对中文文案表情包有直接参考",
+  "borrow": [
+    "风格预设加批量成套加文章插图复用的 Skill 结构",
+    "Python 中文合成流程",
+    "基础风格加彩蛋风格的成套规划"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "MIT",
+    "note": "角色是 TRAE 官方吉祥物，只借 Skill 结构与中文合成流程，角色必须换原创"
+  },
+  "tags": ["Skill", "MIT", "TRAE", "风格预设", "中文合成"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

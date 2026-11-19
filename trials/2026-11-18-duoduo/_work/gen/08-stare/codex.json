@@ -1,0 +1,19 @@
+[
+  {
+    "time": "2026-11-18T13:14:10",
+    "prompt": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-duoduo/_work/gen/08-stare/prompt.md",
+    "images": [
+      "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-duoduo/_work/ref-face.jpg",
+      "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-duoduo/_work/ref-body.jpg",
+      "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-duoduo/_work/gen/08-stare/ref.png"
+    ],
+    "out": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-duoduo/_work/gen/08-stare/new.png",
+    "transparent": false,
+    "raw": "/Users/xiangming/.codex/generated_images/01a1efdc-b736-7fa1-aa64-e54cfcfb7d49/exec-e073bcff-b859-4850-b478-21b1be29cbd6.png",
+    "seconds": 68,
+    "exit": 0,
+    "ok": true,
+    "replaced": null,
+    "log": "/Users/xiangming/me-code/awesome-ai-gif/trials/2026-11-18-duoduo/_work/gen/08-stare/codex-new.log"
+  }
+]

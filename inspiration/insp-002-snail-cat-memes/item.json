@@ -1,0 +1,65 @@
+{
+  "id": "insp-002",
+  "title": "橘猫 P 人类五官的照片梗图",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "本地素材文件夹：蜗牛-猫-表情包（原始出处待补）",
+    "platform": "未知",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "向明"
+  },
+  "what": "19 张静态照片梗图：真橘猫照片上 P 了夸张的人类眼睛和嘴唇",
+  "why": "真实照片 + P 图五官的笑点很强，适合宠物照片换主角",
+  "borrow": [
+    "照片梗图形式",
+    "P图五官笑点"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "第三方作品，作者和授权都不明；原图不入库，只能练手，不能提交上架"
+  },
+  "tags": [
+    "照片"
+  ],
+  "status": "landed",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-18",
+    "note": "借照片梗图形式和 P 图五官笑点，主角换自家猫；只练手，不提交上架"
+  },
+  "landed": [
+    {
+      "ref": "trials/2026-11-18-snail-cat-remix",
+      "date": "2026-11-18"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "向明",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "Claude",
+      "note": "灵感池建立前已用主人的奶牛猫照片换主角试做 trials/2026-11-18-snail-cat-remix；补录进池，等主人补审批"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "approved",
+      "by": "向明",
+      "note": "借照片梗图形式和 P 图五官笑点，主角换自家猫；只练手，不提交上架"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "landed",
+      "by": "Claude",
+      "note": "落成 trials/2026-11-18-snail-cat-remix"
+    }
+  ]
+}

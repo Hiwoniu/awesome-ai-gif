@@ -1,0 +1,36 @@
+{
+  "id": "insp-168",
+  "title": "Convertify4u：浏览器 GIF 工作室，正播倒播往返播参数",
+  "type": "multi",
+  "source": {
+    "url": "https://www.convertify4u.com/how-to-make-a-gif",
+    "platform": "Convertify4u",
+    "author": "Safaat Rahman Siham",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "浏览器本地 GIF 工作室加教程：两张以上静帧或一段短片，播放方式正播、倒播、回旋、往返播，延迟 10-5000 毫秒、质量 1-30、循环默认开，最多 30 帧、最长边 1200px。",
+  "why": "往返播（ping-pong）是短动作无缝循环的省事做法；先按默认出一张再调一个参数的调试纪律写得很清楚。",
+  "borrow": [
+    "往返播做短动作无缝循环的做法",
+    "延迟与质量的默认值与取值范围",
+    "先默认出一张、再一次只调一个参数的调试纪律"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "浏览器本地工具；只借参数与调试思路"
+  },
+  "tags": ["GIF制作", "浏览器工具", "往返播", "延迟", "编码参数"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

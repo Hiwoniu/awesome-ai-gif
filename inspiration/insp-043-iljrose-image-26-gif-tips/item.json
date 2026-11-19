@@ -1,0 +1,29 @@
+{
+  "id": "insp-043",
+  "title": "iljrose：Image 2.6 动 GIF 与编辑一致性 5 个要点",
+  "type": "posters",
+  "source": {
+    "url": "https://iljrose.com/%ec%98%a4%ed%94%88ai-%ec%9d%b4%eb%af%b8%ec%a7%80-2-6-%ec%82%ac%ec%9a%a9%eb%b2%95-%ec%9b%80%ec%a7%81%ec%9d%b4%eb%8a%94-gif-%ec%83%9d%ec%84%b1%ea%b3%bc-%ed%8e%b8%ec%a7%91-%ec%9d%bc%ea%b4%80/",
+    "platform": "iljrose.com",
+    "author": "iljrose",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一篇韩文博客：讲 Image 2.6 做动 GIF 的原理与 5 个要点，做法是先定起始与结束状态、中间用运动轨迹与缓动填满，重点放在品牌 logo 动画与横幅：风格锚点固定、运动轨迹写清方向速度、12-24 帧闭环、首尾坐标对齐",
+  "why": "它是少有的从 logo 与横幅动效角度写的教程：把提示词拆成风格锚点、运动轨迹、帧插值与闭环三步，对做动态海报与品牌动效有直接参考",
+  "borrow": [
+    "三步提示词结构：风格锚点固定、运动轨迹加缓动、帧插值与闭环",
+    "logo 动效的取舍：矢量线条与品牌色不变，只加弹跳或旋转",
+    "12-24 帧、首尾坐标对齐的闭环写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "韩文博客，只借提示词结构与动效思路；文中对模型能力的描述需以实测为准"
+  },
+  "tags": ["GPT Image 2.6", "logo 动画", "横幅", "韩文", "动态海报"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

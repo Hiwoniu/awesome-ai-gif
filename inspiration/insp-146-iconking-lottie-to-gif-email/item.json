@@ -1,0 +1,36 @@
+{
+  "id": "insp-146",
+  "title": "IconKing：Lottie 转邮件 GIF，rlottie 加 gifski 的实现",
+  "type": "signatures",
+  "source": {
+    "url": "https://www.iconking.net/tools/lottie-to-gif-for-email",
+    "platform": "IconKing",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "把 Lottie JSON 转邮件可用 GIF 的免费工具，rlottie 逐帧渲染加 gifski 编码，免费 1080p、30fps、无水印，2 小时删文件。",
+  "why": "Lottie 到 GIF 路线的具体实现公开，邮件场景的定位清晰，可作我们动态签名类型矢量动效转 GIF 的出口参考。",
+  "borrow": [
+    "rlottie 加 gifski 的技术组合",
+    "矢量动效转 GIF 的通用出口",
+    "邮件 GIF 的兼容性思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借技术组合与兼容性思路"
+  },
+  "tags": ["Lottie转GIF", "动态签名", "邮件", "rlottie", "gifski"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "insp-046",
+  "title": "xiaohu：Seedream 5.5 官方指南 walkthrough，透明贴纸与多轮改图",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://xiaohu.ai/en/article/seedream-5-5-user-guide/",
+    "platform": "xiaohu.ai",
+    "author": "xiaohu.ai",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "对即梦 Seedream 5.5 官方用户指南的逐章解读：先出一张图再多轮精修、透明底贴纸直接生成、一次出一整版贴纸、四到十张参考图混编，附 22 个风格词、18 组审美词与 9 条提示词建议，个人与商用共 96 组示例",
+  "why": "官方指南的打法值得借：先做角色设定再多轮改、透明贴纸不用抠图、一句话出一整版贴纸，风格词与审美词两张词表可以直接拿来扩我们的提示词库",
+  "borrow": [
+    "先出一张再多轮精修的工作流：改一处、其他区域像素级不动",
+    "透明贴纸的写法：写清哪部分半透明、哪部分抠掉",
+    "一句话出一整版贴纸的排版思路：多贴纸加间距加粗白边",
+    "风格词与审美词两张词表的组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "官方示例图是字节选的演示素材，只借工作流与词表，不用它的画面"
+  },
+  "tags": ["Seedream 5.5", "透明贴纸", "多轮编辑", "提示词词表"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

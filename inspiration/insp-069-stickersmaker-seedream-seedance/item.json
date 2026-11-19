@@ -1,0 +1,29 @@
+{
+  "id": "insp-069",
+  "title": "StickersMaker：Seedream 画角色、Seedance 做动画的两段式贴纸工具",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://meme.ransomz.dev/about",
+    "platform": "StickersMaker",
+    "author": "StickersMaker",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "StickersMaker 的介绍页：一张照片先变成可复用的卡通角色，再做带透明底的动态表情，支持 WhatsApp、微信、Telegram、Discord；角色用 Seedream 5 Flash，动画用 Seedance 2 Mini",
+  "why": "它是池子里少有的非 GPT 路线：角色与动画分属两个模型，Seedream 管形象、Seedance 管动作，分工清楚，适合当作备用技术路线的参考",
+  "borrow": [
+    "角色模型与动画模型分开的两段式路线",
+    "Seedream 5 Flash 做角色、Seedance 2 Mini 做动画的模型搭配",
+    "WhatsApp 用 WebP、微信用 GIF、Telegram 用 WebM、Discord 用 APNG 的分平台格式对照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "页面是对方产品的介绍，只借模型搭配与格式对照；用他人照片做贴纸要先取得许可"
+  },
+  "tags": ["StickersMaker", "Seedream", "Seedance", "工具", "多平台格式"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

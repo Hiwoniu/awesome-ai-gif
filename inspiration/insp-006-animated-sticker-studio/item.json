@@ -1,0 +1,29 @@
+{
+  "id": "insp-006",
+  "title": "animated-sticker-studio：一张角色图做多平台动图表情包",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://github.com/fantuan-lab/animated-sticker-studio",
+    "platform": "GitHub",
+    "author": "fantuan-lab",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Claude Code/Codex Skill：一张角色图生成一整套会动的表情，导出微信/Telegram/LINE/Discord 等平台精确规格",
+  "why": "规划里已列为对标但还没进灵感池；它的多平台规格和流水线分工值得正式借鉴",
+  "borrow": [
+    "多平台规格预设思路",
+    "plan到deliver的流水线分工",
+    "自动压缩到各平台体积上限并自检"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": "MIT 可借鉴实现思路；不搬它的案例角色"
+  },
+  "tags": ["Skill", "竞品", "GitHub", "多平台"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

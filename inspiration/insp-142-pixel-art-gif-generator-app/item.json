@@ -1,0 +1,36 @@
+{
+  "id": "insp-142",
+  "title": "Pixel Art GIF Maker：GPT Image 2.6 一次出 16 帧像素风 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://gifgenerator.app/pixel-art-gif",
+    "platform": "gifgenerator.app",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "文生像素风 GIF 工具，GPT Image 2.6 一次出 16 帧原生 GIF，5、10、20fps 三档速度，1:1 至 9:16 多画幅，页面给出 6 个可直接试的示例与成品。",
+  "why": "像素风 GIF 的原生帧方案，帧数、帧率、画幅规格齐全，示例的提示词结构可直接学。",
+  "borrow": [
+    "16 帧加变帧率调循环时长的做法",
+    "一个地点加一个重复动作加像素风格的提示结构",
+    "像素风不等于可编辑精灵表的边界说明"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借帧数与提示结构，不抄示例文案"
+  },
+  "tags": ["像素风", "GIF生成器", "16帧", "GPT Image 2.6"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

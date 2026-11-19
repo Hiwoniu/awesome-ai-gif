@@ -1,0 +1,29 @@
+{
+  "id": "insp-093",
+  "title": "AI Agents Library：100 条 ChatGPT GIF 提示词，分 10 类",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.aiagentslibrary.com/blog/chatgpt-gif-prompts/",
+    "platform": "aiagentslibrary.com",
+    "author": "AI Agents Library",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "100 条可直接用的 ChatGPT GIF 提示词，分反应、社交、吉祥物、产品、广告等 10 类，附四段式提示词公式",
+  "why": "分类很全：按场景给提示词比零散收集好用；四段式公式把主体、动作、固定项、循环拆得很清楚",
+  "borrow": [
+    "按场景分类组织提示词库的做法：反应、社交、吉祥物、产品、广告",
+    "主体、唯一动作、必须静止的一切、末帧回首帧的提示词公式",
+    "MOTION、STYLE、FIXED、LOOP 四段式结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借分类与公式结构，不抄它的 100 条提示词原文"
+  },
+  "tags": ["GPT Image 2.6", "提示词库", "分类", "提示词公式"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

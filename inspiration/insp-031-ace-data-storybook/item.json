@@ -1,0 +1,30 @@
+{
+  "id": "insp-031",
+  "title": "Ace Data：GPT Image 2.6 做四格动态绘本《小狐狸借月光》",
+  "type": "storybooks",
+  "source": {
+    "url": "https://20260104.platform.acedata.cloud/blog/gpt-image-2-6-little-fox-moonlight-storybook",
+    "platform": "Ace Data",
+    "author": "Ace Data",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 GPT Image 2.6 做动态绘本的完整案例：先画四格水彩风绘本（相遇、借光、同行、归家），再把每格单独生成一段循环 GIF（耳朵轻动、草叶摇摆、罐中光起伏），最后配旁白合成 19 秒视频",
+  "why": "灵感池里第一条动态绘本：它把绘本拆成四段短循环再拼，比整段视频更可控；微动而非大动作的思路也适合我们的海报与绘本",
+  "borrow": [
+    "四格分镜讲完整故事的结构：相遇、借光、同行、归家",
+    "微动而非大动作的绘本动效思路",
+    "每段独立生成 GIF 再拼视频的流程",
+    "关掉 GIF 内循环标记、用流式循环无限播的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借分镜与动效结构，不用它的故事角色和画面"
+  },
+  "tags": ["动态绘本", "案例", "GPT Image 2.6", "分镜"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

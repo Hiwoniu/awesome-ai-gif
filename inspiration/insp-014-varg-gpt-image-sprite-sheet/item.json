@@ -1,0 +1,30 @@
+{
+  "id": "insp-014",
+  "title": "vargHQ 的 gpt-image-sprite-sheet Skill：严格 4×4 游戏精灵图表",
+  "type": "multi",
+  "source": {
+    "url": "https://www.skillsdirectory.com/skills/varghq-gpt-image-sprite-sheet",
+    "platform": "Skills Directory",
+    "author": "vargHQ",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "vargHQ 的游戏精灵图 Skill：用 GPT Image 2.6 按严格 4×4 格表（16 帧、等格、固定比例和地平线）画一张表，再用脚本切片、抠底、统一地平线，输出循环 GIF、图集 PNG 和 TexturePacker 格式的 JSON",
+  "why": "它把格表画法和切分后处理拆成两步，并给出 PNG 表与原生 GIF 两条路线的对比，正好补我们精灵表方向的规格细节",
+  "borrow": [
+    "严格 4×4 格表规格：16 帧、等格、固定比例和地平线",
+    "切片加抠底加统一地平线的后处理脚本思路",
+    "TexturePacker 格式图集 JSON 的输出组织",
+    "PNG 表与原生 GIF 两条路线的对比取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "需要 VARG API Key 才能跑它本体；只借规格和流程，不搬代码"
+  },
+  "tags": ["Skill", "精灵表", "GPT Image 2.6", "游戏"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "insp-072",
+  "title": "DA Motion Sticker Skill：一张角色图出 9 张透明 GIF 套装",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://github.com/avocadotear/da-motion-sticker-skill",
+    "platform": "GitHub",
+    "author": "avocadotear",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一个 Codex Skill：输入一张角色参考图和 9 个反应，产出 9 张独立透明循环 GIF，含 36 种风格预设与本地打包验收脚本",
+  "why": "它把透明底、无限循环、尺寸一致写成打包前强制校验，并给出关键姿势与 AI 视频两条动效路线，是贴纸 Skill 里工程化程度最高的一个",
+  "borrow": [
+    "3×3 九宫格、9 个反应的整套规划法",
+    "关键姿势路线：2×2 姿势页按起始—预备—峰值—恢复—峰值—预备组帧的做法",
+    "打包前强制校验：至少 2 帧、无限循环、透明索引、尺寸一致",
+    "36 种风格预设按角色媒介与轮廓推荐的选型思路"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "MIT",
+    "note": "输入是用户自己的角色图；用真人照片做底时先取得本人同意；36 种风格里有真人头风格，只借流程，不用它的风格示例"
+  },
+  "tags": ["Skill", "Codex", "透明 GIF", "九宫格", "MIT"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

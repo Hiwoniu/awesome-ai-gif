@@ -1,0 +1,35 @@
+{
+  "id": "insp-148",
+  "title": "gemini-omni-video-to-sticker-gif Skill：视频转贴纸 GIF 的坐标校准工作流",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://github.com/cafe3310/public-agent-skills/tree/main/skills_parked/gemini-omni-video-to-sticker-gif",
+    "platform": "GitHub",
+    "author": "cafe3310",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "把任意视频转成高品质 GIF 动态表情包的 Skill，从坐标校准到动图生成完整工作流，可裁剪缩放变速，面向微信表情包场景。",
+  "why": "视频转贴纸 GIF 的路线在池里较少，这条有从坐标校准到生成的完整工作流，补了视频先行这一条路。",
+  "borrow": [
+    "坐标校准再裁剪的工作流",
+    "视频片段裁剪缩放变速做 GIF 的参数思路"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "Apache-2.0",
+    "note": "输入视频可能含真人，仅借工作流；用自己的原创角色素材"
+  },
+  "tags": ["Skill", "视频转GIF", "贴纸", "Gemini", "坐标校准"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

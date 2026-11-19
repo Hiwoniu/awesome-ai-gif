@@ -1,0 +1,30 @@
+{
+  "id": "insp-087",
+  "title": "The Agent Workshop：ChatGPT 直出 GIF 与循环提示词技巧",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=Kkg3KESwb0s",
+    "platform": "YouTube",
+    "author": "The Agent Workshop",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "演示 Images 2.6 直出 GIF 的视频教程，核心是翻页书式循环提示词：定帧数、定动作序列、末帧接回首帧、固定机位与背景，并给出三类值得做的 GIF",
+  "why": "把循环 GIF 的提示词压缩成动作序列加首尾衔接的短结构，适合做表情包的提示词模板",
+  "borrow": [
+    "按顺序列动作的翻页书式提示词结构",
+    "末帧接回首帧的循环锁定写法",
+    "固定机位与背景防闪烁",
+    "单动作、短时长的选材原则"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借提示词结构，不抄它的示例动作序列原文"
+  },
+  "tags": ["YouTube", "教程", "循环提示词", "GPT Image 2.6"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

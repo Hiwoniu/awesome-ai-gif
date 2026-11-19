@@ -1,0 +1,36 @@
+{
+  "id": "insp-161",
+  "title": "Deep Nostalgia：点名一个细节让静照活起来",
+  "type": "posters",
+  "source": {
+    "url": "https://deep-nostalgia-ai.com/cinemagraph-maker",
+    "platform": "Deep Nostalgia AI",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一张静照加一句只动哪一个细节的提示词出活照片：蒸汽、涟漪、发丝等，Subtle Movement 与 Gentle Sway 两个预设，输出循环 MP4 再转 GIF。",
+  "why": "只动一个细节的提示词写法很具体（500 字内点名动什么）；还坦白说了 AI 生成的循环接缝不如实拍遮罩，预期管理很实在。",
+  "borrow": [
+    "只动一个细节的提示词写法",
+    "Subtle Movement 与 Gentle Sway 两个预设",
+    "先说明接缝可能不完美的预期管理"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "新账号 2 个免费点数；只借提示词写法"
+  },
+  "tags": ["Cinemagraph", "活照片", "提示词", "局部动效", "循环"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "insp-158",
+  "title": "Unyson+ Motion Gallery：CSS 3D 光栅卡组件，指针驱动翻面",
+  "type": "cards",
+  "source": {
+    "url": "https://docs.unysonplus.com/animation-engine/motion-gallery",
+    "platform": "Unyson+",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "WordPress 动效组件 Motion Gallery 的光栅卡设计：脊纹卡片一面一张图，指针位置驱动卡片倾斜翻面，脊纹 10-60、倾斜 15-50° 可调，另有 WebGL 真 3D 方案。",
+  "why": "数字端光栅卡的另一种实现：纯 CSS 3D 不用真透镜片，指针映射翻面变量的思路与 Vitrine 的做法同源但参数更全。",
+  "borrow": [
+    "指针位置映射翻面变量的交互写法",
+    "脊纹数与倾斜角度的参数范围",
+    "CSS 3D 与 WebGL 两档实现的取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "网页组件文档；只借交互与参数思路"
+  },
+  "tags": ["光栅卡", "CSS 3D", "WebGL", "交互", "指针驱动"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

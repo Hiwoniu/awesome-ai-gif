@@ -1,0 +1,29 @@
+{
+  "id": "insp-112",
+  "title": "animate：给 AI coding agent 的程序化动画 Skill，7 种内置风格",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/authrain-cloud-abdullahformuli/animate",
+    "platform": "GitHub",
+    "author": "authrain-cloud-abdullahformuli",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "给 AI coding agent 的程序化动画 Claude Code Skill，单文件 canvas、7 种内置风格、节拍同步配乐，渲染成 MP4",
+  "why": "代码画风加循环的思路很对路：故事语法、时间控制、渲染器分离，换风格只换绘画套件，像素风是真分辨率绘制",
+  "borrow": [
+    "剪纸、墨水排线、riso、素描本、数学、像素、等距 7 种风格插件化的组织",
+    "故事语法与时间控制、渲染器分离的结构",
+    "像素风真分辨率绘制加最近邻放大的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借风格插件化与代码动画结构，输出 MP4 需再转 GIF"
+  },
+  "tags": ["开源", "Skill", "程序化动画", "风格插件", "canvas"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

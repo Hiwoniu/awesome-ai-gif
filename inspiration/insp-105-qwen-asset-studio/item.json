@@ -1,0 +1,30 @@
+{
+  "id": "insp-105",
+  "title": "qwen-asset-studio：本地批量生成 2D 游戏素材，JSON 驱动",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/Jaro1910/qwen-asset-studio",
+    "platform": "GitHub",
+    "author": "Jaro1910",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "本地 GPU 批量生成 2D 游戏素材的开源工具：精灵、三帧动画条、UI、背景，用 Qwen-Image 模型，JSON 提示词文件驱动，自动去背景",
+  "why": "一个 JSON 文件等于一套素材、可复跑跳过已完成的设计，适合批量做系列表情与海报",
+  "borrow": [
+    "JSON 提示词文件驱动批量生成的组织方式",
+    "可复跑、跳过已完成的任务管理思路",
+    "动画条加自动抠图的批量做法",
+    "7 套现成模板的组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借批量生成的组织思路，不抄它的模板内容"
+  },
+  "tags": ["开源", "批量生成", "Qwen", "游戏素材", "JSON"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

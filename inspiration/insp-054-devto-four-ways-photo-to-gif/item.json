@@ -1,0 +1,29 @@
+{
+  "id": "insp-054",
+  "title": "dev.to：四种路线把一张照片变成 GIF 的横向对比",
+  "type": "multi",
+  "source": {
+    "url": "https://dev.to/deepfox/4-ways-to-turn-one-photo-into-a-gif-free-frames-sprite-sheets-gpt-image-26-and-video-ai-4fld",
+    "platform": "dev.to",
+    "author": "deepfox",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一篇横向对比文章：免费逐帧、AI 精灵表、GPT Image 2.6 直出 GIF、视频 AI 四条路线做同一张照片的 GIF，列了各路线的帧数、成本与适用边界",
+  "why": "四条路线放在同一标准下对比，选型时能直接按成本与效果取舍，适合当作路线图的参考",
+  "borrow": [
+    "四条路线的对比维度：帧数、成本、适用场景",
+    "精灵表 16 帧 4×4 的写法",
+    "照片转 GIF 只写动作的四条规则：一个动作、写清收尾、固定机位、背景干净"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例照片与产品是对方的，只借对比框架与规则"
+  },
+  "tags": ["dev.to", "横向对比", "精灵表", "GPT Image 2.6", "照片转 GIF"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

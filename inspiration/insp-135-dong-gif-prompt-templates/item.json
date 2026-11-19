@@ -1,0 +1,36 @@
+{
+  "id": "insp-135",
+  "title": "懂AI：8 个出图提示词模板，六格序列帧的模块化写法",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://dong.xs91.com/archives/13015.html",
+    "platform": "懂AI",
+    "author": "懂AI",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "六格序列帧玩法的配套话术库：8 个场景的提示词模板，核心是六格序列帧、单帧表情、局部重绘、SVG 矢量图标。",
+  "why": "把提示词拆成角色、情绪动作、画风、规格四段可替换结构，并点明管住数量、对齐、一致性、循环的四句关键约束，适合做我们提示词模板的组织参考。",
+  "borrow": [
+    "提示词的模块化结构：方括号替换位",
+    "六格序列帧的四句硬约束写法",
+    "局部重绘只改一格的迭代思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借模块化结构与约束写法，不抄模板原文"
+  },
+  "tags": ["提示词模板", "六格序列帧", "模块化", "懂AI"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

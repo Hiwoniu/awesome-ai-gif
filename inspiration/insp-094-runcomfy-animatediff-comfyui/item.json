@@ -1,0 +1,30 @@
+{
+  "id": "insp-094",
+  "title": "RunComfy：ComfyUI 里用 AnimateDiff 做动画的完整教程",
+  "type": "multi",
+  "source": {
+    "url": "https://www.runcomfy.com/tutorials/how-to-use-animatediff-to-create-ai-animations-in-comfyui",
+    "platform": "RunComfy",
+    "author": "RunComfy",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "ComfyUI 环境下用 AnimateDiff 做动画 GIF 与视频的完整教程，可在线免安装跑，含运动模块对比与提示词调度",
+  "why": "运动模块选型讲得细：V3、SDXL、V2 对比，还有 MotionLoRA 的八种运镜，适合做 AnimateDiff 路线的对照表",
+  "borrow": [
+    "V3 与 SDXL 与 V2 运动模块的对比思路",
+    "Prompt Travel 提示词调度写法",
+    "MotionLoRA 八种运镜的组织方式",
+    "Hires Fix 提升画质的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借工作流与选型思路，不抄它的工作流文件"
+  },
+  "tags": ["AnimateDiff", "ComfyUI", "教程", "运动模块"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

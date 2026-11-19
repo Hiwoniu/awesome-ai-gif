@@ -1,0 +1,30 @@
+{
+  "id": "insp-033",
+  "title": "TJ Robertson 实测：Sunburst 与 Flare 画精灵表的对比",
+  "type": "multi",
+  "source": {
+    "url": "https://tjrobertson.com/gpt-image-2-6-sprite-sheet-animation/",
+    "platform": "TJ Robertson",
+    "author": "TJ Robertson",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 画精灵表的实测：发布次日做了 15 次生成，结论是画卡通角色可用、画产品转盘不行；Sunburst 画整张表优于 Flare，逐帧画又优于整张表；还测了透明底锯齿问题",
+  "why": "它是 Sunburst 与 Flare 的直接对比实测，给了选型依据；逐帧优于整张表的结论也和我们先审单帧再批量的思路互相印证",
+  "borrow": [
+    "Sunburst 与 Flare 画精灵表的选型结论",
+    "逐帧画优于整张表的实测结论",
+    "卡通角色可用、产品转盘不行的适用边界",
+    "透明底锯齿问题的提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借实测结论，不用它的示例角色"
+  },
+  "tags": ["实测", "精灵表", "GPT Image 2.6", "Sunburst", "Flare"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

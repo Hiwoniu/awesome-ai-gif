@@ -1,0 +1,29 @@
+{
+  "id": "insp-120",
+  "title": "Contra：Webflow 加 Three.js 做鼠标驱动的光栅卡效果",
+  "type": "cards",
+  "source": {
+    "url": "https://contra.com/p/N33lNPUO-lenticular-card-effect-or-webflow-threejs-and-gsap",
+    "platform": "Contra",
+    "author": "Franco Beltramella",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "在 Webflow 里用 Three.js 与 GSAP 做的光栅卡效果展示：鼠标移动驱动两张纹理混合翻面，带尘埃转场",
+  "why": "数字光栅卡的另一条路：不用透镜片，靠鼠标位置映射混合变量，两张图按视角阈值切换",
+  "borrow": [
+    "鼠标位置映射混合变量的光栅翻面思路",
+    "两张纹理按视角阈值切换的做法",
+    "GSAP 尘埃转场的衔接写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借翻面思路，不抄它的示例卡面与代码"
+  },
+  "tags": ["光栅卡", "Three.js", "Webflow", "交互"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

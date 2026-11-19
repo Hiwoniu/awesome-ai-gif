@@ -1,0 +1,36 @@
+{
+  "id": "insp-140",
+  "title": "Atomm 光栅卡生成器：翻转、动画、3D 四种效果的打印卡",
+  "type": "cards",
+  "source": {
+    "url": "https://www.atomm.com/creativetools/raster-card-generator/",
+    "platform": "Atomm",
+    "author": "Atomm",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "上传两张以上照片，选翻转、动画、前后对比或 3D 景深效果，自动分帧、交错、对齐，导出打印文件。",
+  "why": "与池里已收的 Atomm 光栅卡工具互补，覆盖双图翻转和多帧倾斜播放两种光栅玩法，面向卖家的产品化思路也值得参考。",
+  "borrow": [
+    "四种效果的产品化分类",
+    "同一组照片出多种卡的复用思路",
+    "打印对齐规格"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借效果分类与分帧思路"
+  },
+  "tags": ["光栅卡", "翻转", "3D景深", "打印卡"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

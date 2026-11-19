@@ -1,0 +1,29 @@
+{
+  "id": "insp-096",
+  "title": "AI Cartoon Generator：角色一致的插画故事书生成器",
+  "type": "storybooks",
+  "source": {
+    "url": "https://aicartoongenerator.io/ai-storybook-generator",
+    "platform": "AI Cartoon Generator",
+    "author": "AI Cartoon Generator",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "把一个想法变成角色一致的插画故事书，可逐页配音、转竖版叙事视频的在线工具",
+  "why": "分镜式工作流值得借：角色一致性锁定、逐页可编辑、页级旁白再合成动画，适合动态绘本的流程参考",
+  "borrow": [
+    "角色一致性锁定再逐页生成的分镜工作流",
+    "逐页可编辑、页级旁白再合成动画的组织方式",
+    "与主流故事书工具的工作流对比表写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借分镜工作流，不抄它的示例故事与角色"
+  },
+  "tags": ["动态绘本", "工具", "角色一致性", "分镜"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "insp-145",
+  "title": "Dreamina：Seedance 图生视频再转 GIF 的实测数据",
+  "type": "multi",
+  "source": {
+    "url": "https://dreamina.capcut.com/ai-video/ai-animated-gif-tools",
+    "platform": "Dreamina（CapCut）",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "以 Seedance 图生视频为起点做 GIF 的教程：先出 MP4 再离线转 GIF，含 1280×720、5 秒样片转 11 帧 320×180 GIF 的真实数据，并对比多条工具路线。",
+  "why": "Seedance 到 GIF 的真实转换数据很少见，明确指出 Seedance 只出 MP4、需另转 GIF，避坑价值高。",
+  "borrow": [
+    "图生视频加离线转 GIF 的两段流程",
+    "抽帧数与尺寸的取舍",
+    "多工具路线对照的组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借流程与转换数据"
+  },
+  "tags": ["Seedance", "图生视频", "视频转GIF", "Dreamina", "实测数据"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

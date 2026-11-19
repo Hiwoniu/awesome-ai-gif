@@ -1,0 +1,30 @@
+{
+  "id": "insp-119",
+  "title": "eufyMake：家里做光栅印刷，翻转、动画与 3D 效果指南",
+  "type": "cards",
+  "source": {
+    "url": "https://www.eufymake.com/blogs/printing-guides/lenticular-printing",
+    "platform": "eufyMake",
+    "author": "eufyMake",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "家里做光栅印刷的完整指南：翻转、动画、3D 三种效果，讲透镜选型、帧准备与交错拼图",
+  "why": "光栅卡的物理原理讲得很清楚：动画效果用 15-20 帧交错，翻转效果适合新手，LPI 按观看距离选",
+  "borrow": [
+    "翻转、动画、3D 三种光栅效果的分类",
+    "动画效果用 15-20 帧交错的帧数思路",
+    "按观看距离选透镜 LPI 的方法",
+    "先锁 LPI 与效果、再准备对齐帧的工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借光栅效果分类与帧准备思路，不抄它的示例图"
+  },
+  "tags": ["光栅卡", "印刷", "交错拼图", "LPI", "教程"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

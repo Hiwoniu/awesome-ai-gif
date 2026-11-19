@@ -1,0 +1,29 @@
+{
+  "id": "insp-028",
+  "title": "花叔的 huashu-selfie-sticker Skill：自拍做 8 表情透明底动态包",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://github.com/alchaincyf/huashu-selfie-sticker",
+    "platform": "GitHub",
+    "author": "alchaincyf（花叔）",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "花叔写的 Skill：上传一张自拍，先做角色设定图，再用 Seedream 5.5 一次画 4 列×2 行的八格精灵图，切帧拼成 8 个表情、每个 8 帧的透明底动态包，字幕直接画在同一格里",
+  "why": "它把国产模型路线固化成 Skill：设定图、八格表、切帧、拼 GIF 一条龙，还实测了 8 套共 64 格零错字，流程完整可对照",
+  "borrow": [
+    "自拍转角色设定图再出八格表的 Skill 流程",
+    "字幕直接画在同一格里的字幕处理",
+    "8 个表情各 8 帧的成套规模组织"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "输入是用户自拍真人照片；只借 Skill 流程，不用真人照片做法，落地前查许可证"
+  },
+  "tags": ["Skill", "Seedream", "自拍", "GitHub"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

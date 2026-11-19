@@ -1,0 +1,29 @@
+{
+  "id": "insp-117",
+  "title": "Text to GIF：文字直出 2-16 帧 GIF，含多平台贴纸工坊",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://shipyardhq.dev/products/text-to-gif",
+    "platform": "Shipyard",
+    "author": "Text to GIF",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "文字描述与图片转原创动画 GIF、贴纸与矢量图的在线生成器，帧数 2-16 帧、帧时长可调，贴纸工坊兼容微信、LINE、WhatsApp、Telegram",
+  "why": "帧数与时长可调的参数设计很直接，贴纸工坊按平台分包的思路正好对照我们的多平台规格",
+  "borrow": [
+    "2-16 帧、帧时长可调的参数设计",
+    "GIF、SVG、PNG、WebP、JPG 五种输出格式的组织",
+    "贴纸工坊兼容微信、LINE、WhatsApp、Telegram 的分包思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借参数与分包思路，不抄它的示例画面"
+  },
+  "tags": ["工具", "文字转GIF", "帧数参数", "多平台"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

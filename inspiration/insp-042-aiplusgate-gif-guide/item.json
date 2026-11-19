@@ -1,0 +1,29 @@
+{
+  "id": "insp-042",
+  "title": "AIPlusGate：ChatGPT Images 2.6 一张图做循环动图",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://aiplusgate.com/guides/chatgpt-images-2-6-gif/",
+    "platform": "AIPlusGate",
+    "author": "AIPlusGate 编辑组",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一份中文 GIF 指南：三步流程是传基准图、写清动作与保留项、看两轮播放再分享，给了头像变眨眼招手表情包和产品图加柔光动感两类可直接套用的提示词结构，并讲首尾跳帧与画面漂移的处理",
+  "why": "中文写得清楚，两个场景的提示词结构各有侧重：头像重角色一致性、产品图重文字区域稳定，验收方法（看两轮播放、调速度、再改提示词）可以直接拿来用",
+  "borrow": [
+    "三步流程：基准图、写动作与保留项、两轮播放验收",
+    "头像场景的写法：只动眼睛也要把发型衣服写进固定项",
+    "产品场景的写法：产品固定、只让背景柔光移动、文字区留稳"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例是头像与产品图通用写法，只借提示词结构与验收方法"
+  },
+  "tags": ["GPT Image 2.6", "中文教程", "头像表情包", "产品循环"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

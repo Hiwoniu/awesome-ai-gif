@@ -20,3 +20,15 @@ trials/2026-11-18-snail-cat-remix/_work/new-sheet.png
 
 # gif-factory 类型试做：主角图是橘团试做那张的副本，不重复入库
 trials/2026-11-18-gif-factory-styles/_work/character.png
+
+# 公众号文章草稿，不随仓库开源
+drafts/
+
+# 灵感池：别人的图片视频只留本地，入库的只有链接和自己的分析
+inspiration/*/media/
+
+# 多多试做：主人的猫照片不入库
+trials/2026-11-18-duoduo/_work/photos/
+trials/2026-11-18-duoduo/_work/photos-sheet.jpg
+trials/2026-11-18-duoduo/_work/ref-*.jpg
+trials/2026-11-18-duoduo/_work/gen/*/ref.png

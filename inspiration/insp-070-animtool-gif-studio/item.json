@@ -1,0 +1,29 @@
+{
+  "id": "insp-070",
+  "title": "AnimTool：浏览器本地做的 GIF 工作室，不上传文件",
+  "type": "multi",
+  "source": {
+    "url": "https://www.producthunt.com/products/animtool?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+upvote0+%28ID%3A+205296%29",
+    "platform": "Product Hunt",
+    "author": "AnimTool",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Product Hunt 上的 AnimTool：免费的浏览器本地 GIF 工作室，视频转 GIF、图片拼动画、剪辑都在本地做，不上传文件，可导出 GIF、WebP、APNG、AVIF，无水印",
+  "why": "它是本地优先的工具形态：不上传文件、免费、无水印，适合当作 GIF 后处理环节的参考，尤其是对隐私有要求的素材",
+  "borrow": [
+    "浏览器本地处理、不上传文件的工具形态",
+    "视频转 GIF、图片拼动画、剪辑一体的工作室组织",
+    "GIF、WebP、APNG、AVIF 多格式导出的对照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "页面是对方产品的发布页，只借工具形态与导出组织"
+  },
+  "tags": ["AnimTool", "Product Hunt", "本地处理", "GIF 工具", "多格式导出"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "insp-034",
+  "title": "Banana Prompts：网页端切 PNG/GIF 格式直出 1.8 秒循环",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://banana.prompts.xyz/studio/image",
+    "platform": "Banana Prompts",
+    "author": "Banana Prompts",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Banana Prompts 的网页版图片工作室：格式从 PNG 切到 GIF 后出现动画选项（默认 1.8 秒循环），可选 GPT Image 2.6 的 Sunburst 或 Flare 模型，写一句话就能出循环 GIF（演示为戴墨镜的狗坐摩托车后筐）",
+  "why": "它把出 GIF 做成一次格式切换，门槛最低；Sunburst 与 Flare 可选也给了选型参考，适合当轻量工具对照",
+  "borrow": [
+    "PNG 与 GIF 格式切换出动画的产品形态",
+    "1.8 秒循环的默认动画预设",
+    "Sunburst 与 Flare 的模型选型入口"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "小型网页工具，只借产品形态，不用它的示例"
+  },
+  "tags": ["工具", "GPT Image 2.6", "网页"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

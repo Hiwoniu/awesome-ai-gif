@@ -1,0 +1,36 @@
+{
+  "id": "insp-133",
+  "title": "Felo AI GIF 生成器：一句话出短循环 GIF 的极简工具",
+  "type": "multi",
+  "source": {
+    "url": "https://felo.ai/tools/ai-gif-generator",
+    "platform": "Felo AI",
+    "author": "Felo AI",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一句话描述一个瞬间、用 GPT Image 2.6 Flare 生成短循环 GIF 的网页工具，附真实演示 GIF 与发布前四项质检清单。",
+  "why": "一句话到循环 GIF 最简产品形态的实例，循环接缝、面部与文字、帧数与体积的四项质检清单可直接借来做我们的验收参考。",
+  "borrow": [
+    "一个瞬间、一句话输入的极简交互",
+    "循环接缝与帧数体积的四项质检清单",
+    "短循环、无音频的产品定位写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借交互形态与质检清单，不用对方示例画面与文案"
+  },
+  "tags": ["GIF生成器", "GPT Image 2.6", "Flare", "极简工具", "质检清单"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

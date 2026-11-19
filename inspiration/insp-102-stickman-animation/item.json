@@ -1,0 +1,30 @@
+{
+  "id": "insp-102",
+  "title": "stickman-animation：手绘定格风火柴人动画工具加 Claude Skill",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/ittahad/stickman-animation",
+    "platform": "GitHub",
+    "author": "ittahad",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "手绘定格风火柴人动画工具加 Claude Skill，用 Pillow 代码画图，输出循环 GIF 或 MP4",
+  "why": "用代码画循环 GIF 的路线很干净：白线黑底火柴人讲流程，场景配方与角色画法都落在代码里",
+  "borrow": [
+    "用代码画循环 GIF 的做法：Pillow 逐帧手摆坐标",
+    "白线黑底火柴人讲流程的极简叙事",
+    "场景配方放在 references 文件里的组织方式",
+    "默认 640x360 的 GIF 规格"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借代码画 GIF 的思路，不抄它的角色画法代码"
+  },
+  "tags": ["开源", "Skill", "代码画图", "火柴人", "Pillow"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

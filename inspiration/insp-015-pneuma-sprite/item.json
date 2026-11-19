@@ -1,0 +1,30 @@
+{
+  "id": "insp-015",
+  "title": "pneuma-sprite Skill：八方向精灵图与呼吸待机循环",
+  "type": "multi",
+  "source": {
+    "url": "https://www.skillsdirectory.com/skills/pandazki-skill-20c6f714",
+    "platform": "Skills Directory",
+    "author": "pandazki",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一个面向游戏角色的精灵图 Skill：一张图起手，规划整套动作（行走、待机、攻击等），出八方向精灵表、透明无缝循环，并能导出给游戏引擎或 Rive",
+  "why": "它覆盖了我们还没碰的方向：八方向、从视频借动作、给静帧加呼吸待机，以及先看循环效果再交付的检查流程",
+  "borrow": [
+    "八方向精灵表的规划思路",
+    "从视频借动作的转移动作做法",
+    "给静帧加呼吸感待机循环的思路",
+    "先看循环效果再交付的检查流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "面向游戏开发，落地前确认授权；只借动作规划和检查流程"
+  },
+  "tags": ["Skill", "精灵表", "游戏", "无缝循环"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

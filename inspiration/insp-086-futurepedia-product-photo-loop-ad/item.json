@@ -1,0 +1,30 @@
+{
+  "id": "insp-086",
+  "title": "Futurepedia：单张产品照变循环广告 GIF 的定格动画法",
+  "type": "posters",
+  "source": {
+    "url": "https://newsletter.futurepedia.io/p/chatgpt-can-now-make-gifs-from-your-photos-11-13-2026",
+    "platform": "Futurepedia Newsletter",
+    "author": "Futurepedia",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 Images 2.6 把一张产品照变成循环 GIF：只让一个局部动（如冷凝水珠下滑），其余全部定住；再把参考图存名反复调用、换背景批量出多版",
+  "why": "只动一个局部的定格动画思路非常适合动态海报：主体不动、氛围在动，且换背景可批量出图",
+  "borrow": [
+    "只动一个局部的定格动画构图",
+    "保存参考图后用名字反复调用的做法",
+    "同一主体换背景批量出多版的思路",
+    "先分支保存最满意版本、再试速度与背景的收尾流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例是对方的产品照，只借定格动画构图与批量出图思路"
+  },
+  "tags": ["动态海报", "定格动画", "产品照", "参考图"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

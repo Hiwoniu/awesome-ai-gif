@@ -1,0 +1,30 @@
+{
+  "id": "insp-078",
+  "title": "StartAI：GPT Image 2.6 九个 GIF 实战玩法",
+  "type": "multi",
+  "source": {
+    "url": "https://istarry.com.cn/ps/gpt-images-2-6-gif-tutorial/",
+    "platform": "StartAI PS 教程",
+    "author": "StartAI",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "整理 9 套 GIF 玩法，覆盖表情包批量生成、参考图锁角色、草图转动图、像素待机动画、道具悬浮、果冻弹跳、美食微动态海报和剪纸定格海报，并附 PS 精修流程",
+  "why": "一篇同时覆盖表情包、海报和游戏素材三类，粗白边纯色底、不动元素白名单等做法可直接迁移到我们多类型 GIF 的制作规范里",
+  "borrow": [
+    "固定镜头、仅局部运动、首尾帧对齐的三条循环原则",
+    "用粗白边加纯色底稳定轮廓、再抠图的表情包做法",
+    "把不动元素列成白名单、只让局部元素动的海报做法",
+    "像素角色脚底钉死、只做呼吸与斗篷摆动的待机动画结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借玩法分类与循环原则，不抄它的提示词原文"
+  },
+  "tags": ["GPT Image 2.6", "教程", "九种玩法", "PS 精修"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

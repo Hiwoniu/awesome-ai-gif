@@ -1,0 +1,29 @@
+{
+  "id": "insp-057",
+  "title": "gemini-gif：用 Gemini API 从文字提示词生成 GIF 的开源 CLI",
+  "type": "multi",
+  "source": {
+    "url": "https://pypi.org/project/gemini-gif/0.1.0/",
+    "platform": "PyPI",
+    "author": "未知",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一个开源 Python 命令行工具：用 Google Gemini 2.0 Flash 模型按文字提示词生成动画 GIF，支持自定义提示词模板，MIT 协议",
+  "why": "池子里大多是 GPT Image 2.6 路线，这是少有的 Gemini 路线开源工具，给了非 OpenAI 的另一条模型选择",
+  "borrow": [
+    "用 Gemini 2.0 Flash 做 GIF 的模型路线",
+    "提示词模板参数化的做法",
+    "CLI 工具的形态参考"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": "工具较早期（2025 年 3 月），生成质量与现在模型版本可能有出入，先试再用"
+  },
+  "tags": ["Gemini", "开源工具", "CLI", "MIT", "文字转 GIF"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

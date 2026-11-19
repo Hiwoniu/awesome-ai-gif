@@ -1,0 +1,29 @@
+{
+  "id": "insp-104",
+  "title": "sprite-forge：像素图切干净精灵、做新姿势与动画的工具加 Skill",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/isabellagreco1997/sprite-forge",
+    "platform": "GitHub",
+    "author": "isabellagreco1997",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "把任意像素风图片切成干净游戏精灵、做新姿势和动画的 Python 工具加 Claude Code Skill",
+  "why": "抠图、找原生像素网格、量化调色板的三步流程很扎实，附带的质检清单能直接借到 AI 图转干净像素 GIF 的验收上",
+  "borrow": [
+    "抠图、找原生像素网格、量化调色板的三步流程",
+    "视角、轮廓、接缝、时间的质检清单",
+    "每帧 110ms 的出 GIF 参数"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借流程与质检清单，不抄它的示例精灵"
+  },
+  "tags": ["开源", "Skill", "像素风", "精灵表", "质检"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

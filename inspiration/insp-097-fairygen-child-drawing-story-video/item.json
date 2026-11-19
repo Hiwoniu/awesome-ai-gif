@@ -1,0 +1,30 @@
+{
+  "id": "insp-097",
+  "title": "FairyGen：只用一张儿童手绘角色生成多镜头故事视频",
+  "type": "storybooks",
+  "source": {
+    "url": "https://export.arxiv.org/pdf/2506.21272",
+    "platform": "arXiv",
+    "author": "JiaYi Zheng、XiaoDong Cun",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "只用一张儿童手绘角色，自动生成多镜头卡通故事视频的研究框架：分镜生成、角色建模与背景解耦、两阶段运动定制",
+  "why": "单角色跨镜头保持风格与动作一致的系统解法，对动态绘本的多页一致性问题很有启发",
+  "borrow": [
+    "MLLM 生成结构化分镜再驱动生成的思路",
+    "角色建模与风格化背景解耦的做法",
+    "两阶段运动定制适配器的设计思路",
+    "单角色跨镜头一致性的验收角度"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借框架思路，不抄论文的示例角色与画面"
+  },
+  "tags": ["动态绘本", "论文", "角色一致性", "多镜头"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

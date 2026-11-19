@@ -1,0 +1,35 @@
+{
+  "id": "insp-130",
+  "title": "spritesheet-to-gif：精灵图一键按行列转 GIF 的开源网页工具",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/collidingScopes/spritesheet-to-gif",
+    "platform": "GitHub",
+    "author": "collidingScopes",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "上传一张精灵图，按行列数、帧时长、边距设置一键合成 GIF 的免费开源网页工具。",
+  "why": "图集转 GIF 链路里最小、最直接的一环，三个参数的合成界面可作我们精灵图表格导出环节的参考实现。",
+  "borrow": [
+    "行列、帧时长、边距三参数的合成界面设计",
+    "图集到 GIF 最后一公里的工具形态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": "纯工具，无内容风险"
+  },
+  "tags": ["精灵图", "开源工具", "图集转GIF", "网页工具"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

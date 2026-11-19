@@ -1,0 +1,29 @@
+{
+  "id": "insp-023",
+  "title": "X 走红的 ChatGPT 贴纸 GIF 模板：自拟动作与顶部标语",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://promptline.net/news/2026/11/chatgpt-animated-sticker-gif-prompt",
+    "platform": "Promptline（转述 X @0xluffy_eth 的模板）",
+    "author": "@0xluffy_eth",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "2026 年 11 月 5 日在 X 走红的贴纸 GIF 提示词模板：上传角色图，让模型自己设计一个核心笑点动作、自己配一句 2-8 字顶部标语，出正方形白底、2-3 秒循环的聊天贴纸；两天内过千赞",
+  "why": "它把动作设计权和标语写作权都交给模型，只留主题和格式给用户，这种留白式模板和我们处处写死的公式正好互补，值得对照",
+  "borrow": [
+    "留白式模板：动作与标语由模型自拟",
+    "顶部标语的格式要求：短句、粗圆体、白描边",
+    "一个核心笑点加首尾接回的动作要求"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借模板结构，不抄它的中文模板原文和示例角色"
+  },
+  "tags": ["提示词", "X", "表情包", "模板"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

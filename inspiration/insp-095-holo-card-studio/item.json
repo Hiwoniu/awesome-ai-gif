@@ -1,0 +1,30 @@
+{
+  "id": "insp-095",
+  "title": "Holo Card Studio：双图光栅翻转卡与镭射闪卡 Skill",
+  "type": "cards",
+  "source": {
+    "url": "https://github.com/EverettFish/holo-card-studio",
+    "platform": "GitHub",
+    "author": "EverettFish",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 AI 做收藏卡的开源 Skill，含镭射闪卡与双图光栅翻转卡两条路线，出可编辑的 Blender 工程和 GLB 查看器",
+  "why": "光栅卡的做法很具体：先生成 A 图再由 A 编辑出 B 图、身份锁定与对齐检查，还明确反对左右对半切的做法",
+  "borrow": [
+    "双图光栅工作流：先生成 A 图再由 A 编辑出 B 图",
+    "身份锁定与对齐检查的做法",
+    "全息路线按 Z 轴分层做视差的构图思路",
+    "尺寸与 alpha 密度校验的验收方法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借双态卡的工作流与校验思路，不抄它的美术风格与示例卡面"
+  },
+  "tags": ["光栅卡", "Skill", "开源", "收藏卡", "Blender"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

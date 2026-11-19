@@ -1,0 +1,30 @@
+{
+  "id": "insp-083",
+  "title": "Cocoloop 实测：六帧精灵表加本地切片拼 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://news.cocoloop.cn/en/2026/11/chatgpt-gif-six-frame-sheet/",
+    "platform": "Cocoloop",
+    "author": "Cocoloop",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "直接要 GIF 只拿到单帧 PNG 后改走 3×2 六帧精灵表加本地切片拼 GIF 的路线，实测了纸船、黏土狐狸等四个动画并总结了翻车点",
+  "why": "给了不依赖原生 GIF 输出的保底路线，实测结论（六帧够用、背景越素越稳、原地小动作最稳）可直接用",
+  "borrow": [
+    "3×2 六帧精灵表加本地切片拼 GIF 的保底路线",
+    "六帧 140ms、512×512、500KB 以内的规格参考",
+    "背景用纯色大色块防逐帧闪烁",
+    "先定角色静帧、再批量做动作的顺序"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借保底路线与规格参考，不照搬它的实测画面"
+  },
+  "tags": ["精灵表", "实测", "保底路线", "六帧"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

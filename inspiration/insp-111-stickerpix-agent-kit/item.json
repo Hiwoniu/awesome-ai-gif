@@ -1,0 +1,29 @@
+{
+  "id": "insp-111",
+  "title": "StickerPix Agent Kit：让 coding agent 设计贴纸表并驱动打印裁切",
+  "type": "multi",
+  "source": {
+    "url": "https://gist.github.com/pedramamini/913f981bc1087bc87d0eb8ddd14765d9",
+    "platform": "GitHub Gist",
+    "author": "pedramamini",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "让 coding agent 设计贴纸表并驱动打印裁切的 Agent Kit，含生成器、本地照片抠像、排版与 Skill",
+  "why": "贴纸表排版的规格很具体：1200x2100 排版加 0.08 英寸白边；名字逐字母拼写防拼错的提示词技巧也能借到文字类 GIF 上",
+  "borrow": [
+    "贴纸表排版规格：尺寸与白边",
+    "本地人像抠像的做法",
+    "名字逐字母拼写防拼错的提示词技巧"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借排版规格与提示词技巧，不抄它的贴纸设计"
+  },
+  "tags": ["贴纸表", "排版", "抠像", "打印", "提示词技巧"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

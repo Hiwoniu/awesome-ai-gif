@@ -1,0 +1,30 @@
+{
+  "id": "insp-091",
+  "title": "Sharkly：免费账号实测 ChatGPT Images 2.6 做 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://sharkly.ai/blog/make-gifs-chatgpt-images-2-6-free/",
+    "platform": "Sharkly",
+    "author": "Sharkly",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "在 ChatGPT 免费账号上实测做 GIF 的步骤教程，确认输出是真 GIF89a 文件，8 帧、每循环 1.28 秒",
+  "why": "免费账号也能做的实测很有参考价值：真文件格式、帧数、时长、播放速度可调范围都测出来了",
+  "borrow": [
+    "免费账号实测的验收写法：确认真 GIF 文件而非动图预览",
+    "8 帧、1.28 秒循环的实测参数",
+    "播放速度 0.25x-2x 可调的用法",
+    "极简提示词模板的组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借参数与验收方法，不抄它的示例动作"
+  },
+  "tags": ["GPT Image 2.6", "实测", "免费账号", "GIF89a"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "insp-011",
+  "title": "Gif Sticker Maker：照片转 4 张 Funko 风动态贴纸 Skill",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://github.com/bighardperson/computer-science-skills-collection/tree/main/skills/GIF%20贴纸制作",
+    "platform": "GitHub",
+    "author": "bighardperson",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一个把用户照片转成 4 张动态 GIF 贴纸的 Skill：先用 Minimax 生图做视频，再转 GIF，配多语言字幕表",
+  "why": "它把照片转动态贴纸拆成生图、转视频、转 GIF 三步，并用字幕对照表管多语言文案，流程比单次提示词更稳",
+  "borrow": [
+    "照片转贴纸的三段式流程：生图、视频化、转 GIF",
+    "字幕对照表管多语言文案的思路",
+    "一次出 4 张成套表情的打包方式"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "MIT",
+    "note": "输入是用户自己的照片；示例走 Funko Pop / Pop Mart 风格，只借流程，不用它的品牌风格示例"
+  },
+  "tags": ["Skill", "照片转贴纸", "GitHub"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "insp-138",
+  "title": "Kavel：2026 年 12 款免费 AI GIF 生成器横评",
+  "type": "multi",
+  "source": {
+    "url": "https://www.kavel.ai/blog/best-free-ai-gif-generators-2026",
+    "platform": "Kavel 博客",
+    "author": "Kavel",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "2026 年 11 月实测 12 款工具的免费额度、原生 GIF 与视频转 GIF 的区别、水印与输出规格对照表。",
+  "why": "少有的原生逐帧画 GIF 与视频转 GIF 的区分，免费额度对照表的收录维度可作我们工具横评的参考。",
+  "borrow": [
+    "原生 GIF 的循环稳定性逻辑",
+    "免费额度对照表的收录维度",
+    "一句话加一个动作的提示词结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借横评维度与分类思路"
+  },
+  "tags": ["横评", "GIF生成器", "免费额度", "原生GIF"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "insp-021",
+  "title": "DocsAura：从官网文案生成 480×160 动态邮件签名 GIF",
+  "type": "signatures",
+  "source": {
+    "url": "https://www.docsaura.com/email-signature",
+    "platform": "DocsAura",
+    "author": "DocsAura",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "动态签名工具：贴入官网地址，AI 读网站内容生成三张候选签名卡，选一张导出 480×160、12 秒循环、900KB 以内的 GIF，附各邮件客户端的播放兼容表",
+  "why": "灵感池里第一条动态签名：规格很具体（480×160、12 秒、首帧独立成图），还给了各邮件客户端能不能播的实测表，正好补签名类型的规格空白",
+  "borrow": [
+    "480×160、12 秒循环、900KB 以内的签名卡规格",
+    "首帧独立成图、不播也能看的兜底思路",
+    "按邮件客户端列播放兼容表的验收方法",
+    "一次给三张候选再挑的生成组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "商业产品，免费版带小标记；只借规格和验收方法"
+  },
+  "tags": ["动态签名", "工具", "规格"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

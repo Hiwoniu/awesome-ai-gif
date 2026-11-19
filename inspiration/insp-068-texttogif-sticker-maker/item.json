@@ -1,0 +1,29 @@
+{
+  "id": "insp-068",
+  "title": "texttogif 贴纸工坊：一个角色出一整套，文案与动作可改不花 AI 点数",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://texttogif.com/sticker-maker",
+    "platform": "texttogif",
+    "author": "texttogif",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "texttogif 的 AI 贴纸工坊：一个角色出一整套表情包，先看最多四张样片再定稿，文案、动作与排版可在导出前改且不花 AI 点数，按微信、LINE、WhatsApp、Telegram 各家规格导出，微信包里带横幅、封面与图标",
+  "why": "它把先看样片再定稿、改文案不花钱这两点做进了产品，导出时按平台分包的做法很完整，适合当作贴纸包工作室的产品参考",
+  "borrow": [
+    "先出四张样片、定稿后再批量出的流程",
+    "改文案与动作不花 AI 点数的编辑分层",
+    "按平台分包导出、微信包带横幅封面图标的组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例贴纸是对方的，只借流程与导出组织"
+  },
+  "tags": ["texttogif", "贴纸包", "工具", "多平台导出", "样片定稿"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

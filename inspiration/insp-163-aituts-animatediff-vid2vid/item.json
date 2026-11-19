@@ -1,0 +1,36 @@
+{
+  "id": "insp-163",
+  "title": "Aituts：ComfyUI AnimateDiff 视频转视频四套工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://aituts.com/animatediff-comfyui/",
+    "platform": "Aituts",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "2023 年的老教程但仍可用：ComfyUI 里用 AnimateDiff 的四套工作流（文生视频、视频转视频等），配 ControlNet 与提示词调度，closed_loop 做无缝循环，pingpong 做往返播放，可出 GIF/MP4/WebM。",
+  "why": "视频转视频加 ControlNet 的路线在池里较少；提示词调度随时间换提示词的做法，对动作分段讲的 GIF 很有用。",
+  "borrow": [
+    "视频转视频加 ControlNet 的路线",
+    "提示词调度随时间换提示词的做法",
+    "closed_loop 与 pingpong 的循环参数"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "2023 年教程，部分节点版本已变；只借路线与参数思路"
+  },
+  "tags": ["AnimateDiff", "ComfyUI", "视频转视频", "ControlNet", "循环"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

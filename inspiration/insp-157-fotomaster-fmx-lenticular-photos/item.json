@@ -1,0 +1,36 @@
+{
+  "id": "insp-157",
+  "title": "FotoMaster FMX：活动现场照片直出 4×6 光栅卡",
+  "type": "cards",
+  "source": {
+    "url": "https://support.fotomaster.com/articles/how-to-create-and-print-lenticular-photos-in-fmx-for-windows",
+    "platform": "FotoMaster 支持中心",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "活动摄影工作流：FMX 用两到三张同场照片（含 AI 生成照）合成 4×6 光栅打印卡，配 40-100 LPI 透镜片，倾斜换图；预览直接播原始帧动画。",
+  "why": "现场拍、现场印光栅卡的产品形态很具体；两到三张源图必须各不相同的约束、预览播帧动画而非条纹图的区分，值得借。",
+  "borrow": [
+    "两到三张同场照片合成光栅卡的产品形态",
+    "源图必须各不相同的约束",
+    "预览播原始帧动画的验收做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "活动摄影场景；只借流程与规格"
+  },
+  "tags": ["光栅卡", "活动摄影", "FotoMaster", "打印", "LPI"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

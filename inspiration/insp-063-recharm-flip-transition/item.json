@@ -1,0 +1,29 @@
+{
+  "id": "insp-063",
+  "title": "Recharm：卡片翻面转场，0.8 秒 3D 翻转的逐帧脚本",
+  "type": "cards",
+  "source": {
+    "url": "https://www.recharm.com/effects/flip-transition",
+    "platform": "Recharm",
+    "author": "Recharm",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Recharm 的翻面转场教程：给了一段实测过的提示词与 Python 脚本，把 A 片段在 0.8 秒内像卡片一样绕竖轴翻过去，B 印在背面，用三次缓动、透视投影与边缘变暗算出每一帧",
+  "why": "翻面转场的每一帧都有明确的数学写法（角度、缓动、透视、变暗），做光栅变画卡或翻面海报时可以直接拿这个当分镜与帧参数的参考",
+  "borrow": [
+    "0.8 秒翻面的帧参数：24 帧、三次缓动、绕竖轴 180 度",
+    "透视投影与边缘变暗的逐帧写法",
+    "A 面翻到 90 度后换 B 面的衔接思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "脚本是对方实测过的示例，只借翻面数学与帧参数，不直接搬脚本与示例片段"
+  },
+  "tags": ["Recharm", "翻面转场", "3D 翻转", "逐帧", "光栅卡"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

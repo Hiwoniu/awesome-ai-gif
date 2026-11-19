@@ -1,0 +1,29 @@
+{
+  "id": "insp-108",
+  "title": "agent-sprite-forge：从提示词生成精灵表、透明帧与动画 GIF 的 Skill",
+  "type": "multi",
+  "source": {
+    "url": "https://github.amrom.workers.dev/0x0funky/agent-sprite-forge.git",
+    "platform": "GitHub",
+    "author": "0x0funky",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "从提示词生成 2D 精灵表、地图、透明 PNG 帧和动画 GIF 的 Agent Skill，支持 Claude Code、Codex、Grok",
+  "why": "先审定一张 master still，再每动作一条图生视频，最后用确定性脚本做抠像、配准、循环的主流程很扎实",
+  "borrow": [
+    "先审定 master still 再批量出动作的主流程",
+    "确定性脚本做抠像、配准、循环、重定时的后处理思路",
+    "打包 Godot 与 Aseprite 的交付组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借主流程思路；其内部子 Skill 与已入库条目重叠，不重复收子项"
+  },
+  "tags": ["Skill", "精灵表", "master-still", "后处理"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "insp-143",
+  "title": "Pixwit：浏览器本地视频转像素风 GIF，20 种复古调色板",
+  "type": "multi",
+  "source": {
+    "url": "https://www.pixwit.ai/tools/pixel-art-video",
+    "platform": "Pixwit",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "浏览器本地把视频转像素风，可调像素尺寸、20 种调色板、抖动与帧率，导出 MP4、GIF、WebM，全程不上传。",
+  "why": "视频转像素 GIF 的参数化路线，调色板体系完整，本地处理无上传的工具形态值得参考。",
+  "borrow": [
+    "复古调色板库的组织方式",
+    "像素尺寸、抖动、帧率的参数组合",
+    "GIF 作为社交分享导出格式的定位"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借参数组合与调色板思路"
+  },
+  "tags": ["像素风", "视频转GIF", "调色板", "本地处理"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

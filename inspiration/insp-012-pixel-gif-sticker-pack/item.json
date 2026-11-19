@@ -1,0 +1,29 @@
+{
+  "id": "insp-012",
+  "title": "pixel-gif-sticker-pack：透明循环 GIF 表情包 Skill",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://github.com/WoYun520/pixel-gif-sticker-pack",
+    "platform": "GitHub",
+    "author": "WoYun520",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "WoYun520 的表情包专用 Skill：从角色参考图出透明循环 GIF 贴纸包，默认 512×512、约 2 秒一循环，带导出脚本和视觉复核",
+  "why": "它是 insp-001 gif-factory 的前身单品，专注贴纸包一种输出：外观与动作分开选、透明底、打包 ZIP 的细节更具体",
+  "borrow": [
+    "外观与动作分开选的搭配思路",
+    "透明底 512×512、约 2 秒循环的贴纸默认值",
+    "导出脚本加视觉复核的交付流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": "与 insp-001 同作者不同仓库，只借贴纸包的规格和流程，不复刻它的案例角色"
+  },
+  "tags": ["Skill", "竞品", "GitHub", "透明底"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

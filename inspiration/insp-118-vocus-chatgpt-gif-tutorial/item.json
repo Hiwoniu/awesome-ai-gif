@@ -1,0 +1,29 @@
+{
+  "id": "insp-118",
+  "title": "方格子：ChatGPT GIF 制作教学，6 格往返动作提示词",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://vocus.cc/article/6afc07eafd89780001194c7e",
+    "platform": "方格子",
+    "author": "Cindy 心地",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 ChatGPT 把照片做成 Q 版人物循环 GIF 的教学：上传照片加一段提示词，人物眨眼、微笑等小动作循环播放",
+  "why": "往返动作的提示词结构很干净：原图、一点点变化、回到原图，6 格、每格 0.12 秒的参数也好直接套用",
+  "borrow": [
+    "原图、一点点变化、回到原图的往返动作结构",
+    "6 格、每格 0.12 秒的参数",
+    "动作词可替换的模板写法：眨眼、微笑、嘟嘴、挑眉"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借往返动作结构，不抄它的提示词原文与示例人物"
+  },
+  "tags": ["GPT Image 2.6", "教程", "方格子", "往返动作"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

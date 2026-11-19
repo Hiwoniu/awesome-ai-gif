@@ -1,0 +1,29 @@
+{
+  "id": "insp-026",
+  "title": "Runware 文档：GPT-Image-2.6 Flare 的 GIF API 参数与提示词",
+  "type": "multi",
+  "source": {
+    "url": "https://runware.ai/docs/models/openai-gpt-image-2-6-flare/guides/animated-gifs",
+    "platform": "Runware",
+    "author": "Runware",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Runware 的官方文档页：用 GPT-Image-2.6 Flare 的 API 出循环 GIF，输出格式设为 GIF 即可，默认 9 帧、每帧 0.2 秒、512×512，附贴纸与产品旋转两类提示词写法和帧数、帧时长的设置方法",
+  "why": "这是 API 路线的规范写法：参数名、默认值、两类用途的提示词模板都给了，适合我们以后走 API 批量出图时对照",
+  "borrow": [
+    "API 路线的 GIF 参数写法：输出格式、帧数、帧时长",
+    "默认 9 帧、0.2 秒、512×512 的参数组合",
+    "贴纸与产品旋转两类提示词模板结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "官方文档，只借参数与模板结构，不抄它的示例角色"
+  },
+  "tags": ["API", "文档", "GPT Image 2.6", "提示词"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

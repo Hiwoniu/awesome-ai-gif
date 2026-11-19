@@ -1,0 +1,29 @@
+{
+  "id": "insp-049",
+  "title": "kim-sticker-pack Skill：批量生成动态表情包的开源 Skill",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://article.juejin.cn/post/7704580559872589858",
+    "platform": "掘金",
+    "author": "老金",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "掘金老金做的开源 Skill（kim-sticker-pack，放在 Kim-Service 仓库）：流程是先研究经典案例、定主角、规划聊天场景与动作分镜、做样片确认、再批量出 8 条场景、最后整理交付，配导出脚本按帧序与时长出文件",
+  "why": "它是池子里少有的中文原创 Skill：先做样片再批量的节奏控制得很好，8 条场景的规划方法（角色方向、聊天场景、短句、动作分镜、文字美术）可以直接套用",
+  "borrow": [
+    "先样片后批量的流程：研究案例、定主角、规划场景、样片确认、批量、交付",
+    "8 条场景的规划方法：角色方向、聊天场景、短句、动作分镜、文字美术",
+    "导出脚本只管帧序与时长、不替人想创意的分工"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "Skill 开源在作者的 Kim-Service 仓库；示例角色是日常女友、大肥鱼、贱萌小鸽、憨憨河马，只借流程，不用它的角色"
+  },
+  "tags": ["Skill", "掘金", "批量表情包", "开源", "GPT Image 2.6"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

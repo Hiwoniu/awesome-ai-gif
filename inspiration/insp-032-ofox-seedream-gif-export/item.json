@@ -1,0 +1,30 @@
+{
+  "id": "insp-032",
+  "title": "ofox 实测：Seedream 5.5 出帧后的本地导出与校验流程",
+  "type": "multi",
+  "source": {
+    "url": "https://ofox.ai/blog/seedream-5-5-frames-to-gif/",
+    "platform": "ofox",
+    "author": "ofox",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Seedream 5.5 出帧后的本地导出实测：给出一套可下载的示例工具包（源帧、导出脚本、检查报告），用 FFmpeg 把 PNG 帧拼成 320×180、12 帧、1.2 秒的循环 GIF，并说明怎么验格表是不是干净的 3 列×2 行",
+  "why": "它补了国产模型路线缺的一环：生成之后怎么本地导出、怎么验帧；而且诚实标注了哪些是实测、哪些是未验证的模板，写法值得学",
+  "borrow": [
+    "本地 PNG 帧拼 GIF 的导出工具链",
+    "导出后写检查报告的验收做法",
+    "验格表是否干净 3 列×2 行的检查要点",
+    "实测与未验证分开标注的写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "含自家 API 推广，只借导出与校验流程"
+  },
+  "tags": ["实测", "Seedream", "导出", "教程"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

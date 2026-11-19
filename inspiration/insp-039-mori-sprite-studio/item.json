@@ -1,0 +1,29 @@
+{
+  "id": "insp-039",
+  "title": "Mori Sprite Studio：一张参考图出 6+2 状态精灵包",
+  "type": "multi",
+  "source": {
+    "url": "https://yazelin.github.io/mori-sprite-studio/",
+    "platform": "Mori Sprite Studio",
+    "author": "yazelin",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一个网页端角色精灵包制作工具：一张参考图生成 6 个必需加 2 个可选动作状态，每个状态一张 1024×1024 的 4×4 精灵表，可导出 APNG、GIF、WebM 或原始表，附带像素画编辑器与洋葱皮逐帧修图",
+  "why": "状态规划值得借：6 必需加 2 可选的状态清单、统一 4×4 规格、导出格式按用途分流（LINE 用 APNG、通用场合用 GIF），是一套完整的角色可见形态方案",
+  "borrow": [
+    "6 必需加 2 可选的状态规划：先定状态清单再逐个出表",
+    "统一规格：1024×1024、4×4、每格 256×256、透明底",
+    "按用途分流导出：APNG 走 LINE、GIF 走通用场合、WebM 走透明视频"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "工具本身是为作者自己的 AI 伴侣 Mori 做的，示例角色是 Mori，只借状态规划与导出组织，不用它的角色"
+  },
+  "tags": ["精灵图", "角色包", "APNG", "GIF", "工具"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

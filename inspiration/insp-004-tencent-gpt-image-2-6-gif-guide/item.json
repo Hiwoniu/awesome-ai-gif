@@ -1,0 +1,29 @@
+{
+  "id": "insp-004",
+  "title": "腾讯云：从文字脚本到动态表情包的 GIF 动效指南",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://cloud.tencent.com/developer/article/2779922",
+    "platform": "腾讯云开发者社区",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用四句话写 GIF 脚本（谁在动、从哪里开始、做什么动作、怎样回到起始形成循环）的 GPT Image 2.6 指南，带完整表情案例",
+  "why": "四句动作脚本比堆形容词更可复用，能直接补进我们的提示词公式",
+  "borrow": [
+    "四句动作脚本结构",
+    "6-9帧起测、复杂动作再加到12-16帧的经验",
+    "首尾姿势一致的循环要求写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "文中含第三方 API 推广，只借方法，不采用其渠道和价格口径"
+  },
+  "tags": ["提示词", "教程", "GPT Image 2.6"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

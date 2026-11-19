@@ -1,0 +1,30 @@
+{
+  "id": "insp-085",
+  "title": "SuperMaker：GPT Images 2.5 精灵表转 GIF 的两种路线",
+  "type": "multi",
+  "source": {
+    "url": "https://supermaker.ai/blog/how-to-turn-gpt-images-25-sprite-sheets-into-animated-gifs/",
+    "platform": "SuperMaker",
+    "author": "SuperMaker",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "先用 GPT Images 2.5 生成像素风精灵表，再走两条路成 GIF：视频模型（Seedance 2.0）生成动画后转 GIF，或用 Codex 切帧对齐拼 GIF；并对比 Sunburst 与 Flare 的分工",
+  "why": "覆盖了像素风角色从表到动的两种工程化做法，6 FPS、167ms 帧 hold 的视频提示词参数写得很具体",
+  "borrow": [
+    "精灵表→视频模型→GIF 与精灵表→切帧拼 GIF 的双路线",
+    "Sunburst 保细节、Flare 出图快的模型分工",
+    "切帧后对齐再拼 GIF 的做法",
+    "视频提示词里锁定设计、6 FPS、167ms 帧 hold 的参数写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借双路线与参数写法，不抄它的提示词模板原文"
+  },
+  "tags": ["GPT Images 2.5", "像素风", "精灵表", "Seedance"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

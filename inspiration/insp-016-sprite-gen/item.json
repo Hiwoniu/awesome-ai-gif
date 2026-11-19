@@ -1,0 +1,30 @@
+{
+  "id": "insp-016",
+  "title": "sprite-gen：一张底图出游戏精灵图集与透明循环",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/aldegad/sprite-gen",
+    "platform": "GitHub",
+    "author": "aldegad",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "开源 Python 命令行工具加 Codex/Claude Skill：按动作状态逐行生成、抠掉纯色背景、抽成透明帧，拼成带 manifest.json 的精灵图集；或把视频片段剪成透明循环 GIF/WebP",
+  "why": "它不直接要整张表，而是逐行生成再拼，角色一致性更好；还有挑帧用的浏览视图、确定性换色、循环质量检查等一整套工程化做法，4 千多星",
+  "borrow": [
+    "按动作状态逐行生成再拼图的思路",
+    "抠纯色背景转真透明的抽帧做法",
+    "manifest.json 记录帧位置、帧率与循环标志的组织方式",
+    "挑帧浏览视图与循环质量检查流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "Apache-2.0",
+    "note": "Apache-2.0 可借鉴实现思路；生成要走自己的 Codex 或 Grok 账号"
+  },
+  "tags": ["Skill", "开源工具", "精灵表", "GitHub", "游戏"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

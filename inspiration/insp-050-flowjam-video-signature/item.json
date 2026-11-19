@@ -1,0 +1,29 @@
+{
+  "id": "insp-050",
+  "title": "Flowjam：AI 视频邮件签名，可点击 GIF 预览做法",
+  "type": "signatures",
+  "source": {
+    "url": "https://www.flowjam.com/blog/how-to-make-a-video-email-signature-with-ai-2026",
+    "platform": "Flowjam",
+    "author": "Flowjam",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一份 AI 视频邮件签名指南：写脚本、AI 生成短片、取开头 2-4 秒做可点击 GIF 预览、链到托管视频，再推给全团队；讲清邮件不能播视频、GIF 只是钩子，首帧要放播放按钮、宽度 600 像素以内",
+  "why": "它和池子里已有的 DocsAura 是两条不同路线：这条是视频加 GIF 预览、点开看完整视频，首帧设计与播放按钮的规则可以直接套到我们的动态签名上",
+  "borrow": [
+    "可点击 GIF 预览的思路：2-4 秒最强片段做钩子，链到托管视频",
+    "首帧规则：第一帧就要能独立成立，放播放按钮",
+    "宽度 600 像素以内、视频 15-45 秒的规格取法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例是通用工作流写法，只借结构与规格"
+  },
+  "tags": ["动态签名", "视频签名", "GIF 预览", "邮件"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

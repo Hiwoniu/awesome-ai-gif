@@ -1,0 +1,36 @@
+{
+  "id": "insp-151",
+  "title": "WobbleImage：涂一块会动的区域，静图变弹簧感 GIF 循环",
+  "type": "multi",
+  "source": {
+    "url": "https://www.producthunt.com/products/wobbleimage?launch=wobbleimage",
+    "platform": "Product Hunt",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "浏览器里打开静图，涂出要动的区域、留住锚点，选 Wobble、Jiggle、Bounce、Sway、Jelly、Pulse 六种弹簧动效，导出 3/5/10 秒 GIF 或 WebM，全程本地不上传。",
+  "why": "涂遮罩定动区的做法比整图动更克制，六种弹簧动效是现成的动效词表；GIF 导出限 720px、无无缝循环锁的取舍也写得很实在。",
+  "borrow": [
+    "涂遮罩定动区、其余锁死的做法",
+    "六种弹簧动效的动效词表",
+    "浏览器本地处理不上传的工具形态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "免费免注册；只借动效思路，用自己的原创角色与图片"
+  },
+  "tags": ["GIF循环", "动效遮罩", "WobbleImage", "浏览器工具", "弹簧动效"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

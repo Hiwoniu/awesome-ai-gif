@@ -1,0 +1,37 @@
+{
+  "id": "insp-154",
+  "title": "Wan 2.2：ComfyUI 首尾同帧做无缝循环动画",
+  "type": "multi",
+  "source": {
+    "url": "https://youtubetotranscript.com/transcript?v=a2Of6_Wcd74",
+    "platform": "YouTube",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "YouTube 教程：同一张图同时当首帧与末帧，用 Wan 2.2 在 ComfyUI 里做无缝循环动画，65 帧约 4 秒，配 Lightning LoRA 四步采样、RIFE 补帧与颜色匹配。",
+  "why": "首尾同帧加删最后一帧是干净的无缝循环做法；高低噪声双采样器与防抖调参（关高噪声 LoRA、步数翻倍、CFG 提到 3）写得很具体。",
+  "borrow": [
+    "首尾同帧加删最后一帧的无缝循环做法",
+    "只写循环类动作的提示词取向",
+    "RIFE 补帧加颜色匹配的收尾流程",
+    "低显存 GGUF 替代路线"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "视频教程配工作流 JSON；只借流程，用自己的原创角色与图片"
+  },
+  "tags": ["Wan 2.2", "ComfyUI", "无缝循环", "视频转GIF", "首尾同帧"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

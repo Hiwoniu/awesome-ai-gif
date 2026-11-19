@@ -1,0 +1,29 @@
+{
+  "id": "insp-030",
+  "title": "aiboss88 实测：参考 GIF 换主角与多场景 GIF 提示词",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.aiboss88.com/ja/news/tutorial-511613325-1794406095674-0",
+    "platform": "aiboss88",
+    "author": "aiboss88",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 的 GIF 实测文：覆盖表情包、真人动态表情、动态伪视频、教育科普动画、商业动态图表五类场景；其中参考 GIF 换主角的做法是上传原动态素材加角色图，让新角色按原动作重演",
+  "why": "参考 GIF 换主角是池里还没有的做法：动作与镜头取自参考 GIF，外观取自角色图，正好对应我们换原创角色重做的规则，值得单独收一条",
+  "borrow": [
+    "参考 GIF 换主角的做法：动作镜头取参考、外观取角色图",
+    "真人照片做自然小动作的表情做法",
+    "教育科普与商业图表两类非表情场景的提示词结构"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "聚合类文章，含真人动态表情做法；只借方法结构，参考 GIF 必须用自己的原创素材，不能拿别人的 meme 原片"
+  },
+  "tags": ["提示词", "教程", "GPT Image 2.6", "换主角"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

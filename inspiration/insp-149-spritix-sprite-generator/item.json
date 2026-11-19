@@ -1,0 +1,36 @@
+{
+  "id": "insp-149",
+  "title": "Spritix：一张角色图出 Idle/Walk/Run/Jump/Attack 五动作精灵表",
+  "type": "multi",
+  "source": {
+    "url": "https://dev.to/chenxer97/ai-sprite-generator-turn-2d-character-art-into-game-ready-animations-3mjm",
+    "platform": "dev.to",
+    "author": "chenxer97",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "上传一张全身 2D 角色图，选 Idle、Walk、Run、Jump、Attack 任一动作，生成可复用的游戏精灵动画，可导出精灵表 PNG、GIF、Atlas JSON 或单帧 PNG。",
+  "why": "同一角色锚点出整套动作的做法，动作与参考图绑定防走样，导出直出 GIF 加逐动作帧数/格子/裁剪设置，贴合我们一张角色多动作的需求。",
+  "borrow": [
+    "同一张参考图锚定全部动作防走样的做法",
+    "逐动作设帧数、格子尺寸、裁剪再导出的参数组织",
+    "浏览器里修循环不花生成点数的流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "工具免费额度每月 20 点；只借工作流，用自己的原创角色"
+  },
+  "tags": ["精灵表", "游戏动画", "Spritix", "GIF导出", "动作库"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

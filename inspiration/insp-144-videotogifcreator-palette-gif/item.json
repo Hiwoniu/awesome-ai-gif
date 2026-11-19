@@ -1,0 +1,36 @@
+{
+  "id": "insp-144",
+  "title": "Video to GIF Creator：ffmpeg 两遍调色板转 GIF 工具",
+  "type": "multi",
+  "source": {
+    "url": "https://videotogifcreator.usefulweb.site/",
+    "platform": "usefulweb.site",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "视频转 GIF 与动态 WebP 工具，用 ffmpeg 的 palettegen 与 paletteuse 两段式调色加可选抖动，15 秒内片段，可选起始点、帧率与宽度，附 JSON API 与 MCP 服务。",
+  "why": "视频转 GIF 的画质关键（调色板生成）讲得最透，且有 API 与 MCP，适合做成自动化环节。",
+  "borrow": [
+    "两段式调色板方法",
+    "帧率、宽度、抖动的画质与体积权衡",
+    "API 化的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借调色板方法与参数权衡"
+  },
+  "tags": ["视频转GIF", "ffmpeg", "调色板", "API", "MCP"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

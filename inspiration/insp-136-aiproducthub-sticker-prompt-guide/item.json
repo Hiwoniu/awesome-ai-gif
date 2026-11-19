@@ -1,0 +1,36 @@
+{
+  "id": "insp-136",
+  "title": "AI 产品库：表情包提示词五段式骨架与六类模板",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://aiproducthub.cn/zt/75426.html",
+    "platform": "AI 产品库",
+    "author": "AI 产品库",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "表情包提示词的方法论文章：五段式骨架（角色、表情、动作、画风、输出规格）加六类可直接套用的模板，并对比不同模型的选型。",
+  "why": "不是单篇实测而是通用方法论，适合作为我们项目里提示词结构部分的参考骨架。",
+  "borrow": [
+    "五段式提示词骨架",
+    "按情绪场景分类的模板组织方式",
+    "中文长提示词模型的选型经验"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借骨架与分类方式，不抄模板原文"
+  },
+  "tags": ["提示词方法论", "表情包", "五段式", "模板"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

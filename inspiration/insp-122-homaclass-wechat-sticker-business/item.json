@@ -1,0 +1,30 @@
+{
+  "id": "insp-122",
+  "title": "河马工作室：一套表情包的长尾生意，AI 做微信表情包全流程拆解",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://homaclass.com/%E4%B8%97%E5%A5%97%E8%A1%A8%E6%83%85%E5%8C%85%E7%9A%84%E9%95%B7%E5%B0%BE%E7%94%9F%E6%84%8F%EF%BC%9Aai%E6%99%82%E4%BB%A3%E5%81%9A%E5%BE%AE%E4%BF%A1%E8%A1%A8%E6%83%85%E5%8C%85%EF%BC%8C%E5%BE%9E%E8%A3%BD/",
+    "platform": "河馬創作工作室",
+    "author": "河馬田",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "从 AI 制作到微信上架、打赏变现的全流程拆解，含角色设定、批量生成、筛选与 7 天上手路线",
+  "why": "流程之外的筛选法很有用：多做一倍候选、只留缩略图一眼看懂情绪的；7 天上手路线也适合做新手指南",
+  "borrow": [
+    "角色设定图三视图加标准表情锁定一致性的做法",
+    "多做一倍候选、只留缩略图一眼看懂情绪的筛选法",
+    "7 天上手路线的组织方式",
+    "三层收入结构的诚实预期写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借流程与筛选法，不抄它的示例角色与收入数据"
+  },
+  "tags": ["微信表情包", "全流程", "上架", "筛选", "变现"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

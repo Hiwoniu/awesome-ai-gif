@@ -1,0 +1,29 @@
+{
+  "id": "insp-058",
+  "title": "Civitai：AnimateDiff Lightning 把视频变成舞蹈循环动画",
+  "type": "multi",
+  "source": {
+    "url": "https://civitai.com/articles/4769/animatediff-lightning-dance-animations",
+    "platform": "Civitai",
+    "author": "未知",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一篇 Civitai 教程：用 AnimateDiff Lightning 8 步运动模块加 ControlNet，把普通视频（例如循环的舞蹈动作）变成 AI 风格化循环动画，配 LoopMaker 做无缝循环",
+  "why": "它是视频先行再风格化的路线：先有真人或现成视频的动作，再套风格，比纯文字生成更容易拿到可信的动作，适合需要真实动作参考的循环",
+  "borrow": [
+    "视频先行再风格化的路线：原视频动作加 AnimateDiff 重绘",
+    "AnimateDiff Lightning 8 步运动模块的选型",
+    "LoopMaker 做无缝循环的前处理思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例视频与动作是对方的，只借路线与模块选型；用真人视频做参考时注意肖像授权"
+  },
+  "tags": ["Civitai", "AnimateDiff", "视频转动画", "教程", "循环"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

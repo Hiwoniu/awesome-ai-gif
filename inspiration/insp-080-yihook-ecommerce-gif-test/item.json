@@ -1,0 +1,30 @@
+{
+  "id": "insp-080",
+  "title": "Yihook 实测：GPT Image 2.6 电商 GIF 的 8 个案例与参数",
+  "type": "posters",
+  "source": {
+    "url": "https://www.yihook.ai/zh-cn/ai-gif-generator",
+    "platform": "Yihook",
+    "author": "Yihook",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 Sunburst 模型实测 8 个电商 GIF 案例：商品 360 度旋转、跑鞋弹跳、口红色号切换、促销角标脉冲、吉祥物挥手、咖啡蒸汽、Logo 逐笔绘制和文字逐字出现，并给出每例尺寸、帧数、帧时长和文件大小",
+  "why": "动态海报方向本轮最有参数价值的一篇，拼图网格档位与计费关系、帧数上限、透明底限制都写明了",
+  "borrow": [
+    "主体加单一运动轨迹加固定机位加循环指令的提示词结构",
+    "按场景选 512 或 768 尺寸、2 至 16 帧、100 至 500 毫秒帧时长的参数搭配",
+    "按拼图网格档位计费、同档内帧数同价的成本判断",
+    "商品旋转、角标脉冲与文字逐字出现三类海报动效的动作设计"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例是对方的电商案例，只借参数与动作分类"
+  },
+  "tags": ["GPT Image 2.6", "电商", "动态海报", "实测"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

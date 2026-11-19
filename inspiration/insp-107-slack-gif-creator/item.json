@@ -1,0 +1,30 @@
+{
+  "id": "insp-107",
+  "title": "slack-gif-creator：为 Slack 优化的动画 GIF 制作 Skill",
+  "type": "multi",
+  "source": {
+    "url": "https://open-design.ai/skills/slack-gif-creator/",
+    "platform": "OpenDesign",
+    "author": "Anthropic",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "为 Slack 优化的动画 GIF 制作 Skill，含 GIF 构建器、校验器、缓动与动画原语",
+  "why": "小尺寸 GIF 的压缩与验收规范很现成：emoji 128x128 限 64KB、时长小于 3 秒、两遍调色板，值得直接借来做验收表",
+  "borrow": [
+    "小尺寸 GIF 的规格表：尺寸、体积、时长、帧率、色数",
+    "两遍调色板的压缩流程",
+    "shake、bounce、move 等可组合动画原语的设计",
+    "构建加校验两步走的交付流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借规格与原语设计，不抄它的示例 GIF"
+  },
+  "tags": ["Skill", "Slack", "小尺寸GIF", "压缩", "验收"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

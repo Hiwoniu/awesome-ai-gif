@@ -1,0 +1,36 @@
+{
+  "id": "insp-153",
+  "title": "Nerdbot 横评：aigifmaker.ai 文字一字不差的梗图 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://nerdbot.com/2026/11/12/the-best-meme-gif-generators-in-2026-how-fandoms-make-reaction-gifs-nobody-has-seen-yet/",
+    "platform": "Nerdbot",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "粉丝向梗图 GIF 横评，aigifmaker.ai 凭文案逐字拼对胜出：一句话描述笑点，30-70 秒出带经典白字黑边字幕的循环 GIF，还懂 top/bottom text、两难选择等梗图版式。",
+  "why": "文字拼写准确是梗图 GIF 的硬门槛，这条把逐字拼对当成选型标准；另有 Discord 表情、文字 GIF、名字 GIF 的成套组织。",
+  "borrow": [
+    "文案逐字拼对的验收标准",
+    "按梗图版式点名要格式的做法",
+    "反应 GIF 加 Discord 表情加名字 GIF 的成套组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "首张免费后按张/点数包收费；只借验收标准与版式思路"
+  },
+  "tags": ["梗图GIF", "反应GIF", "文字准确", "横评", "Discord表情"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

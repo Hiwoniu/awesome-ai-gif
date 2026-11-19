@@ -1,0 +1,36 @@
+{
+  "id": "insp-137",
+  "title": "PicassoIA：免费 AI GIF 生成器，Hotshot XL / Wan / Seedance 三路线",
+  "type": "multi",
+  "source": {
+    "url": "https://blog.picassoia.com/ai-gif-generator-free-make-gifs-from-images-or-text",
+    "platform": "PicassoIA 博客",
+    "author": "PicassoIA",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "对比文生 GIF、图生视频、首尾同帧无缝循环三条路线，给出 Hotshot XL 的 GIF 与 MP4 开关、尺寸与调度器设置，以及 Wan 首尾帧做法。",
+  "why": "循环 GIF 的关键技巧（首尾同帧）讲得很具体，可直接复用到表情包和海报循环；三路线分工帮我们判断不同场景选哪条路。",
+  "borrow": [
+    "文生 GIF、图生视频、首尾同帧三路线分工",
+    "首尾同帧做无缝循环的技巧",
+    "GIF 的 256 色与文件体积约束下的参数取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借路线分工与循环技巧"
+  },
+  "tags": ["GIF生成器", "Hotshot XL", "Wan", "Seedance", "无缝循环"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

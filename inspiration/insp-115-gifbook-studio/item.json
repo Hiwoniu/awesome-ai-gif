@@ -1,0 +1,30 @@
+{
+  "id": "insp-115",
+  "title": "GifBook Studio：手绘翻页书式 GIF 动画应用",
+  "type": "multi",
+  "source": {
+    "url": "https://www.hunted.space/dashboard/gifbook-studio",
+    "platform": "Product Hunt",
+    "author": "GifBook Studio",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "把 iPhone 变成手绘动画工作室的应用：画角色、加帧、点播放就动起来，可分享为 GIF 或打印成翻页书",
+  "why": "手绘逐帧的路线补上了 AI 生成之外的手工做法：洋葱皮、三图层、每帧时长、120 帧 GIF 导入都很实在",
+  "borrow": [
+    "手绘逐帧加洋葱皮的动画组织方式",
+    "三图层、每帧时长的参数设计",
+    "GIF 导入 120 帧的兼容做法",
+    "分享 GIF 与打印翻页书的双交付形态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借手绘逐帧的产品形态，不抄它的示例动画"
+  },
+  "tags": ["手绘", "翻页书", "逐帧", "Product Hunt", "iPhone"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

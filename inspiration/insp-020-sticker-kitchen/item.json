@@ -1,0 +1,29 @@
+{
+  "id": "insp-020",
+  "title": "Sticker Kitchen：一张照片转 AI 动态 GIF 与免费 GIF 工具箱",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.producthunt.com/products/sticker-kitchen",
+    "platform": "Product Hunt",
+    "author": "Sticker Kitchen",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Product Hunt 上线的工具：一张照片用 AI 转成动态 GIF（按次计费、无水印下载 GIF 和 MP4），另附一整套浏览器内免费 GIF 工具：表情包制作、视频转 GIF、图片转 GIF、压缩、裁剪、改尺寸",
+  "why": "生成加工具箱放一起的组织方式值得借：核心生成收费，压缩裁剪等后处理免费免注册，能补我们导出与后处理环节的参考",
+  "borrow": [
+    "一张照片转动态 GIF 的产品形态",
+    "生成收费、后处理工具免费的组织方式",
+    "浏览器内免上传的 GIF 压缩裁剪思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "商业产品，只借产品形态和工具组织，不用它的示例"
+  },
+  "tags": ["工具", "照片转 GIF", "Product Hunt"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

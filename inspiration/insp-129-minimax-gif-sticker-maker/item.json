@@ -1,0 +1,36 @@
+{
+  "id": "insp-129",
+  "title": "MiniMax 官方 gif-sticker-maker Skill：照片转 4 张盲盒风动态贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://github.com/MiniMax-AI/skills/tree/main/skills/gif-sticker-maker",
+    "platform": "GitHub",
+    "author": "MiniMax-AI",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "MiniMax 官方 Skill，把一张照片转成 4 张 Funko 盲盒风带字动态 GIF 贴纸，三段式流水线：生图、图生视频、转 GIF。",
+  "why": "官方出品的照片转表情包最成熟范本，固定 4 情绪加多语言文案表的结构可直接对标我们的成套表情包做法。",
+  "borrow": [
+    "三段式流水线拆分：生图、图生视频、转 GIF",
+    "固定 4 情绪加文案对照表的成套规划",
+    "盲盒 3D 风格的造型规范写法"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "MIT",
+    "note": "输入是用户自己的照片或角色图才可用，真人照片做表情需本人授权；只借流程与结构，不用对方示例角色"
+  },
+  "tags": ["Skill", "照片转表情包", "MiniMax", "盲盒风", "三段式流水线"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

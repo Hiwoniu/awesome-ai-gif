@@ -24,6 +24,15 @@ description: awesome-ai-gif 的总入口：用户想用 AI 做一个动图（GIF
 - 视频、带配音的短片、静态海报、配色方案：不是 GIF，直接说本仓库不做。
 - 现有 IP、明星脸、真人肖像：所有类型都不做。用户自家宠物的照片可以。
 
+## 灵感池
+
+用户发来别人的动图、表情包、Skill 或教程链接，说“收一下 / 存进灵感池”时，不要直接拿来做，先收进仓库的 `inspiration/`：
+
+1. `python3 tools/inspiration.py add --title … --url … --platform … --type … --what … --why … --borrow … --by <用户>`，状态自动是**待审**。
+2. 补 `item.json` 的 `risks`（是否涉及 IP / 真人、授权）和 `notes.md`（它怎么做的、我们怎么用）。别人的图片视频放进条目的 `media/`，不入库。
+3. **不能自己审批。**只有用户在对话里明确说“通过 / 驳回 / 搁置 insp-xxx”时，才执行 `review <编号> approve|reject|park --by <用户名> --note …`。
+4. 用户要“照某个灵感做一个”时，先查它的状态：不是“已通过 / 已落地”就停下，请用户先审批。通过的也只借类型、手法、构图、提示词结构，换成原创角色重做。做完 `land <编号> <案例编号或试做目录>`，案例 `case.json` 写 `"inspired_by"`。
+
 ## 共用的东西
 
 - 角色定稿：所有类型都先有一张角色定稿图，做法见 `../wechat-sticker/references/prompts.md` 的“角色定稿”。同一个角色可以在各类型之间复用。

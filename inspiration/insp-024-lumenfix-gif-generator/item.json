@@ -1,0 +1,29 @@
+{
+  "id": "insp-024",
+  "title": "Lumenfix 的 GPT Image 2.6 GIF 生成器：12 帧实测与提示词示例",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.lumenfix.app/gpt-image-2-6-gif",
+    "platform": "Lumenfix",
+    "author": "Lumenfix",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 的 GIF 生成工具页：上传一张图、写一个小动作，出 12 帧、每帧 150 毫秒、长边 640 像素的循环 GIF，每次 8 积分，失败退回；页面公开了多个实测提示词与成品",
+  "why": "它的参数是实测过的（试过 6、9、12、16 帧），提示词示例覆盖挥手、瘫倒弹起、心跳舞、像素风招式等多种动作类型，可直接对照我们的动作库",
+  "borrow": [
+    "12 帧、150 毫秒、长边 640 像素的实测参数",
+    "失败退积分的容错做法",
+    "多种动作类型的提示词示例组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "商业工具，只借参数和动作分类，不抄它的提示词原文"
+  },
+  "tags": ["工具", "提示词", "GPT Image 2.6", "实测"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "insp-101",
+  "title": "Airmore：2026 年 5 款 AI GIF 生成器横评",
+  "type": "multi",
+  "source": {
+    "url": "https://airmore.ai/ai-review/best-ai-gif-generators",
+    "platform": "Airmore",
+    "author": "Airmore",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "5 款 AI GIF 生成器横评，带出 Moxion、GifGen、Rewind.ai 等此前未收的新工具，并按输入类型分流推荐",
+  "why": "一次带出三个新工具：Moxion 的 GIF 专属控制、GifGen 的纯提示词快速出图、Rewind.ai 的极简提示词优先工作流",
+  "borrow": [
+    "按输入类型分流推荐的横评组织方式",
+    "Moxion 的 GIF 专属控制思路",
+    "Rewind.ai 极简提示词优先的工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借横评里的工具线索与分流思路，横评本身不作背书"
+  },
+  "tags": ["横评", "工具", "Moxion", "GifGen", "Rewind.ai"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

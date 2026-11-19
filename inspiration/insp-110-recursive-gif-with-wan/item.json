@@ -1,0 +1,29 @@
+{
+  "id": "insp-110",
+  "title": "recursive-gif-with-wan：Qwen-Image 加 Wan 图生视频复现递归梗 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://gist.github.com/bezo97/e54813eeb01933242ed51163abd14a0d",
+    "platform": "GitHub Gist",
+    "author": "bezo97",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 Qwen-Image 加 Wan 图生视频加 ComfyUI 加 Blender 复现递归梗 GIF 的教程，含失败复盘",
+  "why": "带文字的循环 GIF 很难：先用生图模型生成带可读文字的首帧，再用图生视频续运动，这个分工解决了纯视频模型文字糊掉的问题",
+  "borrow": [
+    "先生图定文字首帧、再图生视频续运动的分工",
+    "文字加循环 GIF 的可复现路线",
+    "含失败复盘的教程写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借分工思路，不复现它的梗图内容"
+  },
+  "tags": ["教程", "Wan", "Qwen-Image", "文字GIF", "递归"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

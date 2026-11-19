@@ -1,0 +1,29 @@
+{
+  "id": "insp-044",
+  "title": "OpenArt：Claude 加 Remotion 代码做动态图形",
+  "type": "posters",
+  "source": {
+    "url": "https://openart.ai/blog/how-to-make-ai-motion-graphics-with-claude/",
+    "platform": "OpenArt",
+    "author": "OpenArt",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一份动态图形指南：AI 出图、Claude 用代码做动效，三条工作流是会动的 Instagram 轮播、给 AI 视频加图形、整段动画全用代码做；做法是先把图拆成 2-16 个图层，再用 Remotion 写动画，文字在代码里重建所以改文案不用重新生成",
+  "why": "它提供了一条和纯生成不同的路线：图是生成的，动效是代码写的，文字、颜色、动作都可逐行改；第三条工作流还用了一张六姿势精灵表加背景图的做法，和我们的动态海报思路很近",
+  "borrow": [
+    "图层拆分再编舞的路线：出图、拆 2-16 层、代码做动画",
+    "文字在代码里重建：改文案不重新生成",
+    "六姿势精灵表加背景图的海报做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例是创作者 Mia Meow 的轮播与猫咪厨房图，只借工作流，不用它的画面与角色"
+  },
+  "tags": ["OpenArt", "Claude", "Remotion", "动态图形", "图层"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

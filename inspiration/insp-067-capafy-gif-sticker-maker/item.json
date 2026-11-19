@@ -1,0 +1,29 @@
+{
+  "id": "insp-067",
+  "title": "Capafy AI GIF 贴纸生成器：一张照片出 2 到 8 张循环贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "http://capafyai.io/tools/emoji-generator/gif-sticker-maker",
+    "platform": "Capafy AI",
+    "author": "Capafy AI",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Capafy AI 的 GIF 贴纸生成器：基于 GPT Image 2.6，一张照片或一段描述出 2 到 8 张循环 GIF 贴纸，先定角色静帧、再按表情逐张出 GIF，每张 8 帧、512×512、透明底；另有微信、WhatsApp、Telegram 的分平台导出",
+  "why": "它把先定角色、再逐表情出 GIF 的顺序写得很清楚，分平台导出按各家规格给，适合当作贴纸包产品形态的参考",
+  "borrow": [
+    "先定角色静帧、再逐表情出 GIF 的顺序",
+    "8 帧、512×512、透明底的贴纸默认值",
+    "微信 240×240、WhatsApp 512×512 加托盘图标的分平台导出组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例是对方平台的，只借流程与规格组织；用他人照片做贴纸要先取得许可"
+  },
+  "tags": ["Capafy AI", "GPT Image 2.6", "GIF 贴纸", "工具", "多平台导出"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "insp-150",
+  "title": "Spritey AI：先审身份锚点再出动作的精灵图生产台",
+  "type": "multi",
+  "source": {
+    "url": "https://www.spritey.ai/",
+    "platform": "Spritey AI",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "写一段角色简介或传一张参考图，先审定一个方向锚点，再批量出动作循环，挑 8 帧打包成透明精灵表，附 API 与可安装 Skill 供 coding agent 调用。",
+  "why": "身份锚点审一次、动作被拒留记录的评审纪律很值得借，失败尝试不藏起来，能直接看到哪一步走样；还有 API/Skill 的 agent 调用形态。",
+  "borrow": [
+    "身份锚点审定一次再扩动作的流程",
+    "被拒动作留记录、只导出通过帧的评审纪律",
+    "API 与 Skill 暴露任务进度与下载的 agent 调用形态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "免费 500 点试用；只借流程，用自己的原创角色"
+  },
+  "tags": ["精灵表", "身份一致性", "Spritey", "Skill", "评审流程"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

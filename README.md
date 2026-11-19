@@ -24,10 +24,10 @@
 
 ## 微信表情包
 
-| 原创角色，从零做一套 | 同一套动作换个角色 | 自家猫的照片做梗图 | 换画风：像素 / 黏土 |
-|---|---|---|---|
-| <img src="trials/2026-11-16-codex-orange-cat/wx-001-greeting/result.gif" width="100"> <img src="trials/2026-11-16-codex-orange-cat/wx-002-laugh/result.gif" width="100"> | <img src="trials/2026-11-17-remix-rabbit/wx-001-greeting/result.gif" width="100"> <img src="trials/2026-11-17-remix-rabbit/wx-002-laugh/result.gif" width="100"> | <img src="trials/2026-11-18-snail-cat-remix/01/result.gif" width="100"> <img src="trials/2026-11-18-snail-cat-remix/13/result.gif" width="100"> | <img src="trials/2026-11-18-gif-factory-styles/pixel/08-shock/result.gif" width="100"> <img src="trials/2026-11-18-gif-factory-styles/clay/16-bye/result.gif" width="100"> |
-| [橘团 9 张](trials/2026-11-16-codex-orange-cat/) | [白兔 9 张](trials/2026-11-17-remix-rabbit/)（复刻橘团） | [奶牛猫 19 张](trials/2026-11-18-snail-cat-remix/) | [各 4 张](trials/2026-11-18-gif-factory-styles/) |
+| 原创角色，从零做一套 | 同一套动作换个角色 | 自家猫的照片做梗图 | 多张照片按性格做一套 | 换画风：像素 / 黏土 |
+|---|---|---|---|---|
+| <img src="trials/2026-11-16-codex-orange-cat/wx-001-greeting/result.gif" width="100"> <img src="trials/2026-11-16-codex-orange-cat/wx-002-laugh/result.gif" width="100"> | <img src="trials/2026-11-17-remix-rabbit/wx-001-greeting/result.gif" width="100"> <img src="trials/2026-11-17-remix-rabbit/wx-002-laugh/result.gif" width="100"> | <img src="trials/2026-11-18-snail-cat-remix/01/result.gif" width="100"> <img src="trials/2026-11-18-snail-cat-remix/13/result.gif" width="100"> | <img src="trials/2026-11-18-duoduo/06-sneak/result.gif" width="100"> <img src="trials/2026-11-18-duoduo/11-huh/result.gif" width="100"> | <img src="trials/2026-11-18-gif-factory-styles/pixel/08-shock/result.gif" width="100"> <img src="trials/2026-11-18-gif-factory-styles/clay/16-bye/result.gif" width="100"> |
+| [橘团 9 张](trials/2026-11-16-codex-orange-cat/) | [白兔 9 张](trials/2026-11-17-remix-rabbit/)（复刻橘团） | [奶牛猫 19 张](trials/2026-11-18-snail-cat-remix/) | [多多 12 张](trials/2026-11-18-duoduo/)（偷感干饭精） | [各 4 张](trials/2026-11-18-gif-factory-styles/) |
 
 每张都是 240×240 GIF、500KB 以内，都过了 Skill 自带的微信规格机检。
 
@@ -38,6 +38,7 @@
 | **原创角色做一套** | 先定角色，再用一张 4×4 图集定下 16 个姿势、逐格加点头 / 弹跳 / 摇摆；要真动作（挥手、吃东西）的走六帧序列图；画风可选简笔、3D 毛绒、像素、黏土 |
 | **宠物照片定稿** | 把自家猫狗的照片做成卡通角色；3D、毛绒这类没有描边的画风直接出透明底，白肚皮不会被抠掉 |
 | **一套 GIF 换个角色** | 给一套已有的 GIF 和一个新角色，自动判断每张是“整体晃动”还是“真动作”，沿用原套每帧的时长重做一套 |
+| **多张照片按性格做一套** | 上传自家宠物的多张照片，先看照片建档、问主人 3 个问题，归纳性格后给几个方向（各配画风），选定再排 12 张故事线出图 |
 | **照片梗图换主角** | 一套静态的真实照片梗图（如猫脸 P 人嘴），换成你家宠物的真实照片风格，再加冲镜头、抖动、颠一下等镜头动效变成动图 |
 | **后期加字** | 字由脚本压上去，不靠模型画：可逐字出现、竖排、把角色缩小给字让位；自带可免费商用的得意黑，缺字会提醒 |
 | **Codex 自动出图** | 本机装了 Codex CLI 就能直接调内置生图，不需要 API Key；整套并行出图，重画时旧图自动保留 |
@@ -80,7 +81,7 @@
 
 ## 当前状态
 
-Skill 已用真实出图跑通五次试做，记录都在 [trials/](trials/)，每次都有提示词原文、出图日志和报告。变画卡和海报各跑通一张。还没有一套表情正式提交过微信，[cases/](cases/) 案例库目前是空的；排期见 [仓库规划.md](仓库规划.md)。
+Skill 已用真实出图跑通六次试做，记录都在 [trials/](trials/)，每次都有提示词原文、出图日志和报告。变画卡和海报各跑通一张。还没有一套表情正式提交过微信，[cases/](cases/) 案例库目前是空的；排期见 [仓库规划.md](仓库规划.md)。
 
 | 试做 | 内容 | 张数 |
 |---|---|---|
@@ -89,6 +90,7 @@ Skill 已用真实出图跑通五次试做，记录都在 [trials/](trials/)，�
 | [2026-11-18 奶牛猫 3D](trials/2026-11-18-remix-tuxedo-cat/) | 宠物照片定稿成 3D 毛绒角色，复刻 3 张、加字 | 3 |
 | [2026-11-18 奶牛猫照片梗图](trials/2026-11-18-snail-cat-remix/) | 真实照片风格换主角、镜头动效、加字 | 19 |
 | [2026-11-18 多类型](trials/2026-11-18-gif-factory-styles/) | 光栅变画卡、动态海报，表情包加像素、黏土两种画风 | 卡 1、海报 1、表情 8 |
+| [2026-11-18 多多](trials/2026-11-18-duoduo/) | 7 张照片建档 + 主人问答 → 定方向“偷感干饭精”，真实照片风格、镜头动效、加字 | 12 |
 
 <!-- cases:start -->
 案例总数：**0**（已上架 0）
@@ -106,8 +108,9 @@ Skill 已用真实出图跑通五次试做，记录都在 [trials/](trials/)，�
   - `two-state-gif/`：光栅变画卡、动态海报
 - `prompts/`：通用提示词公式
 - `trials/`：Skill 试做记录（包括表情包以外类型的试做）
+- `inspiration/`：灵感池，从全网收集的好 case 先放这里，带状态；**审批通过后才能用**，用法是换成原创角色重做（[规则](inspiration/README.md)）
 - `cases/`：案例库，按“类型（系列）/ 分组 / 案例”组织，一类一个子目录，有第一个案例时再建；`cases/index.json` 是全量索引
-- `tools/`：仓库维护脚本
+- `tools/`：仓库维护脚本（`build_index.py` 生成案例索引，`inspiration.py` 管灵感池）
 - `docs/`：[上架指南](docs/wechat-publishing.md)、[被拒原因](docs/rejections.md)、[成本实测表](docs/cost-log.md)
 - `site/`：可视化站（阶段 2，未开始）
 

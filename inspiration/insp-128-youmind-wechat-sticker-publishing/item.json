@@ -1,0 +1,29 @@
+{
+  "id": "insp-128",
+  "title": "YouMind：微信表情包制作与上架助手 Skill，分步确认式",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://youmind.com/zh-TW/skills/wechat-sticker-publishing-generator-aFNisEIuhRhy85",
+    "platform": "YouMind",
+    "author": "YouMind",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "分步确认式制作动态表情包的 Skill：默认 10 个 GIF，加全套上架素材，v5 版 2026-11-06 更新",
+  "why": "一梗一套的玩法很清晰：先定角色母图、2 张样图确认、再批量 8-16 张；分步确认防跑偏的流程设计值得借",
+  "borrow": [
+    "一梗一套的玩法：先定角色母图、2 张样图确认、再批量 8-16 张",
+    "分步确认防跑偏的流程设计",
+    "横幅、封面、图标、赞赏图加表单内容一次备齐的交付组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借分步确认流程与一梗一套玩法，不抄它的示例角色"
+  },
+  "tags": ["Skill", "微信表情包", "上架", "分步确认", "YouMind"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

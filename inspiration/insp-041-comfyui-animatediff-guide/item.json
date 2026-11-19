@@ -1,0 +1,30 @@
+{
+  "id": "insp-041",
+  "title": "ComfyUI AnimateDiff：静态图变动图的完整工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://www.alexanderharte.com/comfyui-animatediff-guide/",
+    "platform": "alexanderharte.com",
+    "author": "Alexander Harte",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一份 ComfyUI AnimateDiff 完整指南：静态产品图、插画经 VAE 编码加去噪控制变动起来，讲运动模块安装、去噪 0.3-0.5 保品牌一致性、提示词 75 token 上限、帧插值提顺滑度、低显存启动参数与常见报错排查",
+  "why": "参数经验很具体：去噪区间、token 上限、插值倍数、显存优化都有实测值，是一条能直接照着搭的本地工作流，适合做产品图与品牌素材的动效",
+  "borrow": [
+    "去噪 0.3-0.5 保一致性的参数经验：低了不动，高了走样",
+    "提示词 75 token 上限的约束写法",
+    "帧插值提顺滑度的做法：每对帧之间插一帧",
+    "闭环循环与故障排查的检查清单思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "AnimateDiff 与 ComfyUI 节点均为开源；只借工作流与参数经验"
+  },
+  "tags": ["ComfyUI", "AnimateDiff", "工作流", "产品图"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "insp-040",
+  "title": "ThinkDiffusion：AnimateDiff 做 GIF 动画教程",
+  "type": "multi",
+  "source": {
+    "url": "https://civitai.com/articles/2312/create-stunning-gif-animations-quickly-with-animatediff-by-thinkdiffusion",
+    "platform": "Civitai",
+    "author": "ThinkDiffusion",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一份 AnimateDiff 做 GIF 的教程：在 Stable Diffusion 里加运动模块，文生或图生短动画，讲运动模块选型、16 帧起步、循环次数设 0 无限循环，附两组不同风格的完整设置",
+  "why": "它是开源运动模块路线的实操版：参数（运动模块版本、帧数、循环设置）都给了具体值，适合对照着在本地 SD 工作流里复现循环 GIF",
+  "borrow": [
+    "运动模块加基础模型的分层思路：底模型管画风，运动模块管动作",
+    "16 帧起步、无限循环的参数取法",
+    "写实与卡通两类风格共用同一套流程的组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "AnimateDiff 本体为 Apache-2.0 开源；教程示例画面只借流程，不用它的角色"
+  },
+  "tags": ["AnimateDiff", "Stable Diffusion", "开源", "教程", "Civitai"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

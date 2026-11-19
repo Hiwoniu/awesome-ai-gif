@@ -1,0 +1,30 @@
+{
+  "id": "insp-121",
+  "title": "91直播：Seedream 5.5 先锁角色再做四格循环表情包",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://91zhibo.net/articles/tool_tip_2026-11-12-ayi-ainotes.html",
+    "platform": "91直播",
+    "author": "ayi-ainotes",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Seedream 5.5 做微信动态表情包的长文解读：先做角色设定表，再在一张图里画四格关键帧切成循环 GIF",
+  "why": "选题方法很特别：从聊天记录找选题缺口，拒绝类单列；四宫格一次画齐防闪烁的做法也值得借",
+  "borrow": [
+    "角色设定表的做法：多角度加辨认标记",
+    "从聊天记录找选题缺口的方法",
+    "四宫格一次画齐防闪烁的做法",
+    "每句文案拆四帧动作表的写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借设定表与选题方法，不抄它的示例角色与文案"
+  },
+  "tags": ["Seedream 5.5", "角色设定表", "四宫格", "选题"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

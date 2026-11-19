@@ -1,0 +1,29 @@
+{
+  "id": "insp-009",
+  "title": "lemo-wake：一张静态图拆解重建做 5 秒无缝循环",
+  "type": "multi",
+  "source": {
+    "url": "https://skillsllm.com/skill/lemo-wake",
+    "platform": "SkillsLLM",
+    "author": "lemomo-ai",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Claude Code Skill：不生图，把一张图拆成文字/形状/物体/光影后用代码重建并编舞，渲染成约 5 秒首尾相接的循环动图",
+  "why": "这是一条完全不同的技术路线：代码重建而非模型生帧，循环和文字稳定性可能比生图路线强",
+  "borrow": [
+    "拆图重建+代码编舞的路线",
+    "无缝循环的收尾处理",
+    "一张图多规格输出（GIF/WebP/实况照片等）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "GitHub 原仓 lemomo-ai/lemo-wake；只借路线，不搬代码，落地前查许可证"
+  },
+  "tags": ["Skill", "代码动画", "无缝循环"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

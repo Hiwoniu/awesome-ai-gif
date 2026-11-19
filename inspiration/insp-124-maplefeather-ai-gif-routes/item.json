@@ -1,0 +1,29 @@
+{
+  "id": "insp-124",
+  "title": "MapleFeather：ChatGPT、Canva、Grok 三条 AI 动图路线怎么选",
+  "type": "multi",
+  "source": {
+    "url": "https://maplefeather.com/article/ai-gif-chatgpt-canva-grok-guide-2026",
+    "platform": "MapleFeather",
+    "author": "MapleFeather",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "三条 AI 动图路线的对比：ChatGPT 直出 GIF、Canva 动画转 GIF、Grok 视频转 GIF，附跨平台发布坑点",
+  "why": "按用途选工具的决策表很实用，跨平台坑点也全：LINE 只收 APNG、Threads GIF 只搜 GIPHY、GIF 256 色渐层易出问题",
+  "borrow": [
+    "按用途选工具的决策表",
+    "Canva 免费版 GIF 上限的规格记录",
+    "跨平台发布坑点的清单写法：LINE、Threads、渐层色"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借决策表与坑点清单，不抄它的示例"
+  },
+  "tags": ["横评", "ChatGPT", "Canva", "Grok", "跨平台"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

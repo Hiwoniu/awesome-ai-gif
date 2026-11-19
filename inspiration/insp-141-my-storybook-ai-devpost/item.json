@@ -1,0 +1,36 @@
+{
+  "id": "insp-141",
+  "title": "My Storybook AI：孩子照片变多画风动画故事书",
+  "type": "storybooks",
+  "source": {
+    "url": "https://devpost.com/software/bb-3mzyo0",
+    "platform": "Devpost",
+    "author": "",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "把孩子照片变成个性化动画故事书视频的项目：5 种画风并行出角色、AI 写故事、按角色配音、FFmpeg 合成带字幕视频，支持中英双语。",
+  "why": "动态绘本的另一条技术路线，技术栈公开，角色多画风并行选择值得借鉴。",
+  "borrow": [
+    "照片转角色的 5 画风并行做法",
+    "故事梗概三风格的写法",
+    "分场景配音加字幕烧录的合成管线"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "涉及儿童照片，需监护人同意；只借技术路线与合成管线，不用真人照片做案例"
+  },
+  "tags": ["动态绘本", "故事书", "多画风", "FFmpeg", "配音"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

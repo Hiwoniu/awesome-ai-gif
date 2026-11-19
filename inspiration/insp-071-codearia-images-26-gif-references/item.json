@@ -1,0 +1,29 @@
+{
+  "id": "insp-071",
+  "title": "Codearia：ChatGPT Images 2.6 的 GIF 与保存参考图五步教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://academy.codearia.com/en/articles/chatgpt-images-2-6-gif-saved-references",
+    "platform": "Codearia Academy",
+    "author": "Codearia Academy",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Codearia 的 Images 2.6 教程：五步从一张照片做到自己的贴纸包，重点是 GIF 与保存参考图两个新能力叠加——参考图让角色跨对话保持一致，GIF 让角色动起来，并注明 GIF 只能改 ChatGPT 自己做的、不能改外部导入的 GIF",
+  "why": "它把保存参考图这个能力讲透了：角色一致性不再靠每轮贴图，而是靠一次保存、多次复用，配上 GIF 就是一套可复用的贴纸生产线",
+  "borrow": [
+    "保存参考图加 GIF 叠加的贴纸包流程",
+    "一次保存角色、多次复用的角色一致性做法",
+    "GIF 只能改自己做的、不能改外部导入 GIF 的边界提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例是对方的教程，只借流程与边界提醒；把真人存为参考图要先取得本人同意"
+  },
+  "tags": ["Codearia", "教程", "GPT Image 2.6", "保存参考图", "贴纸包"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

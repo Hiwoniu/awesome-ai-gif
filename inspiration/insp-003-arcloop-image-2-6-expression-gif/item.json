@@ -1,0 +1,29 @@
+{
+  "id": "insp-003",
+  "title": "Arcloop Image 2.6 六种角色表情 GIF 实测",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://arcloop.ai/handbook/zh-CN/image-2-6-character-expression-gif-guide",
+    "platform": "Arcloop",
+    "author": "Arcloop",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用一张角色图做六种动态表情（害羞、生气、傲娇、送爱心、委屈哭、得意眨眼）的 Image 2.6 实测，带拆帧观察",
+  "why": "它把情绪拆成看得见的动作来写提示词，并实测了帧数与时长，正好验证我们的表情套路",
+  "borrow": [
+    "情绪提示词结构：情绪+面部变化+一个主要动作+结束姿势",
+    "六种高频情绪的动作化写法",
+    "拆帧验收方法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借提示词结构和验收方法，不抄它的角色和原文提示词"
+  },
+  "tags": ["提示词", "表情包", "GPT Image 2.6", "实测"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}
