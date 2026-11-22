@@ -1,0 +1,70 @@
+# 实测、参数与避坑（62 条）
+
+能借到什么：帧数和尺寸怎么配、成本多少、哪些动作会做坏、原生 GIF 的边界。
+
+用法只有一种：借手法，换成原创角色重做。[规则](../README.md) · [全部主题](README.md)
+
+| 编号 | 标题 | 出处 | 借什么 |
+|---|---|---|---|
+| [insp-003](../insp-003-arcloop-image-2-6-expression-gif/) | Arcloop Image 2.6 六种角色表情 GIF 实测 | [Arcloop](https://arcloop.ai/handbook/zh-CN/image-2-6-character-expression-gif-guide) | 情绪提示词结构：情绪+面部变化+一个主要动作+结束姿势、六种高频情绪的动作化写法、拆帧验收方法 |
+| [insp-022](../insp-022-promptslove-gif-generator/) | Promptslove 的 GPT Image 2.6 提示词生成器：五段式简报与 GIF 参数 | [Promptslove](https://promptslove.com/free-tools/gpt-image-prompt-generator/) | 五段式简报结构：场景、主体、细节、用途、约束、循环 GIF 贴纸的固定模板套路、帧数与帧时长的参数取值范围 |
+| [insp-025](../insp-025-bulkimagen-gif-guide/) | BulkImagen 实测：16 张贴纸总结的一主一体一动提示词结构 | [BulkImagen](https://bulkimagen.com/blog/gpt-image-2-6-gif) | 一个主体、一个动作、一种风格的极简提示词结构、9 帧、每帧 200 毫秒的默认参数、透明底不可靠、改尺寸压平 GIF 的避坑点 |
+| [insp-026](../insp-026-runware-animated-gifs/) | Runware 文档：GPT-Image-2.6 Flare 的 GIF API 参数与提示词 | [Runware](https://runware.ai/docs/models/openai-gpt-image-2-6-flare/guides/animated-gifs) | API 路线的 GIF 参数写法：输出格式、帧数、帧时长、默认 9 帧、0.2 秒、512×512 的参数组合、贴纸与产品旋转两类提示词模板结构 |
+| [insp-030](../insp-030-aiboss88-gif-prompts/) | aiboss88 实测：参考 GIF 换主角与多场景 GIF 提示词 | [aiboss88](https://www.aiboss88.com/ja/news/tutorial-511613325-1794406095674-0) | 参考 GIF 换主角的做法：动作镜头取参考、外观取角色图、真人照片做自然小动作的表情做法、教育科普与商业图表两类非表情场景的提示词结构 |
+| [insp-032](../insp-032-ofox-seedream-gif-export/) | ofox 实测：Seedream 5.5 出帧后的本地导出与校验流程 | [ofox](https://ofox.ai/blog/seedream-5-5-frames-to-gif/) | 本地 PNG 帧拼 GIF 的导出工具链、导出后写检查报告的验收做法、验格表是否干净 3 列×2 行的检查要点、实测与未验证分开标注的写法 |
+| [insp-053](../insp-053-veevid-gpt-image-26-gif-guide/) | Veevid：GPT Image 2.6 做 GIF 的提示词结构与实测参数 | [Veevid](https://veevid.ai/blog/gpt-image-2-6-gif) | 五段式提示词结构：开场白、分步动作、固定项、风格、排除项、9 帧×200 毫秒、1.8 秒循环的参数、Flare 与 Sunburst 按用途选型的思路 |
+| [insp-088](../insp-088-zzo-ai-gif-generator/) | zzo.ai：GPT Image 2.6 直出 GIF 工具，4/6/9 帧与按帧计价实测 | [zzo.ai](https://zzo.ai/ai-gif-generator) | 4/6/9 帧、每帧 200ms 的帧数与时长搭配、一个主体加一个回到起点的动作的提示词结构、按帧计价与生成耗时的成本估算思路 |
+| [insp-089](../insp-089-cvy-gpt-image-26-gif-guide/) | CVY.AI：GPT Image 2.6 GIF 实测，Flare 与 Sunburst 对比 | [CVY.AI](https://cvy.ai/blog/gpt-image-2-6-gif) | Flare 与 Sunburst 按用途选型的思路、主体加动作加回起点加纯白底加固定机位的提示词结构、GIF 模式的限制清单写法 |
+| [insp-091](../insp-091-sharkly-chatgpt-gif-free/) | Sharkly：免费账号实测 ChatGPT Images 2.6 做 GIF | [Sharkly](https://sharkly.ai/blog/make-gifs-chatgpt-images-2-6-free/) | 免费账号实测的验收写法：确认真 GIF 文件而非动图预览、8 帧、1.28 秒循环的实测参数、播放速度 0.25x-2x 可调的用法、极简提示词模板的组织方式 |
+| [insp-1005](../insp-1005-ig-mum24by7-eyebrow-micro-motion-gif/) | IG @mum24by7：眉毛上下动微动效提示词实测 | [Instagram](https://www.instagram.com/reel/DfcggPHhVHm/) | 单部位微动效的极简提示词写法：只写一个部位加一个动作、自拍加一句话出微动表情的做法 |
+| [insp-101](../insp-101-airmore-best-ai-gif-generators/) | Airmore：2026 年 5 款 AI GIF 生成器横评 | [Airmore](https://airmore.ai/ai-review/best-ai-gif-generators) | 按输入类型分流推荐的横评组织方式、Moxion 的 GIF 专属控制思路、Rewind.ai 极简提示词优先的工作流 |
+| [insp-1035](../insp-1035-note-mbbs-gif-to-mp4-demo/) | 佐藤源彦：GPT Image 2.6 做 GIF 动画实测，从动图到 MP4 | [note.com](https://note.com/mbbs/n/n85afc2e63159) | 一次只加一个动作的追加工序、Loading、按钮、箭头类小素材的选题、30 帧图拼 MP4 的延展思路 |
+| [insp-1041](../insp-1041-mp-weixin-dashixiong-gif-6-plays/) | 大师兄AI笔记：实测 GPT Image 2.6，一句话做 GIF，6 种玩法 | [微信公众号](https://mp.weixin.qq.com/s/ZSxUXeCk-7r-L0G0khP-MA) | 定格动画逐格抖动感提示词结构、换角色复用模板、商品拆解动图做法 |
+| [insp-1047](../insp-1047-modelscope-gpt-image-26-dual-version-test/) | ModelScope：GPT Image 2.6 双版本实测，GIF 自制功能正式上线 | [ModelScope](https://www.modelscope.cn/posts/438356) | 三图参考做连续动作的出题法、双版本对比评测框架、时长上限验收点：要求 3–10 秒仍只出 1.8 秒、Flare 快、Sunburst 细节准的取舍 |
+| [insp-1054](../insp-1054-zhidx-gpt-gif-10-seconds/) | 智东西：GPT 能做动图了！10 秒一张，实测“穿帮”有点多 | [智东西](https://zhidx.com/p/607614.html) | 穿帮验收清单、思考量档位用法、成本估算 |
+| [insp-1080](../insp-1080-threads-0013-core-monkey-lantern/) | Threads @0013.core：猴子灯笼循环 GIF 官方示例动作链 + API 参数 | [Threads](https://www.threads.com/@0013.core/post/DfY5sStji_E) | 举起-看-眨眼-放回动作链提示词、9 帧×200ms=1.8 秒循环参数 |
+| [insp-1115](../insp-1115-hifox-make-gifs-chatgpt-images-2-6-free/) | HiFox：免费做 ChatGPT Images 2.6 GIF 实测指南 | [HiFox 博客](https://hifox.com/blog/make-gifs-chatgpt-images-2-6-free/) | 免费路径的操作步骤、提示词写法、实测中的排错经验 |
+| [insp-1176](../insp-1176-threads-vacodelab-monkey-roller-skating-gif/) | Threads @vacodelab：猴子轮滑 GIF 实测与测速 | [Threads](https://www.threads.com/@vacodelab/post/DfoeKoABLax) | 具体示例提示词的写法、生成速度对比的测速口径 |
+| [insp-123](../insp-123-juejin-images-26-gif-guide/) | 掘金：ChatGPT Image 2.6 直接生成 GIF 表情包实测 | [掘金](https://juejin.cn/post/7704455397478891555) | 官方示例的拆解写法：模型、帧数、时长逐项对、Sunburst 精细与 Flare 速度的选型结论、complexity 与 quality 两个参数的说明、GIF 输出接口与编辑接口的区别提醒 |
+| [insp-138](../insp-138-kavel-best-free-ai-gif-generators/) | Kavel：2026 年 12 款免费 AI GIF 生成器横评 | [Kavel 博客](https://www.kavel.ai/blog/best-free-ai-gif-generators-2026) | 原生 GIF 的循环稳定性逻辑、免费额度对照表的收录维度、一句话加一个动作的提示词结构 |
+| [insp-168](../insp-168-convertify4u-how-to-make-a-gif/) | Convertify4u：浏览器 GIF 工作室，正播倒播往返播参数 | [Convertify4u](https://www.convertify4u.com/how-to-make-a-gif) | 往返播做短动作无缝循环的做法、延迟与质量的默认值与取值范围、先默认出一张、再一次只调一个参数的调试纪律 |
+| [insp-187](../insp-187-zanzan-chatgpt-gif-tutorial/) | 贊贊小屋：ChatGPT GIF 动画教学（免费版实测） | [贊贊小屋](https://zanzan.tw/archives/a00163) | 提示词五要素：内容/每格顺序/角色外观/色彩风格/文字要求、六格教学动图的实测记录（处理时间 30 秒）、免费版实测的可用性验证 |
+| [insp-205](../insp-205-laozhang-gpt-image-gif-api/) | 老张博客：GPT Image 2.6 GIF API 实测（参数、帧数与成本） | [blog.laozhang.ai](https://blog.laozhang.ai/en/posts/gpt-image-2-6-gif-api) | GIF API 三个关键参数与取值、“循环不等于平滑循环”的首尾跳变检测脚本思路、Flare 与 Sunburst 的选型区分、按 token 计费的实测成本记录法 |
+| [insp-243](../insp-243-evolink-gpt-image-26-gif-guide/) | EvoLink：GPT Image 2.6 GIF 教程（参数、帧数与成本） | [EvoLink](https://evolink.ai/zh/blog/gpt-image-2-6-gif-guide) | Flare 快 vs Sunburst 细的选型、9 帧×200ms 默认组合、首尾衔接写法、费用按帧图布局分档 |
+| [insp-244](../insp-244-ifanr-seedream-55-review/) | 爱范儿：实测 Seedream 5.5（透明底贴纸与图层拆分） | [爱范儿](https://www.ifanr.com/1688447) | 原生透明底贴纸、图层拆分复用、豆包工作流 Skill 调用、真人转 chibi 贴纸流程 |
+| [insp-267](../insp-267-aimlapi-gpt-image-26-review/) | AI/ML API：GPT Image 2.6 评测——30 次实测与成本 | [AI/ML API](https://aimlapi.com/blog/gpt-image-2-6-review) | Flare/Sunburst 的速度与质量取舍、GIF 实测成本模型、相机运动不生效等已知短板、基准测试方法 |
+| [insp-291](../insp-291-x-op7418-chatgpt-sticker-test/) | X @op7418：ChatGPT 贴纸实测案例 | [X/Twitter](https://x.com/op7418/status/2118184315507118272) | ChatGPT 端直出贴纸的实测效果 |
+| [insp-301](../insp-301-kadr-ai-gif-generator-guide/) | KADR：AI GIF Generator 实测指南（9 帧×200ms 规格表） | [KADR](https://kadr-ai.ru/en/blog/ai-gif-generator) | 9 帧循环的规格表、“一个重复动作+镜头静止+无缝循环”公式 |
+| [insp-371](../insp-371-x-freeman1266-loop-lock-prompt/) | X @freeman1266：循环锁定提示词实测结论 | [X/Twitter](https://x.com/freeman1266/status/2118188822752317443) | 循环锁定写法、首尾帧一致、角色比例锁定 |
+| [insp-376](../insp-376-youtube-french-gif-chatgpt-tutorial/) | YouTube：法语教程——5 类动画 GIF 与帧数取舍 | [YouTube](https://www.youtube.com/watch?v=76A8DmYAdz0) | 5 类 GIF 分类、帧数取舍、三步迭代法、帧率调节 |
+| [insp-378](../insp-378-youtube-mervin-praison-images-26-gif/) | YouTube：Mervin Praison 实测 Images 2.6 GIF 与 Python 代码 | [YouTube](https://www.youtube.com/watch?v=Brc9adOBEtc) | Python 出 GIF 代码、实测耗时与 token 数据、API 路线 |
+| [insp-380](../insp-380-youtube-french-gif-app-tutorial/) | YouTube：法语教程——Images 2.6 实测与自建 GIF 应用 | [YouTube](https://www.youtube.com/watch?v=inm4fNkZmWo) | 单帧修图、参考图复用、自建 GIF 应用思路 |
+| [insp-381](../insp-381-genie-artificiel-make-gif-chatgpt/) | genie-artificiel：ChatGPT 做 GIF 的步骤、权限与限制 | [genie-artificiel](https://www.genie-artificiel.com/en/ai-tutorials/make-gif-chatgpt/) | 分步教程结构、权限与限制说明、上传静图转动图 |
+| [insp-382](../insp-382-atlascloud-can-chatgpt-make-gifs/) | Atlas Cloud：ChatGPT 到底能不能做 GIF？能力边界实测 | [Atlas Cloud](https://www.atlascloud.ai/blog/tips/can-chatgpt-make-gifs) | 能力边界清单、提示词示例、验收对照 |
+| [insp-391](../insp-391-schreiergroup-instagram-cutouts-gif/) | schreiergroup：Instagram Cutouts 贴纸实测——把自己变成 GIF | [schreiergroup](https://schreiergroup.com/hype-audit/instagram-cutout-video-sticker-turn-yourself-into-gif-real/) | 手机端 GIF 贴纸路线、Cutouts 工作流、实测核查写法 |
+| [insp-417](../insp-417-itechguides-best-ai-gif-makers-2026/) | Best AI GIF Makers in 2026：23 款工具横评 | [iTechGuides](https://www.itechguides.com/best/ai-gif-makers/) | 工具选型维度（免费额度、模板、导出控制）、头部工具的定位差异、低价工具的价格锚点 |
+| [insp-441](../insp-441-devto-deepfox-gpt-image-26-gif-review/) | DEV：GPT Image 2.6 实测，静图变化不大、GIF 才是新东西 | [DEV](https://dev.to/deepfox/gpt-image-26-review-still-images-barely-changed-gifs-are-new-569a) | 按动作幅度选帧数、一次只做一个动作、文字不超过一两个词 |
+| [insp-455](../insp-455-medium-images-26-free-plan-review/) | Medium：ChatGPT Images 2.6 免费版实测——每天约 8 张、GIF 约 20 秒 | [Medium](https://medium.com/@iamsupcat/chatgpt-images-2-6-review-perfect-korean-text-about-8-free-images-a-day-vs-3-local-models-85319f592f9e) | 免费额度与生成耗时的实测数字、同一提示词跨模型对照的验收写法 |
+| [insp-466](../insp-466-babadidi-image-26-nine-sticker-prompts/) | 巴巴小站：Image 2.6 实测，9 套表情包提示词一次给齐 | [巴巴小站](https://www.babadidi.com/3698.html) | 9 个场景的分类组织、批量生成的流程、调速与逐帧修改的迭代方法 |
+| [insp-478](../insp-478-softreviewed-openai-images-26-gif/) | SoftReviewed：OpenAI Images 2.6 循环 GIF 实测与隐藏 Complexity 设置 | [SoftReviewed](https://softreviewed.com/openai-images-2-6/) | 翻页书提示词法则的写法、末帧回到首帧的循环约束、Flare 与 Sunburst 的选型对照、complexity 参数的取舍 |
+| [insp-521](../insp-521-toolji-video-to-gif-specs/) | toolji：视频转 GIF 实践方案，分场景帧率与尺寸规格表 | [toolji.com](https://www.toolji.com/blog/case-video-to-gif) | 分场景的帧率尺寸体积规格表、体积超标时的降帧降尺寸处理法 |
+| [insp-531](../insp-531-instagram-manish-siwach-loop-gif-test/) | Instagram：Manish Siwach ChatGPT 循环 GIF 实测，输出限制约 300–700px | [Instagram](https://www.instagram.com/reel/DfZvrTWyyjd) | 输出限制的实测规格、一句话转 GIF 的 1:1 用法、多组提示词写法 |
+| [insp-612](../insp-612-predis-gpt-image-26-gif-flare-sunburst/) | Predis.ai：GPT Image 2.6 的 Flare 与 Sunburst 动图对比实测 | [Predis.ai](https://predis.ai/ai-models/gpt-image-2-6/) | Flare/Sunburst 对比法、8 帧 200ms 参数、产品旋转循环提示词结构 |
+| [insp-616](../insp-616-laptop251-best-ai-gif-makers-2026/) | Laptop251：2026 年 23 款 AI GIF 工具横评 | [Laptop251](https://Laptop251.com/best/ai-gif-makers/) | 23 款工具全景、价格与免费额度对照、导出规格表 |
+| [insp-634](../insp-634-aihot-aiwarts-ten-gif-plays/) | X @aiwarts：GPT Image 2.6 十个 GIF 玩法提示词实测（AIHOT 转述） | [X（AIHOT 转述）](https://aihot.news/items/kss7rjmanc8dv5mpj60jtdzgd) | 十个 GIF 玩法清单、先查热门画风再批量生成、透明通道 loading 与横版动图规格 |
+| [insp-638](../insp-638-aifindar-best-ai-gif-tools-2026/) | AIFindar：2026 年 8 款 AI GIF 工具横评 | [AIFindar](https://aifindar.com/blog/best-ai-gif-generator-tools) | 8 款工具全景对照、文本/图片/视频/表情包四类输入划分、选型维度清单（API、商用授权、导出格式） |
+| [insp-652](../insp-652-gifmuse-gpt-image-26-gif-guide/) | GifMuse：GPT Image 2.6 GIF 实测指南，五段提示词公式与 Flare 测速 | [GifMuse](https://gifmuse.com/blog/gpt-image-2-6-gif/) | 五段提示词公式（主体+动作+风格+背景+循环）、9 帧最顺滑的实测结论、Flare 测速的对照写法、文档矛盾处只列实测值的做法 |
+| [insp-707](../insp-707-ciyo-gpt-image-26-gif-tutorial/) | Ciyo：GPT Image 2.6 GIF 教程，Sunburst 实测 9 帧气球漂移循环 | [Ciyo 博客](https://ciyo.ai/blog/gpt-image-2-6-gif-tutorial) | 9 帧×200ms 的循环默认值、末帧回正的跳帧检查、Sunburst 直出 GIF 的实测流程 |
+| [insp-733](../insp-733-juejin-images-26-gif-limits-cost/) | 掘金：OpenAI Images 2.6 拆解，GIF 的边界、选型与成本 | [掘金](https://article.juejin.cn/post/7704923158558670902) | GIF 参数边界：2–64 帧、20–2000ms/帧，与 3 秒 72 帧超限的推算、Flare 走速度试效果、Sunburst 走多轮一致性的选型逻辑、complexity 三档的取舍思路、已有图片先重绘多帧拼图、再本地切帧的兜底路线 |
+| [insp-765](../insp-765-ainformation-gpt-image-26-five-prompts/) | AInformation：GPT Image 2.6 五条提示词实测与通过表 | [AInformation](https://ainformation.jp/en/article/18461) | 同一对话追加动效：一句话让已定稿角色挥手做循环 GIF、逐项验收表：每条请求先定通过条件再记耗时与结果、点名保持不变的元素：换背景时逐项列出脸、服装、眼镜、姿势、单动作优先：只写一个动作加保持背景，避免多动作失控 |
+| [insp-769](../insp-769-note-bluesnyaiper-keyboard-wave-gif/) | note：ChatGPT 九帧挥键盘 GIF 实测（日文） | [note](https://note.com/bluesnyaiper/n/nba77ab176cca) | 九帧单动作循环的帧数取舍、角色加道具的动效：挥动键盘这类手持物动作的写法 |
+| [insp-807](../insp-807-fb-yan-shi-lun-flare-speed-comparison/) | Facebook Yan Shi Lun：Flare 提速 46% 对比加蓝鸟爱心墨镜 GIF | [Facebook](https://www.facebook.com/yan.shi.lun.933337/posts/pfbid02gEVWfrhq2t4N3y8rrhfa6aUku9vftqQ15UqfLj3L98uqh5kXztDMVa6nafYMukNcl) | Flare 提速 46% 的速度对比数据、蓝鸟爱心墨镜 GIF 的示例 |
+| [insp-828](../insp-828-juejin-gpt-image-26-batch-pipeline/) | 掘金：GPT Image 2.6 批量改图工程化——任务拆分与失败重跑 | [掘金](https://juejin.cn/post/7709418733185974323) | 提示词拆基线/变量/禁止修改三段模板，基线带版本号与参考图固化、幂等键与失败重跑：只重跑失败节点，GIF 独立验收 frame_count 2–16 |
+| [insp-832](../insp-832-x-798145343h-small-motion-enough-frames/) | X @798145343h：动作幅度大、中间帧少会卡顿，宜小幅度配足帧数 | [X](https://x.com/798145343h/status/2118164732989608405) | 大幅度加少帧会卡顿的失败模式、小幅度配足帧数的帧数选择规则 |
+| [insp-833](../insp-833-x-pigeon-s-background-boiling-gif/) | X @pigeon__s：背景沸腾失败模式，纯色/透明背景加锁定句 | [X](https://x.com/pigeon__s/status/2118129644037939511) | 背景沸腾的失败模式：云、羽毛每帧都变、纯色/透明背景加每帧背景不变锁定句的写法 |
+| [insp-914](../insp-914-lightlyn-ai-gif-generator/) | Lightlyn：GPT Image 2.6 文生 GIF 工具，附六段提示词与规格 | [Lightlyn Images](https://image.lightlyn.com/zh/ai-gif-generator) | 六段式角色+动作+无缝循环提示词、9 帧/1.8 秒规格参数、只动一处其余不动的写法 |
+| [insp-945](../insp-945-apimodels-gpt-image-26-vs-25-examples/) | apimodels：GPT Image 2.6 vs 2.5 同提示词对比，附成套贴纸 GIF 做法 | [apimodels.app](https://apimodels.app/blog/gpt-image-2-6-vs-2-5-examples) | 一句话出贴纸 GIF 再以首帧为参考扩成整套的做法、震惊、眨眼点赞、吃饭三情绪的成套搭配、8 帧循环的实测口径 |
+| [insp-957](../insp-957-atlascloud-reaction-gif-frame-check/) | AtlasCloud：三个 GPT Image 2.6 反应 GIF 实测与逐帧检查法 | [AtlasCloud](https://www.atlascloud.ai/blog/tips/gpt-image-2.6-reaction-gif) | 一情绪一动作的反应结构：中性→峰值→回正、首末帧对照检查法：连续播三遍、比对首帧与峰值帧、末帧、逐帧分镜提示词写法：按帧号写表情与动作变化、背景色写死具体色值、留足安全边的验收点 |
+| [insp-973](../insp-973-runtheprompts-13-chatgpt-gif-prompts/) | RunThePrompts：13 个 ChatGPT GIF 创意提示词实测 | [RunThePrompts](https://runtheprompts.com/prompts/chatgpt/create-gifs-in-chatgpt-images-2-6/) | 照片转动图的提示词结构：点名不动的元素防穿帮、反向延长循环的追问技巧（墨水滴落再收回）、一句话出 GIF 的短提示词打法、从静态设计出 GIF 再延长的两步走法 |
+| [insp-974](../insp-974-nano-banana-gpt-image-26-gif-guide/) | Nano Banana：GPT Image 2.6 GIF 指南，模型分档与参数表 | [Nano Banana](https://www.nananobanana.com/en/blogs/cmw4b344f000ll4crv1qff4yq) | 第三方平台跑 2.6 做 GIF 的选型对照：1K 出 GIF、2K/4K 只出 PNG、帧数 4–16、帧间隔 50–500ms 的参数表、按模型计费的成本对照写法、五步操作流程的组织 |
+| [insp-984](../insp-984-laozhang-chatgpt-gif-frame-quantified/) | LaoZhang：ChatGPT 做 GIF 实测 — 帧数与尺寸的量化规律 | [LaoZhang AI Blog](https://blog.laozhang.ai/zh/posts/how-to-make-a-gif-in-chatgpt) | 帧数×毫秒=一圈时长的参数写法、动作想慢优先加毫秒而非加帧的取舍规则、调速与改内容的代价区分：调速只改时长、改内容整段重画、下载分当前速度/原始速度两档的提醒 |

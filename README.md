@@ -20,7 +20,7 @@
 | 动态绘本 | 多页连续画面讲一个小故事 | 待定 | — | 远期 |
 
 不知道该用哪个，装总入口 [ai-gif](skills/ai-gif/SKILL.md)，它会按你说的话转到对应的 Skill。
-不做：视频和带配音的短片、静态海报、配色方案（都不是 GIF），以及现有 IP、明星脸、真人肖像。类型划分参考了 [gif-factory](https://github.com/WoYun520/gif-factory)，取舍理由见 [仓库规划.md](仓库规划.md) 的“系列规划”。
+不做：视频和带配音的短片、静态海报、配色方案（都不是 GIF），以及现有 IP、明星脸、真人肖像。这条管的是成品：灵感池里涉及真人、现成 IP 或视频路线的条目可以通过，但只借手法，做出来的仍是原创角色（或自家宠物）的 GIF。类型划分参考了 [gif-factory](https://github.com/WoYun520/gif-factory)，取舍理由见 [仓库规划.md](仓库规划.md) 的“系列规划”。
 
 ## 微信表情包
 
@@ -53,6 +53,35 @@
 - 体积可控：整段共用一张调色板、每帧只写变化区域，6 秒的卡不到 1MB（逐帧整张写约 5MB）。
 - 模型把格子比例画错时会报错提醒，可用 `--crop-y` 选窗口，不会悄悄裁掉一大块。
 - 可在底部加固定标题，每帧不闪。
+
+## 灵感池：全网 AI 动图做法，按主题分好
+
+做新类型之前先看别人怎么做。这里把全网能找到的 AI 动图教程、Skill、实测和案例收到一起，按主题分好类，每一类都能点进去看完整列表。
+
+<!-- inspiration:start -->
+收了 **1161** 条，每条都有出处链接和我们自己写的分析（它怎么做的、我们能借什么）。别人的图不入库，下面的配图都是我们自己做的。
+
+| 主题 | 条数 | 能借到什么 | 我们做出来的 |
+|---|---|---|---|
+| [微信表情包：整套、上架与变现](inspiration/topics/wechat.md) | 44 | 从定角色到投稿的全流程、素材规格、被拒原因、赞赏和定制的变现路径 | <img src="trials/2026-11-16-codex-orange-cat/wx-001-greeting/result.gif" width="72"> <img src="trials/2026-11-17-remix-rabbit/wx-002-laugh/result.gif" width="72"> |
+| [照片变表情：宠物、头像](inspiration/topics/photo.md) | 68 | 多张参考图锁角色、保长相只加微动、照片转 Q 版；真人部分不用，换自家宠物 | <img src="trials/2026-11-18-duoduo/06-sneak/result.gif" width="72"> <img src="trials/2026-11-18-snail-cat-remix/13/result.gif" width="72"> |
+| [图集与序列帧：九宫格、六帧、精灵表](inspiration/topics/sheets.md) | 117 | 一张图画完整套或整段动作、切图避开网格线、末帧接回首帧 | <img src="trials/2026-11-18-gif-factory-styles/clay/01-wave/result.gif" width="72"> <img src="trials/2026-11-16-codex-orange-cat/wx-002-laugh/result.gif" width="72"> |
+| [动态海报、产品图与局部动效](inspiration/topics/posters.md) | 72 | 只动一个元素其余锁死、字不动背景动、按节拍排场、首帧能当封面 | <img src="trials/2026-11-18-gif-factory-styles/poster/result.gif" width="72"> |
+| [光栅卡、全息卡与贺卡](inspiration/topics/cards.md) | 22 | 两态对齐、翻转节奏、共享调色板、节日题材 | <img src="trials/2026-11-18-gif-factory-styles/card/result.gif" width="72"> |
+| [游戏精灵与像素动画](inspiration/topics/game.md) | 115 | 多方向精灵表、行走循环、锚点和帧计划；像素画风的出图顺序 | <img src="trials/2026-11-18-gif-factory-styles/pixel/03-laugh/result.gif" width="72"> <img src="trials/2026-11-18-gif-factory-styles/pixel/08-shock/result.gif" width="72"> |
+| [动态签名](inspiration/topics/signatures.md) | 24 | 签名卡的规格、首帧能独立成图、逐字出现的时序 | 还没做 |
+| [动态绘本](inspiration/topics/storybooks.md) | 28 | 每页只做一个动作的拆页法、跨页角色一致、微动而不是大动作 | 还没做 |
+| [手绘、涂鸦变动图](inspiration/topics/sketch.md) | 24 | 保留原笔触的提示思路、先净化成角色再加动作、孩子的画怎么动起来 | 还没做 |
+| [提示词模板与公式](inspiration/topics/prompts.md) | 112 | 提示词分几段写、哪句管循环、哪句管一致性 | — |
+| [实测、参数与避坑](inspiration/topics/tests.md) | 62 | 帧数和尺寸怎么配、成本多少、哪些动作会做坏、原生 GIF 的边界 | — |
+| [开源 Skill 与工具](inspiration/topics/skills.md) | 143 | 别人的 Skill 怎么拆步骤、怎么做机检、怎么组织脚本和规格配置 | — |
+| [视频模型与无缝循环](inspiration/topics/video.md) | 123 | 首尾同帧、藏接缝、补帧这些循环技法；我们只借思路，成品仍是 GIF | — |
+| [代码动效：Lottie、SVG、逐帧渲染](inspiration/topics/code.md) | 33 | 不靠模型出图、用代码逐帧画的路线，适合文字和几何动效 | — |
+| [其他平台贴纸：LINE、WhatsApp、Telegram、Discord](inspiration/topics/platforms.md) | 48 | 各平台的尺寸、格式和上架流程，留给多平台规格用 | — |
+| [其他教程与资讯](inspiration/topics/misc.md) | 126 | 入门教程、功能发布、工具页 | — |
+<!-- inspiration:end -->
+
+全部条目和审批状态见 [灵感池看板](inspiration/README.md)。用法只有一种：借手法，换成原创角色重做，不搬别人的画面和提示词原文。
 
 ## 快速开始
 
