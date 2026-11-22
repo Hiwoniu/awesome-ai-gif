@@ -27,8 +27,13 @@
     "循环 GIF",
     "规格"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借循环 GIF 的帧数/帧时长规格表：2–16 帧、默认 9 帧、每帧 20–2000ms、一个动作回到起始姿势的提示词写法、Flare（快）与 Sunburst（质）的双模型选型思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -36,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借循环 GIF 的帧数/帧时长规格表：2–16 帧、默认 9 帧、每帧 20–2000ms、一个动作回到起始姿势的提示词写法、Flare（快）与 Sunburst（质）的双模型选型思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

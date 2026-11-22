@@ -27,8 +27,13 @@
     "九宫格",
     "成包"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借角色锁定、分批验收和防漂移的流程与检查法，用于记录跨张一致性；示例角色和提示词原文不搬"
+  },
   "landed": [],
   "history": [
     {
@@ -36,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借角色锁定、分批验收和防漂移的流程与检查法，用于记录跨张一致性；示例角色和提示词原文不搬"
     }
   ]
 }

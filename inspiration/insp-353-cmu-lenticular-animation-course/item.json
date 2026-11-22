@@ -26,8 +26,13 @@
     "课程",
     "规格"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借双图对齐、共享调色板、循环规格和贺卡题材，用原创角色做光栅变画卡案例；不搬对方的画面和代码"
+  },
   "landed": [],
   "history": [
     {
@@ -35,6 +40,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借双图对齐、共享调色板、循环规格和贺卡题材，用原创角色做光栅变画卡案例；不搬对方的画面和代码"
     }
   ]
 }

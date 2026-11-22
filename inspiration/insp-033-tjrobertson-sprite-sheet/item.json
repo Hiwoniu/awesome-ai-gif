@@ -22,9 +22,33 @@
     "license": "unknown",
     "note": "只借实测结论，不用它的示例角色"
   },
-  "tags": ["实测", "精灵表", "GPT Image 2.6", "Sunburst", "Flare"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "实测",
+    "精灵表",
+    "GPT Image 2.6",
+    "Sunburst",
+    "Flare"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借Sunburst 与 Flare 画精灵表的选型结论、逐帧画优于整张表的实测结论、卡通角色可用、产品转盘不行的适用边界、透明底锯齿问题的提醒；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借Sunburst 与 Flare 画精灵表的选型结论、逐帧画优于整张表的实测结论、卡通角色可用、产品转盘不行的适用边界、透明底锯齿问题的提醒；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

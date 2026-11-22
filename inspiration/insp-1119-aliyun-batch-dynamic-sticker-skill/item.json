@@ -11,15 +11,29 @@
   },
   "what": "作者自制的批量生成动态表情包 Skill 分享。",
   "why": "批量化路线的实测 Skill，与单张教程形成互补。",
-  "borrow": ["批量生成的流程设计", "Skill 的提示词编排", "批量场景下的角色一致性处理"],
+  "borrow": [
+    "批量生成的流程设计",
+    "Skill 的提示词编排",
+    "批量场景下的角色一致性处理"
+  ],
   "risks": {
     "ip_or_real_person": false,
     "license": "unknown",
     "note": "仅凭搜索摘要收录，未打开原文核实。"
   },
-  "tags": ["Skill", "批量生成", "动态表情包", "教程"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Skill",
+    "批量生成",
+    "动态表情包",
+    "教程"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借批量生成的流程设计、Skill 的提示词编排、批量场景下的角色一致性处理；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -27,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借批量生成的流程设计、Skill 的提示词编排、批量场景下的角色一致性处理；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

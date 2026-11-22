@@ -22,9 +22,32 @@
     "license": "unknown",
     "note": "商业产品，只借提示词写法和矢量路线，不搬它的示例动画"
   },
-  "tags": ["工具", "矢量动画", "Lottie", "Product Hunt"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "工具",
+    "矢量动画",
+    "Lottie",
+    "Product Hunt"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借提示词四要素：动什么、怎么动、风格、颜色、矢量动画生成后可改色改形的思路、Turbo 与 Quality 两档生成的取舍、GIF 只作兼容回退、主推矢量格式的导出策略；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借提示词四要素：动什么、怎么动、风格、颜色、矢量动画生成后可改色改形的思路、Turbo 与 Quality 两档生成的取舍、GIF 只作兼容回退、主推矢量格式的导出策略；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

@@ -22,9 +22,33 @@
     "license": "Apache-2.0",
     "note": "Apache-2.0 可借鉴实现思路；生成要走自己的 Codex 或 Grok 账号"
   },
-  "tags": ["Skill", "开源工具", "精灵表", "GitHub", "游戏"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Skill",
+    "开源工具",
+    "精灵表",
+    "GitHub",
+    "游戏"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借按动作状态逐行生成再拼图的思路、抠纯色背景转真透明的抽帧做法、manifest.json 记录帧位置、帧率与循环标志的组织方式、挑帧浏览视图与循环质量检查流程；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借按动作状态逐行生成再拼图的思路、抠纯色背景转真透明的抽帧做法、manifest.json 记录帧位置、帧率与循环标志的组织方式、挑帧浏览视图与循环质量检查流程；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

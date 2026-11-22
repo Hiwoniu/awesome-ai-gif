@@ -21,9 +21,32 @@
     "license": "unknown",
     "note": "输入是用户自拍真人照片；只借 Skill 流程，不用真人照片做法，落地前查许可证"
   },
-  "tags": ["Skill", "Seedream", "自拍", "GitHub"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Skill",
+    "Seedream",
+    "自拍",
+    "GitHub"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借自拍转角色设定图再出八格表的 Skill 流程、字幕直接画在同一格里的字幕处理、8 个表情各 8 帧的成套规模组织；涉及真人肖像或现成 IP 的部分不用，换成原创角色或自家宠物；不搬对方的画面、文案和提示词原文"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借自拍转角色设定图再出八格表的 Skill 流程、字幕直接画在同一格里的字幕处理、8 个表情各 8 帧的成套规模组织；涉及真人肖像或现成 IP 的部分不用，换成原创角色或自家宠物；不搬对方的画面、文案和提示词原文"
+    }
+  ]
 }

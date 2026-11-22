@@ -27,8 +27,13 @@
     "API",
     "参数"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借output_format=gif 的 API 路线、帧数与时长换算（9 帧 × 200ms ≈ 1.8s）、下载后校验是否真为动图、先简单循环再加复杂动作；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -36,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借output_format=gif 的 API 路线、帧数与时长换算（9 帧 × 200ms ≈ 1.8s）、下载后校验是否真为动图、先简单循环再加复杂动作；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

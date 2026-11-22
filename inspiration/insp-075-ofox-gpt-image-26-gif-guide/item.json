@@ -22,9 +22,32 @@
     "license": "unknown",
     "note": "只借路线选择与参数写法，不抄它的提示词模板原文"
   },
-  "tags": ["GPT Image 2.6", "教程", "API", "三路线"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "GPT Image 2.6",
+    "教程",
+    "API",
+    "三路线"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借ChatGPT / 原生 API / 精灵表拼装三路线选择表、六段式提示词结构：输出—主体—动作—不变量—风格—验收、API 帧数与帧时长参数范围的实测记录、看满循环、查帧时序的验收标准；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借ChatGPT / 原生 API / 精灵表拼装三路线选择表、六段式提示词结构：输出—主体—动作—不变量—风格—验收、API 帧数与帧时长参数范围的实测记录、看满循环、查帧时序的验收标准；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

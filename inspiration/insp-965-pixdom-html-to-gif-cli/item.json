@@ -29,8 +29,13 @@
     "MCP",
     "开源工具"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借AI 写 HTML 动效再渲染成 GIF 的路线：先写代码动效、后转 GIF、--auto 自动算动画周期与帧率的思路：按 CSS 动画最小公倍数定 duration、按缓动类型定 FPS、19 个平台尺寸预设的做法：按等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -38,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借AI 写 HTML 动效再渲染成 GIF 的路线：先写代码动效、后转 GIF、--auto 自动算动画周期与帧率的思路：按 CSS 动画最小公倍数定 duration、按缓动类型定 FPS、19 个平台尺寸预设的做法：按等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

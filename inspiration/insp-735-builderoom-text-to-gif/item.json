@@ -22,9 +22,32 @@
     "license": "unknown",
     "note": "已用浏览器打开原页核实；页面未提及微信/LINE/WhatsApp 贴纸包，只说可做动态贴纸，不按贴纸包工具收"
   },
-  "tags": ["文生GIF", "工具", "参数", "导出格式"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "文生GIF",
+    "工具",
+    "参数",
+    "导出格式"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借帧数与帧时长参数范围：2–16 帧、20–2000ms/帧、五档质量与 1K–4K 分辨率的档位组织、GIF/SVG/PNG/WebP/JPG 五种导出格式的对照、图转 GIF 作为文生 GIF 之外的第二入口；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-20", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借帧数与帧时长参数范围：2–16 帧、20–2000ms/帧、五档质量与 1K–4K 分辨率的档位组织、GIF/SVG/PNG/WebP/JPG 五种导出格式的对照、图转 GIF 作为文生 GIF 之外的第二入口；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

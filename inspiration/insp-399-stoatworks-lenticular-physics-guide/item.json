@@ -28,8 +28,13 @@
     "物理模拟",
     "OpenFX"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借双图交错加倾斜翻转的物理模型、翻转边缘扫过卡面的时序、透镜间距失配导致摩尔纹与重影的成因、OpenFX/Resolume 落地形态；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -37,6 +42,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借双图交错加倾斜翻转的物理模型、翻转边缘扫过卡面的时序、透镜间距失配导致摩尔纹与重影的成因、OpenFX/Resolume 落地形态；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

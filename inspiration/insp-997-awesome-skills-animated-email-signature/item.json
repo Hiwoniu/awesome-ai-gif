@@ -29,8 +29,13 @@
     "Claude Code",
     "HTML 动效"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借HTML 动效转 GIF 路线：先写 HTML 动效卡片再渲染成 GIF、首帧必须是完整品牌卡：老版 Outlook 只显示首帧、循环必须精确回到首帧的验收要求、只做小面积动效控体积：1200×340、约 11 秒、1M等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -38,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借HTML 动效转 GIF 路线：先写 HTML 动效卡片再渲染成 GIF、首帧必须是完整品牌卡：老版 Outlook 只显示首帧、循环必须精确回到首帧的验收要求、只做小面积动效控体积：1200×340、约 11 秒、1M等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

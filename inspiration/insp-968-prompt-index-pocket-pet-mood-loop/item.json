@@ -29,8 +29,13 @@
     "pet",
     "wechat-stickers"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借选题结构和提示词模板结构，换成原创角色重做；不抄模板原文、示例角色和文案"
+  },
   "landed": [],
   "history": [
     {
@@ -38,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借选题结构和提示词模板结构，换成原创角色重做；不抄模板原文、示例角色和文案"
     }
   ]
 }

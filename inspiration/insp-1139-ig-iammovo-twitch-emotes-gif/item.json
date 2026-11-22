@@ -27,8 +27,13 @@
     "Instagram",
     "接单"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借Twitch 动态表情的规格意识：方形 GIF、最多 60 帧、拿客户角色图做表情的接单流程、Fiverr 同类单的定价参考；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -36,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借Twitch 动态表情的规格意识：方形 GIF、最多 60 帧、拿客户角色图做表情的接单流程、Fiverr 同类单的定价参考；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

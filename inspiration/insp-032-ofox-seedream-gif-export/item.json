@@ -22,9 +22,32 @@
     "license": "unknown",
     "note": "含自家 API 推广，只借导出与校验流程"
   },
-  "tags": ["实测", "Seedream", "导出", "教程"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "实测",
+    "Seedream",
+    "导出",
+    "教程"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借本地 PNG 帧拼 GIF 的导出工具链、导出后写检查报告的验收做法、验格表是否干净 3 列×2 行的检查要点、实测与未验证分开标注的写法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借本地 PNG 帧拼 GIF 的导出工具链、导出后写检查报告的验收做法、验格表是否干净 3 列×2 行的检查要点、实测与未验证分开标注的写法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

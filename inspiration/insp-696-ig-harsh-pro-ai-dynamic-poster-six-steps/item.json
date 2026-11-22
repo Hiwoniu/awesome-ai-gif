@@ -28,8 +28,13 @@
     "SOP",
     "多尺寸"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借从 brief 到多尺寸导出的完整动态海报 SOP、联网核实数字的检查点、出静帧后校对拼写的检查点、CapCut 导出竖版/16:9/方形多版本；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -37,6 +42,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借从 brief 到多尺寸导出的完整动态海报 SOP、联网核实数字的检查点、出静帧后校对拼写的检查点、CapCut 导出竖版/16:9/方形多版本；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

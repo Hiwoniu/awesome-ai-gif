@@ -27,8 +27,13 @@
     "ControlNet",
     "教程"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借ControlNet tile 做二维码可扫性控制的参数、img2img 与 inpainting 两条 Logo 融合路线、生成后必须实测可扫性的验收环节、静态艺术码 + 动态化两段式流程；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -36,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借ControlNet tile 做二维码可扫性控制的参数、img2img 与 inpainting 两条 Logo 融合路线、生成后必须实测可扫性的验收环节、静态艺术码 + 动态化两段式流程；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

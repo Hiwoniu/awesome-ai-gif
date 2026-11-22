@@ -22,9 +22,33 @@
     "license": "unknown",
     "note": "需要 VARG API Key 才能跑它本体；只借方法和规格思路，不搬代码和示例角色"
   },
-  "tags": ["Skill", "竞品", "提示词", "GPT Image 2.6", "多平台"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Skill",
+    "竞品",
+    "提示词",
+    "GPT Image 2.6",
+    "多平台"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借先审定妆照再批量出 GIF 的工作流、6-8 种情绪各一张 GIF 的成套规划、已核对官方文档的多平台规格表思路、导出脚本统一转码的流程；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借先审定妆照再批量出 GIF 的工作流、6-8 种情绪各一张 GIF 的成套规划、已核对官方文档的多平台规格表思路、导出脚本统一转码的流程；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

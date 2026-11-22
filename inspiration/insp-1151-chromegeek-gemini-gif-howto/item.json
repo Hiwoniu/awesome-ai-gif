@@ -29,8 +29,13 @@
     "GIF 教程",
     "反应 GIF"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借GIF 格式选择器的操作路径：Create video 入口或直接说 Create a GIF of…、输入规格：文字提示或最多 5 张图/1 个视频、约 3 秒循环、复制粘贴进聊天/邮件/文档的交付方式、同对话追问改图等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -38,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借GIF 格式选择器的操作路径：Create video 入口或直接说 Create a GIF of…、输入规格：文字提示或最多 5 张图/1 个视频、约 3 秒循环、复制粘贴进聊天/邮件/文档的交付方式、同对话追问改图等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

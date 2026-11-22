@@ -28,8 +28,13 @@
     "自动化",
     "Claude-Code"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借存参考图复用角色的方法、逐帧定位修改的编辑思路、五段式完整请求结构、GIF 用于 LinkedIn 的落点；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -37,6 +42,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借存参考图复用角色的方法、逐帧定位修改的编辑思路、五段式完整请求结构、GIF 用于 LinkedIn 的落点；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

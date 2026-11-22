@@ -31,8 +31,13 @@
     "动态绘本",
     "翻页"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借每页一个动作、翻页冻结末态的拆页结构，供动态绘本立项参考；故事和角色用原创"
+  },
   "landed": [],
   "history": [
     {
@@ -40,6 +45,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借每页一个动作、翻页冻结末态的拆页结构，供动态绘本立项参考；故事和角色用原创"
     }
   ]
 }

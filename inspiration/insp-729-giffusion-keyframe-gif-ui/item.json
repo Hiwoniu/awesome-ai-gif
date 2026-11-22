@@ -21,9 +21,20 @@
     "license": "unknown",
     "note": "未打开原帖核实，仅凭搜索摘要收录"
   },
-  "tags": ["开源", "Stable Diffusion", "关键帧", "插值", "Web UI"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "开源",
+    "Stable Diffusion",
+    "关键帧",
+    "插值",
+    "Web UI"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借关键帧提示词插值写法、用动画字符串控制镜头运动的做法、音频驱动动画的思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -31,6 +42,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借关键帧提示词插值写法、用动画字符串控制镜头运动的做法、音频驱动动画的思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

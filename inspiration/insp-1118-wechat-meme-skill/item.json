@@ -11,15 +11,28 @@
   },
   "what": "面向 Agent 的微信梗图/表情包 Skill。",
   "why": "早期微信表情包 Skill 之一，可作 Skill 形态演进的对照。",
-  "borrow": ["Skill 的任务拆分方式", "梗图类表情的提示词组织"],
+  "borrow": [
+    "Skill 的任务拆分方式",
+    "梗图类表情的提示词组织"
+  ],
   "risks": {
     "ip_or_real_person": true,
     "license": "unknown",
     "note": "仅凭搜索摘要收录，未打开原文核实。梗图类内容可能涉及网络迷因形象与真人素材，只借 Skill 结构，需核查其示例是否含真人/IP。"
   },
-  "tags": ["Skill", "微信表情包", "开源", "梗图"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Skill",
+    "微信表情包",
+    "开源",
+    "梗图"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借Skill 的任务拆分方式、梗图类表情的提示词组织；涉及真人肖像或现成 IP 的部分不用，换成原创角色或自家宠物；不搬对方的画面、文案和提示词原文"
+  },
   "landed": [],
   "history": [
     {
@@ -27,6 +40,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借Skill 的任务拆分方式、梗图类表情的提示词组织；涉及真人肖像或现成 IP 的部分不用，换成原创角色或自家宠物；不搬对方的画面、文案和提示词原文"
     }
   ]
 }

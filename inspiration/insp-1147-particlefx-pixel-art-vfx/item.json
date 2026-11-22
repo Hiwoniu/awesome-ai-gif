@@ -24,9 +24,21 @@
     "license": "unknown",
     "note": "页面称导出特效可商用、无需署名；个别含 CodeManu 的 CC BY 素材需署名。只借粒子模拟与调色板方法，不直接用库里的现成特效图。"
   },
-  "tags": ["pixel-art", "sprite-sheet", "VFX", "GIF", "game-effects", "palette"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "pixel-art",
+    "sprite-sheet",
+    "VFX",
+    "GIF",
+    "game-effects",
+    "palette"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借粒子模拟加像素渲染的路线：先算粒子运动、再按像素网格渲染，不用生图模型画像素画、调色板先行的写法：PICO-8、Endesga 32、Sweetie 16、DawnBringer、NES、Game Boy、CGA 或自定等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -34,6 +46,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借粒子模拟加像素渲染的路线：先算粒子运动、再按像素网格渲染，不用生图模型画像素画、调色板先行的写法：PICO-8、Endesga 32、Sweetie 16、DawnBringer、NES、Game Boy、CGA 或自定等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

@@ -11,15 +11,29 @@
   },
   "what": "浏览器端工具，参考图或文本生成无缝循环 2D 动画，可导出 GIF/WebM/MP4 或精灵表 ZIP，支持透明背景。",
   "why": "参数面很全：参考图当首帧、无缝循环开关、时长 4–15 秒、最多 96 帧，适合拿来对标精灵表导出规格。",
-  "borrow": ["参考图当首帧的设定", "无缝循环开关加 96 帧上限的时长/帧数配比", "GIF 与精灵表 ZIP 双导出路线"],
+  "borrow": [
+    "参考图当首帧的设定",
+    "无缝循环开关加 96 帧上限的时长/帧数配比",
+    "GIF 与精灵表 ZIP 双导出路线"
+  ],
   "risks": {
     "ip_or_real_person": false,
     "license": "unknown",
     "note": "付费工具（起步约 0.9 美元），未实测生成效果；页面宣称可商用，未核实条款"
   },
-  "tags": ["sprite-sheet", "loop", "tools", "GIF-export"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "sprite-sheet",
+    "loop",
+    "tools",
+    "GIF-export"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借参考图当首帧的设定、无缝循环开关加 96 帧上限的时长/帧数配比、GIF 与精灵表 ZIP 双导出路线；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -27,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借参考图当首帧的设定、无缝循环开关加 96 帧上限的时长/帧数配比、GIF 与精灵表 ZIP 双导出路线；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

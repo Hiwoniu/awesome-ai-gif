@@ -22,9 +22,32 @@
     "license": "unknown",
     "note": "需要 VARG API Key 才能跑它本体；只借方法和实测结论，不搬代码"
   },
-  "tags": ["Skill", "竞品", "提示词", "GPT Image 2.6"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Skill",
+    "竞品",
+    "提示词",
+    "GPT Image 2.6"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借loop-lock 提示词措辞：首尾同姿势、锁定比例和地平线、2/4/6/9/12/16 帧的像素预算实测表思路、approve-a-still-first 工作流、转 WebP/MP4 的后处理脚本思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借loop-lock 提示词措辞：首尾同姿势、锁定比例和地平线、2/4/6/9/12/16 帧的像素预算实测表思路、approve-a-still-first 工作流、转 WebP/MP4 的后处理脚本思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

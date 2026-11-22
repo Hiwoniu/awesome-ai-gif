@@ -21,9 +21,20 @@
     "license": "unknown",
     "note": "只借调色板方法与参数权衡"
   },
-  "tags": ["视频转GIF", "ffmpeg", "调色板", "API", "MCP"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "视频转GIF",
+    "ffmpeg",
+    "调色板",
+    "API",
+    "MCP"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借两段式调色板方法、帧率、宽度、抖动的画质与体积权衡、API 化的思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -31,6 +42,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借两段式调色板方法、帧率、宽度、抖动的画质与体积权衡、API 化的思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

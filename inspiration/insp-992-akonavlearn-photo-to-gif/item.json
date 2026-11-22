@@ -21,9 +21,31 @@
     "license": "unknown",
     "note": "未打开原帖核实，仅凭搜索摘要收录"
   },
-  "tags": ["Facebook", "照片转 GIF", "ChatGPT"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Facebook",
+    "照片转 GIF",
+    "ChatGPT"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借照片变循环 GIF 的极简三步法、蒸汽缓慢上升的微动效示例、调速与追问改的迭代写法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-21", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借照片变循环 GIF 的极简三步法、蒸汽缓慢上升的微动效示例、调速与追问改的迭代写法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

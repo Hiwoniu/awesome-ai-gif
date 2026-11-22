@@ -21,9 +21,31 @@
     "license": "unknown",
     "note": "未打开原帖核实，仅凭搜索摘要收录"
   },
-  "tags": ["工具", "Nano Banana", "逐帧"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "工具",
+    "Nano Banana",
+    "逐帧"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借七种动作风格分类、首帧定稿、后续帧只改动作的一致性方法、帧数/尺寸/帧延迟参数组合；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-21", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借七种动作风格分类、首帧定稿、后续帧只改动作的一致性方法、帧数/尺寸/帧延迟参数组合；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

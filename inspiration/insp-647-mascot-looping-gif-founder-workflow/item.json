@@ -29,8 +29,13 @@
     "Sunburst",
     "产品站"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借吉祥物/产品图→循环 GIF 的工作流、Flare vs Sunburst 选型、GIF 在产品站的落点（hero/栏目点缀）、ChatGPT 不能二次编辑已上传 GIF 的限制提醒；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -38,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借吉祥物/产品图→循环 GIF 的工作流、Flare vs Sunburst 选型、GIF 在产品站的落点（hero/栏目点缀）、ChatGPT 不能二次编辑已上传 GIF 的限制提醒；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

@@ -28,8 +28,13 @@
     "Lottie",
     "GIF导出"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借MCP 接入动画编辑器的产品形态、同一对话内迭代修改而非重建的交互模式、SVG/Lottie/GIF/视频同源多格式导出的思路、动画结果保持可编辑的设计原则；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -37,6 +42,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借MCP 接入动画编辑器的产品形态、同一对话内迭代修改而非重建的交互模式、SVG/Lottie/GIF/视频同源多格式导出的思路、动画结果保持可编辑的设计原则；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

@@ -21,9 +21,20 @@
     "license": "unknown",
     "note": "原文已打开核实；工具介绍页，无实测演示与逐条提示词原文。"
   },
-  "tags": ["GPT Image 2.6", "OpenArt", "AI GIF 生成器", "图生GIF", "文生GIF"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "GPT Image 2.6",
+    "OpenArt",
+    "AI GIF 生成器",
+    "图生GIF",
+    "文生GIF"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借场景+只动一处的单动作提示词写法，如雨动而猫眠、照片作参照图再指定一个动作的图生 GIF 流程、开生成器、加提示词或图片、生成下载的三步工具形态；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -31,6 +42,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借场景+只动一处的单动作提示词写法，如雨动而猫眠、照片作参照图再指定一个动作的图生 GIF 流程、开生成器、加提示词或图片、生成下载的三步工具形态；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

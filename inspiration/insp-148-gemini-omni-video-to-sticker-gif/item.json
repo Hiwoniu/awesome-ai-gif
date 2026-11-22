@@ -20,9 +20,20 @@
     "license": "Apache-2.0",
     "note": "输入视频可能含真人，仅借工作流；用自己的原创角色素材"
   },
-  "tags": ["Skill", "视频转GIF", "贴纸", "Gemini", "坐标校准"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Skill",
+    "视频转GIF",
+    "贴纸",
+    "Gemini",
+    "坐标校准"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借坐标校准再裁剪的工作流、视频片段裁剪缩放变速做 GIF 的参数思路；涉及真人肖像或现成 IP 的部分不用，换成原创角色或自家宠物；不搬对方的画面、文案和提示词原文"
+  },
   "landed": [],
   "history": [
     {
@@ -30,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借坐标校准再裁剪的工作流、视频片段裁剪缩放变速做 GIF 的参数思路；涉及真人肖像或现成 IP 的部分不用，换成原创角色或自家宠物；不搬对方的画面、文案和提示词原文"
     }
   ]
 }

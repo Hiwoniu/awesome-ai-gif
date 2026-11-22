@@ -21,9 +21,32 @@
     "license": "unknown",
     "note": "官方文档，只借参数与模板结构，不抄它的示例角色"
   },
-  "tags": ["API", "文档", "GPT Image 2.6", "提示词"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "API",
+    "文档",
+    "GPT Image 2.6",
+    "提示词"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借API 路线的 GIF 参数写法：输出格式、帧数、帧时长、默认 9 帧、0.2 秒、512×512 的参数组合、贴纸与产品旋转两类提示词模板结构；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借API 路线的 GIF 参数写法：输出格式、帧数、帧时长、默认 9 帧、0.2 秒、512×512 的参数组合、贴纸与产品旋转两类提示词模板结构；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

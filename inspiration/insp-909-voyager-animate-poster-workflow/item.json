@@ -11,15 +11,29 @@
   },
   "what": "以一张虚构演出海报为例，讲怎么把静态海报转成 16 秒动态稿：保住标题、信息、配色与字体，只让一个元素动，附可复用的动效提示词与 Remotion 工程。",
   "why": "一个动效主线、其余元素各司其职的分工法，和成品先回落到原海报定格三秒的收尾法，可直接套到动态海报上。",
-  "borrow": ["单一动效主线的分工法", "结尾回到原海报定格的收尾", "文字保留可编辑源文件的思路"],
+  "borrow": [
+    "单一动效主线的分工法",
+    "结尾回到原海报定格的收尾",
+    "文字保留可编辑源文件的思路"
+  ],
   "risks": {
     "ip_or_real_person": false,
     "license": "unknown",
     "note": "成品是 MP4 而非 GIF，只借结构与分工法；未打开原文核实，仅凭搜索摘要收录"
   },
-  "tags": ["posters", "motion-poster", "workflow", "Remotion"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "posters",
+    "motion-poster",
+    "workflow",
+    "Remotion"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借只动一个元素、按节拍排场、首帧可独立成图的海报做法，用原创角色做动态海报案例；不搬对方的画面、文案和提示词原文"
+  },
   "landed": [],
   "history": [
     {
@@ -27,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借只动一个元素、按节拍排场、首帧可独立成图的海报做法，用原创角色做动态海报案例；不搬对方的画面、文案和提示词原文"
     }
   ]
 }

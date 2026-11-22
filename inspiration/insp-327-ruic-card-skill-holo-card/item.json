@@ -26,8 +26,13 @@
     "视差",
     "分层"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借按深度分层的卡面结构、视差来自图层深度差、而非把彩虹效果 baked 进图的原则；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -35,6 +40,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借按深度分层的卡面结构、视差来自图层深度差、而非把彩虹效果 baked 进图的原则；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

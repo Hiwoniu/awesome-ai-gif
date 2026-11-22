@@ -30,8 +30,13 @@
     "循环接缝",
     "动态图表"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借loop-cover 的 180 帧@20fps 编码参数与无 dithering 的 ffmpeg 写法、接缝（seam）与动幅（excursion）的量化验收指标、首帧即成品图的循环旋转规则、只动一个元素的单动效约束等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -39,6 +44,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借loop-cover 的 180 帧@20fps 编码参数与无 dithering 的 ffmpeg 写法、接缝（seam）与动幅（excursion）的量化验收指标、首帧即成品图的循环旋转规则、只动一个元素的单动效约束等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

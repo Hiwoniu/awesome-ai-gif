@@ -27,8 +27,13 @@
     "EZGIF",
     "分层出图"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借单动作提示词公式、草稿/终稿模型分层、EZGIF 帧率与容量参数；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -36,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借单动作提示词公式、草稿/终稿模型分层、EZGIF 帧率与容量参数；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

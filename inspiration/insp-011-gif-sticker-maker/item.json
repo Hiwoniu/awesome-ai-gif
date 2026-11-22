@@ -21,9 +21,31 @@
     "license": "MIT",
     "note": "输入是用户自己的照片；示例走 Funko Pop / Pop Mart 风格，只借流程，不用它的品牌风格示例"
   },
-  "tags": ["Skill", "照片转贴纸", "GitHub"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Skill",
+    "照片转贴纸",
+    "GitHub"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借照片转贴纸的三段式流程：生图、视频化、转 GIF、字幕对照表管多语言文案的思路、一次出 4 张成套表情的打包方式；涉及真人肖像或现成 IP 的部分不用，换成原创角色或自家宠物；不搬对方的画面、文案和提示词原文"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借照片转贴纸的三段式流程：生图、视频化、转 GIF、字幕对照表管多语言文案的思路、一次出 4 张成套表情的打包方式；涉及真人肖像或现成 IP 的部分不用，换成原创角色或自家宠物；不搬对方的画面、文案和提示词原文"
+    }
+  ]
 }

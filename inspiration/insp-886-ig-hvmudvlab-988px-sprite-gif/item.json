@@ -29,8 +29,13 @@
     "GIF",
     "提示词包"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借失败模式和参数结论，转成机检规则与提示词禁忌句，并用于实测原生 GIF 路线；不搬对方的示例画面"
+  },
   "landed": [],
   "history": [
     {
@@ -44,6 +49,12 @@
       "status": "pending",
       "by": "Claude",
       "note": "合并重复条目 insp-490（同一出处，保留分析更完整的这条）"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借失败模式和参数结论，转成机检规则与提示词禁忌句，并用于实测原生 GIF 路线；不搬对方的示例画面"
     }
   ]
 }

@@ -21,9 +21,33 @@
     "license": "MIT",
     "note": "角色是 TRAE 官方吉祥物，只借 Skill 结构与中文合成流程，角色必须换原创"
   },
-  "tags": ["Skill", "MIT", "TRAE", "风格预设", "中文合成"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Skill",
+    "MIT",
+    "TRAE",
+    "风格预设",
+    "中文合成"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借风格预设加批量成套加文章插图复用的 Skill 结构、Python 中文合成流程、基础风格加彩蛋风格的成套规划；涉及真人肖像或现成 IP 的部分不用，换成原创角色或自家宠物；不搬对方的画面、文案和提示词原文"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借风格预设加批量成套加文章插图复用的 Skill 结构、Python 中文合成流程、基础风格加彩蛋风格的成套规划；涉及真人肖像或现成 IP 的部分不用，换成原创角色或自家宠物；不搬对方的画面、文案和提示词原文"
+    }
+  ]
 }

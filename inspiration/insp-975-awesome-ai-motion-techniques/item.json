@@ -29,8 +29,13 @@
     "动态海报",
     "Agent Skill"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借按传达意图选动效的选型方法论、effect 卡结构：定义+默认参数+示例+提示词、本地渲染验证的工作流（出 preview.gif 再验收）、16 个高 impact 动效的分类组织；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -38,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借按传达意图选动效的选型方法论、effect 卡结构：定义+默认参数+示例+提示词、本地渲染验证的工作流（出 preview.gif 再验收）、16 个高 impact 动效的分类组织；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

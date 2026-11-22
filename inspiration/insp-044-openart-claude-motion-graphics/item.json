@@ -21,9 +21,33 @@
     "license": "unknown",
     "note": "示例是创作者 Mia Meow 的轮播与猫咪厨房图，只借工作流，不用它的画面与角色"
   },
-  "tags": ["OpenArt", "Claude", "Remotion", "动态图形", "图层"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "OpenArt",
+    "Claude",
+    "Remotion",
+    "动态图形",
+    "图层"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借图层拆分再编舞的路线：出图、拆 2-16 层、代码做动画、文字在代码里重建：改文案不重新生成、六姿势精灵表加背景图的海报做法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借图层拆分再编舞的路线：出图、拆 2-16 层、代码做动画、文字在代码里重建：改文案不重新生成、六姿势精灵表加背景图的海报做法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

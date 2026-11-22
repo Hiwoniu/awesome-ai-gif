@@ -27,8 +27,13 @@
     "工具流",
     "GIPHY"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借透明边距前置处理、ezgif 在线合成、Giphy 上架打标签分发、单帧 GIF 也能进贴纸库；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -36,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借透明边距前置处理、ezgif 在线合成、Giphy 上架打标签分发、单帧 GIF 也能进贴纸库；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

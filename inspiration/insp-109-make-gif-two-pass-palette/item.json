@@ -20,9 +20,32 @@
     "license": "unknown",
     "note": "只借调色板工作流，不涉及他人画面"
   },
-  "tags": ["Skill", "视频转GIF", "调色板", "ffmpeg"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Skill",
+    "视频转GIF",
+    "调色板",
+    "ffmpeg"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借两遍调色板的工作流：palettegen 再 paletteuse、视频源 GIF 的通用收尾规范；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借两遍调色板的工作流：palettegen 再 paletteuse、视频源 GIF 的通用收尾规范；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

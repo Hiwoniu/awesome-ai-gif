@@ -21,9 +21,31 @@
     "license": "unknown",
     "note": "GitHub 原仓 lemomo-ai/lemo-wake；只借路线，不搬代码，落地前查许可证"
   },
-  "tags": ["Skill", "代码动画", "无缝循环"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Skill",
+    "代码动画",
+    "无缝循环"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借拆图重建+代码编舞的路线、无缝循环的收尾处理、一张图多规格输出（GIF/WebP/实况照片等）；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借拆图重建+代码编舞的路线、无缝循环的收尾处理、一张图多规格输出（GIF/WebP/实况照片等）；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

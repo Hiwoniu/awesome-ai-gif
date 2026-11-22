@@ -26,8 +26,13 @@
     "原生GIF",
     "新功能"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借Gemini 原生 GIF 三步操作、自定义反应 GIF 替代固定 GIF 库、多参考图输入规格；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -35,6 +40,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借Gemini 原生 GIF 三步操作、自定义反应 GIF 替代固定 GIF 库、多参考图输入规格；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

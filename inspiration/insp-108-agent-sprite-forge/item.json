@@ -21,9 +21,32 @@
     "license": "unknown",
     "note": "只借主流程思路；其内部子 Skill 与已入库条目重叠，不重复收子项"
   },
-  "tags": ["Skill", "精灵表", "master-still", "后处理"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Skill",
+    "精灵表",
+    "master-still",
+    "后处理"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借先审定 master still 再批量出动作的主流程、确定性脚本做抠像、配准、循环、重定时的后处理思路、打包 Godot 与 Aseprite 的交付组织；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借先审定 master still 再批量出动作的主流程、确定性脚本做抠像、配准、循环、重定时的后处理思路、打包 Godot 与 Aseprite 的交付组织；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

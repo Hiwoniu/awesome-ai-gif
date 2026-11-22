@@ -21,9 +21,33 @@
     "license": "unknown",
     "note": "文中工具与价格以对方页面为准，只借选型与取舍思路"
   },
-  "tags": ["PicassoIA", "绘本", "多页一致性", "Seedream", "横评"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "PicassoIA",
+    "绘本",
+    "多页一致性",
+    "Seedream",
+    "横评"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借连续模式一次出多张同角色页面的做法、多页一致性的模型选型对照：Seedream 5 Lite、Nano Banana 2、动效只放封面与结尾页的取舍；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借连续模式一次出多张同角色页面的做法、多页一致性的模型选型对照：Seedream 5 Lite、Nano Banana 2、动效只放封面与结尾页的取舍；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

@@ -21,9 +21,32 @@
     "license": "unknown",
     "note": "示例图是对方平台的，只借工作流与写法"
   },
-  "tags": ["OpenArt", "GPT Image 2.6", "GIF 生成器", "工具"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "OpenArt",
+    "GPT Image 2.6",
+    "GIF 生成器",
+    "工具"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借一句话只描述一个动作的写法、已生成图片复用为 GIF 底图的工作流、按场景给的示例组织：猫、霓虹灯牌、咖啡蒸汽；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借一句话只描述一个动作的写法、已生成图片复用为 GIF 底图的工作流、按场景给的示例组织：猫、霓虹灯牌、咖啡蒸汽；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

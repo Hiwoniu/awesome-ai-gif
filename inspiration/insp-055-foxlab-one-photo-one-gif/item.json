@@ -21,9 +21,33 @@
     "license": "unknown",
     "note": "示例是对方的猫与产品照片，只借规则与对比结论；真人照片做表情时注意肖像授权"
   },
-  "tags": ["Medium", "实测", "GPT Image 2.6", "照片转 GIF", "提示词规则"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Medium",
+    "实测",
+    "GPT Image 2.6",
+    "照片转 GIF",
+    "提示词规则"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借照片转 GIF 四条规则：一个动作、写清收尾、固定机位、背景干净、精灵表做法与直出 GIF 的取舍对照、产品图只动蒸汽或反光的克制做法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借照片转 GIF 四条规则：一个动作、写清收尾、固定机位、背景干净、精灵表做法与直出 GIF 的取舍对照、产品图只动蒸汽或反光的克制做法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

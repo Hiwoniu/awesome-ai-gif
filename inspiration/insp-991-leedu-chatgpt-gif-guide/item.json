@@ -21,9 +21,31 @@
     "license": "unknown",
     "note": "未打开原帖核实，仅凭搜索摘要收录"
   },
-  "tags": ["ChatGPT", "教程", "排错"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "ChatGPT",
+    "教程",
+    "排错"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借进度环/铃铛两组“只动一处”的极简提示词、参考图 @名字复用的做法、下载后本地复查两轮的验收流程；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-21", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借进度环/铃铛两组“只动一处”的极简提示词、参考图 @名字复用的做法、下载后本地复查两轮的验收流程；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

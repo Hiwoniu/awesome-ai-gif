@@ -22,9 +22,33 @@
     "license": "unknown",
     "note": "只借规格与原语设计，不抄它的示例 GIF"
   },
-  "tags": ["Skill", "Slack", "小尺寸GIF", "压缩", "验收"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Skill",
+    "Slack",
+    "小尺寸GIF",
+    "压缩",
+    "验收"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借小尺寸 GIF 的规格表：尺寸、体积、时长、帧率、色数、两遍调色板的压缩流程、shake、bounce、move 等可组合动画原语的设计、构建加校验两步走的交付流程；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借小尺寸 GIF 的规格表：尺寸、体积、时长、帧率、色数、两遍调色板的压缩流程、shake、bounce、move 等可组合动画原语的设计、构建加校验两步走的交付流程；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

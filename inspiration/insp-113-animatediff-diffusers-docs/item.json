@@ -22,9 +22,32 @@
     "license": "unknown",
     "note": "只借管线与规格，以 diffusers 现行文档为准"
   },
-  "tags": ["AnimateDiff", "Hugging Face", "官方文档", "运动模块"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "AnimateDiff",
+    "Hugging Face",
+    "官方文档",
+    "运动模块"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借MotionAdapter 在 UNet 各层注入时间注意力的原理、16 帧、1024x1024 档的规格、export_to_gif 作为文生 GIF 标准出口的做法、四条管线的选型对照；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借MotionAdapter 在 UNet 各层注入时间注意力的原理、16 帧、1024x1024 档的规格、export_to_gif 作为文生 GIF 标准出口的做法、四条管线的选型对照；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

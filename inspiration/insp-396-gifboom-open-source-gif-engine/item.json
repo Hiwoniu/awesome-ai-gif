@@ -29,8 +29,13 @@
     "Agent-Skill",
     "开源"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借CLI 与 MCP 两种 agent 接入形态、SKILL.md 教 agent 自主处理 GIF 的写法、FFmpeg 视频与 GIF 互转链路、pip/pipx 安装形态；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -38,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借CLI 与 MCP 两种 agent 接入形态、SKILL.md 教 agent 自主处理 GIF 的写法、FFmpeg 视频与 GIF 互转链路、pip/pipx 安装形态；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

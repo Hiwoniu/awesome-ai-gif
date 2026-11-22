@@ -26,8 +26,13 @@
     "验收",
     "GPT Image 2.6"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借四组实测的验收维度：动作、影子、标签、首尾、GIF 尺寸与像素预算规则：16 倍数、宽高比 1:3–3:1、Flare 与 Sunburst 分工；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -35,6 +40,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借四组实测的验收维度：动作、影子、标签、首尾、GIF 尺寸与像素预算规则：16 倍数、宽高比 1:3–3:1、Flare 与 Sunburst 分工；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

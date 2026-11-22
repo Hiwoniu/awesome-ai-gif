@@ -23,9 +23,19 @@
     "license": "unknown",
     "note": "未打开原帖核实，仅凭搜索摘要收录；含推广码 GLENN25，有营销成分，但方法与实测数据具体。"
   },
-  "tags": ["Runway", "GPT Image 2.6", "SVG", "三格式"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Runway",
+    "GPT Image 2.6",
+    "SVG",
+    "三格式"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借GIF/SVG/PNG 三格式一站式的工作流结构、SVG 矢量图标集的生成法、透明底产品图的落点、各格式耗时实测数据、同一角色跨格式复用的思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -33,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借GIF/SVG/PNG 三格式一站式的工作流结构、SVG 矢量图标集的生成法、透明底产品图的落点、各格式耗时实测数据、同一角色跨格式复用的思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

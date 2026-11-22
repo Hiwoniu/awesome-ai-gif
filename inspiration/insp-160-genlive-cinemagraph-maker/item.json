@@ -21,9 +21,20 @@
     "license": "unknown",
     "note": "免费试用有每日限额；只借模板与提示词思路"
   },
-  "tags": ["Cinemagraph", "活照片", "GenLive", "浏览器工具", "无缝循环"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Cinemagraph",
+    "活照片",
+    "GenLive",
+    "浏览器工具",
+    "无缝循环"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借点名动什么的模板交互、锁定机位做无缝循环的提示词取向、模型可换的模板组织；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -31,6 +42,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借点名动什么的模板交互、锁定机位做无缝循环的提示词取向、模型可换的模板组织；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

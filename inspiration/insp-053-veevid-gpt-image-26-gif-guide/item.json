@@ -21,9 +21,33 @@
     "license": "unknown",
     "note": "示例角色是对方的狐狸吉祥物与咖啡杯，只借结构与参数，不用它的画面"
   },
-  "tags": ["Veevid", "GPT Image 2.6", "提示词结构", "GIF 指南", "Flare"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Veevid",
+    "GPT Image 2.6",
+    "提示词结构",
+    "GIF 指南",
+    "Flare"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借五段式提示词结构：开场白、分步动作、固定项、风格、排除项、9 帧×200 毫秒、1.8 秒循环的参数、Flare 与 Sunburst 按用途选型的思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借五段式提示词结构：开场白、分步动作、固定项、风格、排除项、9 帧×200 毫秒、1.8 秒循环的参数、Flare 与 Sunburst 按用途选型的思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

@@ -27,8 +27,13 @@
     "规格",
     "指南"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借小于 1MB / 循环 2–3 次 / 按显示宽度导出的规格组合、首帧兜底设计原则、GIF 必须托管在公开 URL 再嵌入的流程、Gmail / Apple Mail / Outlook 的分客户端测试清单；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -36,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借小于 1MB / 循环 2–3 次 / 按显示宽度导出的规格组合、首帧兜底设计原则、GIF 必须托管在公开 URL 再嵌入的流程、Gmail / Apple Mail / Outlook 的分客户端测试清单；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

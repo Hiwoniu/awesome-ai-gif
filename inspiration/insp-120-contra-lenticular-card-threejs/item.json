@@ -21,9 +21,32 @@
     "license": "unknown",
     "note": "只借翻面思路，不抄它的示例卡面与代码"
   },
-  "tags": ["光栅卡", "Three.js", "Webflow", "交互"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "光栅卡",
+    "Three.js",
+    "Webflow",
+    "交互"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借鼠标位置映射混合变量的光栅翻面思路、两张纹理按视角阈值切换的做法、GSAP 尘埃转场的衔接写法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借鼠标位置映射混合变量的光栅翻面思路、两张纹理按视角阈值切换的做法、GSAP 尘埃转场的衔接写法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

@@ -21,9 +21,19 @@
     "license": "unknown",
     "note": "未打开原帖核实，仅凭搜索摘要收录"
   },
-  "tags": ["Lottie", "矢量动画", "动态海报", "Product Hunt"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Lottie",
+    "矢量动画",
+    "动态海报",
+    "Product Hunt"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借文字描述转可编辑矢量动效的结构、动效导出 GIF 的产品形态、生成后改色改尺寸免重生成的交互思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -31,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借文字描述转可编辑矢量动效的结构、动效导出 GIF 的产品形态、生成后改色改尺寸免重生成的交互思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

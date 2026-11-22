@@ -11,15 +11,29 @@
   },
   "what": "上传视频或参考图，生成针对 GPT Image 2.6 的结构化提示词；GIF 部分按精灵表格式出规约。",
   "why": "把官方公告里的精灵表写法拆成六要素清单（帧数、网格、等格、固定镜头、递进动作、回环接缝、硬排除），可直接当提示词检查表用。",
-  "borrow": ["精灵表六要素拆解：帧数、网格、等格、固定镜头、递进动作、回环接缝、硬排除", "Flare/Sunburst 与 quality/complexity 参数的分工", "先改约束段、每轮只改一处”的迭代法"],
+  "borrow": [
+    "精灵表六要素拆解：帧数、网格、等格、固定镜头、递进动作、回环接缝、硬排除",
+    "Flare/Sunburst 与 quality/complexity 参数的分工",
+    "先改约束段、每轮只改一处”的迭代法"
+  ],
   "risks": {
     "ip_or_real_person": false,
     "license": "unknown",
     "note": "工具页本身是提示词生成器，未实测生成效果；页面引用的官方示例提示词只借结构，不照搬原文"
   },
-  "tags": ["GPT Image 2.6", "sprite-sheet", "prompt-generator", "tools"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "GPT Image 2.6",
+    "sprite-sheet",
+    "prompt-generator",
+    "tools"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借精灵表六要素拆解：帧数、网格、等格、固定镜头、递进动作、回环接缝、硬排除、Flare/Sunburst 与 quality/complexity 参数的分工、先改约束段、每轮只改一处”的迭代法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -27,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借精灵表六要素拆解：帧数、网格、等格、固定镜头、递进动作、回环接缝、硬排除、Flare/Sunburst 与 quality/complexity 参数的分工、先改约束段、每轮只改一处”的迭代法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

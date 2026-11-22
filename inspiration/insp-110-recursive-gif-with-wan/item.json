@@ -21,9 +21,33 @@
     "license": "unknown",
     "note": "只借分工思路，不复现它的梗图内容"
   },
-  "tags": ["教程", "Wan", "Qwen-Image", "文字GIF", "递归"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "教程",
+    "Wan",
+    "Qwen-Image",
+    "文字GIF",
+    "递归"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借先生图定文字首帧、再图生视频续运动的分工、文字加循环 GIF 的可复现路线、含失败复盘的教程写法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借先生图定文字首帧、再图生视频续运动的分工、文字加循环 GIF 的可复现路线、含失败复盘的教程写法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

@@ -22,9 +22,20 @@
     "license": "unknown",
     "note": "未打开原帖核实，仅凭搜索摘要收录"
   },
-  "tags": ["手绘涂鸦", "儿童画", "挥手循环", "提示词", "Instagram"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "手绘涂鸦",
+    "儿童画",
+    "挥手循环",
+    "提示词",
+    "Instagram"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借手绘稿转循环 GIF 的流程和保留原笔触的提示思路，供孩子画动图立项参考；不用对方的画作"
+  },
   "landed": [],
   "history": [
     {
@@ -32,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借手绘稿转循环 GIF 的流程和保留原笔触的提示思路，供孩子画动图立项参考；不用对方的画作"
     }
   ]
 }

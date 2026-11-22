@@ -23,9 +23,32 @@
     "license": "unknown",
     "note": "按积分付费，8 帧默认 30 积分；只借流程与规格，不搬它的示例角色"
   },
-  "tags": ["精灵表", "GPT Image 2.6", "工具", "游戏"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "精灵表",
+    "GPT Image 2.6",
+    "工具",
+    "游戏"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借一次运行同时出 PNG 精灵表、循环 GIF、JSON 图集的三件套输出、走跑 8 帧、待机 4-6 帧、攻击 6-8 帧的帧数取舍、角色每帧定点、等格、透明底的验收点、Unity、Godot、Phaser 的表导入写法等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-20", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借一次运行同时出 PNG 精灵表、循环 GIF、JSON 图集的三件套输出、走跑 8 帧、待机 4-6 帧、攻击 6-8 帧的帧数取舍、角色每帧定点、等格、透明底的验收点、Unity、Godot、Phaser 的表导入写法等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

@@ -28,8 +28,13 @@
     "HTML成片",
     "GIF导出"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借HTML 镜头加 agent 编排的制片模式、GIF 作为渲染导出格式之一、时间线导出到剪辑软件、自带 key 的成本结构；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -37,6 +42,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借HTML 镜头加 agent 编排的制片模式、GIF 作为渲染导出格式之一、时间线导出到剪辑软件、自带 key 的成本结构；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

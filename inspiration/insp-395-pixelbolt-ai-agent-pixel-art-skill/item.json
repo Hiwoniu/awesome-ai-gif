@@ -29,8 +29,13 @@
     "MCP",
     "开源"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借JSON recipe 把动画写成可编辑文本、agent 读回像素自查自改的闭环、本地 MCP/CLI、零依赖、无需 API key 的接入形态、单帧尺寸与总像素上限的规格写法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -38,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借JSON recipe 把动画写成可编辑文本、agent 读回像素自查自改的闭环、本地 MCP/CLI、零依赖、无需 API key 的接入形态、单帧尺寸与总像素上限的规格写法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

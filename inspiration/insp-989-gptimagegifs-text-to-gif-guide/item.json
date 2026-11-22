@@ -21,9 +21,31 @@
     "license": "unknown",
     "note": "未打开原帖核实，仅凭搜索摘要收录"
   },
-  "tags": ["GPT Image 2.6", "参数", "教程"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "GPT Image 2.6",
+    "参数",
+    "教程"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借9 帧 vs 16 帧的选用规则、“一个主体 + 一个动作 + 固定机位”的提示词公式、按帧数计价的成本意识；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-21", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借9 帧 vs 16 帧的选用规则、“一个主体 + 一个动作 + 固定机位”的提示词公式、按帧数计价的成本意识；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

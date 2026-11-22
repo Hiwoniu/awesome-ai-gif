@@ -22,9 +22,32 @@
     "license": "unknown",
     "note": "只借工作流与选型思路，不抄它的工作流文件"
   },
-  "tags": ["AnimateDiff", "ComfyUI", "教程", "运动模块"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "AnimateDiff",
+    "ComfyUI",
+    "教程",
+    "运动模块"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借V3 与 SDXL 与 V2 运动模块的对比思路、Prompt Travel 提示词调度写法、MotionLoRA 八种运镜的组织方式、Hires Fix 提升画质的做法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借V3 与 SDXL 与 V2 运动模块的对比思路、Prompt Travel 提示词调度写法、MotionLoRA 八种运镜的组织方式、Hires Fix 提升画质的做法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

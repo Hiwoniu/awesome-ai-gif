@@ -22,9 +22,20 @@
     "license": "unknown",
     "note": "原文已打开核实；官方博客介绍页，无具体提示词原文可抄。"
   },
-  "tags": ["Lottie AI", "矢量动画", "Frolic", "动态海报", "加载动画"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Lottie AI",
+    "矢量动画",
+    "Frolic",
+    "动态海报",
+    "加载动画"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借提示词转 Frolic 脚本再编译成标准 Lottie 的结构、Turbo 快速探索与 Quality 多智能体打磨的双模式分工、滑杆改色、改速、改尺寸而不重生成的可编辑思路、导出 GIF、dotLottie、MP4 的等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -32,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借提示词转 Frolic 脚本再编译成标准 Lottie 的结构、Turbo 快速探索与 Quality 多智能体打磨的双模式分工、滑杆改色、改速、改尺寸而不重生成的可编辑思路、导出 GIF、dotLottie、MP4 的等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

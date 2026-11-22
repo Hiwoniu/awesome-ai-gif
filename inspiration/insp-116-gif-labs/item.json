@@ -22,9 +22,32 @@
     "license": "unknown",
     "note": "只借产品形态与导出组织，不抄它的界面与示例"
   },
-  "tags": ["工具", "浏览器本地", "多格式", "Product Hunt"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "工具",
+    "浏览器本地",
+    "多格式",
+    "Product Hunt"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借浏览器本地处理、不上传文件的工具形态、视频转 GIF、图片拼动画、剪辑一体的组织方式、GIF、WebP、APNG、AVIF 多格式导出的对照、本地工具免费、AI 按次付费的产品分层；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借浏览器本地处理、不上传文件的工具形态、视频转 GIF、图片拼动画、剪辑一体的组织方式、GIF、WebP、APNG、AVIF 多格式导出的对照、本地工具免费、AI 按次付费的产品分层；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

@@ -27,8 +27,13 @@
     "阿里云",
     "GPT Image 2.6"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借2.5 与 2.6 对照评测法、GIF 提示词技巧、16 帧上限与抖动验收点；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -36,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借2.5 与 2.6 对照评测法、GIF 提示词技巧、16 帧上限与抖动验收点；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

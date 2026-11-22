@@ -21,9 +21,31 @@
     "license": "unknown",
     "note": "免费工具，只借提示词结构和参数，不用它的示例"
   },
-  "tags": ["提示词", "工具", "GPT Image 2.6"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "提示词",
+    "工具",
+    "GPT Image 2.6"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借五段式简报结构：场景、主体、细节、用途、约束、循环 GIF 贴纸的固定模板套路、帧数与帧时长的参数取值范围；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借五段式简报结构：场景、主体、细节、用途、约束、循环 GIF 贴纸的固定模板套路、帧数与帧时长的参数取值范围；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

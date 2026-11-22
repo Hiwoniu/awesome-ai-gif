@@ -27,8 +27,13 @@
     "GIF 转 MP4",
     "迭代"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借一次只加一个动作的追加工序、Loading、按钮、箭头类小素材的选题、30 帧图拼 MP4 的延展思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -36,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借一次只加一个动作的追加工序、Loading、按钮、箭头类小素材的选题、30 帧图拼 MP4 的延展思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

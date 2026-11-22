@@ -29,8 +29,13 @@
     "iPhone",
     "GIF"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借配方库做冷启动、照片加笑点先于画风的创作顺序、GIF 跨 App 投递的落点、免费版先做静态、AI 动画走积分的形态；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -38,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借配方库做冷启动、照片加笑点先于画风的创作顺序、GIF 跨 App 投递的落点、免费版先做静态、AI 动画走积分的形态；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

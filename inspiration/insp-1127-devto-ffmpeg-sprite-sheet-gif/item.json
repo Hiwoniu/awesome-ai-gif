@@ -11,15 +11,30 @@
   },
   "what": "用 ffmpeg 从精灵表合成干净动画 GIF 的教程。",
   "why": "纯本地命令行合成路线，含调色板处理等可直接复用的 ffmpeg 命令。",
-  "borrow": ["ffmpeg 精灵表切帧命令", "调色板优化", "本地合成的参数选择"],
+  "borrow": [
+    "ffmpeg 精灵表切帧命令",
+    "调色板优化",
+    "本地合成的参数选择"
+  ],
   "risks": {
     "ip_or_real_person": false,
     "license": "unknown",
     "note": "仅凭搜索摘要收录，未打开原文核实。"
   },
-  "tags": ["精灵表", "ffmpeg", "本地合成", "调色板", "教程"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "精灵表",
+    "ffmpeg",
+    "本地合成",
+    "调色板",
+    "教程"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借ffmpeg 精灵表切帧命令、调色板优化、本地合成的参数选择；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -27,6 +42,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借ffmpeg 精灵表切帧命令、调色板优化、本地合成的参数选择；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

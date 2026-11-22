@@ -21,9 +21,33 @@
     "license": "unknown",
     "note": "页面是对方产品的介绍，只借模型搭配与格式对照；用他人照片做贴纸要先取得许可"
   },
-  "tags": ["StickersMaker", "Seedream", "Seedance", "工具", "多平台格式"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "StickersMaker",
+    "Seedream",
+    "Seedance",
+    "工具",
+    "多平台格式"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借角色模型与动画模型分开的两段式路线、Seedream 5 Flash 做角色、Seedance 2 Mini 做动画的模型搭配、WhatsApp 用 WebP、微信用 GIF、Telegram 用 WebM、Discor等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借角色模型与动画模型分开的两段式路线、Seedream 5 Flash 做角色、Seedance 2 Mini 做动画的模型搭配、WhatsApp 用 WebP、微信用 GIF、Telegram 用 WebM、Discor等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

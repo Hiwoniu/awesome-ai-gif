@@ -22,9 +22,32 @@
     "license": "unknown",
     "note": "只借像素动画的组织思路，不抄它的示例像素画"
   },
-  "tags": ["开源", "像素风", "精灵表", "代码画图"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "开源",
+    "像素风",
+    "精灵表",
+    "代码画图"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借帧等于基础精灵加补丁的动画组织方式、strips 加 JSON tags 加 GIF 的导出结构、从参考 GIF 反推像素结构的做法、写、构建、看预览、打补丁的循环工作流；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借帧等于基础精灵加补丁的动画组织方式、strips 加 JSON tags 加 GIF 的导出结构、从参考 GIF 反推像素结构的做法、写、构建、看预览、打补丁的循环工作流；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

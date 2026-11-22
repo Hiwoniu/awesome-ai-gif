@@ -22,9 +22,33 @@
     "license": "unknown",
     "note": "只借拆解与选型结论，不抄它的示例画面"
   },
-  "tags": ["GPT Image 2.6", "掘金", "实测", "模型选型", "API"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "GPT Image 2.6",
+    "掘金",
+    "实测",
+    "模型选型",
+    "API"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借官方示例的拆解写法：模型、帧数、时长逐项对、Sunburst 精细与 Flare 速度的选型结论、complexity 与 quality 两个参数的说明、GIF 输出接口与编辑接口的区别提醒；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借官方示例的拆解写法：模型、帧数、时长逐项对、Sunburst 精细与 Flare 速度的选型结论、complexity 与 quality 两个参数的说明、GIF 输出接口与编辑接口的区别提醒；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

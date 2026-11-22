@@ -21,9 +21,33 @@
     "license": "unknown",
     "note": "只借提示词结构与选型结论，不抄它的示例动作原文"
   },
-  "tags": ["GPT Image 2.6", "教程", "模型选型", "Flare", "Sunburst"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "GPT Image 2.6",
+    "教程",
+    "模型选型",
+    "Flare",
+    "Sunburst"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借Flare 与 Sunburst 按用途选型的思路、主体加动作加回起点加纯白底加固定机位的提示词结构、GIF 模式的限制清单写法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借Flare 与 Sunburst 按用途选型的思路、主体加动作加回起点加纯白底加固定机位的提示词结构、GIF 模式的限制清单写法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

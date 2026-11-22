@@ -22,9 +22,32 @@
     "license": "unknown",
     "note": "只借双路线与参数写法，不抄它的提示词模板原文"
   },
-  "tags": ["GPT Images 2.5", "像素风", "精灵表", "Seedance"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "GPT Images 2.5",
+    "像素风",
+    "精灵表",
+    "Seedance"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借精灵表→视频模型→GIF 与精灵表→切帧拼 GIF 的双路线、Sunburst 保细节、Flare 出图快的模型分工、切帧后对齐再拼 GIF 的做法、视频提示词里锁定设计、6 FPS、167ms 帧 hold 的参数写法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借精灵表→视频模型→GIF 与精灵表→切帧拼 GIF 的双路线、Sunburst 保细节、Flare 出图快的模型分工、切帧后对齐再拼 GIF 的做法、视频提示词里锁定设计、6 FPS、167ms 帧 hold 的参数写法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

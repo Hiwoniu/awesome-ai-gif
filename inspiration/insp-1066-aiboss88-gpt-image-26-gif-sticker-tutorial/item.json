@@ -29,8 +29,13 @@
     "Skill",
     "上架"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借一句话提示词结构（角色参考＋动作过程＋约束＋输出规格）、ray-sticker-shop Skill 成套出图的用法、参考 GIF 换主角的做法（动作取参考、外观取角色图）、动作聚焦、忌贪大动作的经验；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -38,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借一句话提示词结构（角色参考＋动作过程＋约束＋输出规格）、ray-sticker-shop Skill 成套出图的用法、参考 GIF 换主角的做法（动作取参考、外观取角色图）、动作聚焦、忌贪大动作的经验；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

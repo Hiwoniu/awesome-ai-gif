@@ -30,8 +30,13 @@
     "成本",
     "核查"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借Flare 求快、Sunburst 求稳的选型口径：批量迭代用 Flare，终稿用 Sunburst、速度宣称的核对方法：官方说法与实测基准并列标注，不直接引用 50%、定价未上架官方页时只记为传闻、等官方页再定成本的纪等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -39,6 +44,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借Flare 求快、Sunburst 求稳的选型口径：批量迭代用 Flare，终稿用 Sunburst、速度宣称的核对方法：官方说法与实测基准并列标注，不直接引用 50%、定价未上架官方页时只记为传闻、等官方页再定成本的纪等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

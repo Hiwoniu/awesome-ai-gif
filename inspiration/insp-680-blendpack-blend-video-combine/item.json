@@ -27,8 +27,13 @@
     "GIF 导出",
     "节点"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借帧合成 GIF 的新节点选择：BlendVideoCombine、平滑过渡与 loop_count（0=无限循环）参数、预览环节放在合成节点内的做法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -36,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借帧合成 GIF 的新节点选择：BlendVideoCombine、平滑过渡与 loop_count（0=无限循环）参数、预览环节放在合成节点内的做法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

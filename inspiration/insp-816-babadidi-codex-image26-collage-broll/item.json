@@ -23,9 +23,22 @@
     "license": "unknown",
     "note": "原文已打开核实；内含的开源 skill gbro-collage-broll 仓库当时仍是旧版 Gemini 方案，image2.6 新版作者称再调试两天才推。"
   },
-  "tags": ["GPT Image 2.6", "Codex", "纸片拼贴", "B-roll", "动态海报", "提示词模板", "ffmpeg"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "GPT Image 2.6",
+    "Codex",
+    "纸片拼贴",
+    "B-roll",
+    "动态海报",
+    "提示词模板",
+    "ffmpeg"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借隐喻卡结构：核心意思+视觉隐喻+关键物件+色彩+组装顺序，只确认隐喻这一步、风格靠案例再拆成 visual-spec.json 参数的做法：平涂色场、黑白半调剪片、彩色卡纸点缀、机切边加奶油白描边、assemble-fr等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -33,6 +46,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借隐喻卡结构：核心意思+视觉隐喻+关键物件+色彩+组装顺序，只确认隐喻这一步、风格靠案例再拆成 visual-spec.json 参数的做法：平涂色场、黑白半调剪片、彩色卡纸点缀、机切边加奶油白描边、assemble-fr等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

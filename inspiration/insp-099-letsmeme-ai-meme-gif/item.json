@@ -21,9 +21,32 @@
     "license": "unknown",
     "note": "只借流程组合，不用它的模板库与示例文案"
   },
-  "tags": ["表情包", "Product Hunt", "模板匹配", "多语言"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "表情包",
+    "Product Hunt",
+    "模板匹配",
+    "多语言"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借AI 模板匹配加文案生成加拖拽编辑的组合流程、多语言描述输入的做法、带文字的真动态 GIF 导出方式；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借AI 模板匹配加文案生成加拖拽编辑的组合流程、多语言描述输入的做法、带文字的真动态 GIF 导出方式；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

@@ -30,8 +30,13 @@
     "MCP",
     "动态海报"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借数学无缝循环原理：噪声沿二维圆采样、正弦相位以 2π 整数倍推进、ASCII 风格动态海报的做法、CLI/MCP 批量出 GIF 的管线、导入图片转 ASCII 动效；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -39,6 +44,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借数学无缝循环原理：噪声沿二维圆采样、正弦相位以 2π 整数倍推进、ASCII 风格动态海报的做法、CLI/MCP 批量出 GIF 的管线、导入图片转 ASCII 动效；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

@@ -28,8 +28,13 @@
     "ChatGPT",
     "Instagram"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借品牌吉祥物一动作分镜写法：看卡片→想主意→举爪→回正、固定配色底突出主体、品牌 GIF 只做两到三张的克制用法、同一 GIF 跨 Stories/邮件/文章复用；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -37,6 +42,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借品牌吉祥物一动作分镜写法：看卡片→想主意→举爪→回正、固定配色底突出主体、品牌 GIF 只做两到三张的克制用法、同一 GIF 跨 Stories/邮件/文章复用；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

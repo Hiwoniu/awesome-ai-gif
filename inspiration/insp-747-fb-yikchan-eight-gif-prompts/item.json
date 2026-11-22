@@ -25,8 +25,13 @@
     "提示词",
     "反应"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借一句话一动作的提示词写法、八类常用反应 GIF 的选题；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -34,6 +39,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借一句话一动作的提示词写法、八类常用反应 GIF 的选题；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

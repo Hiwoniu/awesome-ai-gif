@@ -20,9 +20,20 @@
     "license": "unknown",
     "note": "未打开原帖核实，仅凭搜索摘要收录"
   },
-  "tags": ["宠物", "照片转GIF", "挥手循环", "教程", "Facebook"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "宠物",
+    "照片转GIF",
+    "挥手循环",
+    "教程",
+    "Facebook"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借宠物照片转挥手循环的分步流程、节日主题加挥手动作的表情包组合思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -30,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借宠物照片转挥手循环的分步流程、节日主题加挥手动作的表情包组合思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

@@ -27,8 +27,13 @@
     "GPT-Image-2.6",
     "批量生产"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借先审静帧、再做动作的两阶段流程、frame_count 2–16 与帧时长的参数范围、生成后校验与存档的思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -36,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借先审静帧、再做动作的两阶段流程、frame_count 2–16 与帧时长的参数范围、生成后校验与存档的思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

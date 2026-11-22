@@ -21,9 +21,32 @@
     "license": "unknown",
     "note": "只借参数与分包思路，不抄它的示例画面"
   },
-  "tags": ["工具", "文字转GIF", "帧数参数", "多平台"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "工具",
+    "文字转GIF",
+    "帧数参数",
+    "多平台"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借2-16 帧、帧时长可调的参数设计、GIF、SVG、PNG、WebP、JPG 五种输出格式的组织、贴纸工坊兼容微信、LINE、WhatsApp、Telegram 的分包思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借2-16 帧、帧时长可调的参数设计、GIF、SVG、PNG、WebP、JPG 五种输出格式的组织、贴纸工坊兼容微信、LINE、WhatsApp、Telegram 的分包思路；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

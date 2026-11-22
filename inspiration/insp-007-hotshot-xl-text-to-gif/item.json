@@ -21,9 +21,32 @@
     "license": "CreativeML Open RAIL++-M",
     "note": "写实和文字渲染弱；只借路线，不一定落地"
   },
-  "tags": ["开源模型", "Text-to-GIF", "GitHub", "SDXL"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "开源模型",
+    "Text-to-GIF",
+    "GitHub",
+    "SDXL"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借LoRA锁主体+运动模型分离的思路、ControlNet控制构图做GIF、短时长高帧率的参数取向；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借LoRA锁主体+运动模型分离的思路、ControlNet控制构图做GIF、短时长高帧率的参数取向；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

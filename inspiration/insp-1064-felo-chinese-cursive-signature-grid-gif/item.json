@@ -29,8 +29,13 @@
     "GPT Image 2.6",
     "Felo"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借签名的呈现形式、逐字时序和描边处理思路，供动态签名立项参考；不搬对方的字形和代码"
+  },
   "landed": [],
   "history": [
     {
@@ -38,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借签名的呈现形式、逐字时序和描边处理思路，供动态签名立项参考；不搬对方的字形和代码"
     }
   ]
 }

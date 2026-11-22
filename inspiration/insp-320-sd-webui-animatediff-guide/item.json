@@ -29,8 +29,13 @@
     "GIF",
     "闭环"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借闭环三模式 R-P/R+P/A 的选型、GIF/MP4/WebP 多格式同出的设置、FreeInit 降闪烁的参数思路、首尾帧 latent 控制与 Prompt Travel 的用法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -38,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借闭环三模式 R-P/R+P/A 的选型、GIF/MP4/WebP 多格式同出的设置、FreeInit 降闪烁的参数思路、首尾帧 latent 控制与 Prompt Travel 的用法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

@@ -23,9 +23,20 @@
     "license": "unknown",
     "note": "文章用的是较早的 gemini-2.0-flash-exp，模型名与 API 可能已变；示例代码只给到时间戳 JSON，切片成 GIF 的步骤需自己补；只借场景挑选方法，不搬代码。已打开原文核实。"
   },
-  "tags": ["Gemini", "视频转GIF", "场景挑选", "JSON", "黑客松"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Gemini",
+    "视频转GIF",
+    "场景挑选",
+    "JSON",
+    "黑客松"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借视频理解替代字幕推断场景的思路：直接看画面挑高光，而不是从文案猜时间点、场景挑选规格：一次挑 3–5 个场景，每段 2–5 秒，互不重复、各成一个 GIF、start_time、end_time、caption 的结构化等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -33,6 +44,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借视频理解替代字幕推断场景的思路：直接看画面挑高光，而不是从文案猜时间点、场景挑选规格：一次挑 3–5 个场景，每段 2–5 秒，互不重复、各成一个 GIF、start_time、end_time、caption 的结构化等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

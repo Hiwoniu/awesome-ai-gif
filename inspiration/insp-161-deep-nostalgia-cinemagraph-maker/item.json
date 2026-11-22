@@ -21,9 +21,20 @@
     "license": "unknown",
     "note": "新账号 2 个免费点数；只借提示词写法"
   },
-  "tags": ["Cinemagraph", "活照片", "提示词", "局部动效", "循环"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Cinemagraph",
+    "活照片",
+    "提示词",
+    "局部动效",
+    "循环"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借只动一个细节的提示词写法、Subtle Movement 与 Gentle Sway 两个预设、先说明接缝可能不完美的预期管理；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -31,6 +42,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借只动一个细节的提示词写法、Subtle Movement 与 Gentle Sway 两个预设、先说明接缝可能不完美的预期管理；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

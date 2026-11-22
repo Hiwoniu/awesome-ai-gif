@@ -22,9 +22,32 @@
     "license": "MIT",
     "note": "只借流程与脚本组织，不抄它的提示词模板原文"
   },
-  "tags": ["Skill", "精灵表", "atlas", "MIT"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Skill",
+    "精灵表",
+    "atlas",
+    "MIT"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借先定 canonical base image 作身份锚点的流程、manifest 记录每状态帧数、尺寸与帧时长的组织方式、compose_sprite_set.py 组 atlas、未用格子全透明的做法、每状态导出 G等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借先定 canonical base image 作身份锚点的流程、manifest 记录每状态帧数、尺寸与帧时长的组织方式、compose_sprite_set.py 组 atlas、未用格子全透明的做法、每状态导出 G等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

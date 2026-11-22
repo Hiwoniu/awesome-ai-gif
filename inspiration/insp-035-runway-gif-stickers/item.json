@@ -21,9 +21,32 @@
     "license": "unknown",
     "note": "带推广性质的演示视频，只借分工与流程，不用它的示例角色"
   },
-  "tags": ["Runway", "GPT Image 2.6", "品牌套件", "Instagram"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Runway",
+    "GPT Image 2.6",
+    "品牌套件",
+    "Instagram"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借Flare 与 Sunburst 的分工：贴纸图标走 Flare、产品图走 Sunburst、GIF 贴纸加 SVG 图标加产品图拼品牌套件的流程、24 秒出 4 张贴纸的速度参考；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借Flare 与 Sunburst 的分工：贴纸图标走 Flare、产品图走 Sunburst、GIF 贴纸加 SVG 图标加产品图拼品牌套件的流程、24 秒出 4 张贴纸的速度参考；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

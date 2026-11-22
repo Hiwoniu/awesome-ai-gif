@@ -29,8 +29,13 @@
     "工具",
     "游戏动画"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借256px 透明格精灵表的规格与验收写法、四方向行走表的 3 列×4 行布局、动作切换时以落脚点对齐的修正方法、GIF 与视频转精灵表的工具思路、Godot、Unity、Unreal、RPG Maker 的导入参数表；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -38,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借256px 透明格精灵表的规格与验收写法、四方向行走表的 3 列×4 行布局、动作切换时以落脚点对齐的修正方法、GIF 与视频转精灵表的工具思路、Godot、Unity、Unreal、RPG Maker 的导入参数表；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

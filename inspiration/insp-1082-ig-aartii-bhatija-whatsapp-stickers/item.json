@@ -26,8 +26,13 @@
     "九宫格",
     "WhatsApp"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借3×3 九宫格贴纸包提示词结构、Stickers 模板+3D 风格+导出 WhatsApp 流程；涉及真人肖像或现成 IP 的部分不用，换成原创角色或自家宠物；不搬对方的画面、文案和提示词原文；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -35,6 +40,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借3×3 九宫格贴纸包提示词结构、Stickers 模板+3D 风格+导出 WhatsApp 流程；涉及真人肖像或现成 IP 的部分不用，换成原创角色或自家宠物；不搬对方的画面、文案和提示词原文；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

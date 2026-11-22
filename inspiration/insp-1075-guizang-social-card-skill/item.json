@@ -31,8 +31,13 @@
     "版式系统",
     "Live Photo"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借Live Photo 动态卡的 3s/5s 信息量判断与首帧先成立原则、Editorial×Swiss 双视觉系统与 28 个版式骨架、公众号 21:9+1:1 封面对的同源双画板做法、Playwright 真实渲染测量等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -40,6 +45,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借Live Photo 动态卡的 3s/5s 信息量判断与首帧先成立原则、Editorial×Swiss 双视觉系统与 28 个版式骨架、公众号 21:9+1:1 封面对的同源双画板做法、Playwright 真实渲染测量等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

@@ -31,8 +31,13 @@
     "Sunburst",
     "Morphic"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借2–16 帧、20ms–2 秒、默认 9 帧 200ms 的 GIF 参数写法、Flare 快速迭代、Sunburst 锁定成品的分工、正面、侧面、背面加四种表情的角色参考表结构、循环四习惯：锁机位、只动一处、首尾接回等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -40,6 +45,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借2–16 帧、20ms–2 秒、默认 9 帧 200ms 的 GIF 参数写法、Flare 快速迭代、Sunburst 锁定成品的分工、正面、侧面、背面加四种表情的角色参考表结构、循环四习惯：锁机位、只动一处、首尾接回等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

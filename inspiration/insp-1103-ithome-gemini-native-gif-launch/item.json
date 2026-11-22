@@ -11,15 +11,29 @@
   },
   "what": "2026-11-21 报道：Gemini 原生 GIF 功能上线，3 秒无缝循环、可文字/图片/视频输入，由 Omni 1.2 Flash 模型驱动，8 国免费开放。",
   "why": "补充了官宣之外的关键信息（Omni 1.2 Flash 模型名、8 国开放范围），可作 Gemini 路线的对照口径。",
-  "borrow": ["Gemini GIF 的官方用法与参数边界（约 3 秒、静音循环）", "Omni 1.2 Flash 驱动的模型口径", "文/图/视频三种输入的覆盖范围"],
+  "borrow": [
+    "Gemini GIF 的官方用法与参数边界（约 3 秒、静音循环）",
+    "Omni 1.2 Flash 驱动的模型口径",
+    "文/图/视频三种输入的覆盖范围"
+  ],
   "risks": {
     "ip_or_real_person": false,
     "license": "unknown",
     "note": "未打开原文核实，仅凭搜索摘要收录；为 11 月 20 日 Gemini 官宣（insp-1089）的新闻报道，补充模型与开放范围信息"
   },
-  "tags": ["Gemini", "原生 GIF", "新闻", "Omni 1.2 Flash"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Gemini",
+    "原生 GIF",
+    "新闻",
+    "Omni 1.2 Flash"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借Gemini GIF 的官方用法与参数边界（约 3 秒、静音循环）、Omni 1.2 Flash 驱动的模型口径、文/图/视频三种输入的覆盖范围；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -27,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借Gemini GIF 的官方用法与参数边界（约 3 秒、静音循环）、Omni 1.2 Flash 驱动的模型口径、文/图/视频三种输入的覆盖范围；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

@@ -22,9 +22,20 @@
     "license": "unknown",
     "note": "未打开原文核实，仅凭搜索摘要收录"
   },
-  "tags": ["GPT Image 2.6", "生成器", "透明 PNG", "吉祥物", "工作流"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "GPT Image 2.6",
+    "生成器",
+    "透明 PNG",
+    "吉祥物",
+    "工作流"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借文生图到透明 PNG 再到 GIF 三步递进的工作流组织、吉祥物角色描述结构：外形加服装加画风加留白、同一角色换动作词批量出贴纸包的写法、Flare 快速出草稿、Sunburst 出终稿的分工；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -32,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借文生图到透明 PNG 再到 GIF 三步递进的工作流组织、吉祥物角色描述结构：外形加服装加画风加留白、同一角色换动作词批量出贴纸包的写法、Flare 快速出草稿、Sunburst 出终稿的分工；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

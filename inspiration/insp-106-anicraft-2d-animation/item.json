@@ -21,9 +21,33 @@
     "license": "unknown",
     "note": "只借时间轴转 GIF 的结构思路，不抄它的示例动画"
   },
-  "tags": ["开源", "Rust", "时间轴动画", "Adobe Animate", "MCP"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "开源",
+    "Rust",
+    "时间轴动画",
+    "Adobe Animate",
+    "MCP"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借时间轴动画转 GIF 的结构：补间、矢量、位图、文字、符号、导出 GIF、MP4、PNG 序列、精灵表的分流组织、MCP 接口接 Agent 的工具形态；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借时间轴动画转 GIF 的结构：补间、矢量、位图、文字、符号、导出 GIF、MP4、PNG 序列、精灵表的分流组织、MCP 接口接 Agent 的工具形态；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

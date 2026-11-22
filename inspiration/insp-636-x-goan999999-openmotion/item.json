@@ -1,1 +1,52 @@
-{"borrow":["参考视频逆向出可编辑动效结构","改文案换画面调时间轴的二次编辑","成片多格式导出含 GIF"],"history":[{"by":"八哥","date":"2026-11-19","note":"收进灵感池","status":"pending"}],"id":"insp-636","landed":[],"review":null,"risks":{"ip_or_real_person":false,"license":"unknown","note":"已打开原帖核实（经用户 Chrome 登录）。帖子未给 GIF 模板、提示词结构与帧数尺寸规格，主帖无 GIF 动图演示，GIF 只是导出格式之一；逆向参考视频时只借结构，不搬运原视频画面与文案。"},"source":{"author":"@goan999999","found_at":"2026-11-19","found_by":"八哥","platform":"X","url":"https://x.com/goan999999/status/2123411046568235323"},"status":"pending","tags":["X","视频逆向","动效结构","开源工具"],"title":"X @goan999999：OpenMotion 参考视频逆向出可编辑动效结构，可导出 GIF","type":"multi","what":"介绍开源 AI 视频项目 OpenMotion（nexu-io）：喂一段参考视频，它能分析镜头、字幕、转场与动效结构，生成可编辑版本，可改文案、换画面、调时间轴，支持导出 MP4、MOV、WebM、GIF。","why":"「参考视频逆向成可编辑动效结构」是和直出、精灵表不同的第三条路线：先拆解现成动效的骨架，再换内容重做，适合动态海报与签名类动图借鉴。"}
+{
+  "borrow": [
+    "参考视频逆向出可编辑动效结构",
+    "改文案换画面调时间轴的二次编辑",
+    "成片多格式导出含 GIF"
+  ],
+  "history": [
+    {
+      "by": "八哥",
+      "date": "2026-11-19",
+      "note": "收进灵感池",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借参考视频逆向出可编辑动效结构、改文案换画面调时间轴的二次编辑、成片多格式导出含 GIF；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ],
+  "id": "insp-636",
+  "landed": [],
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借参考视频逆向出可编辑动效结构、改文案换画面调时间轴的二次编辑、成片多格式导出含 GIF；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原帖核实（经用户 Chrome 登录）。帖子未给 GIF 模板、提示词结构与帧数尺寸规格，主帖无 GIF 动图演示，GIF 只是导出格式之一；逆向参考视频时只借结构，不搬运原视频画面与文案。"
+  },
+  "source": {
+    "author": "@goan999999",
+    "found_at": "2026-11-19",
+    "found_by": "八哥",
+    "platform": "X",
+    "url": "https://x.com/goan999999/status/2123411046568235323"
+  },
+  "status": "approved",
+  "tags": [
+    "X",
+    "视频逆向",
+    "动效结构",
+    "开源工具"
+  ],
+  "title": "X @goan999999：OpenMotion 参考视频逆向出可编辑动效结构，可导出 GIF",
+  "type": "multi",
+  "what": "介绍开源 AI 视频项目 OpenMotion（nexu-io）：喂一段参考视频，它能分析镜头、字幕、转场与动效结构，生成可编辑版本，可改文案、换画面、调时间轴，支持导出 MP4、MOV、WebM、GIF。",
+  "why": "「参考视频逆向成可编辑动效结构」是和直出、精灵表不同的第三条路线：先拆解现成动效的骨架，再换内容重做，适合动态海报与签名类动图借鉴。"
+}

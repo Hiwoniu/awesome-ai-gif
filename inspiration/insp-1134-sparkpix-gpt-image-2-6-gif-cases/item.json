@@ -22,9 +22,20 @@
     "license": "unknown",
     "note": "已打开原文核实；2026-11-06 实测，模型为当时 GPT Image 2.6 Flare，版本信息以原文为准"
   },
-  "tags": ["GPT Image 2.6", "照片转GIF", "cinemagraph", "反应贴纸", "提示词公式"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "GPT Image 2.6",
+    "照片转GIF",
+    "cinemagraph",
+    "反应贴纸",
+    "提示词公式"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借提示词公式：一个小动作+逐项点名每帧必须完全相同的元素+looping 收尾、局部动态法：只让蒸汽/窗帘两处动，其余全部静止，做 cinemagraph 效果、动作选型原则：9 帧只够做一个手势，跨房间行走这类多步动作必等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -32,6 +43,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借提示词公式：一个小动作+逐项点名每帧必须完全相同的元素+looping 收尾、局部动态法：只让蒸汽/窗帘两处动，其余全部静止，做 cinemagraph 效果、动作选型原则：9 帧只够做一个手势，跨房间行走这类多步动作必等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

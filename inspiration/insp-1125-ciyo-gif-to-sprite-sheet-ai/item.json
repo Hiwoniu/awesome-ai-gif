@@ -11,15 +11,29 @@
   },
   "what": "用 AI 把 GIF 转成精灵表的教程，覆盖帧、时序与循环修复。",
   "why": "反向路线（GIF 到精灵表），与精灵表到 GIF 形成闭环，可借其帧时序处理经验。",
-  "borrow": ["GIF 拆帧方法", "帧时序还原", "循环修复"],
+  "borrow": [
+    "GIF 拆帧方法",
+    "帧时序还原",
+    "循环修复"
+  ],
   "risks": {
     "ip_or_real_person": false,
     "license": "unknown",
     "note": "仅凭搜索摘要收录，未打开原文核实。"
   },
-  "tags": ["精灵表", "GIF拆帧", "帧时序", "循环修复"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "精灵表",
+    "GIF拆帧",
+    "帧时序",
+    "循环修复"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借GIF 拆帧方法、帧时序还原、循环修复；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
   "history": [
     {
@@ -27,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借GIF 拆帧方法、帧时序还原、循环修复；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
     }
   ]
 }

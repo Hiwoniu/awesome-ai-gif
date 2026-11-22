@@ -21,9 +21,33 @@
     "license": "unknown",
     "note": "示例是对方的教程，只借流程与边界提醒；把真人存为参考图要先取得本人同意"
   },
-  "tags": ["Codearia", "教程", "GPT Image 2.6", "保存参考图", "贴纸包"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Codearia",
+    "教程",
+    "GPT Image 2.6",
+    "保存参考图",
+    "贴纸包"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借保存参考图加 GIF 叠加的贴纸包流程、一次保存角色、多次复用的角色一致性做法、GIF 只能改自己做的、不能改外部导入 GIF 的边界提醒；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借保存参考图加 GIF 叠加的贴纸包流程、一次保存角色、多次复用的角色一致性做法、GIF 只能改自己做的、不能改外部导入 GIF 的边界提醒；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

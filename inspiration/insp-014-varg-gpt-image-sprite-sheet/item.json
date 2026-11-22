@@ -22,9 +22,32 @@
     "license": "unknown",
     "note": "需要 VARG API Key 才能跑它本体；只借规格和流程，不搬代码"
   },
-  "tags": ["Skill", "精灵表", "GPT Image 2.6", "游戏"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Skill",
+    "精灵表",
+    "GPT Image 2.6",
+    "游戏"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借严格 4×4 格表规格：16 帧、等格、固定比例和地平线、切片加抠底加统一地平线的后处理脚本思路、TexturePacker 格式图集 JSON 的输出组织、PNG 表与原生 GIF 两条路线的对比取舍；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借严格 4×4 格表规格：16 帧、等格、固定比例和地平线、切片加抠底加统一地平线的后处理脚本思路、TexturePacker 格式图集 JSON 的输出组织、PNG 表与原生 GIF 两条路线的对比取舍；不搬对方的画面、角色、文案和提示词原文，换原创角色重做；成品仍只做 GIF，超出 GIF 范围的部分只作参考"
+    }
+  ]
 }

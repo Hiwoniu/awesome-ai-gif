@@ -22,9 +22,33 @@
     "license": "unknown",
     "note": "只借双态卡的工作流与校验思路，不抄它的美术风格与示例卡面"
   },
-  "tags": ["光栅卡", "Skill", "开源", "收藏卡", "Blender"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "光栅卡",
+    "Skill",
+    "开源",
+    "收藏卡",
+    "Blender"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借双图对齐、共享调色板、循环规格和贺卡题材，用原创角色做光栅变画卡案例；不搬对方的画面和代码"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借双图对齐、共享调色板、循环规格和贺卡题材，用原创角色做光栅变画卡案例；不搬对方的画面和代码"
+    }
+  ]
 }

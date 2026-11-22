@@ -30,8 +30,13 @@
     "gpt-image-2-6",
     "browser-assembly"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借选题结构和提示词模板结构，换成原创角色重做；不抄模板原文、示例角色和文案"
+  },
   "landed": [],
   "history": [
     {
@@ -45,6 +50,12 @@
       "status": "pending",
       "by": "Claude",
       "note": "合并重复条目 insp-1159（同一出处，保留分析更完整的这条）"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借选题结构和提示词模板结构，换成原创角色重做；不抄模板原文、示例角色和文案"
     }
   ]
 }

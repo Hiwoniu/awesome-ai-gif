@@ -21,9 +21,33 @@
     "license": "MIT",
     "note": "工具较早期（2025 年 3 月），生成质量与现在模型版本可能有出入，先试再用"
   },
-  "tags": ["Gemini", "开源工具", "CLI", "MIT", "文字转 GIF"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Gemini",
+    "开源工具",
+    "CLI",
+    "MIT",
+    "文字转 GIF"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借用 Gemini 2.0 Flash 做 GIF 的模型路线、提示词模板参数化的做法、CLI 工具的形态参考；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借用 Gemini 2.0 Flash 做 GIF 的模型路线、提示词模板参数化的做法、CLI 工具的形态参考；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

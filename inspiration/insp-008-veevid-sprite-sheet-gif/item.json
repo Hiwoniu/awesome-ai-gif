@@ -21,9 +21,31 @@
     "license": "unknown",
     "note": "商业产品，只借提示词结构和参数，不抄它的示例文案"
   },
-  "tags": ["提示词", "sprite sheet", "GPT Image 2.6"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "提示词",
+    "sprite sheet",
+    "GPT Image 2.6"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借sprite sheet 提示词前缀结构、9帧x200ms的循环参数、反应表情/吉祥物/产品循环的分类示例组织；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
-  "history": [{"date": "2026-11-18", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借sprite sheet 提示词前缀结构、9帧x200ms的循环参数、反应表情/吉祥物/产品循环的分类示例组织；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+    }
+  ]
 }

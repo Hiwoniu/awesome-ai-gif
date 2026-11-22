@@ -28,8 +28,13 @@
     "挤压拉伸",
     "弹跳"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借squash & stretch 原理的提示词写法：落地压缩+弹起拉伸、影子随球伸缩的联动写法、干净扁平风做动画原理演示的选法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -37,6 +42,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借squash & stretch 原理的提示词写法：落地压缩+弹起拉伸、影子随球伸缩的联动写法、干净扁平风做动画原理演示的选法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

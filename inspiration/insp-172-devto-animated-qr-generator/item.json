@@ -27,8 +27,13 @@
     "GIF编码",
     "调色板"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借逐帧处理 GIF 的合成流程、NeuQuant 调色板优化：256 色下多帧色彩一致、纯前端实现、URL 不上服务器的隐私做法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -36,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借逐帧处理 GIF 的合成流程、NeuQuant 调色板优化：256 色下多帧色彩一致、纯前端实现、URL 不上服务器的隐私做法；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

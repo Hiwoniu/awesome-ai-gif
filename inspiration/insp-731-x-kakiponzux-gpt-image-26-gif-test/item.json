@@ -20,9 +20,20 @@
     "license": "unknown",
     "note": "未打开原帖核实，仅凭搜索摘要收录"
   },
-  "tags": ["X", "GPT Image 2.6", "实测", "像素预算", "失败模式"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "X",
+    "GPT Image 2.6",
+    "实测",
+    "像素预算",
+    "失败模式"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借失败模式和参数结论，转成机检规则与提示词禁忌句，并用于实测原生 GIF 路线；不搬对方的示例画面"
+  },
   "landed": [],
   "history": [
     {
@@ -30,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借失败模式和参数结论，转成机检规则与提示词禁忌句，并用于实测原生 GIF 路线；不搬对方的示例画面"
     }
   ]
 }

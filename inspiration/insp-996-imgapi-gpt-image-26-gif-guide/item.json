@@ -27,8 +27,13 @@
     "API",
     "教程"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借「主体+一个动作+固定镜头+回到起始姿势」提示词公式、frame_count/frame_duration_ms 参数表：2–16 帧，每帧 20–2000ms、可直接跑的 make_gif.py 脚本思路、循环不顺滑的等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -36,6 +41,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借「主体+一个动作+固定镜头+回到起始姿势」提示词公式、frame_count/frame_duration_ms 参数表：2–16 帧，每帧 20–2000ms、可直接跑的 make_gif.py 脚本思路、循环不顺滑的等；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

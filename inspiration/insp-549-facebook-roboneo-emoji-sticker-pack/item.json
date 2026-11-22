@@ -26,8 +26,13 @@
     "动态包",
     "Facebook"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借指定 emoji 风格加动态包时长的提示词写法、静态加动态两套产物的 App 工作流；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -35,6 +40,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借指定 emoji 风格加动态包时长的提示词写法、静态加动态两套产物的 App 工作流；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

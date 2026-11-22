@@ -26,8 +26,13 @@
     "工程化",
     "GPT-Image-2.6"
   ],
-  "status": "pending",
-  "review": null,
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借提示词拆基线/变量/禁止修改三段模板，基线带版本号与参考图固化、幂等键与失败重跑：只重跑失败节点，GIF 独立验收 frame_count 2–16；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -35,6 +40,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借提示词拆基线/变量/禁止修改三段模板，基线带版本号与参考图固化、幂等键与失败重跑：只重跑失败节点，GIF 独立验收 frame_count 2–16；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }

@@ -21,9 +21,20 @@
     "license": "unknown",
     "note": "只借选型与约束清单，不抄提示词原文"
   },
-  "tags": ["Skill", "GPT Image 2.6", "模型指南", "Flare", "Sunburst"],
-  "status": "pending",
-  "review": null,
+  "tags": [
+    "Skill",
+    "GPT Image 2.6",
+    "模型指南",
+    "Flare",
+    "Sunburst"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-22",
+    "note": "借Flare 求快、Sunburst 求稳的选型分工、16 帧上限等硬约束清单的写法、海报、明信片、分镜表等可迁移的构图配方类型；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
+  },
   "landed": [],
   "history": [
     {
@@ -31,6 +42,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "approved",
+      "by": "向明",
+      "note": "借Flare 求快、Sunburst 求稳的选型分工、16 帧上限等硬约束清单的写法、海报、明信片、分镜表等可迁移的构图配方类型；不搬对方的画面、角色、文案和提示词原文，换原创角色重做"
     }
   ]
 }
