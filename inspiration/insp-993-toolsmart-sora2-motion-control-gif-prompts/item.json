@@ -39,6 +39,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "Claude",
+      "note": "合并重复条目 insp-1162（同一出处，保留分析更完整的这条）"
     }
   ]
 }

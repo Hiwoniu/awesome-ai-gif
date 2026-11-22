@@ -23,9 +23,27 @@
     "license": "unknown",
     "note": "文中水獭动画并非原生 GIF 直出实测，是 PNG 加 MP4 本地转 GIF；只借结构与验收法，不搬它的水獭角色与提示词原文"
   },
-  "tags": ["GPT Image 2.6", "微信表情包", "提示词", "验收"],
+  "tags": [
+    "GPT Image 2.6",
+    "微信表情包",
+    "提示词",
+    "验收"
+  ],
   "status": "pending",
   "review": null,
   "landed": [],
-  "history": [{"date": "2026-11-20", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "Claude",
+      "note": "合并重复条目 insp-036（同一出处，保留分析更完整的这条）"
+    }
+  ]
 }

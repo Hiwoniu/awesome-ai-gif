@@ -22,7 +22,13 @@
     "license": "unknown",
     "note": "已打开原文核实；同站另有三页已在池内（discord-sticker-maker、pixel-art-gif、text-to-gif-ai），本页为独立的精灵表工具页，内容不重复"
   },
-  "tags": ["精灵表", "像素风", "透明背景", "游戏动画", "GPT Image 2.6"],
+  "tags": [
+    "精灵表",
+    "像素风",
+    "透明背景",
+    "游戏动画",
+    "GPT Image 2.6"
+  ],
   "status": "pending",
   "review": null,
   "landed": [],
@@ -32,6 +38,12 @@
       "status": "pending",
       "by": "八哥",
       "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "Claude",
+      "note": "合并重复条目 insp-1156（同一出处，保留分析更完整的这条）"
     }
   ]
 }
