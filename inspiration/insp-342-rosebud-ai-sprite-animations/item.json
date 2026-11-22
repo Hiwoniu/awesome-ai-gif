@@ -1,0 +1,39 @@
+{
+  "id": "insp-342",
+  "title": "Rosebud AI：文字生成像素风精灵动画",
+  "type": "multi",
+  "source": {
+    "url": "https://rosebud.ai/sprite-animations",
+    "platform": "Rosebud AI",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "文字描述生成像素风 2D 游戏精灵动画，可下载 GIF、透明 PNG 精灵表与 JSON 时序文件。",
+  "why": "从描述到动画一键完成，导出物同时覆盖 GIF 分享与游戏引擎导入两种用途，规格完整。",
+  "borrow": [
+    "按动作（待机/行走/攻击/跳跃）与朝向选动画的交互设计",
+    "GIF+精灵表+JSON 的三件套导出"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "精灵动画",
+    "像素风",
+    "游戏"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

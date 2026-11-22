@@ -1,0 +1,40 @@
+{
+  "id": "insp-382",
+  "title": "Atlas Cloud：ChatGPT 到底能不能做 GIF？能力边界实测",
+  "type": "multi",
+  "source": {
+    "url": "https://www.atlascloud.ai/blog/tips/can-chatgpt-make-gifs",
+    "platform": "Atlas Cloud",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "实测 ChatGPT 做 GIF 的能力边界：能做什么、做不了什么，附提示词示例。",
+  "why": "能力边界写得具体，可作我们验收“什么值得用 GIF 做”的对照。",
+  "borrow": [
+    "能力边界清单",
+    "提示词示例",
+    "验收对照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "与池内同站两篇不同文章（动画贴纸指南、图转 GIF 指南），本篇主题为能力边界。"
+  },
+  "tags": [
+    "教程",
+    "能力边界",
+    "实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

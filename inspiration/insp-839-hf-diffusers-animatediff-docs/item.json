@@ -1,0 +1,40 @@
+{
+  "id": "insp-839",
+  "title": "Hugging Face Diffusers：AnimateDiff 文生视频官方文档与 GIF 导出代码",
+  "type": "unknown",
+  "source": {
+    "url": "https://huggingface.co/docs/diffusers/v0.30.2/en/api/pipelines/animatediff",
+    "platform": "Hugging Face",
+    "author": "Hugging Face",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Diffusers 官方 AnimateDiff 文档：MotionAdapter 注入冻结文生图模型做文生视频，附 AnimateDiffPipeline 代码示例与 export_to_gif 导出。",
+  "why": "官方管线的最小可跑代码是本地文生 GIF 路线的基准实现，运动适配器与基础模型分离的思路可直接复用。",
+  "borrow": [
+    "MotionAdapter 注入冻结文生图模型的分层思路：底模型管画风、运动模块管动作",
+    "AnimateDiffPipeline 代码示例与 export_to_gif 的导出写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "AnimateDiff",
+    "Diffusers",
+    "文生视频",
+    "官方文档"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "insp-774",
+  "title": "Threads @楊博智：官方 GIF 博客精灵表演示录屏",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@yang_bozhi/post/DfWEAnmgZCK",
+    "platform": "Threads",
+    "author": "楊博智",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "录屏滚动官方博客的动画精灵表演示：小男孩看涨跌图表、线条猫头鹰变眨眼动画。",
+  "why": "官方博客的两组精灵表演示是提示词做动画表的直接例证。",
+  "borrow": [
+    "精灵表做数据场景动画：小男孩看涨跌图表",
+    "线条草图转动效：猫头鹰眨眼的微动做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；为官方博客的录屏转述。"
+  },
+  "tags": [
+    "Threads",
+    "精灵表",
+    "官方演示"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

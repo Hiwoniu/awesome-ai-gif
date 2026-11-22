@@ -1,0 +1,41 @@
+{
+  "id": "insp-501",
+  "title": "GitHub：HHU3637kr gif-sticker-maker，照片转 4 张 Funko Pop 风 GIF 贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://github.com/HHU3637kr/skills/tree/master/gif-sticker-maker",
+    "platform": "GitHub",
+    "author": "HHU3637kr",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "把用户照片转成 4 张 Funko Pop/泡泡玛特盲盒风动画 GIF 贴纸（hi/laugh/cry/love 四个默认动作），底部黑字白边 1–3 词 caption，按语言查 captions.md 匹配文案。",
+  "why": "四张一套的动作加文案映射表结构很实用：caption 决定动作、多语言 caption 表、提示词模板化写法都可直接借。",
+  "borrow": [
+    "四张一套的动作加文案映射表",
+    "多语言 caption 表的做法",
+    "提示词模板化填空写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开仓库核实；同名 MiniMax 官方 gif-sticker-maker 已在池内，本条是不同作者的独立实现。"
+  },
+  "tags": [
+    "Skill",
+    "照片转贴纸",
+    "Funko-Pop",
+    "caption表"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

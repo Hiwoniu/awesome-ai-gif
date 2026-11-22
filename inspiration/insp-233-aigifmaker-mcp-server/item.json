@@ -1,0 +1,40 @@
+{
+  "id": "insp-233",
+  "title": "aigifmaker MCP Server：文字直出 GIF 的 MCP 服务",
+  "type": "multi",
+  "source": {
+    "url": "https://serverdex.io/server/io-github-hanshs474-aigifmaker-mcp",
+    "platform": "ServerDex",
+    "author": "hanshs474",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "AI GIF Maker 的官方 MCP 服务器，让 Claude、Cursor 等客户端用文字直接生成原生 GIF。",
+  "why": "把 GIF 生成接进 Agent 对话的现成范式，MIT 开源，2026-11-09 仍在更新。",
+  "borrow": [
+    "MCP 接入 GIF 生成的接口设计",
+    "原生 GIF 生成而非视频转码",
+    "按积分计费的成本模型"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": ""
+  },
+  "tags": [
+    "MCP",
+    "文生GIF",
+    "开源"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

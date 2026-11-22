@@ -1,0 +1,41 @@
+{
+  "id": "insp-374",
+  "title": "YouTube：越南语 Q 版动态贴纸集教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=B07K7zcNYKI",
+    "platform": "YouTube",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用本人照片做 Q 版角色、再批量生成带越南语文字的动态表情包贴纸集的视频教程。",
+  "why": "从存脸、做 Q 版角色到调速、调字体的完整贴纸集流程，含分行业提示词。",
+  "borrow": [
+    "存脸做角色",
+    "Q 版贴纸集",
+    "字幕字体调整",
+    "调速调帧"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "贴纸集",
+    "Q版角色",
+    "视频教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

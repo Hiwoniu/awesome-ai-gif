@@ -1,0 +1,41 @@
+{
+  "id": "insp-453",
+  "title": "Medium 实测：ChatGPT Image 2.6 的 SVG、GIF、逐帧编辑与复用参考图",
+  "type": "multi",
+  "source": {
+    "url": "https://medium.com/@janezhaoyx123/i-tested-chatgpt-image-2-6-svgs-gifs-frame-editing-and-reusable-references-88c84f15a494",
+    "platform": "Medium",
+    "author": "janezhaoyx123",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "以设计工作流实测 Images 2.6：SVG 图标转无缝循环 GIF（描边绘制再擦除）、猫照片变动图、草图变透明贴纸 GIF，并复用已保存的产品与角色参考图。",
+  "why": "SVG 图标“画一笔再擦掉”的循环写法很值得借：固定形状、不抖动、不变形，只动描边，适合做 logo 与图标类循环。",
+  "borrow": [
+    "SVG 图标描边绘制再擦除的循环写法",
+    "固定形状、不抖动、不变形的约束写法",
+    "草图转透明贴纸 GIF 的流程",
+    "参考图复用的工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实"
+  },
+  "tags": [
+    "Medium",
+    "SVG转GIF",
+    "实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

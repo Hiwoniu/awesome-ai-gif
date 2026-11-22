@@ -1,0 +1,38 @@
+{
+  "id": "insp-757",
+  "title": "Threads @reedo.dev：GPT Image 2.6 API 的 GIF 参数",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@reedo.dev/post/DfZdHnbmk0e",
+    "platform": "Threads",
+    "author": "@reedo.dev",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 API 的 GIF 参数：output_format=gif，2–16 帧（默认 9）、帧长 20–2000ms（默认 200ms），约 1.8 秒循环，不支持流式/压缩",
+  "why": "API 级帧数与帧长参数表，可作调用侧规格参考",
+  "borrow": [
+    "API 级帧数与帧长参数表（2–16 帧默认 9、20–2000ms 默认 200ms）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Threads",
+    "API",
+    "参数"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-204",
+  "title": "LoopGaussian：多视角照片生成 3D 影格图",
+  "type": "posters",
+  "source": {
+    "url": "https://arxiv.org/html/2404.08966v2",
+    "platform": "arXiv",
+    "author": "LoopGaussian 团队",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用多视角静态照片 + 3D 高斯泼溅与欧拉运动场，把静态场景做成可换视角渲染的无缝循环 3D 影格图（论文 + 项目页演示）。",
+  "why": "影格图方向少有的开源研究实现，三步流程（建 3D 高斯场景→特征自编码→运动场）清晰，有项目页演示。",
+  "borrow": [
+    "只动局部、其余完全静止的影格图构图原则",
+    "欧拉运动场实现无缝循环的思路",
+    "多视角照片重建 3D 场景再渲染动图的流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "研究论文，方法参考"
+  },
+  "tags": [
+    "影格图",
+    "论文",
+    "3D",
+    "循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

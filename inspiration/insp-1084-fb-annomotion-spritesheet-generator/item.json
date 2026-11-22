@@ -1,0 +1,40 @@
+{
+  "id": "insp-1084",
+  "title": "FB AnnoMotion：Spritesheet Generator 工具演示（35 帧行走循环）",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/reel/1445589044344273/",
+    "platform": "Facebook",
+    "author": "AnnoMotion",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-10-28 帖子：上传狐狸铠甲角色图 → 选 Walk 预设 → 品红抠像底 → 出 35 帧行走循环透明底精灵表，见 annomotion.studio。",
+  "why": "有完整操作流和帧数规格的精灵表工具。",
+  "borrow": [
+    "行走预设+抠像底出 35 帧循环表",
+    "工具选型参照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Facebook",
+    "精灵表",
+    "工具",
+    "行走循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

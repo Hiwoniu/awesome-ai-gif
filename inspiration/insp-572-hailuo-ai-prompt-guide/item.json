@@ -1,0 +1,42 @@
+{
+  "id": "insp-572",
+  "title": "The AI Future：Hailuo AI 视频提示词指南，镜头指令与图生视频实操",
+  "type": "unknown",
+  "source": {
+    "url": "https://the-ai-future.com/how-to/hailuo-ai-prompt-guide",
+    "platform": "The AI Future",
+    "author": "The AI Future",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Hailuo 提示词指南：按“主体→动作→场景→光线→镜头”顺序写提示词，方括号镜头指令为核心升级点；图生视频用 @Image1 指首帧、只写变化的部分；可设首帧与末帧、让 H3 补中间运动。",
+  "why": "Hailuo 系做循环 GIF 的提示词配方完整：顺序结构 + 镜头指令 + 首末帧。",
+  "borrow": [
+    "五段式提示词顺序：主体到动作到场景到光线到镜头",
+    "@Image1 指首帧的引用写法",
+    "方括号镜头指令作为精确运镜手段",
+    "首末帧双锚点的循环/转场做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "作者声明未实测，属文档整理型；仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "Hailuo",
+    "提示词",
+    "镜头指令",
+    "图生视频"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

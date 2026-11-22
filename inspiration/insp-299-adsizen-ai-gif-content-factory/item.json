@@ -1,0 +1,38 @@
+{
+  "id": "insp-299",
+  "title": "Adsizen：AI Animated GIF Content Factory 自动化流水线",
+  "type": "multi",
+  "source": {
+    "url": "https://adsizen.io/workflows/ai-animated-gif-content-factory/",
+    "platform": "Adsizen",
+    "author": "Adsizen",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 ChatGPT Images 2.6 批量生成 GIF，经 AI 审核、人工批准、定时发布到社媒的自动化流水线方案（n8n / Zapier / Make 三档配置）。",
+  "why": "唯一一条讲“批量生产+审核+发布”流水线的候选，对灵感池量产有参考价值。",
+  "borrow": [
+    "生成→审核→定时发布的流水线结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "流水线",
+    "批量生产",
+    "自动化"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

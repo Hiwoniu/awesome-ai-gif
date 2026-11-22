@@ -1,0 +1,39 @@
+{
+  "id": "insp-447",
+  "title": "Threads：一张照片加一段提示词，出 16 张动画 LINE 贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@icsc66/post/DfgG6lIkpf7",
+    "platform": "Threads",
+    "author": "@icsc66",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "转述教程：上传一张个人照片加一段提示词，生成 16 张不同的动画 LINE 贴纸。",
+  "why": "一张照片批量出 16 张动画贴纸的成套做法，对表情包成套生产很有参考价值。",
+  "borrow": [
+    "一张照片批量出贴纸",
+    "16 张成套规划"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "LINE贴纸",
+    "成套表情",
+    "批量生成"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

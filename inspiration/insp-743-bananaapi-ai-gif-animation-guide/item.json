@@ -1,0 +1,39 @@
+{
+  "id": "insp-743",
+  "title": "蕉绘AI：AI GIF 动图教程，单角色单动作循环",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.bananaapi.online/learn/ai-gif-animation-guide",
+    "platform": "蕉绘AI",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "AI GIF 动图教程：单角色单动作+固定镜头+回到初始姿态，附香蕉吉祥物踏步摇摆提示词",
+  "why": "把模糊形容词改成明确动作指令的提示词改法很实用",
+  "borrow": [
+    "把模糊形容词改成明确动作指令的提示词改法",
+    "单角色单动作+固定镜头+回初始姿态的结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "教程",
+    "提示词",
+    "循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

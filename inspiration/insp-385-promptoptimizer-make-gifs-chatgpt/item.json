@@ -1,0 +1,38 @@
+{
+  "id": "insp-385",
+  "title": "PromptOptimizer：用 ChatGPT 做 GIF（附提示词优化）",
+  "type": "multi",
+  "source": {
+    "url": "https://promptoptimizer.tools/blog/how-to-make-gifs-in-chatgpt",
+    "platform": "PromptOptimizer",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "ChatGPT 做 GIF 的教程，附提示词优化工具的用法。",
+  "why": "提示词优化工具与 GIF 教程结合，提示词打磨的思路可借。",
+  "borrow": [
+    "提示词优化思路",
+    "GIF 教程结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "教程",
+    "提示词优化"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

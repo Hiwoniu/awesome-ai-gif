@@ -1,0 +1,41 @@
+{
+  "id": "insp-612",
+  "title": "Predis.ai：GPT Image 2.6 的 Flare 与 Sunburst 动图对比实测",
+  "type": "multi",
+  "source": {
+    "url": "https://predis.ai/ai-models/gpt-image-2-6/",
+    "platform": "Predis.ai",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 的 GIF 实测页：同一提示词在 Flare 与 Sunburst 两个模型上并排对比，含咖啡蒸汽循环、牛油果挥手贴纸、运动鞋 360° 旋转三个真实案例。",
+  "why": "同提示词双模型并排实测罕见，产品旋转循环可直接借鉴。",
+  "borrow": [
+    "Flare/Sunburst 对比法",
+    "8 帧 200ms 参数",
+    "产品旋转循环提示词结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "实测案例是对方的产品与角色，只借对比方法与循环参数。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "实测",
+    "产品循环",
+    "对比"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

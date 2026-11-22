@@ -1,0 +1,40 @@
+{
+  "id": "insp-554",
+  "title": "Threads：@001hiroshi 狗照片加专用提示词做动图表情章，GIPHY 注册落点",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@001hiroshi/post/Df5pljckyhi",
+    "platform": "Threads",
+    "author": "ひろし",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "作者用爱犬 Anzu 的照片加一段专用提示词（免费版 ChatGPT），让 AI 完成去背景、做 GIF、终审，再注册到 GIPHY，从而在 Threads 里当表情章用；精确提示词原文在帖内分享。",
+  "why": "照片到动图表情章再进平台表情库的完整链路很值得借：去背景、做 GIF、GIPHY 注册三步就是分发末端的标准流程；精确提示词原文也在帖内。",
+  "borrow": [
+    "去背景加做 GIF 加 GIPHY 注册的落点流程",
+    "照片到动图表情章的链路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "日文帖；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "GIPHY",
+    "表情章",
+    "Threads",
+    "落点流程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "insp-657",
+  "title": "Civitai：MiniMax H3 多首尾帧自动循环工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://civitai.com/models/3040105/h3-multi-first-to-last-frame-automated-looping?modelVersionId=3475641",
+    "platform": "Civitai",
+    "author": "MiniMax H3 Workflows",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "把 Wan 2.2 I2V 多首尾帧移植到 MiniMax H3 的 ComfyUI 工作流，自动批量生成长序列，可一键首尾相接做循环。",
+  "why": "池里少见的长循环自动化方案，参数完整：循环开关、帧长 22/39/56、H3 Motion Context 过渡、LightX2V Turbo LoRA 0.80 强度 8 步、RIFE 插帧。",
+  "borrow": [
+    "首尾帧串联做无缝长循环的思路",
+    "多提示词逐段注入",
+    "段间过渡的 Motion Context 参数",
+    "插帧与超分节点取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "开源工作流，只借节点思路。"
+  },
+  "tags": [
+    "multi",
+    "ComfyUI",
+    "MiniMax H3",
+    "loop",
+    "Wan 2.2"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

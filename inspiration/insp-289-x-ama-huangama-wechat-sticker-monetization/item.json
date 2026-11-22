@@ -1,0 +1,39 @@
+{
+  "id": "insp-289",
+  "title": "X @ama_huangama：AI 表情包上架微信平台攻略与变现实录",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://x.com/ama_huangama/status/2118154620744708599",
+    "platform": "X/Twitter",
+    "author": "@ama_huangama",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "分享把 AI 表情包上架微信表情开放平台的方法与注意事项，称已赚 1000+ 元，635 个收藏。",
+  "why": "少见的“生成→上架→变现”全链路实录，含微信平台上架要点。",
+  "borrow": [
+    "微信表情包上架流程与避坑点",
+    "变现路径"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；变现金额为作者自述，未经核实。"
+  },
+  "tags": [
+    "X",
+    "上架",
+    "变现"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-369",
+  "title": "Wechat Sticker Generator：12 种画风×10 大场景的表情包 Skill",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.skillhub.cn/skills/user_cc9b65f0/wechat-sticker-generator",
+    "platform": "SkillHub",
+    "author": "user_cc9b65f0",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "SkillHub 社区 Skill：一键生成符合微信规范的动态 GIF 与静态 PNG 系列表情包套件，v1.0.3，支持 12 种画风、10 大场景、真人照片转 Q 版。",
+  "why": "画风/场景词库与全自动切割合成的套件化做法可直接参考。",
+  "borrow": [
+    "12种画风词库",
+    "10大场景主题",
+    "真人转Q版",
+    "全自动切图合成"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "含真人照片转 Q 版功能，我们只用画风/场景词库与套件化流程，不拿真人照片做案例。"
+  },
+  "tags": [
+    "Skill",
+    "微信表情包",
+    "画风词库"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

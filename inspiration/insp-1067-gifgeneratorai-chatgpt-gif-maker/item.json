@@ -1,0 +1,43 @@
+{
+  "id": "insp-1067",
+  "title": "GifGeneratorAI：ChatGPT GIF 生成工具与提示词模板",
+  "type": "multi",
+  "source": {
+    "url": "https://gifgeneratorai.com/chatgpt-gif",
+    "platform": "GifGeneratorAI",
+    "author": "GifGeneratorAI",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "独立第三方 GPT Image 2.6 GIF 生成工具页：9 帧 816×816、200ms／帧，附两套提示词模板与分步工作流，低质量 7 积分、中质量 12 积分。",
+  "why": "参数与成本都写明了（帧数、尺寸、帧延迟、积分价），两套模板与分步验收流程可作对照参考。",
+  "borrow": [
+    "9 帧 816×816、200ms／帧的默认规格",
+    "单动作＋固定机位＋稳定标语的提示词写法",
+    "逐帧检查循环接缝的验收流程",
+    "按质量档计积分的成本记录方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。该工具为独立第三方（经 fal.ai 调用 GPT Image 2.6），按次付费，非官方 ChatGPT 界面。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "工具",
+    "提示词模板",
+    "规格",
+    "成本"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

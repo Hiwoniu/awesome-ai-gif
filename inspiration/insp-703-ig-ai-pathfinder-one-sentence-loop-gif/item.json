@@ -1,0 +1,41 @@
+{
+  "id": "insp-703",
+  "title": "IG @ai_pathfinder_：一句话做循环 GIF 的六页新手指南",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/p/Df5HUlRF5l0/",
+    "platform": "Instagram",
+    "author": "@ai_pathfinder_",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "六页轮播新手指南：一句话让 ChatGPT 做循环 GIF，拆成主体+动作+风格+无缝循环的写法，附选题清单与局限提醒。",
+  "why": "一句话循环 GIF 的教学拆法很干净；诚实写局限（文字易糊、5 秒内效果最好）的做法值得学。",
+  "borrow": [
+    "一句话循环 GIF 的教学拆法：主体+动作+风格+无缝循环",
+    "新手选题清单：生日循环、贴纸包、反应 GIF",
+    "诚实写局限的做法：文字易糊、5 秒内效果最好"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "一句话提示词",
+    "新手指南",
+    "循环 GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

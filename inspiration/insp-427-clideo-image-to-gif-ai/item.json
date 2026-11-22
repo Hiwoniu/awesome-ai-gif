@@ -1,0 +1,42 @@
+{
+  "id": "insp-427",
+  "title": "Clideo：图片转 GIF，用 AI 让静态图片动起来",
+  "type": "multi",
+  "source": {
+    "url": "https://clideo.com/resources/image-to-gif",
+    "platform": "Clideo",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 Clideo 图生视频再导出 GIF 的教程：以咖啡蒸汽为例，只动蒸汽、其余冻结，导出 480p、无声、256 色 GIF。",
+  "why": "图转 GIF 路线的标准示范，“只动一处、其余冻结”的提示词写法与 cinemagraph 手法相通。",
+  "borrow": [
+    "只描述一处运动的提示词写法",
+    "30 秒内短片的时长控制",
+    "GIF 导出规格（480p、256 色）",
+    "多图拼 GIF 的备选路线"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "图生GIF",
+    "教程",
+    "Clideo",
+    "cinemagraph"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

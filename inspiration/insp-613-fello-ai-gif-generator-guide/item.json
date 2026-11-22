@@ -1,0 +1,40 @@
+{
+  "id": "insp-613",
+  "title": "Fello AI：以图生 GIF 工具对照与循环提示词指南",
+  "type": "multi",
+  "source": {
+    "url": "https://felloai.com/ai-gif-generator/",
+    "platform": "Fello AI",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "以图生 GIF 为主线的工具对照指南：ChatGPT、Fotor、CapCut 对比，循环提示词公式，Ezgif 转换与 Mac 快捷指令制 GIF。",
+  "why": "图生 GIF 的工具对照表清晰，并点明 MP4 与 GIF 的校验坑。",
+  "borrow": [
+    "图生 GIF 工具对照表",
+    "循环提示词公式",
+    "MP4 与 GIF 校验点"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "指南示例是别人的图片，只借工具对照与提示词公式。"
+  },
+  "tags": [
+    "图生 GIF",
+    "工具对照",
+    "循环提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

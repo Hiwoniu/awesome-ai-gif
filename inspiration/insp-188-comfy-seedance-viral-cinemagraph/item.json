@@ -1,0 +1,41 @@
+{
+  "id": "insp-188",
+  "title": "Comfy 官方工作流：Seedance 2.0 病毒式影格图效果",
+  "type": "posters",
+  "source": {
+    "url": "https://comfy.org/ja/hub/workflows/seedance-2-0-viral-cinemagraph-effect-ed1c4eade3a3/",
+    "platform": "Comfy 官方工作流库",
+    "author": "Comfy 社区工作流作者",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Comfy 工作流——一张角色静帧 + 遮罩，只让选定区域动，其余完全静止，输出干净循环 Cinemagraph。",
+  "why": "“主体静止、局部微动”的 Cinemagraph 手法 + 提示词工程节点（把动作描述压缩成简洁提示），适合动态海报/签名类小动效。",
+  "borrow": [
+    "主体静止、局部微动的遮罩做法",
+    "提示词工程节点：动作描述压缩成简洁提示",
+    "Comfy 工作流图的复用结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "社区工作流，引用注明出处",
+    "note": "日文页面"
+  },
+  "tags": [
+    "ComfyUI",
+    "Seedance",
+    "影格图",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

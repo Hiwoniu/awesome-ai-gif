@@ -1,0 +1,52 @@
+{
+  "id": "insp-630",
+  "title": "整点AI实测：3×3 九宫格连画直出微信表情包",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.zengliangyi.online/ai/chatgpt-image-2-6",
+    "platform": "整点AI",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "实测 ChatGPT Image 2.6 先画 3×3 九宫格连续动作分解图、后台自动切分合成无缝循环 GIF，配宠物定制与打工人文字表情两套中文指令模板。",
+  "why": "点破关键坑：直接说「做个动图」容易出闪图，必须写明九宫格连续分解加首尾相连；还有闲鱼、小红书宠物定制 10 分钟交付的变现流程。",
+  "borrow": [
+    "3×3 九宫格连续分解指令",
+    "@名字存图锁脸",
+    "宠物定制交付流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "模板里的示例是宠物照片场景，只借指令结构；实际使用须用自有或已授权的照片。"
+  },
+  "tags": [
+    "九宫格",
+    "微信表情包",
+    "宠物定制",
+    "变现"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-19",
+    "note": "借 3×3 九宫格连续分解指令、@名字存图锁脸、宠物定制交付流程；只借指令结构，照片用自有或已授权的"
+  },
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "approved",
+      "by": "向明",
+      "note": "主人在对话中确认通过（第一批推荐）"
+    }
+  ]
+}

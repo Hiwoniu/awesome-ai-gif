@@ -1,0 +1,40 @@
+{
+  "id": "insp-550",
+  "title": "Facebook：Gmail 动态头像，Canva 动画转 MP4 再转 GIF 设为头像",
+  "type": "signatures",
+  "source": {
+    "url": "https://www.facebook.com/reel/2294909034599738",
+    "platform": "Facebook",
+    "author": "Matty McTech",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "演示把 Canva 做的说话动画导出 MP4，用 mcstumble.com/tools 的 MP4 to GIF 转换，再上传为 Gmail 动态头像；动画到 GIF 再到落点的完整链路，与灵感池的 signatures 方向相关。",
+  "why": "动画、GIF、落点的完整链路很清晰：Canva 做动画、转 GIF、用作头像或签名，三步就是 signatures 方向的标准流程。",
+  "borrow": [
+    "动画到 GIF 再到落点的完整链路",
+    "Canva 做动画加 MP4 转 GIF 的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "属头像与签名落点，非表情包主线；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "动态头像",
+    "Gmail",
+    "Canva",
+    "signatures"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "insp-290",
+  "title": "X @Leviwoyun：小红书定制表情包售卖案例",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://x.com/Leviwoyun/status/2118157743840469222",
+    "platform": "X/Twitter",
+    "author": "@Leviwoyun",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "在小红书售卖 AI 定制表情包套装的案例。",
+  "why": "表情包商业化的另一条路径（定制接单），可对照上架变现实录。",
+  "borrow": [
+    "定制表情包的产品化思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "X",
+    "定制",
+    "小红书"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

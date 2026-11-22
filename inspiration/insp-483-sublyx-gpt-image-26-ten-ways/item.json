@@ -1,0 +1,41 @@
+{
+  "id": "insp-483",
+  "title": "Sublyx：榨干 GPT Image 2.6 的 10 个玩法，附完整提示词与验收清单",
+  "type": "multi",
+  "source": {
+    "url": "https://sublyx.org/blog/gpt-image-2-6-10-ways/",
+    "platform": "Sublyx",
+    "author": "Sublyx",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "10 组可直接复制的玩法，含 6 帧挥手 GIF、九宫格表情、中文活动海报，附出图后四项检查清单。",
+  "why": "先锁角色再换情绪的九宫格法、单动作循环 GIF 的提示词写法、出图验收清单，三样都可直接借。",
+  "borrow": [
+    "先锁角色再换情绪的九宫格法",
+    "单动作循环 GIF 的提示词写法",
+    "出图后四项检查清单"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "服务商软文，文末导向自家 API 接入；示例图为授权素材，非实测截图。"
+  },
+  "tags": [
+    "玩法合集",
+    "九宫格",
+    "验收清单",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

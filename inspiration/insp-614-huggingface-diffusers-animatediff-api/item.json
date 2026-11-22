@@ -1,0 +1,41 @@
+{
+  "id": "insp-614",
+  "title": "Hugging Face Diffusers：AnimateDiff 官方 Pipeline 文档",
+  "type": "unknown",
+  "source": {
+    "url": "https://huggingface.co/docs/diffusers/v0.28.0/api/pipelines/animatediff",
+    "platform": "Hugging Face",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "AnimateDiff 官方 Pipeline API 文档：MotionAdapter 加载、Motion LoRA 用法、export_to_gif 导出示例代码。",
+  "why": "官方代码级参考，可作本地 AnimateDiff 工作流的权威依据。",
+  "borrow": [
+    "MotionAdapter 加载代码",
+    "Motion LoRA 用法",
+    "export_to_gif 导出"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "官方文档，代码示例可直接参考；生成内容须换原创角色。"
+  },
+  "tags": [
+    "AnimateDiff",
+    "Diffusers",
+    "官方文档",
+    "代码"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

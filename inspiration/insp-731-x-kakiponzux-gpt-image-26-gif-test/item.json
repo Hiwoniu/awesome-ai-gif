@@ -1,0 +1,35 @@
+{
+  "id": "insp-731",
+  "title": "@KakiponzuX：GPT Image 2.6 GIF 实测，帧尺寸下限与审核拦截",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://x.com/KakiponzuX/status/2118183717512306775",
+    "platform": "X",
+    "author": "@KakiponzuX",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 上线首日的 GIF 实测帖：9 帧 256×256 低于最小像素预算会报错，跳舞提示词被输出审核拦截；另有 512、1024 档的帧尺寸数据。",
+  "why": "提供了帧尺寸下限和审核拦截这两个可复用的边界规格，补的是什么会失败这一类信息，池里同类实测多为成功案例。",
+  "borrow": [
+    "像素预算下限规则（帧尺寸与帧数的配比）",
+    "失败模式：小帧报错、跳舞提示词触发审核"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["X", "GPT Image 2.6", "实测", "像素预算", "失败模式"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

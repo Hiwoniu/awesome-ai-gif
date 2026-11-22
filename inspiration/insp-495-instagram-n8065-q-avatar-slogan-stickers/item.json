@@ -1,0 +1,41 @@
+{
+  "id": "insp-495",
+  "title": "Instagram：自拍转 Q 版全身形象，再批量做台式流行语动态贴图",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dfrtu7SvUzX",
+    "platform": "Instagram",
+    "author": "n8065",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "两步法：先用自拍生成 Q 版全身形象，再以该形象批量做在路上别催、有钱就是任性等台式流行语 GIF；提到 GPT 屏蔽粗口需用委婉说法绕过。",
+  "why": "先定形象、再批量做表情的两步工作流很清晰；中文标语贴图加内容审查规避经验都有参考价值。",
+  "borrow": [
+    "先定形象再批量做表情的两步工作流",
+    "中文标语贴图的选题",
+    "内容审查规避的经验"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "含粗俗流行语原词，只借工作流、不抄文案；同一内容另有 Facebook 镜像帖，只留 Instagram 版；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Q版形象",
+    "中文标语",
+    "两步工作流",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "insp-316",
+  "title": "IG @jornadatopusaa：Gemini 做动态头像 GIF（视频转 GIF）",
+  "type": "signatures",
+  "source": {
+    "url": "https://www.instagram.com/reel/DUD1WFYEY3M/",
+    "platform": "Instagram",
+    "author": "@jornadatopusaa",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "教程视频：用 Gemini Veo 生成 Logo 循环动画→转 GIF→设为 Gmail 动态头像，展示桌面与手机端效果。",
+  "why": "视频模型→GIF→头像的跨工具路线，属签名/头像方向的另一条实现。",
+  "borrow": [
+    "视频转 GIF 做动态头像的工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Instagram",
+    "动态头像",
+    "Gemini"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

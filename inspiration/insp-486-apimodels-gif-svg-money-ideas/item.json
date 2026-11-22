@@ -1,0 +1,42 @@
+{
+  "id": "insp-486",
+  "title": "apimodels：AI 表情包赚钱，GPT Image 2.6 GIF 与 SVG 的 40 个方向",
+  "type": "multi",
+  "source": {
+    "url": "https://apimodels.app/zh/blog/gpt-image-2-6-gif-svg-money-ideas",
+    "platform": "apimodels.app",
+    "author": "apimodels 团队",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "40 个 GIF/SVG 变现方向清单，每方向写怎么做、在哪卖、价格参考、规则；含 GIF 规格（2–16 帧）、6 帧低画质约 3.4 美分成本、各平台上架规格。",
+  "why": "微信/LINE/Telegram 等各平台表情规格与定价对照很全，可作投稿规格速查；成本数字是实测口径。",
+  "borrow": [
+    "各平台表情包规格与定价对照",
+    "2–16 帧的 GIF 规格",
+    "6 帧低画质的成本口径",
+    "40 个方向的选题清单"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "变现清单而非制作教程，含推广自家 API 网关内容；开源清单在 GitHub apimodels/gpt-image-2-6-gif-svg-money-ideas。"
+  },
+  "tags": [
+    "变现方向",
+    "平台规格",
+    "成本",
+    "选题清单"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

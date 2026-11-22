@@ -1,0 +1,41 @@
+{
+  "id": "insp-440",
+  "title": "Medium：别压平 GIF 的时序，别把字幕钉在每一帧",
+  "type": "multi",
+  "source": {
+    "url": "https://medium.com/@loopgif/dont-flatten-a-gif-s-timing-or-stamp-the-caption-on-every-frame-34138f020128",
+    "platform": "Medium",
+    "author": "loopgif",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "讲 GIF 字幕与时序的文章，指出逐帧时延本身就是笑点，字幕应只出现在需要的帧区间。",
+  "why": "给出逐帧时延、字幕分段显示的具体做法，对表情包上字幕很有参考价值。",
+  "borrow": [
+    "保留逐帧时延",
+    "字幕按帧区间分段",
+    "浏览器端 GIF 编辑思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "GIF时序",
+    "字幕",
+    "帧时延",
+    "GIF编辑"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

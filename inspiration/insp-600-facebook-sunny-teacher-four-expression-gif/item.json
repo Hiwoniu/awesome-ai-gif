@@ -1,0 +1,41 @@
+{
+  "id": "insp-600",
+  "title": "Facebook：Sunny teacher，单张照片变四表情循环 GIF（Q 版教师形象）",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/1616871846060130/",
+    "platform": "Facebook",
+    "author": "Sunny teacher",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "教用 ChatGPT 做动态 AI 贴纸：单张照片生成循环 GIF，含开心、生气、难过、喜悦四种表情；录屏展示先生成穿职业教师装的 Q 版半写实卡通形象，再分别做表情动画。",
+  "why": "四表情一循环的极简结构 + 职业形象设定，适合做老师、职场人等身份感强的动态表情。",
+  "borrow": [
+    "先定职业装 Q 版形象、再做四表情循环的两步法",
+    "四表情（开心/生气/难过/喜悦）覆盖日常对话高频情绪",
+    "半写实 Q 版风格介于真人与卡通之间"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "四表情",
+    "职业形象",
+    "Q版",
+    "循环GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

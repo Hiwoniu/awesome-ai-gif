@@ -1,0 +1,41 @@
+{
+  "id": "insp-272",
+  "title": "ReadKidz：2026 年 AI 绘本生成器横评——11 款对照",
+  "type": "storybooks",
+  "source": {
+    "url": "https://www.readkidz.com/blog/best-ai-storybook-generators-2026",
+    "platform": "ReadKidz",
+    "author": "ReadKidz",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "对照 11 款 AI 绘本工具，按语言数、输出格式、免费档、印刷等维度打分，数据采自各家官网（2026-08-31）。",
+  "why": "覆盖绘本 → 动画、音乐视频、漫画的多格式输出，对 storybooks 类型的工具选型有全景价值。",
+  "borrow": [
+    "按用途分流的选型法（多语言/视频化/免费档）",
+    "绘本一稿多用（书 + 动画 + 歌曲）",
+    "角色一致性未实测要标注的诚实做法",
+    "输出格式对照表"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "绘本",
+    "横评",
+    "选型"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

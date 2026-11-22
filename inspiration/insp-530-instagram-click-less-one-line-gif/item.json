@@ -1,0 +1,41 @@
+{
+  "id": "insp-530",
+  "title": "Instagram：Click Less 一句话就能动，ChatGPT GIF 五步教程",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfcuRhlCEuB",
+    "platform": "Instagram",
+    "author": "Click Less",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "短教程，宣布 ChatGPT 可一句提示词加一张照片生成 GIF，演示小狗接雪花 GIF；五步工作流为开新对话加照片、写循环 GIF 提示词、等生成、调速/逐帧改、保存分享。",
+  "why": "调速与单帧编辑的控制点说明很实用：一句话转 GIF 的极简入口加上生成后可调速、可逐帧改，流程很完整。",
+  "borrow": [
+    "五步工作流",
+    "调速与单帧编辑的控制点",
+    "一句话加一张照片的极简入口"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "五步教程",
+    "Instagram",
+    "调速",
+    "逐帧编辑"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

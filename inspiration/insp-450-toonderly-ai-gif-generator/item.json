@@ -1,0 +1,40 @@
+{
+  "id": "insp-450",
+  "title": "Toonderly AI GIF 生成器：一句话或一张照片出循环 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://aicartoongenerator.io/ai-gif-generator",
+    "platform": "Toonderly",
+    "author": "Toonderly",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "基于 GPT Image 2.6（经 fal 接入）的 GIF 生成器：文字或照片输入，三档速度预设，按积分计费，登录后有迎新积分可免费试一张。",
+  "why": "按用途分档的速度预设值得参考：用 Fast/Standard/Chill 三档管循环节奏，而不是让用户自己算帧数。",
+  "borrow": [
+    "按用途分档的速度预设思路",
+    "文字或照片两种输入的组织方式",
+    "按积分明码标价的计费展示"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开工具页核实生成效果；只借产品形态与参数组织。"
+  },
+  "tags": [
+    "GIF生成器",
+    "GPT-Image-2.6",
+    "工具"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "insp-478",
+  "title": "SoftReviewed：OpenAI Images 2.6 循环 GIF 实测与隐藏 Complexity 设置",
+  "type": "unknown",
+  "source": {
+    "url": "https://softreviewed.com/openai-images-2-6/",
+    "platform": "SoftReviewed",
+    "author": "Jovin",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "实测 Images 2.6 循环 GIF：默认 9 帧×200ms（1.8 秒循环）、可扩至 64 帧，Flare 求快、Sunburst 保角色一致，另有 complexity 参数。",
+  "why": "把翻页书提示词法则写清楚了：逐帧描述动作、末帧必须回到首帧；Flare/Sunburst 与 complexity 的选型对照表很实用。",
+  "borrow": [
+    "翻页书提示词法则的写法",
+    "末帧回到首帧的循环约束",
+    "Flare 与 Sunburst 的选型对照",
+    "complexity 参数的取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开页面核实；文中 9–64 帧与官方 API 参考的 2–16 帧说法不一致，帧数上限以官方文档为准。"
+  },
+  "tags": [
+    "实测",
+    "循环GIF",
+    "Flare",
+    "Sunburst",
+    "complexity"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

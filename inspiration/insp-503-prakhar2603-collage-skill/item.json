@@ -1,0 +1,41 @@
+{
+  "id": "insp-503",
+  "title": "GitHub：collage-skill，Vox 风纸拼贴视频 Skill（HyperFrames 开源）",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/prakhar2603/collage-skill",
+    "platform": "GitHub",
+    "author": "prakhar2603",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "免费 Claude Code Skill，给一个主题做 Vox 风格纸拼贴讲解短视频：黑白照片剪贴加红色贴纸描边、撕纸、旧地图、标签、记号笔圈注、定格动效与 eye-dive 转场，输出 MP4 与可编辑时间线。",
+  "why": "拼贴风动态海报与故事书的视觉语法很完整：贴纸描边、撕纸、标签这些元素可以直接借；剪贴加定格动效是低成本动效方案。",
+  "borrow": [
+    "拼贴风的视觉语法",
+    "贴纸描边与撕纸标签的元素",
+    "剪贴加定格动效的低成本方案"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "产出是视频而非 GIF，收的是视觉语法与动效方案；仅凭搜索摘要收录，未打开仓库核实。"
+  },
+  "tags": [
+    "Skill",
+    "拼贴风",
+    "Vox",
+    "定格动效"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

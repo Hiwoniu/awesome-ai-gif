@@ -1,0 +1,41 @@
+{
+  "id": "insp-578",
+  "title": "X：@higgsfield_ai，废品场游戏，每张 GIF 精灵表风格一致",
+  "type": "multi",
+  "source": {
+    "url": "https://x.com/higgsfield_ai/status/2118152815625552235",
+    "platform": "X",
+    "author": "@higgsfield_ai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Higgsfield 展示的一个废品场（junkyard）小游戏：用 GPT Image 2.6 生成的每张 GIF 精灵表（sprite sheet）都保持了一致的画风。",
+  "why": "把“精灵表到循环 GIF 到游戏素材”串成完整链路的实证：同一模型、同一角色设定下多张动作表风格不漂移，这正是做成套表情包/小游戏最需要的“跨张一致性”。",
+  "borrow": [
+    "精灵表批量生成的画风一致性验证方法：同一角色多张动作表对照",
+    "废品场游戏场景可作为多张 GIF 拼成小游戏的应用形态参考",
+    "官方账号的案例背书，可作 sprite-sheet 路线的可信来源"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "sprite-sheet",
+    "GIF精灵表",
+    "游戏",
+    "风格一致性"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

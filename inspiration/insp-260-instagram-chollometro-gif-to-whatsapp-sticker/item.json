@@ -1,0 +1,41 @@
+{
+  "id": "insp-260",
+  "title": "Instagram @chollometro：WhatsApp 里 GIF 一键转动态贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DagKuFTM1LQ/",
+    "platform": "Instagram",
+    "author": "@chollometro",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "西语教程：WhatsApp 内长按 GIF→“Crear sticker”，2 秒剪辑、加文字“A TU CASA”，即成动态贴纸。",
+  "why": "GIF 成品如何落进聊天应用的关键一步，补齐“生成→使用”的最后一环。",
+  "borrow": [
+    "聊天应用内直接转贴纸",
+    "2 秒剪辑规范",
+    "贴纸上叠加文字",
+    "安卓/iOS 差异提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录；只借方法"
+  },
+  "tags": [
+    "Instagram",
+    "WhatsApp",
+    "转贴纸"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

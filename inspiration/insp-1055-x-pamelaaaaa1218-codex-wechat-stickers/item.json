@@ -1,0 +1,41 @@
+{
+  "id": "insp-1055",
+  "title": "X @pamelaaaaa1218：让 Codex 学会做微信动态表情包，懒人版",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://x.com/pamelaaaaa1218/status/2121325633871790248",
+    "platform": "X",
+    "author": "@pamelaaaaa1218",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "把两篇参考教程丢给 Codex 学，自己只定角色、定文案、看效果，16 张“打工日常”系列已做完提交审核，附 5 段可直接复制的提示词。",
+  "why": "“让 Codex 先学教程再执行”的分工法是本轮唯一的 Agent 协作角度，投稿环节截图官方要求的做法很实用。",
+  "borrow": [
+    "让 Codex 先学教程再执行的分工法",
+    "研究与决策拆开的工作流",
+    "截图官方要求让 Codex 按尺寸做图的投稿法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "X",
+    "Codex",
+    "微信表情包",
+    "Agent"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

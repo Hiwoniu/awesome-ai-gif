@@ -1,0 +1,40 @@
+{
+  "id": "insp-280",
+  "title": "觉醒 AI：猫咪 GIF 投稿微信表情商店实录",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://x.com/zhongying14/status/2118326311030591942",
+    "platform": "X",
+    "author": "@zhongying14（中英）",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "以自家狸花猫 IP 做 9 个场景 GIF 并投稿微信表情商店的实录，重点在投稿后规格返工。",
+  "why": "真实投稿经验，规格坑具体（尺寸、透明、循环三点），是上架前自查的现成清单。",
+  "borrow": [
+    "IP 角色先定 9 个聊天场景再批量",
+    "投稿前规格自查清单",
+    "尺寸与透明底返工经验"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "以自家狸花猫 IP 为例，只借场景规划与规格经验，不用它的猫形象。来源已换成 X 原帖直达链接，原转载页为觉醒 AI 知识库。"
+  },
+  "tags": [
+    "微信表情包",
+    "投稿",
+    "实录"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

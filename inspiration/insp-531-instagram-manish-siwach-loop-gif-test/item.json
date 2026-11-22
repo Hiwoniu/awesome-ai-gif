@@ -1,0 +1,41 @@
+{
+  "id": "insp-531",
+  "title": "Instagram：Manish Siwach ChatGPT 循环 GIF 实测，输出限制约 300–700px",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfZvrTWyyjd",
+    "platform": "Instagram",
+    "author": "Manish Siwach",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "展示多款 GIF 成品（排灯节点灯写字、跨年倒计时、圣诞雪球、小狗、小猫、机器人、蜡笔画）的教程；多组可直接参考的提示词写法；图片转 GIF 的一句话转 GIF、1:1 用法；输出限制实测约 300–700px、每段 9 帧。",
+  "why": "输出限制的实测数字很有用：约 300–700px、每段 9 帧，知道上限才知道什么时候该走精灵图；多组提示词写法也是现成的参考。",
+  "borrow": [
+    "输出限制的实测规格",
+    "一句话转 GIF 的 1:1 用法",
+    "多组提示词写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；300–700px 与 9 帧为作者单方实测。"
+  },
+  "tags": [
+    "实测",
+    "输出限制",
+    "Instagram",
+    "提示词示例"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

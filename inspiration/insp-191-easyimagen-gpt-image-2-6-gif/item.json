@@ -1,0 +1,40 @@
+{
+  "id": "insp-191",
+  "title": "EasyImagen：ChatGPT Images 2.6 GIF、参考图与提示词",
+  "type": "multi",
+  "source": {
+    "url": "https://www.easyimagen.com/blog/chatgpt-images-2-6-gif-reference-images",
+    "platform": "EasyImagen",
+    "author": "EasyImagen",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "4 帧 2×2 精灵图表格提示词 + ffmpeg 切片合成 GIF 的完整工作流。",
+  "why": "“同一角色每格同尺寸、同基线、同机位同光线，只改姿势”的 sheet 写法；格数越多动作越顺的经验。",
+  "borrow": [
+    "2×2 精灵表提示词写法：同尺寸同基线同机位",
+    "ffmpeg 切片合成 GIF 的工作流",
+    "格数越多动作越顺（3×3 九格+提帧率）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "教程文章，引用注明出处",
+    "note": ""
+  },
+  "tags": [
+    "精灵表",
+    "ffmpeg",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

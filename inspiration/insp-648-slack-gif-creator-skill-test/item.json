@@ -1,0 +1,43 @@
+{
+  "id": "insp-648",
+  "title": "Claude Slack GIF Creator Skill 实测：Pillow 手绘帧加 Slack 规格校验",
+  "type": "multi",
+  "source": {
+    "url": "https://aiparabellum.com/claude-slack-gif-creator-skill-make-animated-gifs/",
+    "platform": "AI Parabellum",
+    "author": "AI Parabellum",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Anthropic 官方 slack-gif-creator Skill 的第三方实测：Claude Code 用 Pillow 手绘每一帧，GIFBuilder 组装，校验器对照 Slack 规格，附 128×128 表情与 480×480 消息两档实测。",
+  "why": "代码逐帧手绘 GIF 的路线与图片生成路线互补，Slack 规格表与逐帧揭示动画模式可直接作导出与动效参考。",
+  "borrow": [
+    "GIFBuilder+校验器的逐帧手绘流程",
+    "Slack 规格（128×128 表情 3 秒内、480×480 消息、48–128 色）",
+    "逐帧揭示动画模式（标题停留→节点逐个出现→终帧停留）",
+    "Pillow+imageio+numpy 工具链"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "Skill 来自 Anthropic 官方 skills 仓库，文章为第三方实测，未上传验证的部分以原文为准；只借流程与规格。"
+  },
+  "tags": [
+    "Skill",
+    "Slack",
+    "Pillow",
+    "手绘帧",
+    "规格校验"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

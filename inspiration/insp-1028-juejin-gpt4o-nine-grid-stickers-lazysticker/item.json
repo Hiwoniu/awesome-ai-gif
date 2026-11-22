@@ -1,0 +1,42 @@
+{
+  "id": "insp-1028",
+  "title": "掘金：GPT-4o 九宫格表情包 10 分钟速成加 LazySticker 切图",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://juejin.cn/post/7700165668348543003",
+    "platform": "掘金",
+    "author": "Leon",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "GPT-4o 九宫格批量出 9 张透明底 Q 版贴纸的完整链路，附 LazySticker 一键切图与微信提交规格。",
+  "why": "九宫格提示词结构完整，LazySticker 一键切图是池内少见的切图工具环节。",
+  "borrow": [
+    "九宫格咒语结构：3×3、透明背景、统一白边、9 个表情动作神态各异、禁错字",
+    "人设加咒语模板：萌宠、沙雕人类、名画玩梗三类人设的提示词组织",
+    "LazySticker 切图流程：拖入九宫格自动分割加压缩，手动框选兜底",
+    "微信提交规格与避坑：240×240、500KB 以内、8 到 24 张、含义词与分类注意事项"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实，发布 2026-10-25；动态部分只有一小段，主体是静态表情包，只借九宫格与切图打法；文中有插件推广与邀请码，营销部分不借"
+  },
+  "tags": [
+    "九宫格",
+    "GPT-4o",
+    "切图工具",
+    "微信表情包"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

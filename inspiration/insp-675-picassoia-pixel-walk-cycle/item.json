@@ -1,0 +1,41 @@
+{
+  "id": "insp-675",
+  "title": "Picasso IA：像素行走循环 8 帧提示词模板（4×2 网格）",
+  "type": "multi",
+  "source": {
+    "url": "https://blog.picassoia.com/ai-pixel-art-animator-walk-cycles-free-options-and-frame-settings",
+    "platform": "Picasso IA 博客",
+    "author": "Picasso IA",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "像素风行走循环教程：8 帧行走循环提示词模板（4×2 网格、同一角色、16 色、无抗锯齿），并讲帧数/FPS/画布尺寸对清晰度的影响，附免费工具横评。",
+  "why": "行走循环是最容易露馅的动作类型，这条把网格布局、配色数、抗锯齿开关写成可复用的模板句式，还给了精灵表与循环短片的选型规则。",
+  "borrow": [
+    "行走循环提示词结构：4×2 网格 + 同一角色 + 16 色 + 无抗锯齿",
+    "帧数/FPS/画布尺寸对像素清晰度的影响",
+    "精灵表 vs 循环短片的选型规则"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "multi",
+    "像素风",
+    "行走循环",
+    "精灵表"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

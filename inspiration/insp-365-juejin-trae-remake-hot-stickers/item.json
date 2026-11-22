@@ -1,0 +1,41 @@
+{
+  "id": "insp-365",
+  "title": "TRAE 爆改热门表情包：GIF 转视频换角再转回",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://juejin.cn/post/7704645330629492786",
+    "platform": "掘金",
+    "author": "CC",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 TRAE 把原表情包 GIF 转视频、换角色、再转回 GIF 的实操复盘，含 3 组案例与完整提示词。",
+  "why": "有真实翻车与救回对照，GIF→视频→GIF 的换角工作流可直接复用。",
+  "borrow": [
+    "GIF转视频",
+    "角色替换提示词",
+    "时长拼接防拉慢",
+    "翻车对照"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "方法以热门表情包原图为改图起点，只借 GIF→视频→GIF 工作流与提示词写法，不借原表情包画面与角色。"
+  },
+  "tags": [
+    "微信表情包",
+    "TRAE",
+    "换角"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

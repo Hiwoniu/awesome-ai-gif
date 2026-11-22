@@ -1,0 +1,39 @@
+{
+  "id": "insp-446",
+  "title": "Threads：Loop Sticker maker，粘贴 X 帖子链接就把 GIF 变贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@gongosam.ai/post/DfwEZP9k6xY",
+    "platform": "Threads",
+    "author": "@gongosam.ai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "介绍 Loop 网站的贴纸制作器：粘贴一条含 GIF 或视频的 X 帖子链接，就能把它变成贴纸。",
+  "why": "从已有 GIF 到贴纸的转换工具思路，可补全我们从生成到分发的链路。",
+  "borrow": [
+    "贴链接转贴纸",
+    "从 GIF 到贴纸的转换"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "贴纸制作器",
+    "GIF转贴纸",
+    "分发"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "insp-863",
+  "title": "IG @novabuiltt：孩子的手绘涂鸦一句话变挥手 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/p/DfvfzdLDJDM/",
+    "platform": "Instagram",
+    "author": "@novabuiltt",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "七页图文指南：拍一张孩子涂鸦照，喂给 ChatGPT Images 2.6，一句话让画中角色挥手循环；要点是保留怪形状与歪歪扭扭的线条，太快太跳就用大白话让它慢下来、锁定镜头，附可截图照抄的完整提示词页。",
+  "why": "手绘涂鸦变动图的角度很新，保留怪与歪线的提示思路可直接搬到我们自己的手绘风角色上。",
+  "borrow": [
+    "保留怪形状与歪线条的提示思路",
+    "涂鸦拍照到挥手循环的起手流程：窗边拍、裁掉隐私信息",
+    "太快太跳时用大白话调慢、锁定镜头的改法",
+    "存参考图复用角色的做法：同角色换生日帽等"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["手绘涂鸦", "儿童画", "挥手循环", "提示词", "Instagram"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

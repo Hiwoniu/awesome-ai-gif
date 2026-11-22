@@ -1,0 +1,37 @@
+{
+  "id": "insp-817",
+  "title": "LottieFiles：Lottie AI 官方详解，提示词→Frolic 脚本→可编辑矢量动画，可导出 GIF",
+  "type": "posters",
+  "source": {
+    "url": "https://lottiefiles.com/blog/working-with-lottie-animations/what-is-lottie-ai",
+    "platform": "LottieFiles 博客",
+    "author": "LottieFiles",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Lottie AI 官方介绍：一句话描述动效，生成可编辑的矢量 Lottie 动画，Turbo 快速出稿、Quality 多智能体打磨，可导出 Lottie、dotLottie、GIF、MP4。",
+  "why": "矢量动效路线与像素 GIF 互补：改色改速不用重生成、可看 Frolic 代码手改，加载器、图标、空状态这类小动效可直接复用这套形态。",
+  "borrow": [
+    "提示词转 Frolic 脚本再编译成标准 Lottie 的结构",
+    "Turbo 快速探索与 Quality 多智能体打磨的双模式分工",
+    "滑杆改色、改速、改尺寸而不重生成的可编辑思路",
+    "导出 GIF、dotLottie、MP4 的多格式交付形态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "原文已打开核实；官方博客介绍页，无具体提示词原文可抄。"
+  },
+  "tags": ["Lottie AI", "矢量动画", "Frolic", "动态海报", "加载动画"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

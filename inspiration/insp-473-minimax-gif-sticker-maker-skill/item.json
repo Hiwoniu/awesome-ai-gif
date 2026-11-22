@@ -1,0 +1,40 @@
+{
+  "id": "insp-473",
+  "title": "Skills Directory：Minimax Gif Sticker Maker，MiniMax 图生图加视频 API 出 4 张 GIF 贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.skillsdirectory.com/skills/alisattorov06-minimax-gif-sticker-maker",
+    "platform": "Skills Directory",
+    "author": "alisattorov06",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "MiniMax 图生图加视频生成 API 做 4 张 GIF 贴纸，含 mp4 转 gif 脚本。",
+  "why": "非 ChatGPT 路线的 Skill 实现：MiniMax 全家桶做贴纸，附转码脚本，适合对照着搭另一条管线。",
+  "borrow": [
+    "MiniMax 图生图加视频生成的组合",
+    "4 张 GIF 贴纸的产出结构",
+    "mp4 转 gif 的脚本思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "同名 Skill 另有 TypingMind 版（HHU3637kr，已在池内），本条是不同作者的不同实现。"
+  },
+  "tags": [
+    "Skill",
+    "MiniMax",
+    "GIF贴纸"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

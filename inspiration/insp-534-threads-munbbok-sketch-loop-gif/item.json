@@ -1,0 +1,41 @@
+{
+  "id": "insp-534",
+  "title": "Threads：@munbbok 单张草图做循环 GIF 角色，6 帧 3×2 加 API 选型",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@munbbok/post/DfW-fLyj8TC",
+    "platform": "Threads",
+    "author": "문복균",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "文字帖，介绍从单张草图做循环 GIF 角色的实用流程：精灵表提示词（6 帧 3 列×2 行、无缝回首帧）加 API 侧 Flare/Sunburst 选型指导。",
+  "why": "单张草图起手做循环角色的流程很实用：草图、精灵表、API 选型三段齐全；Flare 与 Sunburst 的选型指导可以对照着用。",
+  "borrow": [
+    "单张草图起手的流程",
+    "6 帧 3×2 的提示词",
+    "Flare 与 Sunburst 的 API 选型指导"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "无视频演示，以文字方法为主；韩文帖；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "草图",
+    "Threads",
+    "API选型",
+    "精灵图"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

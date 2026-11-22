@@ -1,0 +1,39 @@
+{
+  "id": "insp-357",
+  "title": "Civitai：AnimateDiff 起止双图关键帧工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://civitai.com/models/154165/animatediff-workflow-animate-with-starting-and-ending-image",
+    "platform": "Civitai",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "AnimateDiff 起始图→结束图的工作流，可链式做关键帧动画，含潜空间关键帧插值与 ControlNet tile 的节点说明。",
+  "why": "首尾双图定关键帧的思路对“首尾相接循环”与分段动作设计直接有用。",
+  "borrow": [
+    "起止双图关键帧插值",
+    "链式关键帧做长动画"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Civitai",
+    "AnimateDiff",
+    "关键帧"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

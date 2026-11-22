@@ -1,0 +1,42 @@
+{
+  "id": "insp-432",
+  "title": "PixelLab：像素风特效生成器，可导出 GIF 与精灵表",
+  "type": "multi",
+  "source": {
+    "url": "https://www.pixellab.ai/pixel-art-vfx-generator",
+    "platform": "PixelLab",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "描述特效（火焰、爆炸、法术、斩击）即可生成像素风 VFX，导出 GIF 或精灵表，支持 API 与 MCP 接入，附视频教程。",
+  "why": "像素风 GIF 的特效层来源，火焰与爆炸等循环特效可叠加到角色 GIF 上，API/MCP 路线也便于批量。",
+  "borrow": [
+    "按文字描述生成像素特效的方法",
+    "特效与角色帧对时的思路",
+    "GIF/精灵表/游戏包 ZIP 的导出分流",
+    "MCP 接入做批量特效的路线"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "像素风",
+    "特效",
+    "VFX",
+    "API"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

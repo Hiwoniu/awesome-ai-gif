@@ -1,0 +1,32 @@
+{
+  "id": "insp-1108",
+  "title": "腾讯云：一张照片做成 GIF 的四种方法横向对比",
+  "type": "multi",
+  "source": {
+    "url": "https://cloud.tencent.com/developer/article/2781561",
+    "platform": "腾讯云开发者社区",
+    "author": "用户3000393",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "同一张照片做 GIF 的四种方法横向对比：手动拼帧、AI 序列帧、GPT Image 2.6 直出、视频模型，附实测 GIF 和提示词。",
+  "why": "四种路线的适用边界对比框架可作路线选型参考，同一素材多路线对照的写法也值得借。",
+  "borrow": ["四种路线的适用边界对比框架（手动拼帧/AI 序列帧切图/2.6 直出/视频模型转 GIF）", "同一素材多路线对照的实测写法"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录（打开后只返回页面框架，正文未渲染）；只借对比框架，不抄提示词原文"
+  },
+  "tags": ["照片转 GIF", "路线对比", "实测", "GPT Image 2.6"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

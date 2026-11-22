@@ -1,0 +1,41 @@
+{
+  "id": "insp-259",
+  "title": "Instagram @picsart：GPT Images 2.6 圣诞动态 GIF 系列",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/p/Df1wAa2CINA/",
+    "platform": "Instagram",
+    "author": "@picsart",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "11 月 17 日官方 carousel：圣诞动态 GIF（胡桃夹子举重、粉色海豚、圣诞老人跳舞等）+ 单图多风格 + 8 张鹦鹉反应贴纸 + 圈选改图。",
+  "why": "最新的官方 GPT Images 2.6 GIF 演示，节日主题成套打法，含 GIF 与贴纸包两种形态。",
+  "borrow": [
+    "节日主题成套 GIF",
+    "同一角色多风格变体",
+    "GIF+贴纸包同帖组合",
+    "圈选局部改图工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录；只借方法"
+  },
+  "tags": [
+    "Instagram",
+    "节日",
+    "成套"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

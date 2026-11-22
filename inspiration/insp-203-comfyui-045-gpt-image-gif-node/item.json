@@ -1,0 +1,42 @@
+{
+  "id": "insp-203",
+  "title": "ComfyUI v0.45：GPT Image 2.6 GIF 官方节点与成本实测",
+  "type": "multi",
+  "source": {
+    "url": "https://www.creativeainews.com/articles/comfyui-v0-45-gif-svg-hdr-reframe-cost-2026/",
+    "platform": "Creative AI News",
+    "author": "Creative AI News",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "ComfyUI v0.45（2026-11-10）把 OpenAI GPT Image 2.6 的 GIF/SVG 输出做成官方 Partner 节点：提示词生成 2–16 帧动画 GIF、可选透明底，附逐档计费与完整工作流示例。",
+  "why": "参数非常具体：2–16 帧、按帧数四档计费、512 方 GIF 低质量约 0.024–0.05 美元，还有“9 帧 + 透明底做贴纸”的工作流步骤。",
+  "borrow": [
+    "GPT Image 2.6 GIF 节点的帧数/透明底参数",
+    "按帧数分档的成本估算方法",
+    "ComfyUI 里 GIF 节点 + Save Animated WEBP 保透明的工作流",
+    "大尺寸下帧数控制在 9 帧的经验"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "转载报道，参数以官方节点文档为准"
+  },
+  "tags": [
+    "ComfyUI",
+    "GPT-Image-2.6",
+    "成本",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

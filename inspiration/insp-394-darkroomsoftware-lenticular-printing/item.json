@@ -1,0 +1,40 @@
+{
+  "id": "insp-394",
+  "title": "Darkroom Booth：光栅印刷上手指南",
+  "type": "cards",
+  "source": {
+    "url": "https://darkroomsoftware.com/lenticular-printing-in-darkroom-booth/",
+    "platform": "Darkroom Software",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Darkroom Booth 的光栅印刷功能指南：拍照亭直出光栅卡的流程与设置。",
+  "why": "拍照亭直出光栅卡的线下场景，GIF 动效与实体卡同源的思路。",
+  "borrow": [
+    "线下直出流程",
+    "光栅设置",
+    "GIF 与实体卡同源"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "光栅卡",
+    "拍照亭",
+    "印刷"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

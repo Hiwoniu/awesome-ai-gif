@@ -1,0 +1,38 @@
+{
+  "id": "insp-816",
+  "title": "巴巴小站：Codex image2.6 纸片拼贴 B-roll 全流程，隐喻→静帧→assemble-from-empty GIF→转 MP4",
+  "type": "posters",
+  "source": {
+    "url": "https://www.babadidi.com/3434.html",
+    "platform": "巴巴小站",
+    "author": "巴巴小站（转自 X 狗哥笔记 @gbroai）",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Codex image2.6 不接视频模型做纸片拼贴 B-roll：先定视觉隐喻，再出半调纸拼贴静帧，然后以静帧为终点直接出循环 GIF，最后 ffmpeg 转 MP4 进剪辑。",
+  "why": "四步链路完整且都给了可改的模板：隐喻卡、visual-spec.json 风格参数、assemble-from-empty 动作描述、GIF 转 MP4 命令，口播配图的低成本做法值得借。",
+  "borrow": [
+    "隐喻卡结构：核心意思+视觉隐喻+关键物件+色彩+组装顺序，只确认隐喻这一步",
+    "风格靠案例再拆成 visual-spec.json 参数的做法：平涂色场、黑白半调剪片、彩色卡纸点缀、机切边加奶油白描边",
+    "assemble-from-empty 动作描述四规矩：顺序固定、每物件写清从哪进/做什么/停在哪/什么时候走、用物理动词、镜头锁死",
+    "静帧先行再出 GIF：先定死终点，GIF 只负责把静帧从空场拼出来",
+    "GIF 转 MP4 的 ffmpeg 命令与参数解释"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "原文已打开核实；内含的开源 skill gbro-collage-broll 仓库当时仍是旧版 Gemini 方案，image2.6 新版作者称再调试两天才推。"
+  },
+  "tags": ["GPT Image 2.6", "Codex", "纸片拼贴", "B-roll", "动态海报", "提示词模板", "ffmpeg"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

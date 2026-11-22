@@ -1,0 +1,42 @@
+{
+  "id": "insp-575",
+  "title": "Syntx：Hailuo MiniMax 01 指南，01 Live 让 2D 插画动起来",
+  "type": "storybooks",
+  "source": {
+    "url": "https://docs.syntx.ai/en/%F0%9F%8E%AC-Video/%F0%9F%8E%A6-Hailuo-MiniMax/%F0%9F%8E%A6-Hailuo-MiniMax-01",
+    "platform": "Syntx",
+    "author": "Syntx",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Hailuo MiniMax 01 系列指南：01 基础版文生/图生视频，01 Live 专用于把静态 2D 插画转成动态视频、同时保留原图关键特征，01-Director+Camera 版支持镜头指令；含提示词四段结构（主体动作→环境→镜头→光线氛围→风格）。",
+  "why": "01 Live“插画动起来但不改画”的定位，正好对应绘本/故事书页面的微动需求。",
+  "borrow": [
+    "01 Live 的插画动画定位：动但不改原画特征",
+    "提示词四段结构：主体动作到环境到镜头与光线到风格",
+    "文生与图生两条路径的适用区分",
+    "镜头指令在 Director 版中的用法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；产出为视频而非 GIF，收的是插画微动定位与提示词结构。"
+  },
+  "tags": [
+    "Hailuo",
+    "插画动画",
+    "绘本",
+    "图生视频"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

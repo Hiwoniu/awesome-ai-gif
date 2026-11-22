@@ -1,0 +1,40 @@
+{
+  "id": "insp-277",
+  "title": "Vane GPT Image Skills：画风×主题矩阵的贴纸与海报合集",
+  "type": "multi",
+  "source": {
+    "url": "https://staging.awesomeopensource.com/project/VaneAi888/vane-gpt-image-skills",
+    "platform": "Awesome Open Source",
+    "author": "VaneAi888",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "围绕 GPT Image 2.6 的即用型 Skill 合集：照片/宠物转 12 种画风 × 6 个聊天主题的动态贴纸包，另有 36 种电影海报版式。",
+  "why": "贴纸包 + 电影海报双线，画风×主题的矩阵式组织值得借鉴，每个 Skill 都带演示成品。",
+  "borrow": [
+    "画风×主题矩阵",
+    "海报版式库",
+    "每个 Skill 配演示成品的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "来源为开源项目聚合页，项目本体在 GitHub（VaneAi888/vane-gpt-image-skills）。"
+  },
+  "tags": [
+    "Skill",
+    "贴纸包",
+    "海报"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

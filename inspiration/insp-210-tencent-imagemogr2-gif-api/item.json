@@ -1,0 +1,41 @@
+{
+  "id": "insp-210",
+  "title": "腾讯云万象 imageMogr2：多图合成 GIF 接口",
+  "type": "multi",
+  "source": {
+    "url": "https://www-sg.tencentcloud.com/document/product/1045/75734",
+    "platform": "腾讯云文档",
+    "author": "腾讯云",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "腾讯云对象存储的 imageMogr2 接口把多张 JPG/PNG 合成为 GIF 的官方文档，含调用方式与参数说明。",
+  "why": "给 AI 生成的帧提供了一条服务端程序化组装路线，参数明确；但注意它本身不是 AI 生成方法，只是组装环节，价值弱于同轮其他条目。",
+  "borrow": [
+    "最多 20 帧、源图 ≤32MB、尺寸 ≤1080×1080",
+    "duration 参数以毫秒控制帧间隔",
+    "URL 参数即可触发合成，适合流水线自动化"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅为组装环节接口文档，不是 AI 生成方法"
+  },
+  "tags": [
+    "腾讯云",
+    "接口",
+    "组装",
+    "GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

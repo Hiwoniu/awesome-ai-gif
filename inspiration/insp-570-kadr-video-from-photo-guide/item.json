@@ -1,0 +1,42 @@
+{
+  "id": "insp-570",
+  "title": "KADR：从照片做视频，任务→模型对照表与提示词公式",
+  "type": "unknown",
+  "source": {
+    "url": "https://kadr-ai.ru/en/blog/video-from-photo-with-ai",
+    "platform": "KADR",
+    "author": "KADR",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "从照片做视频的选型指南：任务→模型对照表（真人用 Kling/Veo、卡通角色用 Seedance、30 秒长片段用 Kling 4.0/Seedance 2.5、舞蹈用 Kling Motion Control），并给出提示词公式：什么在动 + 怎么动 + 镜头 + 保持不变 + 声音。",
+  "why": "任务优先的选型表与五段式提示词公式，可直接用作 GIF 生产前的模型与提示词决策。",
+  "borrow": [
+    "任务到模型对照表的选型思路",
+    "五段式提示词公式：动什么加怎么动加镜头加不变项加声音",
+    "按角色类型选模型的决策法",
+    "低成本试错策略：先用便宜模型/低分辨率验证构图再放大"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；产出为视频而非 GIF，收的是选型表与提示词公式；同站另一篇 AI GIF 生成器文章已在池内（insp-301），本篇是不同文章。"
+  },
+  "tags": [
+    "图生视频",
+    "模型选型",
+    "提示词公式",
+    "Kling"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

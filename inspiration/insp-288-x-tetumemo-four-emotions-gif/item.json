@@ -1,0 +1,39 @@
+{
+  "id": "insp-288",
+  "title": "X @tetumemo：同一角色喜怒哀乐四张 GIF（一句话提示词）",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://x.com/tetumemo/status/2118129204449697985",
+    "platform": "X/Twitter",
+    "author": "@tetumemo",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用一句话提示词让同一角色生成喜怒哀乐四种情绪的 GIF，面向 LINE 贴纸。",
+  "why": "极简提示词结构（一句话出四情绪），且是“同一角色多情绪成套”的最简范式。",
+  "borrow": [
+    "一句话多情绪拆分法",
+    "LINE 动画贴纸规格对照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "X",
+    "多情绪",
+    "LINE"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-872",
+  "title": "PlayMoji：AI 模板加文生 GIF 的表情包一站式工具",
+  "type": "multi",
+  "source": {
+    "url": "https://www.producthunt.com/products/playmoji-ai-gif-meme-generator?launch=playmoji",
+    "platform": "Product Hunt",
+    "author": "Sunshine",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Product Hunt 上的 AI GIF 工具：AI 模板出搞笑动画、文字转图片/GIF/视频、经典梗图模板加文字、视频转 GIF，四种做法合在一个产品里。",
+  "why": "AI 模板加梗图模板的组合是池里少见的产品形态，适合做 meme 类动态海报和反应 GIF 的参考。",
+  "borrow": [
+    "AI 模板出搞笑动画的产品形态",
+    "文字转 GIF/视频的入口组织",
+    "经典梗图模板加文字的玩法",
+    "视频转 GIF 的收尾环节"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "经典梗图模板可能涉及第三方梗图形象与真人，只借产品形态与做法，不直接用梗图原图。"
+  },
+  "tags": [
+    "AI GIF 工具",
+    "meme",
+    "Product Hunt"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

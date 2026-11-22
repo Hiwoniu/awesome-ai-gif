@@ -1,0 +1,32 @@
+{
+  "id": "insp-908",
+  "title": "Sorceress：浏览器端精灵表生成器全景指南（五款工具对比+Phaser 接入）",
+  "type": "multi",
+  "source": {
+    "url": "https://sorceress.games/blog/spin-up-an-ai-sprite-sheet-generator-browser-based",
+    "platform": "网站",
+    "author": "Sorceress",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "对比 2026 年五款免费精灵表生成器，并给出浏览器内一键出打包 PNG 图集、直接进 Phaser 4 的工作流。",
+  "why": "讲清了两种保角色一致的路线（多帧数据集训练的专用模型 vs 参考图钉住的通用模型），以及图集打包格式这个容易踩的坑。",
+  "borrow": ["两种保一致路线的取舍：专用多帧模型 vs 参考图钉住", "图集打包 PNG 加引擎一次加载的思路", "五款工具免费额度的对照法"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "偏游戏开发场景，验证日期为 2026-05-20；未打开原文核实，仅凭搜索摘要收录"
+  },
+  "tags": ["sprite-sheet", "game", "tools", "workflow"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

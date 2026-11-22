@@ -1,0 +1,45 @@
+{
+  "id": "insp-1075",
+  "title": "guizang-social-card-skill：小红书图文 + Live Photo 动态卡 Skill",
+  "type": "posters",
+  "source": {
+    "url": "https://github.com/op7418/guizang-social-card-skill",
+    "platform": "GitHub",
+    "author": "op7418",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Claude Code/Codex Skill（8213 stars）：生成小红书 3:4 图文组图、Live Photo 动态卡（小红书 5s/公众号文章内 3s）、公众号 21:9+1:1 封面对；Editorial 杂志风 × Swiss 瑞士风双视觉系统，28 个版式骨架，10 套主题预设，单文件 HTML + Playwright 渲染出 PNG，自带 9 条版式校验规则。",
+  "why": "高热度中文 Skill，补池内 cards/posters 类的版式系统短板；Live Photo 动态卡的“首帧先成立、3s/5s 信息量判断”方法论可迁移到动态海报/动态卡。",
+  "borrow": [
+    "Live Photo 动态卡的 3s/5s 信息量判断与首帧先成立原则",
+    "Editorial×Swiss 双视觉系统与 28 个版式骨架",
+    "公众号 21:9+1:1 封面对的同源双画板做法",
+    "Playwright 真实渲染测量的 9 条版式校验规则",
+    "主题色受约束生成（不许随手写 hex）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "AGPL-3.0",
+    "note": "已打开原文核实（GitHub README；8213 stars，创建于 2026-05-27）；动态部分是 Live Photo 视频（MOV）而非 GIF，收录时只借方法论；作者 op7418 的 X 表情包帖已在池内为 insp-291，此仓库是不同作品。"
+  },
+  "tags": [
+    "GitHub",
+    "Skill",
+    "小红书",
+    "动态卡",
+    "版式系统",
+    "Live Photo"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

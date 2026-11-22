@@ -1,0 +1,39 @@
+{
+  "id": "insp-338",
+  "title": "ComfyUI 官方文档：Wan2.1 因果强制图生视频",
+  "type": "multi",
+  "source": {
+    "url": "https://docs.comfy.org/tutorials/video/wan/wan-causal-forcing",
+    "platform": "ComfyUI 官方文档",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "官方教程，用因果强制在 Wan2.1 上从单图生成时序一致视频，最少 1–4 步推理。",
+  "why": "官方出品，递推式逐帧生成的原理与节点参数完整，时序一致性对循环 GIF 很有参考价值。",
+  "borrow": [
+    "逐帧递推保一致的思路",
+    "首帧输入+可选文字提示的极简工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "ComfyUI官方文档",
+    "Wan",
+    "时序一致"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

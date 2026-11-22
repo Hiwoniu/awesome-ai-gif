@@ -1,0 +1,41 @@
+{
+  "id": "insp-580",
+  "title": "X：@higgsfield_ai，两个动漫格斗角色，多轮编辑后仍一致",
+  "type": "multi",
+  "source": {
+    "url": "https://x.com/higgsfield_ai/status/2118152221414306226",
+    "platform": "X",
+    "author": "@higgsfield_ai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "两个动漫格斗角色，在 GPT Image 2.6 的多次编辑（edit）之后仍保持“每次编辑都一致”的画风与角色特征。",
+  "why": "直接回应做表情包最怕的问题：改一版就变一个人。该帖是“多轮编辑下角色一致性”的公开实测样本，与废品场游戏的“多张表一致”形成互补证据。",
+  "borrow": [
+    "多轮编辑一致性的验证口径：同一角色反复改动作/换招式后对照",
+    "动漫格斗角色的动作幅度大，可作大幅度动作下不崩形的压力测试参考",
+    "可与 0xluffy 模板的锁定发型/配色/标志性道具写法对照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "角色一致性",
+    "多轮编辑",
+    "动漫格斗",
+    "sprite-sheet"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

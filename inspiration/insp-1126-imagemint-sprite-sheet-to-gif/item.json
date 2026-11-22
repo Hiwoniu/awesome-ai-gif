@@ -1,0 +1,32 @@
+{
+  "id": "insp-1126",
+  "title": "ImageMint：精灵表转干净循环 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://imagemint.net/tutorials/sprite-sheet-to-gif",
+    "platform": "ImageMint",
+    "author": "ImageMint",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "把精灵表转成干净循环 GIF 的教程。",
+  "why": "聚焦“循环干净”这一验收点，专讲无缝循环的合成细节。",
+  "borrow": ["无缝循环的合成参数", "首尾帧衔接检查", "帧时序微调"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实。"
+  },
+  "tags": ["精灵表", "无缝循环", "合成", "教程"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-464",
+  "title": "OmniArt：Seedream 5.5 提示词指南，编辑、透明 PNG、文字排版与布局",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://omniart.studio/zh-CN/blog/tutorials-how-to-guides/seedream-5-5-prompt-guide",
+    "platform": "OmniArt",
+    "author": "OmniArt",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "整理字节官方 Seedream 5.5 指南的提示词习惯与四种模式，含贴纸套组与透明底触发词。",
+  "why": "做表情包前置静态帧的实用手册：透明底触发词和贴纸套组的写法可以直接套用。",
+  "borrow": [
+    "透明底的触发词写法",
+    "贴纸套组的提示词结构",
+    "四种模式的适用场景划分"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Seedream-5.5",
+    "提示词指南",
+    "透明底",
+    "贴纸套组"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

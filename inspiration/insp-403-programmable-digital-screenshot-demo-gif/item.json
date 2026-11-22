@@ -1,0 +1,42 @@
+{
+  "id": "insp-403",
+  "title": "Programmable Digital：截图变品牌演示动画，可导出 GIF",
+  "type": "posters",
+  "source": {
+    "url": "https://www.producthunt.com/products/programmable-digital?launch=programmable-digital",
+    "platform": "Product Hunt",
+    "author": "Dan",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "上传截图或链接，AI 读品牌特征、提分镜、经用户批准后逐场景做动画，导出 MP4/GIF/可交互演示；另有命令行工具把动画 React 组件落进代码库；2026-11-04 上线。",
+  "why": "“先提分镜、批准后再动画、逐帧自查”的工作流，对动态海报与品牌 GIF 的品控流程有借鉴价值。",
+  "borrow": [
+    "截图到分镜到批准再到动画的四段式流程",
+    "逐帧自查写法",
+    "GIF 作为演示导出格式之一",
+    "动画组件代码化落地的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "品牌动画",
+    "分镜",
+    "GIF导出",
+    "Product-Hunt"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "insp-396",
+  "title": "gifboom：开源 GIF 引擎（CLI + MCP + Skill）",
+  "type": "multi",
+  "source": {
+    "url": "https://pypi.org/project/gifboom/",
+    "platform": "PyPI",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "开源 Python GIF 引擎：CLI + MCP Server + Agent Skill，支持搜索、转换、下载 GIF，FFmpeg 做视频与 GIF 互转。",
+  "why": "“给 AI 助手装 GIF 超能力”的 Skill+MCP 双路线，是灵感池里少见的 agent 侧 GIF 工具链范本。",
+  "borrow": [
+    "CLI 与 MCP 两种 agent 接入形态",
+    "SKILL.md 教 agent 自主处理 GIF 的写法",
+    "FFmpeg 视频与 GIF 互转链路",
+    "pip/pipx 安装形态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "GIF引擎",
+    "CLI",
+    "MCP",
+    "Agent-Skill",
+    "开源"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

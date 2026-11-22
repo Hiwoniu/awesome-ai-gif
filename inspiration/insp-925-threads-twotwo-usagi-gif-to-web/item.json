@@ -1,0 +1,39 @@
+{
+  "id": "insp-925",
+  "title": "Threads @twotwo_usagi：GPT 出 GIF 再经 Claude 嵌进个人网页",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@twotwo_usagi/post/Df6RK-uEsUB",
+    "platform": "Threads",
+    "author": "@twotwo_usagi",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "让 GPT 生成 GIF，再交给 Claude，嵌到个人网页上播放的组合工作流（11 月 19 日）。",
+  "why": "GIF + Claude + 网页嵌入的组合工作流，把 GIF 从聊天场景延伸到网页展示，值得收一条。",
+  "borrow": [
+    "GIF 加 Claude 加网页嵌入组合",
+    "GIF 作网页动效素材"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "网页嵌入",
+    "组合工作流",
+    "Threads"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

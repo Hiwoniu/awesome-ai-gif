@@ -1,0 +1,41 @@
+{
+  "id": "insp-206",
+  "title": "gif-maker-skill：API 与精灵表双路线的 GIF Skill",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://github.com/jkf87/gif-maker-skill",
+    "platform": "GitHub",
+    "author": "jkf87",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一个 Codex Skill：按有无 OPENAI_API_KEY 自动选 API 直出 GIF 或精灵表拼合路线，可接参考图。",
+  "why": "虽只有 1 星，但 Ofox 教程已源码审阅并实测引用其示例精灵表做转换验证；双路线自动切换的设计值得借鉴。",
+  "borrow": [
+    "按 API key 有无自动切换生成路线的设计",
+    "参考图接入方式",
+    "精灵表路线作为 API 路线的兜底"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Skill",
+    "API",
+    "精灵表",
+    "Codex"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

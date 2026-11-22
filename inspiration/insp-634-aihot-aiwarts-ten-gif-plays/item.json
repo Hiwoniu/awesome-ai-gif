@@ -1,0 +1,41 @@
+{
+  "id": "insp-634",
+  "title": "X @aiwarts：GPT Image 2.6 十个 GIF 玩法提示词实测（AIHOT 转述）",
+  "type": "multi",
+  "source": {
+    "url": "https://aihot.news/items/kss7rjmanc8dv5mpj60jtdzgd",
+    "platform": "X（AIHOT 转述）",
+    "author": "卡尔的AI沃茨 (@aiwarts)",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "X 上的实测长帖：黏土定格、表情包、剪辑贴纸、loading 图、公众号横版动图等 10 个 GIF 玩法，提示词全部公开，并评测跨对话资产记忆等三项新能力。",
+  "why": "玩法清单覆盖面广，尤其「让模型先查热门画风再批量做表情包」和透明通道 loading 的写法少见。",
+  "borrow": [
+    "十个 GIF 玩法清单",
+    "先查热门画风再批量生成",
+    "透明通道 loading 与横版动图规格"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "X 原帖未打开核实，出处为 AIHOT 转述页，仅凭转述内容收录；文中成本翻倍、人脸一致性短板为作者观点。"
+  },
+  "tags": [
+    "X",
+    "GPT Image 2.6",
+    "玩法清单",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

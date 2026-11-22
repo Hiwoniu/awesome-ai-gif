@@ -1,0 +1,42 @@
+{
+  "id": "insp-584",
+  "title": "Instagram：@miameowai，4×4 像素精灵表演连续施法动作",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dd2Ouw_hefW/",
+    "platform": "Instagram",
+    "author": "@miameowai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "不用 AI 视频生成器，用 ChatGPT 做自定义动画 GIF：上传自拍照 + 宠物参考图，要一张 4×4 像素风精灵表，演一出连续动作——蓄力施法、放出猫形法术、回到起始姿势。",
+  "why": "把“连续动作”写进单张精灵表的做法，比单表情循环更像小动画，适合做有小剧情的动态表情。",
+  "borrow": [
+    "4×4 网格承载完整动作弧线（起手—施法—收尾回位），首尾呼应保循环",
+    "双参考图输入（人物加宠物），宠物变成法术元素参与动作",
+    "像素风降低跨帧一致性难度",
+    "桌面端 ChatGPT 操作，提示词可改动作与角色"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "像素精灵表",
+    "连续动作",
+    "宠物元素",
+    "4x4网格"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

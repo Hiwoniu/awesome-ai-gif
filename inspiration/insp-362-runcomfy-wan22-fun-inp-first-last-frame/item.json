@@ -1,0 +1,40 @@
+{
+  "id": "insp-362",
+  "title": "ComfyUI Wan2.2 Fun Inp 首尾帧插值工作流",
+  "type": "unknown",
+  "source": {
+    "url": "https://www.runcomfy.com/comfyui-workflows/comfyui-wan2-2-fun-inp-workflow-first-to-last-frame-interpolation",
+    "platform": "RunComfy",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Wan 2.2 首尾帧插值（FLF2V）ComfyUI 工作流：两张静帧生成连贯视频，附可下载的 JSON 与双预设。",
+  "why": "首尾帧相同即得无缝循环的通用解法，4 步极速版与 fp8 通用版双预设可直接下载使用。",
+  "borrow": [
+    "首尾帧相同做无缝循环",
+    "双预设工作流结构",
+    "VideoHelperSuite 导出设置"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "ComfyUI",
+    "首尾帧",
+    "无缝循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

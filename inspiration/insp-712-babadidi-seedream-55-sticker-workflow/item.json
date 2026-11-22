@@ -1,0 +1,41 @@
+{
+  "id": "insp-712",
+  "title": "巴巴小站：Seedream 5.5 微信动态表情包全流程，四宫格出帧加切帧脚本",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.babadidi.com/3724.html",
+    "platform": "巴巴小站",
+    "author": "阿依",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Seedream 5.5 四宫格出帧，配 make_gif.py 一键切帧拼 GIF、自动压进微信 500KB，6 条提示词全公开。",
+  "why": "四宫格出帧加本地切帧压包是另一条不走 API 的完整链路，压包脚本可直接参考。",
+  "borrow": [
+    "四宫格出帧的排布",
+    "make_gif.py 切帧拼 GIF 的脚本思路",
+    "自动压进微信 500KB 的压包流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例角色未注明是否原创，只借四宫格出帧与切帧压包流程；未打开原页核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "微信表情包",
+    "Seedream 5.5",
+    "脚本",
+    "实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

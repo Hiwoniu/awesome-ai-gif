@@ -1,0 +1,42 @@
+{
+  "id": "insp-198",
+  "title": "sprite-animator：照片转 16 帧像素风 GIF 的命令行工具",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://github.com/Olafs-World/sprite-animator",
+    "platform": "GitHub",
+    "author": "Olafs-World",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 Gemini 图片生成把任意照片变成 16 帧像素风动画 GIF 的命令行工具。",
+  "why": "有真实可跑的 4×4 网格模板法：先生成带标注的精灵表模板引导 AI，再切片合成循环 GIF，并给出 dance 等动画预设与完整提示词参数。",
+  "borrow": [
+    "4×4 带标注网格模板引导法",
+    "照片→精灵表→切片→合成 GIF 的确定性管线",
+    "dance/walk 等动画预设的提示词写法",
+    "256 色像素风的帧数/尺寸参数"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Gemini",
+    "像素风",
+    "精灵表",
+    "CLI"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

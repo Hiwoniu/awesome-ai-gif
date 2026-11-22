@@ -1,0 +1,42 @@
+{
+  "id": "insp-408",
+  "title": "Convertico：GIF 转 WhatsApp 动态贴纸工具",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://convertico.com/gif-to-whatsapp-sticker/",
+    "platform": "Convertico",
+    "author": "Convertico",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "浏览器内 GIF/视频转 WhatsApp 动态贴纸：512×512、500KB 以下，透明保留，可打包下载；照片贴纸走浏览器内 AI 抠图加白边，3–30 张成包。",
+  "why": "与同类工具独立实现，补充了“动静贴纸必须分包”“静态变 1 秒动画”等平台规则细节。",
+  "borrow": [
+    "512×512/500KB/每帧不小于 8ms 的规格表",
+    "动静分包规则",
+    "照片转静态、GIF 转动态的双通道",
+    "成包下载形态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "WhatsApp贴纸",
+    "GIF转WebP",
+    "规格",
+    "免费工具"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

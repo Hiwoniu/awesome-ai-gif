@@ -1,0 +1,39 @@
+{
+  "id": "insp-1039",
+  "title": "Wan 2.2 SVI 2.0 Pro：做一条看不出接缝的视频循环",
+  "type": "multi",
+  "source": {
+    "url": "https://dev.to/ai-ksk/wan-22-svi-20-pro-making-a-video-loop-without-a-visible-seam-3pii",
+    "platform": "Dev.to",
+    "author": "ai-ksk",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "无缝循环三断点分析：姿态、镜头、光线连续性，速度脉冲、色彩呼吸、微抖动，SVI 2.0 Pro 用跨边界状态传递消缝。",
+  "why": "循环接缝问题讲得最深的一篇，失败模式分析可直接用于 GIF 验收。",
+  "borrow": [
+    "接缝三要素检查法：姿态、镜头、光线",
+    "速度脉冲、色彩呼吸、微抖动验收清单"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "讲的是视频循环，方法迁移到 GIF 循环验收；子代理打开原文核实。"
+  },
+  "tags": [
+    "无缝循环",
+    "Wan 2.2",
+    "验收"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-1136",
+  "title": "Instagram @armani.sadeq：Gemini 照片变机甲狗激光眼 GIF 实测",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DgAjvzlRX79/",
+    "platform": "Instagram",
+    "author": "armani.sadeq",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "用 Gemini 把一张机甲狗照片变成激光眼动态 GIF 的实测，展示照片转动图的效果。",
+  "why": "照片转动图的实测案例，机甲狗加激光眼的动效写法可直接借到原创角色的照片转 GIF 做法上。",
+  "borrow": [
+    "照片转 GIF 的提示词写法",
+    "机甲风角色加激光眼的动效点子",
+    "照片转动图的实测验收"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；用真实宠物照片示范，重做时必须换原创角色"
+  },
+  "tags": [
+    "Gemini",
+    "照片转GIF",
+    "Instagram",
+    "实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

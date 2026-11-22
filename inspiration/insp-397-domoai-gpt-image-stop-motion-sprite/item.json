@@ -1,0 +1,42 @@
+{
+  "id": "insp-397",
+  "title": "DomoAI：GPT Image 2.5 做定格动画，4×4 精灵表转 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.domoai.app/make/post/gpt-image-2-5-stop-motion",
+    "platform": "DomoAI",
+    "author": "DomoAI",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 GPT Image 2.5 生成角色参考图，再出一张 4×4 共 16 格连续姿势精灵表，切帧拼成 16 帧、100ms/帧、512×512 的无限循环 GIF（以黏土猫挥手为例）。",
+  "why": "给了完整可抄的六字段 16 帧提示词模板，并明确要求跨行帧连续，是精灵表路线的标准作业流程。",
+  "borrow": [
+    "六字段提示词模板结构",
+    "同一动作连续采样、非多张插画的约束",
+    "统一裁剪、禁止逐帧独立居中的要求",
+    "16 帧×100ms=1.6 秒循环参数"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "精灵表",
+    "定格动画",
+    "提示词模板",
+    "GPT-Image"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

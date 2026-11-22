@@ -1,0 +1,40 @@
+{
+  "id": "insp-1087",
+  "title": "Threads @weplash.ai：Gemini Omni 1.2 Flash 做 GIF，西语提示词原文",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@weplash.ai/post/Df-knAdoBAU",
+    "platform": "Threads",
+    "author": "@weplash.ai",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-20 帖子：提示词“转身向镜头、举起咖啡杯、慢慢点头，像在说‘我来了’，完美循环无剪切”，出 3 秒循环；并称 Gemini 经 Omni 1.2 Flash 模型、分阶段免费向 8 国开放。",
+  "why": "有具体动作提示词 + 模型与开放范围信息，与本轮 Neowin 报道互补（帖子侧实测、报道侧官宣）。",
+  "borrow": [
+    "举杯点头完美循环的动作提示词",
+    "Gemini GIF 模型与开放范围信息"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；与 insp-1068 Neowin 报道为同一事件的不同来源。"
+  },
+  "tags": [
+    "Threads",
+    "Gemini",
+    "提示词",
+    "完美循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-544",
+  "title": "Instagram：PixelMotion.art，上传角色图一键生成像素精灵表 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfKpxJmMFZB",
+    "platform": "Instagram",
+    "author": "AIKingrise",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "POWERFUL WEBSITES 系列第 613 期：上传 Mario 角色图，选 Run 动作，一键生成精灵表，4×4 网格像素跑步帧，可调速预览，存为 GIF/PNG；另演示海绵宝宝跳跃、鸣人打斗。",
+  "why": "上传、选动作、生成精灵表、调速预览、存 GIF/PNG 的工具工作流很完整；任意角色图转可用游戏动画素材的落点思路也值得借。",
+  "borrow": [
+    "上传选动作生成精灵表的工作流",
+    "4×4 精灵表规格",
+    "可调速预览的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "同内容另有 Tony Chen 与 Daniel Beteta 的版本，只收本条；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "像素精灵表",
+    "工具",
+    "Instagram",
+    "4x4网格"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

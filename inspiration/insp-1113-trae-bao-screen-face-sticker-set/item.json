@@ -1,0 +1,32 @@
+{
+  "id": "insp-1113",
+  "title": "TRAE宝「屏幕脸嘴替」16 张套系（9 静态 + 7 GIF）",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://forum.trae.cn/t/topic/463338",
+    "platform": "TRAE 官方中文社区",
+    "author": "",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "TRAE 表情包小赛参赛作品，一套 16 张“屏幕脸”表情，9 张静态加 7 张 GIF 动图。",
+  "why": "真实成套案例，静动搭配的套系结构可直接参考；“屏幕脸”这一角色设定本身就是可借鉴的原创角色思路。",
+  "borrow": ["16 张套系的情绪/场景配比", "静态打底加 GIF 点睛的套系结构", "屏幕脸这类极简角色的表情变化手法"],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实。TRAE宝是 TRAE 官方吉祥物 IP，只借套系结构与做法，绝不复用该角色形象。"
+  },
+  "tags": ["套系", "屏幕脸", "静态+GIF", "比赛作品"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

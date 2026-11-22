@@ -1,0 +1,41 @@
+{
+  "id": "insp-605",
+  "title": "Facebook：ju.laoshi，LINE 贴纸全流程：12 表情 APNG 导出 + 上架协议 + 16 张预览页",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/ju.laoshi/posts/pfbid0ZoS7ewdNMTgbUUrxD75ThDF7HTpvpBxLrL3pbPebPRV7rytAVULjLhytgWXFABi4l",
+    "platform": "Facebook",
+    "author": "ju.laoshi",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "自制 LINE 贴纸全流程记录：视频编辑器里 4×3 网格 12 个动态 Q 版表情待导出 APNG；LINE Creators Market 提交协议页确认版权与同意；最终预览页 16 张贴纸动画 + 主图/标签图标齐全。",
+  "why": "少见的“制作 → 导出 → 上架”全流程实录，含版权协议与预览页细节，对表情包落地上架最有参考价值。",
+  "borrow": [
+    "4×3 网格 12 表情的成套排布",
+    "APNG 导出加以上架协议加预览页的全流程清单",
+    "主图/标签图标等上架配套元素的提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "LINE上架",
+    "APNG",
+    "全流程",
+    "成套"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

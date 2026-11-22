@@ -1,0 +1,41 @@
+{
+  "id": "insp-463",
+  "title": "Hugging Face Diffusers：AnimateDiff 官方文档，MotionAdapter 加 export_to_gif",
+  "type": "multi",
+  "source": {
+    "url": "https://huggingface.co/docs/diffusers/v0.23.1/en/api/pipelines/animatediff",
+    "platform": "Hugging Face",
+    "author": "Hugging Face Diffusers",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "AnimateDiffPipeline 官方文档：MotionAdapter 接入与 export_to_gif 的可直接跑通的代码。",
+  "why": "文本或图生视频转 GIF 的标准路线官方出处，代码可直接跑，适合当技术兜底参考。",
+  "borrow": [
+    "MotionAdapter 的接入写法",
+    "export_to_gif 的标准收尾",
+    "文生与图生两条路线的取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "池内已有 AnimateDiff 的教程类条目，本条是官方文档出处，定位为代码参考。"
+  },
+  "tags": [
+    "AnimateDiff",
+    "Diffusers",
+    "官方文档",
+    "MotionAdapter"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

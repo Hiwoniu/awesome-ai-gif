@@ -1,0 +1,41 @@
+{
+  "id": "insp-678",
+  "title": "Kling 4.0 模型页：首尾帧锁定长镜头循环规格",
+  "type": "multi",
+  "source": {
+    "url": "https://neurohelper.ai/models/kling-4-0",
+    "platform": "Neurohelper AI",
+    "author": "Kuaishou Kling 团队",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Kling 4.0 模型说明页：首帧加可选尾帧，单镜头 3–30 秒，720p/1080p；Flash 版首帧 only、3–20 秒、720p。",
+  "why": "长循环的视频路线备选规格：把首尾设为同一帧即得循环；720p 与 1080p、标准版与 Flash 版的取舍能对应我们动态海报的时长与清晰度需求。",
+  "borrow": [
+    "首尾帧锁定长镜头循环的规格：首帧 + 可选尾帧、3–30 秒",
+    "标准版与 Flash 版的时长/分辨率取舍",
+    "首尾设为同一帧即得循环的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "multi",
+    "Kling",
+    "首尾帧",
+    "动态海报"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-264",
+  "title": "Instagram @google：Gemini 贴纸合集演示（官方）",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DKklaf1NANk/",
+    "platform": "Instagram",
+    "author": "@google",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "官方 reel 快速轮播 Gemini 生成的贴纸：饺子、boombox、戴墨镜的水豚、跳舞西兰花、像素奖杯等 20 余款。",
+  "why": "官方背书的 Gemini 贴纸风格广度展示，单帖即是一组风格参考库。",
+  "borrow": [
+    "多风格同批出图",
+    "食物/动物拟人化方向",
+    "像素风与扁平风并列",
+    "官方示例作风格词库"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录；只借风格方向"
+  },
+  "tags": [
+    "Instagram",
+    "Gemini",
+    "风格库"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

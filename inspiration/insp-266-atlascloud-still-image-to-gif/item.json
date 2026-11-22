@@ -1,0 +1,41 @@
+{
+  "id": "insp-266",
+  "title": "Atlas Cloud：单张静图转 GIF 的逐帧检查法",
+  "type": "multi",
+  "source": {
+    "url": "https://www.atlascloud.ai/blog/tips/gpt-image-2.6-image-to-gif",
+    "platform": "Atlas Cloud",
+    "author": "Atlas Cloud",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "以纸船循环、机器人精灵图、茶杯动作为案例，讲从一张定稿静图出发、只动一个动作、逐帧检查首尾衔接的方法。",
+  "why": "强调“先定静图、再加一个动作、再验首中尾三帧”，对保持原创角色一致性很有用。",
+  "borrow": [
+    "锁定面部/颜色/道具/背景/机位/裁切",
+    "首帧、中帧、末帧三点检查",
+    "原生 GIF 与精灵图拼装的区分",
+    "角色一致性验收思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "与池内 insp-036（同站贴纸指南）为同一站点的不同文章，内容不重复"
+  },
+  "tags": [
+    "GPT-Image-2.6",
+    "逐帧检查",
+    "角色一致性"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

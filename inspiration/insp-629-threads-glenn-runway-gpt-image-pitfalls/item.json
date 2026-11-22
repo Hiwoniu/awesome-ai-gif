@@ -1,0 +1,41 @@
+{
+  "id": "insp-629",
+  "title": "Threads @glennhasabeard：Runway 里用 GPT Image 2.6 做贴纸 GIF 的两个坑",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@glennhasabeard/post/Dfr5Vs0qkps",
+    "platform": "Threads",
+    "author": "Glenn Williams (@glennhasabeard)",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "实拍教程：肉桂卷挥手 GIF 贴纸的背景被做成透明棋盘格、12 个烘焙图标的 SVG 表格子互相重叠，两个坑各靠在提示词里多写一行解决。",
+  "why": "「把默认假设写出来」的教训非常具体：背景写明单一不透明色加色号并要求每帧铺满；图标写明每格居中且不超过格子 60%。",
+  "borrow": [
+    "背景色号加每帧铺满写法",
+    "网格单元 60% 占用上限",
+    "多生成几版挑一张"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭社交搜索摘要收录，未打开原帖逐字核实；帖子带 Runway 推广码，只借提示词修正法。"
+  },
+  "tags": [
+    "提示词修正",
+    "贴纸 GIF",
+    "网格表",
+    "Runway"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

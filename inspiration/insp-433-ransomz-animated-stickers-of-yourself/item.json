@@ -1,0 +1,42 @@
+{
+  "id": "insp-433",
+  "title": "Meme：如何用照片制作自己的动态贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://meme.ransomz.dev/guides/how-to-make-animated-stickers-of-yourself",
+    "platform": "Meme（Ransomz）",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "照片转卡通角色再做多平台动态贴纸的指南：选清晰正面照、选反应动作、按平台导出，附 WhatsApp/Telegram/Discord/微信四平台规格对照表。",
+  "why": "多平台导出规格一次给全（微信 GIF 240×240、WhatsApp WebP 512×512、Telegram WEBM 512×512），是出包环节的实用对照。",
+  "borrow": [
+    "照片选片标准（正面、光线好、配饰可见）",
+    "角色一次创建、多反应复用的流程",
+    "四平台格式尺寸对照表",
+    "下载原文件而非截图的交付提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "动态贴纸",
+    "照片转卡通",
+    "多平台规格",
+    "微信"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

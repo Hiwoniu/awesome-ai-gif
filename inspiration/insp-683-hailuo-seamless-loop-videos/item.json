@@ -1,0 +1,41 @@
+{
+  "id": "insp-683",
+  "title": "Hailuo：无限循环短视频指南（水/云/光氛围循环提示词）",
+  "type": "posters",
+  "source": {
+    "url": "https://hailuoai.video/pages/blog/how-to-make-seamless-loop-videos",
+    "platform": "Hailuo AI",
+    "author": "Hailuo AI",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Hailuo 做无限循环短视频的指南：水流、云、灯光等自然循环动效的提示词写法，附可直接粘贴的循环提示词示例。",
+  "why": "动态海报里“只动氛围、主体不动”那一类的提示词样本：水、云、光三类自然循环各有写法，适合海报背景层单独做循环。",
+  "borrow": [
+    "自然氛围类循环的提示词示例：水/云/光",
+    "只动氛围、主体不动的克制动效思路",
+    "可直接粘贴的循环提示词示例组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "posters",
+    "Hailuo",
+    "氛围循环",
+    "动态海报"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

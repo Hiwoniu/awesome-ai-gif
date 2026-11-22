@@ -1,0 +1,45 @@
+{
+  "id": "insp-720",
+  "title": "掘金 JeecgBoot：Images 2.6 实测解读，API 2～64 帧 GIF 参数表",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://article.juejin.cn/post/7704923158516236307",
+    "platform": "掘金",
+    "author": "JeecgBoot",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Images 2.6 原生 GIF 输出与 Flare、Sunburst 双模型选型的实测解读，附 API 帧数与单帧时长的参数表。",
+  "why": "按场景给帧数与帧时长的配比（表情包 8–16 帧×80–120ms、产品旋转 24–32 帧×60–80ms），可直接拿来定我们 GIF 的出图参数；精灵图转动画的路线也值得借。",
+  "borrow": [
+    "API 出 GIF 的三步参数写法：格式 gif、帧数 2～64、单帧时长毫秒",
+    "按场景配帧数与帧时长的经验表：表情包 8–16 帧×80–120ms、产品旋转 24–32 帧×60–80ms",
+    "Flare 快出草稿、Sunburst 定稿精修的分工",
+    "精灵图先出多姿态再转连贯动画的路线",
+    "GIF 256 色、无半透明通道的限制与逐帧验收提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例为跳舞小猫与锦鲤等通用形象，只借参数表与选型思路；原文已打开核实。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "API",
+    "帧数参数",
+    "Flare",
+    "Sunburst",
+    "精灵图"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

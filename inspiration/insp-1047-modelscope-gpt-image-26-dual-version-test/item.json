@@ -1,0 +1,42 @@
+{
+  "id": "insp-1047",
+  "title": "ModelScope：GPT Image 2.6 双版本实测，GIF 自制功能正式上线",
+  "type": "multi",
+  "source": {
+    "url": "https://www.modelscope.cn/posts/438356",
+    "platform": "ModelScope",
+    "author": "SKYEVAL",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Flare 与 Sunburst 同题实测：7 个案例、15 次请求、22 个 GIF，结论 22 个 GIF 全卡在 1.8 秒、未达指定时长。",
+  "why": "本轮唯一的双版本系统性评测，案例覆盖表情之外的界面动效与产品演示，1.8 秒上限结论是重要规格情报。",
+  "borrow": [
+    "三图参考做连续动作的出题法",
+    "双版本对比评测框架",
+    "时长上限验收点：要求 3–10 秒仍只出 1.8 秒",
+    "Flare 快、Sunburst 细节准的取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已登录浏览器打开原文核实：作者 SKYEVAL，2026-11-13；结论仅基于本轮 7 个案例，不宜外推为模型硬上限。"
+  },
+  "tags": [
+    "评测",
+    "Flare",
+    "Sunburst",
+    "ModelScope"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

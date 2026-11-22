@@ -1,0 +1,39 @@
+{
+  "id": "insp-282",
+  "title": "ChatGPT 中文版：10 类 GIF 提示词与图片能力评测",
+  "type": "multi",
+  "source": {
+    "url": "https://www.chatgpt-chinese.org/blog/guides/chatgpt/gpt-image-2-6-gif-prompts-review.html",
+    "platform": "ChatGPT 中文版",
+    "author": "ChatGPT 中文版",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "整理 10 类 GIF 玩法（黏土定格、打工人表情包、Loading 图等）与 17 段动态演示，含“抽象打工人”风格的批量做法。",
+  "why": "品类覆盖最全，抽象打工人表情包这类中文网感选题有参考价值。",
+  "borrow": [
+    "按用途分类的 10 类选题表",
+    "先复现一个案例再扩展的上手顺序"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "提示词",
+    "分类",
+    "评测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-1088",
+  "title": "小猫照片变拳击冠军 GIF：@Phantomstone2 的 ChatGPT Images 2.6 实测",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://x.com/Phantomstone2/status/2120421288653259263",
+    "platform": "X",
+    "author": "@Phantomstone2",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "把 2 个月大的小猫照片交给 ChatGPT Images 2.6，生成戴拳击手套和头盔、在擂台里反应的循环 GIF，附原照片对照。",
+  "why": "照片转动图的完整前后对照，宠物日常照变聊天反应图的选题很适合复刻。",
+  "borrow": [
+    "照片+动作描述的图生 GIF 工作流",
+    "拳击手套/头盔/擂台的反差造型",
+    "宠物日常照做聊天反应图的选题"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；宠物为作者自家小猫，不涉及 IP 角色。"
+  },
+  "tags": [
+    "X",
+    "ChatGPT Images 2.6",
+    "宠物",
+    "反应 GIF",
+    "照片转 GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

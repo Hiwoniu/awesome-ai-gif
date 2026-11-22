@@ -1,0 +1,41 @@
+{
+  "id": "insp-1169",
+  "title": "MCP Market：GIF Maker Skill，帧序列拼 GIF 加体积压缩",
+  "type": "multi",
+  "source": {
+    "url": "https://mcpmarket.com/tools/skills/gif-maker",
+    "platform": "MCP Market",
+    "author": "",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "把帧序列/精灵表转 GIF 的 Claude Code Skill，gifsicle 智能压缩、按体积上限优化。",
+  "why": "帧序列拼 GIF 加体积压缩的工作流完整，明确针对微信 1MB 上限优化。",
+  "borrow": [
+    "帧序列拼 GIF 的工作流",
+    "gifsicle 智能压缩思路",
+    "--max-size 控体积的参数做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实。"
+  },
+  "tags": [
+    "Skill",
+    "Claude Code",
+    "GIF 压缩",
+    "帧序列"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-971",
+  "title": "Felo：Deadline 仓鼠 GIF 模型案例",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://openapi.felo.ai/model-cases/gpt-image-2-6/hamster-deadline-fire-gif",
+    "platform": "Felo API",
+    "author": "ailingqu / Awesome AI GIF Prompts",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "戴眼镜的金色仓鼠疯狂打字、头顶火焰、汗滴飞溅的办公室幽默贴纸 GIF 模型案例。",
+  "why": "多元素同框小 gag 的写法好：主动作打字、头顶符号火焰、飞溅汗滴三层信息一次讲清，适合赶工、加班类表情。",
+  "borrow": [
+    "多元素同框 gag 的结构：主动作+头顶符号+飞溅小物",
+    "白色贴纸描边加扁平色的表情包定调",
+    "打工人幽默场景的情绪选法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "CC BY 4.0",
+    "note": "案例原图与提示词来自 ailingqu 的 Awesome AI GIF Prompts 项目，CC BY 4.0；只借结构，角色换原创。"
+  },
+  "tags": [
+    "Felo",
+    "GPT Image 2.6",
+    "微信表情包",
+    "办公室幽默",
+    "多元素"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

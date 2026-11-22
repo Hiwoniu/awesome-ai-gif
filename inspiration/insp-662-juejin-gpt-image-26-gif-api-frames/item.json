@@ -1,0 +1,42 @@
+{
+  "id": "insp-662",
+  "title": "掘金：GPT Image 2.6 实测，一句话直出 GIF 与 2～64 帧 API 参数",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://juejin.cn/post/7704923158516236307",
+    "platform": "掘金",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 的实测解读，梳理原生 GIF 输出的 API 参数与选型：输出格式指定 gif、帧数 2～64 帧、单帧时长毫秒级可调，Flare 与 Sunburst 分工，并讲了精灵图转动画的路径。",
+  "why": "池里少见的把 API 侧帧数/帧时长参数讲全的中文实测，给了表情包场景的经验配比（8～16 帧、每帧 80～120 毫秒、循环 1～2 秒），可直接复用为参数表。",
+  "borrow": [
+    "API 参数结构：output_format=gif+帧数 2～64+单帧时长",
+    "表情包经验配比：8～16 帧、每帧 80～120ms",
+    "精灵图转动画的路径",
+    "Flare 与 Sunburst 的选型分工"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "wechat-stickers",
+    "GPT Image 2.6",
+    "API",
+    "frames"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

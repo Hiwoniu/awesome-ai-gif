@@ -1,0 +1,41 @@
+{
+  "id": "insp-524",
+  "title": "GifFrame：ChatGPT 做 GIF 入门指南，五段式提示词结构加 GIF Factory 工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://gifframe.com/blog/how-to-make-a-gif-with-chatgpt/",
+    "platform": "GifFrame",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "ChatGPT 做 GIF 的入门指南：对话内直接生成 GIF 与 GIF Factory（Codex Skill）批量做贴纸两条路线；给出五段式 GIF 提示词结构（主体、外观、动作、固定元素、循环收尾）与可直接抄的示例提示词。",
+  "why": "五段式提示词结构很干净：主体、外观、动作、固定元素、循环收尾五段分工明确；GIF Factory 的参考图到导出检查结构化工作流也值得借。",
+  "borrow": [
+    "五段式 GIF 提示词结构",
+    "GIF Factory 的结构化工作流",
+    "对话内直出与批量做贴纸的两条路线"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "作者名未从摘要中确认；GIF Factory 仓库本身已在池内，本条价值在提示词结构与工作流；仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "入门指南",
+    "五段式提示词",
+    "GIF-Factory",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

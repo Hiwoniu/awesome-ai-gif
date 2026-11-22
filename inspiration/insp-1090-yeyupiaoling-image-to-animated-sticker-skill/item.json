@@ -1,0 +1,42 @@
+{
+  "id": "insp-1090",
+  "title": "图片转动态表情专家 Skill：静态图分层做六种基础表情动画",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://blog.yeyupiaoling.cn/article/1795043459958",
+    "platform": "夜雨飘零博客",
+    "author": "夜雨飘零",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "介绍 SkillHub 社区 Skill「图片转动态表情专家」：静态图分析、动区分层，眨眼/张嘴/点头/摇头/抖动/变形六种表情动画，文字气泡叠加，多平台尺寸一次导出。",
+  "why": "池内少见的静态图转动图专用 Skill，六种小幅度循环动作正好可作动作库。",
+  "borrow": [
+    "动区分层标记的做法",
+    "六种基础表情动画的分类",
+    "多平台尺寸一次导出的规格表",
+    "触发词驱动的工作流组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实。"
+  },
+  "tags": [
+    "Skill",
+    "静态图转动图",
+    "表情动画",
+    "SkillHub"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

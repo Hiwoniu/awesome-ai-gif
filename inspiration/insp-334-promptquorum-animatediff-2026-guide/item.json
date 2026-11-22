@@ -1,0 +1,39 @@
+{
+  "id": "insp-334",
+  "title": "PromptQuorum：AnimateDiff 2026 综述与选型",
+  "type": "multi",
+  "source": {
+    "url": "https://www.promptquorum.com/power-local-llm/animatediff-video-generation-guide",
+    "platform": "PromptQuorum",
+    "author": "Hans Kuepper",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "AnimateDiff 的 2026 综述，讲清它只是运动模块而非完整视频模型，附 8 个官方运动 LoRA 与 Lightning 蒸馏版的取舍。",
+  "why": "把 AnimateDiff、AnimateDiff-Lightning、ComfyUI-Evolved 与 A1111 扩展的关系一次讲清，含许可证提醒。",
+  "borrow": [
+    "运动模块选型表",
+    "短循环（16 帧约 2 秒）的定位"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "AnimateDiff",
+    "综述",
+    "选型"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

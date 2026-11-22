@@ -1,0 +1,41 @@
+{
+  "id": "insp-404",
+  "title": "Sprytix：共享 Style DNA 的 AI 游戏素材工作台",
+  "type": "multi",
+  "source": {
+    "url": "https://www.sprytix.com/",
+    "platform": "Sprytix",
+    "author": "Sprytix",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "面向独立游戏开发者的 AI 素材工作台：从同一张精灵提取 Style DNA（配色、比例信号），后续素材沿用同一视觉参考；可把静帧变四帧走路循环，导出 Unity/Godot/Spine 包。",
+  "why": "“Style DNA 锁定角色一致性”的做法，与表情包“同一角色多动作保持一致”的核心难题是同一个问题。",
+  "borrow": [
+    "Style DNA（配色加比例信号）跨素材复用",
+    "四帧走路循环的拆解（左触地、经过、右触地、经过）",
+    "导出时附导入说明的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "游戏精灵",
+    "走路循环",
+    "Style-DNA",
+    "角色一致性"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

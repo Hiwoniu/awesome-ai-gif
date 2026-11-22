@@ -1,0 +1,41 @@
+{
+  "id": "insp-708",
+  "title": "ChatGPT GIF 教程：面向 Instagram 的产品图微动效",
+  "type": "posters",
+  "source": {
+    "url": "https://blog.console.hsalem.com/make-gifs-in-chatgpt/",
+    "platform": "hsalem 博客",
+    "author": "hsalem",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "面向 Instagram 场景的 ChatGPT GIF 教程，附产品图微动效提示词。",
+  "why": "产品图只动一处的做法可直接套动态海报，IG 场景的方形与竖幅尺寸取舍值得参考。",
+  "borrow": [
+    "产品图微动效的提示词结构",
+    "IG 场景的 GIF 尺寸取舍",
+    "ChatGPT 直出 GIF 的分步流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原页核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "动态海报",
+    "产品图",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

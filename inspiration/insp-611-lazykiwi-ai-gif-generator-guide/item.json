@@ -1,0 +1,41 @@
+{
+  "id": "insp-611",
+  "title": "LazyKiwi：文本/视频双路线做 AI GIF 实战指南",
+  "type": "multi",
+  "source": {
+    "url": "https://lazykiwi.ai/blog/ai-gif-generator",
+    "platform": "LazyKiwi 博客",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "文本或视频双路线做 AI GIF 的实战指南：单动作提示词公式，低成本模型打草稿、高画质模型出终稿，再用 EZGIF 转 GIF。",
+  "why": "分层工作流可直接复用：便宜模型草稿加高画质终稿，附 EZGIF 帧率与容量参数。",
+  "borrow": [
+    "单动作提示词公式",
+    "草稿/终稿模型分层",
+    "EZGIF 帧率与容量参数"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "博客示例是别人的素材，只借分层工作流与转换参数。"
+  },
+  "tags": [
+    "GIF 生成",
+    "工作流",
+    "EZGIF",
+    "分层出图"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

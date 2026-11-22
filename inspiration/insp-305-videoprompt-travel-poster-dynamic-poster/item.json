@@ -1,0 +1,39 @@
+{
+  "id": "insp-305",
+  "title": "VideoPrompt：三张旅行海报融合成 16 帧动态海报",
+  "type": "posters",
+  "source": {
+    "url": "https://www.videoprompt.vip/prompt/gpt-image-2-5-gif-prompt-turn-the-three-provided-travel-poster-reference-t231621/",
+    "platform": "VideoPrompt",
+    "author": "VideoPrompt",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "把三张旅行海报参考图融合成一张 16 帧动态海报的提示词案例，含分段运镜（每 4 帧一个场景过渡）与否定提示词清单。",
+  "why": "多图融合+分段叙事的海报动效结构少见。",
+  "borrow": [
+    "16 帧分段运镜结构",
+    "多参考图融合的构图法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "动态海报",
+    "提示词",
+    "多图融合"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

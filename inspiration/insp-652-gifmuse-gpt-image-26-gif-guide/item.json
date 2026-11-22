@@ -1,0 +1,42 @@
+{
+  "id": "insp-652",
+  "title": "GifMuse：GPT Image 2.6 GIF 实测指南，五段提示词公式与 Flare 测速",
+  "type": "multi",
+  "source": {
+    "url": "https://gifmuse.com/blog/gpt-image-2-6-gif/",
+    "platform": "GifMuse",
+    "author": "GifMuse",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 GIF 实测指南：给出五段提示词公式（主体+一个清晰动作+风格+简单背景+循环提示），实测 9 帧最顺滑、Flare 出图速度，并说明官方文档两处帧数上限不一致、只列实测过的数字。",
+  "why": "提示词公式可直接套用，帧数与速度的结论来自作者 11 月实测而非转述，且对官方文档矛盾处做了诚实标注。",
+  "borrow": [
+    "五段提示词公式（主体+动作+风格+背景+循环）",
+    "9 帧最顺滑的实测结论",
+    "Flare 测速的对照写法",
+    "文档矛盾处只列实测值的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "指南为作者 11 月实测整理，只借公式与实测结论；免费额度与价格以 GifMuse 当前页面为准。"
+  },
+  "tags": [
+    "Images 2.6",
+    "实测",
+    "提示词公式",
+    "Flare"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "insp-1156",
+  "title": "GIFGenerator.app：AI 精灵图生成器，一句话出 16 帧透明循环 GIF 与精灵表",
+  "type": "multi",
+  "source": {
+    "url": "https://gifgenerator.app/ai-sprite-generator",
+    "platform": "GIFGenerator.app",
+    "author": "GIFGenerator.app",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "一句话描述角色动画，AI 生成 16 帧透明精灵图，先以 GIF 预览循环，再打包成 sprite sheet PNG 直导游戏引擎；页内附 6 组真实跑通过的循环提示词。",
+  "why": "六组提示词都是真实出片的原句，结构高度一致可直接套用；GIF 先验循环、再导表的双交付流程也值得借鉴。",
+  "borrow": [
+    "循环提示词结构：角色+动作+方向+16 帧+全身侧面+透明背景，动作只写一个主节奏",
+    "动作写法：待机只写一个呼吸节奏、跑步写四肢伸展与收拢两个极端、受击写两帧闪白加其余帧静止",
+    "16 帧固定帧数与 4×4 网格的打包设定，GIF 预览先验循环、确认后再导出 PNG 表",
+    "透明底写法：提示词结尾固定要求透明背景，帧带真实 alpha 通道，免去抠图",
+    "Unity 与 Godot 导入参数：Unity 按网格切片、Godot 按播放顺序建 SpriteFrames"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例为通用像素角色（史莱姆、骑士、狐狸等），无 IP；新访客 5 个免费积分，之后按积分包计费；提示词会随生成任务保存，成品 GIF 落在公开媒体链接，勿在提示词里放隐私信息。"
+  },
+  "tags": [
+    "精灵表",
+    "像素风",
+    "游戏动画",
+    "透明背景",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

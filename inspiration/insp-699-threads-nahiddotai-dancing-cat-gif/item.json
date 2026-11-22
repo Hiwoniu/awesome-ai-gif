@@ -1,0 +1,40 @@
+{
+  "id": "insp-699",
+  "title": "Threads @nahiddotai：ChatGPT Images 2.6 跳舞猫 GIF 追问改动演示",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@nahiddotai/post/DfVrxTNDrEx",
+    "platform": "Threads",
+    "author": "@nahiddotai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-04 的帖子：ChatGPT Images 2.6 跳舞猫等动物 GIF 演示视频，含“加粉色激光、调 2 倍速”等追问改动演示。",
+  "why": "追问改动的工作流样本：先出一版 GIF，再用追问改动效（加激光、调倍速）；与池内 IG 追问改动条目是不同账号的独立演示，可作对照。",
+  "borrow": [
+    "追问改动效的工作流：加粉色激光、调 2 倍速",
+    "动物 GIF 演示的追问改动示例"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "wechat-stickers",
+    "追问改动",
+    "跳舞猫",
+    "Threads"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

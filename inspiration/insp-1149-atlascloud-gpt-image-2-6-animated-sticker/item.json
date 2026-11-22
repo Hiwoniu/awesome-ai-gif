@@ -1,0 +1,39 @@
+{
+  "id": "insp-1149",
+  "title": "Atlas Cloud：GPT Image 2.6 动态贴纸指南，水獭提示词加循环验收与平台导出规则",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.atlascloud.ai/zh/blog/tips/gpt-image-2.6-animated-sticker",
+    "platform": "Atlas Cloud 博客",
+    "author": "Atlas Cloud",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "一篇很扎实的动态贴纸指南：给出一只水獭的完整可复制提示词（24 帧、每帧 100 毫秒、512×512），用狐狸、猫、机器人三个已发布案例讲循环接缝检查，再按 GIPHY 与 WhatsApp 的平台规则给导出清单。",
+  "why": "池里 GPT Image 2.6 教程很多，但这篇少见地把“提示词—验收—平台导出”串成闭环：128 像素小尺寸可读性检查、首末帧对照、单变量改动作的排错法、GIPHY 首帧 20% 透明与 WhatsApp 动态 WebP 512×512、500KB 的硬规则都列出来了。",
+  "borrow": [
+    "提示词结构：身份标记（毛发、口鼻、围巾）加固定方形构图，再分步写动作，最后写回归起始姿势与 128 像素可读",
+    "24 帧、每帧 100 毫秒、合计 2.4 秒的参数组合",
+    "首末帧对照与缩小到约 128 像素检查的验收法",
+    "动作只改一句、其他不动的单变量排错法",
+    "GIPHY 与 WhatsApp 的导出规则对照表",
+    "GIF 不支持透明、需逐帧抠底再转 WebP 的提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "文中承认水獭动画来自 MP4 本地转 GIF、并非原生 GIF 实测，24 帧设置也只是待测试请求；只借提示词结构与验收方法，不照搬水獭角色与提示词原文。已打开原文核实。"
+  },
+  "tags": ["GPT Image 2.6", "微信表情包", "动态贴纸", "提示词", "验收", "WhatsApp", "GIPHY"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

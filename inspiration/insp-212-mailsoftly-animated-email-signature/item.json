@@ -1,0 +1,41 @@
+{
+  "id": "insp-212",
+  "title": "Mailsoftly：动态邮件签名 GIF 完整指南",
+  "type": "signatures",
+  "source": {
+    "url": "https://mailsoftly.com/blog/how-to-create-an-animated-email-signature/",
+    "platform": "Mailsoftly 博客",
+    "author": "未署名",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "动态邮件签名 GIF 的完整制作指南，从设计、导出、托管到嵌入与跨客户端测试。",
+  "why": "给出可直接借用的规格参数：文件小于 1MB、循环 2–3 次、按显示宽度导出、首帧必须能独立成图（Outlook 只显示首帧）。",
+  "borrow": [
+    "小于 1MB / 循环 2–3 次 / 按显示宽度导出的规格组合",
+    "首帧兜底设计原则",
+    "GIF 必须托管在公开 URL 再嵌入的流程",
+    "Gmail / Apple Mail / Outlook 的分客户端测试清单"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "邮件签名",
+    "规格",
+    "指南"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

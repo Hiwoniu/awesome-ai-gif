@@ -1,0 +1,41 @@
+{
+  "id": "insp-443",
+  "title": "Instagram：Photoshop 新 AI 工具做动画 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DKsYmMZtuQw/",
+    "platform": "Instagram",
+    "author": "Adobe Photoshop",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Adobe Photoshop 官方教程，用生成式填充给同一张照片换配饰、做多个变体，再排进时间轴做成 GIF。",
+  "why": "演示了不依赖视频模型的老牌做法：AI 改图加时间轴拼帧，适合已有照片的二次创作。",
+  "borrow": [
+    "生成式填充批量做变体",
+    "图层组对应帧的做法",
+    "时间轴排帧"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Photoshop",
+    "生成式填充",
+    "时间轴",
+    "Instagram教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

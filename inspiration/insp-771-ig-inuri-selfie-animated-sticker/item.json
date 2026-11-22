@@ -1,0 +1,39 @@
+{
+  "id": "insp-771",
+  "title": "Instagram @Inuri Munasinghe：自拍加长提示词做动态贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DY7Jd5dOOlR/",
+    "platform": "Instagram",
+    "author": "Inuri Munasinghe",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "上传自拍加详细长提示词生成动效贴纸的录屏教程。",
+  "why": "3D 生活场景加迷你小人与手写词的组合写法可作自拍贴纸参考。",
+  "borrow": [
+    "自拍加长提示词的结构：3D 场景加迷你小人加手写词",
+    "配套提示词库网站的组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "自拍",
+    "动态贴纸"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

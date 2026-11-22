@@ -1,0 +1,42 @@
+{
+  "id": "insp-659",
+  "title": "eliteai.tools：image-to-video Agent Skill，含 cinemagraph 章节",
+  "type": "multi",
+  "source": {
+    "url": "https://eliteai.tools/agent-skills/image-to-video",
+    "platform": "eliteai.tools",
+    "author": "inference-sh",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "一个图生视频 Agent Skill（232 stars），覆盖 Wan 2.5 i2v、Seedance、Fabric、Grok Video 的选型表、运镜与主体动效提示词表、完整 CLI 流水线。",
+  "why": "提示词结构完整（运镜+主体动效+氛围+节奏），明确写了 2–3 秒最适合 GIF/循环背景/cinemagraph，还有专门的 cinemagraph 章节（只动一个元素、2–4 秒循环）。",
+  "borrow": [
+    "按场景选模型的对照表",
+    "运镜关键词表",
+    "微妙大于夸张的动效原则",
+    "静图→视频→放大→配音的完整流水线"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "multi",
+    "skill",
+    "image-to-video",
+    "cinemagraph"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-519",
+  "title": "Ofox：GPT Image 2.6 API 文档，帧数乘帧尺寸的最小像素预算",
+  "type": "multi",
+  "source": {
+    "url": "https://ofox.ai/docs/develop/models/gpt-image/text-to-image",
+    "platform": "OfoxAI",
+    "author": "OfoxAI",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Ofox 的 GPT Image 2.6 文生图 API 文档：动画 GIF 参数表（frame_count 2–16 默认 9、frame_duration_ms 最小 20ms 默认 200、size 为每帧尺寸）、最小像素要求（9 帧时 256×256 不够、512×512 可用）与错误码对照。",
+  "why": "帧数乘帧尺寸的最小像素预算是硬性约束：批量出 GIF 时不踩这个坑就靠这张表；错误码对照也很实用。",
+  "borrow": [
+    "帧数乘帧尺寸的最小像素预算",
+    "GIF 参数表",
+    "错误码对照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "服务商 API 文档，参数以官方文档为准；仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "API",
+    "GPT-Image",
+    "像素预算",
+    "参数表"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

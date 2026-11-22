@@ -1,0 +1,39 @@
+{
+  "id": "insp-813",
+  "title": "Facebook：Flare 与 Sunburst 双模型分工讲解",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/reel/1901573750825235/",
+    "platform": "Facebook",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Flare（快，约 6 秒）与 Sunburst（高质）双模型讲解。",
+  "why": "双模型分工说明可作模型选型对照。",
+  "borrow": [
+    "Flare 与 Sunburst 的双模型分工：快与高质"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Facebook",
+    "Flare",
+    "Sunburst",
+    "模型选型"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

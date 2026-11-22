@@ -1,0 +1,40 @@
+{
+  "id": "insp-225",
+  "title": "Jogg.ai：90 条免费 ChatGPT GIF 提示词",
+  "type": "multi",
+  "source": {
+    "url": "https://www.jogg.ai/blog/free-chatgpt-gif-prompts/",
+    "platform": "Jogg.ai 博客",
+    "author": "未署名",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "90 条可直接复制的 ChatGPT GIF 提示词，分 10 类（可爱动物、反应、社交媒体等），附通用模板。",
+  "why": "提示词语料库价值高：通用模板“主体 + 动作 + 风格 + 固定元素 + 首尾衔接”可直接拆成项目自己的提示词骨架。",
+  "borrow": [
+    "通用 GIF 提示词模板结构",
+    "按场景分类的提示词语料组织法",
+    "“首尾帧无缝衔接”的固定收尾句"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借模板结构与分类法，不抄它的提示词原文"
+  },
+  "tags": [
+    "提示词",
+    "语料库",
+    "ChatGPT"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

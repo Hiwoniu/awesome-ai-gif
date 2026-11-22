@@ -1,0 +1,44 @@
+{
+  "id": "insp-1069",
+  "title": "glyphloop：数学保证无缝循环的生成式 ASCII 动画工具",
+  "type": "posters",
+  "source": {
+    "url": "https://glama.ai/mcp/servers/ideoshi/glyphloop",
+    "platform": "Glama",
+    "author": "ideoshi",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "浏览器工作室 + CLI + MCP 的开源 ASCII 动画工具（MIT），做流场、波干涉、变形噪声团、矩阵雨、旋转 3D 形体等生成式动画，可导入图片/视频继承色彩，导出 PNG/GIF/MP4/网页嵌件。",
+  "why": "池里少有的非 AI 生图循环 GIF 路线：用数学保证无缝循环，第 N 帧精确接回第 0 帧，可借来做动态海报/签名档的另类风格。",
+  "borrow": [
+    "数学无缝循环原理：噪声沿二维圆采样、正弦相位以 2π 整数倍推进",
+    "ASCII 风格动态海报的做法",
+    "CLI/MCP 批量出 GIF 的管线",
+    "导入图片转 ASCII 动效"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": "已打开原文核实（Glama 收录页全文）；官网为 glyphloop.art，收录页为 MCP 收录页。"
+  },
+  "tags": [
+    "ASCII",
+    "生成式动画",
+    "无缝循环",
+    "开源",
+    "MCP",
+    "动态海报"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "insp-315",
+  "title": "YouTube：ChatGPT Images 2.6 免费版 GIF 教程（文字/照片双路线）",
+  "type": "multi",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=0FC2pQGsTb0",
+    "platform": "YouTube",
+    "author": "YouTube",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "免费版 GIF 教程：文字生成、照片转动图、调速与单帧编辑，含免费额度与分阶段开放的如实说明。",
+  "why": "免费版可用性核查细致，适合新手向内容。",
+  "borrow": [
+    "照片转 GIF 的演示结构",
+    "免费额度说明方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原视频核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "YouTube",
+    "免费版",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-267",
+  "title": "AI/ML API：GPT Image 2.6 评测——30 次实测与成本",
+  "type": "multi",
+  "source": {
+    "url": "https://aimlapi.com/blog/gpt-image-2-6-review",
+    "platform": "AI/ML API",
+    "author": "AI/ML API",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-06 的实测评测，对比 GPT 2.6、2.5、Nano Banana 2.1 等模型，给出 12 帧 GIF 的实测成本与耗时。",
+  "why": "有量化成本（12 帧 512×512 GIF 约 $0.055），可作为批量生产表情包的成本估算参考。",
+  "borrow": [
+    "Flare/Sunburst 的速度与质量取舍",
+    "GIF 实测成本模型",
+    "相机运动不生效等已知短板",
+    "基准测试方法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "评测",
+    "成本",
+    "GPT-Image-2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

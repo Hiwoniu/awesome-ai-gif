@@ -1,0 +1,43 @@
+{
+  "id": "insp-220",
+  "title": "nikkicat：ESP32 上的 AI 互动绘本（16 种结局）",
+  "type": "storybooks",
+  "source": {
+    "url": "https://medium.com/@nikkicat/llms-after-work-an-interactive-storybook-on-esp32-p4-ffa06a7c33a4",
+    "platform": "Medium",
+    "author": "nikkicat",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "父女共创的互动绘本硬件项目：用 AI 生成图片、声音、动画，在 ESP32-P4 触屏上做 16 种结局的分支故事，含 LVGL 动画实现细节。",
+  "why": "是“绘本不止于视频/GIF”的垂直玩法：把 AI 绘本落到实体硬件上，含标题屏云朵星星动画、10 秒选择计时等具体实现。",
+  "borrow": [
+    "分支叙事（16 种结局）的结构",
+    "LVGL 动画做标题屏微动效",
+    "故事循环自动播放模式",
+    "AI 生成图片+声音+旁白的分工",
+    "固件开源的复现路径"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "父女共创项目，仅借结构与玩法"
+  },
+  "tags": [
+    "绘本",
+    "硬件",
+    "互动",
+    "ESP32"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

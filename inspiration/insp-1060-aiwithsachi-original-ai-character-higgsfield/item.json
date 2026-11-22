@@ -1,0 +1,42 @@
+{
+  "id": "insp-1060",
+  "title": "AI with Sachi：Higgsfield 原创角色加动作参考工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://www.aiwithsachi.com/guides/make-an-ai-character-higgsfield",
+    "platform": "aiwithsachi.com",
+    "author": "Sachin",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "原创角色工作流：定三个记忆点特征，做肖像与全身参考图，选内置动作或上传动作片段，先做一段短视频验证，再成系列。",
+  "why": "先做一段短动效验证角色、再批量成系列的节奏，可借鉴到我们的成套 GIF 制作流程。",
+  "borrow": [
+    "用三个记忆点（发型／服装／重复手势）定义角色",
+    "肖像＋全身两张参考图分工",
+    "动作片段作为运动参考、而非纯文字描述",
+    "先验证一段、再扩展成系列的节奏"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录。文中涉及上传动作参考片段，收录时只借流程，不用他人视频素材。"
+  },
+  "tags": [
+    "Higgsfield",
+    "原创角色",
+    "动作参考",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

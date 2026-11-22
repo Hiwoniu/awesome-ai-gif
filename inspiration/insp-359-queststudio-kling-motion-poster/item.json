@@ -1,0 +1,40 @@
+{
+  "id": "insp-359",
+  "title": "Kling AI 动态海报 + 运动控制：三要素法则",
+  "type": "posters",
+  "source": {
+    "url": "https://queststudio.io/blog/kling-ai-motion-poster-motion-control",
+    "platform": "QuestStudio",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "把成品海报变成高级感循环动态海报的 Kling 工作流，附三套可直接套用的提示词模板。",
+  "why": "“三要素法则”（一个镜头运动+一个环境动效+一个高光动效）和“保版式、保字体、不加字”约束可直接复用。",
+  "borrow": [
+    "三要素法则",
+    "可复制的提示词模板",
+    "保版式保字体的约束写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "动态海报",
+    "Kling",
+    "提示词模板"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

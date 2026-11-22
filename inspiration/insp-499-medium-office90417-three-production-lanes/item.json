@@ -1,0 +1,41 @@
+{
+  "id": "insp-499",
+  "title": "Medium：GPT Image 2.6 需要三条生产线，不是一条提示词队列",
+  "type": "multi",
+  "source": {
+    "url": "https://medium.com/@office_90417/gpt-image-2-6-needs-three-production-lanes-not-one-prompt-queue-6d988995a333",
+    "platform": "Medium",
+    "author": "office_90417",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "提出三通道制：快速探索、精确修正、刻意做动画；原生 GIF 参数为 2–16 帧、毫秒级帧时长，并提醒勿把静态 4K 能力说成 4K GIF。",
+  "why": "三通道分工的生产组织法很有用：探索、修正、动画三条线各有目标，比一条提示词队列更适合批量生产。",
+  "borrow": [
+    "三通道分工的生产组织法",
+    "2–16 帧与毫秒级帧时长的参数",
+    "勿把静态 4K 说成 4K GIF 的提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "与 insp-497 同一作者、同一厂商背景；内容为厂商赞助改编，非第一人称实测。"
+  },
+  "tags": [
+    "生产组织",
+    "三通道",
+    "帧参数",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "insp-1137",
+  "title": "GetDavinci：纯文字生成 GIF 的分步教程（FLUX 出图 + 镜头运动）",
+  "type": "multi",
+  "source": {
+    "url": "https://getdavinci.ai/how-to-ai-generate-gifs/",
+    "platform": "GetDavinci",
+    "author": "GetDavinci",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "用 FLUX.1 [dev] 先出一张静帧，再以镜头运动（推、拉、摇、移、漂移）做循环 GIF 的完整教程，含 5 种动效预设、Boomerang 循环与成本表。",
+  "why": "唯一讲清“相机动、画面不动”这条路线的实测教程：写“瞬间”而非动作的提示词写法、Boomerang 消跳变、帧率/宽度/色彩/抖动的体积控制，都是做氛围类动态海报可直接借的方法。",
+  "borrow": [
+    "写瞬间不写动作的提示词写法：主体+场景+光线+风格",
+    "七种镜头运动与强度选择",
+    "Boomerang 回放消循环跳变",
+    "帧率/宽度/色彩数/抖动的 GIF 体积控制",
+    "先定画面与动效、再免费调参数的成本顺序"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实；示例含真实动物照片帧，重做时换原创角色"
+  },
+  "tags": [
+    "文生GIF",
+    "FLUX",
+    "镜头运动",
+    "Boomerang",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

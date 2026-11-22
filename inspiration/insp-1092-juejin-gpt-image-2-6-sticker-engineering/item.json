@@ -1,0 +1,43 @@
+{
+  "id": "insp-1092",
+  "title": "GPT Image 2.6 动态表情包工程化：角色锁定、原生 GIF 与分批验收",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://juejin.cn/post/7709685591454056448",
+    "platform": "掘金",
+    "author": "Ace Data Cloud",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "以黏土卡皮巴拉为例的微信动态表情包工程化流程：资产清单、提示词四层拆分、Flare 预览加 Sunburst 定稿两段式、分批验收。",
+  "why": "少见的讲工程化交付而非单张生成的一篇，资产清单与验收回归思路可直接借用到成套表情包制作。",
+  "borrow": [
+    "资产清单表结构：sticker_id/intent/text/action/reference/status",
+    "提示词四层拆分：身份锚点/保留项/可变项/动画约束",
+    "Flare 预览 + Sunburst 定稿的两段式流程",
+    "四组验收指标与 1+4+N 批量组织法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "文首已声明为合作推广内容，方法论仍可用；已打开原文核实"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "微信表情包",
+    "工程化",
+    "验收",
+    "掘金"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

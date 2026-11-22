@@ -1,0 +1,43 @@
+{
+  "id": "insp-965",
+  "title": "Pixdom：HTML 动效转 GIF 的开源 CLI 与 MCP 服务器",
+  "type": "posters",
+  "source": {
+    "url": "https://dev.to/smkulkarni/i-got-tired-of-manually-converting-html-to-gifs-so-i-built-an-open-source-cli-to-do-it-instantly-199a",
+    "platform": "DEV Community",
+    "author": "Sushil Kulkarni",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "把 HTML/CSS 动效渲染成平台尺寸 GIF/MP4 的开源命令行工具，带 MCP 服务器，可让 AI 直接写 HTML 再出图。",
+  "why": "池里全是图片模型出 GIF，这条是代码动效路线：AI 写 HTML 动效、工具自动算周期帧率渲染成 GIF，动态海报不用逐帧画。",
+  "borrow": [
+    "AI 写 HTML 动效再渲染成 GIF 的路线：先写代码动效、后转 GIF",
+    "--auto 自动算动画周期与帧率的思路：按 CSS 动画最小公倍数定 duration、按缓动类型定 FPS",
+    "19 个平台尺寸预设的做法：按发布平台定画布与输出格式",
+    "MCP 工具形态：convert_html_to_asset 与 generate_and_convert 两个工具的分工"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "2026 年 3 月的文章，工具较旧；仓库公开但未在文中核实许可证；输出是代码渲染的动效，不是图片模型生成，画风取决于 HTML/CSS 能力"
+  },
+  "tags": [
+    "动态海报",
+    "HTML转GIF",
+    "CLI",
+    "MCP",
+    "开源工具"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

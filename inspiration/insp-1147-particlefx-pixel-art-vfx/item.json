@@ -1,0 +1,39 @@
+{
+  "id": "insp-1147",
+  "title": "ParticleFX：描述像素特效、按调色板生成精灵表与 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.particlefx.studio/pixel-art/ai-pixel-art-effects",
+    "platform": "ParticleFX Studio",
+    "author": "ParticleFX Studio",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "用粒子模拟而非生图模型做像素风游戏特效（火球、升级、打击、光环等），按 PICO-8、NES 等调色板渲染，导出精灵表或 GIF。",
+  "why": "池子里多是角色表情包，这条补了“特效”一块拼图：粒子模拟保证每帧像素网格与调色板严格一致、循环精确闭合，解决了生图模型画像素画常出现的像素大小不一、颜色出调色板、帧不对齐问题。",
+  "borrow": [
+    "粒子模拟加像素渲染的路线：先算粒子运动、再按像素网格渲染，不用生图模型画像素画",
+    "调色板先行的写法：PICO-8、Endesga 32、Sweetie 16、DawnBringer、NES、Game Boy、CGA 或自定义色",
+    "Loop 与 Once 按用途分：光环、待机、火焰走循环，打击、拾取、爆炸走单次",
+    "像素特效提示词三要素：像素尺寸（如 3px 粗像素）、调色板或主机名、可读尺寸（8–12 个像素宽）",
+    "12fps 导出手绘感；导出前先看 contact sheet、口头改（更粗像素、更少火花、更慢）的验收流程",
+    "特效库复用思路：50 个现成像素特效可下载，改一句描述就变体"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "页面称导出特效可商用、无需署名；个别含 CodeManu 的 CC BY 素材需署名。只借粒子模拟与调色板方法，不直接用库里的现成特效图。"
+  },
+  "tags": ["pixel-art", "sprite-sheet", "VFX", "GIF", "game-effects", "palette"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

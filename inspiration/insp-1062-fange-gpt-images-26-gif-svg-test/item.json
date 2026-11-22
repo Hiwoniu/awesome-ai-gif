@@ -1,0 +1,43 @@
+{
+  "id": "insp-1062",
+  "title": "凡哥知识库：GPT Images 2.6 实测 GIF 动图与 SVG",
+  "type": "multi",
+  "source": {
+    "url": "https://www.fange-kb.cn/documents/ext-3773ebb0377a",
+    "platform": "凡哥 AI 知识库",
+    "author": "凡哥",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "作者用 ChatGPT 网页端实测 4 组 GIF（玻璃蝴蝶、香水商品、雨夜摸狗、峡谷瀑布），并梳理 API 的 GIF 尺寸规则与失败模式。",
+  "why": "4 组都是真实返回的 GIF、有逐组失败分析，尺寸规则（宽高为 16 倍数、宽高比范围、总像素预算、官方 512×512／9帧／200ms 样例）可直接作为验收标准。",
+  "borrow": [
+    "商品 GIF「标签不变、瓶身小幅转动」的验收思路",
+    "尺寸规则：宽高须为 16 倍数、size 指单帧尺寸",
+    "失败模式清单（手部穿帮、帧数画幅不按要求出、背景细节被重画）",
+    "GIF 只能走生成接口、编辑接口不支持 GIF 输出的接口边界"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。香水品牌 SOL 为虚构，复用无风险。"
+  },
+  "tags": [
+    "GPT Images 2.6",
+    "实测",
+    "尺寸规则",
+    "失败模式",
+    "API"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

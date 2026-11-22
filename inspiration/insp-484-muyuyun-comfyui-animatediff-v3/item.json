@@ -1,0 +1,41 @@
+{
+  "id": "insp-484",
+  "title": "木雨云：ComfyUI 基础教程 8，AnimateDiff V3 文字生成动态图片",
+  "type": "multi",
+  "source": {
+    "url": "https://www.muyuyun.com/help/492.html",
+    "platform": "木雨云",
+    "author": "小健老师",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "中文视频课转文字版，AnimateDiff V3 完整工作流：模型文件、安装路径、动态扩散加载器、上下文设置、32 帧输出。",
+  "why": "AnimateDiff V3 在 ComfyUI 里的节点接法与参数讲得很全，适合当本地动图管线的中文参考。",
+  "borrow": [
+    "AnimateDiff V3 的节点接法",
+    "动态扩散加载器的参数",
+    "上下文设置与 32 帧输出的取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "演示输出为视频（h264）而非 GIF，课程页含报联网站引流；仅凭搜索摘要判断，未打开核实全文。"
+  },
+  "tags": [
+    "ComfyUI",
+    "AnimateDiff-V3",
+    "中文教程",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

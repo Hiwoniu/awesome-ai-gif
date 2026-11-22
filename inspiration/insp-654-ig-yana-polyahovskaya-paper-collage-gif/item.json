@@ -1,0 +1,42 @@
+{
+  "id": "insp-654",
+  "title": "IG @yana.polyahovskaya：纸拼贴 GIF，三张剪纸眼睛嘴巴左右摆动",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/p/Df13TyfjfaW/",
+    "platform": "Instagram",
+    "author": "@yana.polyahovskaya",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "纸拼贴风格的循环 GIF 教程：用三张纸剪出的眼睛与嘴巴贴在照片上，6 秒内左右摆动两次、背景与面部保持静止，附成品提示词与出静图时的排错步骤。",
+  "why": "拼贴风的做法很轻：只动剪纸五官、其余全锁死，风格强烈且步骤可复现，适合做一套低成本的拼贴表情包。",
+  "borrow": [
+    "三张剪纸五官的拼贴做法",
+    "只动五官、其余锁死的动效约束",
+    "6 秒摆动两次的节奏",
+    "出静图时的排错步骤"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭社交搜索摘要收录，未打开原帖核实；帖子为俄语教程，摘要为英文转述，只借做法与节奏。"
+  },
+  "tags": [
+    "拼贴",
+    "Instagram",
+    "教程",
+    "剪纸"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

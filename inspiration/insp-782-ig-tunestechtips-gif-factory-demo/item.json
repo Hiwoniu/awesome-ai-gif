@@ -1,0 +1,40 @@
+{
+  "id": "insp-782",
+  "title": "Instagram @tunestechtips：开源 GIF Factory 一图出 6 个动态贴纸",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df1C7fMknTc/",
+    "platform": "Instagram",
+    "author": "@tunestechtips",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "演示开源免费工具 GIF Factory（MIT），一张图生成 6 个动态贴纸示例（像素风女孩说“你好呀”、黏土面包狗说“开工啦”等）。",
+  "why": "GIF Factory 一图多动效贴纸的产品形态与中文文案动效示例可作工具形态参考。",
+  "borrow": [
+    "GIF Factory 一图多动效贴纸的产品形态",
+    "中文文案动效示例：像素风女孩、黏土面包狗"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "GIF-Factory",
+    "开源工具",
+    "中文文案"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

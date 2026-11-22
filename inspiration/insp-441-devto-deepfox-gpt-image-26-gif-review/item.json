@@ -1,0 +1,41 @@
+{
+  "id": "insp-441",
+  "title": "DEV：GPT Image 2.6 实测，静图变化不大、GIF 才是新东西",
+  "type": "multi",
+  "source": {
+    "url": "https://dev.to/deepfox/gpt-image-26-review-still-images-barely-changed-gifs-are-new-569a",
+    "platform": "DEV",
+    "author": "deepfox",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 的实测评测，重点测了 GIF 功能：帧数、时长、简单循环表现好、复杂场景翻车。",
+  "why": "有真实生成结果与可复用的 GIF 提示建议，如小弹跳约 8 帧、慢转动用 12 到 16 帧。",
+  "borrow": [
+    "按动作幅度选帧数",
+    "一次只做一个动作",
+    "文字不超过一两个词"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "GPT-Image-2.6",
+    "实测",
+    "帧数",
+    "GIF评测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

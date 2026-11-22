@@ -1,0 +1,37 @@
+{
+  "id": "insp-1135",
+  "title": "AI GIF Studio：Prompt-to-Animation 通用制作指南",
+  "type": "multi",
+  "source": {
+    "url": "https://aigifstudio.com/blog/how-to-create-ai-gifs",
+    "platform": "AI GIF Studio",
+    "author": "未署名",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "一篇 6 分钟的通用 AI GIF 制作指南：选可循环动作、写提示词、检查连续性、帧率尺寸与体积优化，附一个 16-bit 像素雨夜咖啡馆示例动图。",
+  "why": "“提示词五要素”结构（主体＋动作＋画风＋机位＋循环方式）可直接复用为各类型 GIF 的提示词骨架，另有常见错误清单与免费 GIF 提示词生成器值得借鉴。",
+  "borrow": [
+    "提示词五要素结构：主体、动作、视觉风格、机位、循环行为",
+    "“一次只动一个元素”的动作设计原则，配雨夜咖啡馆多元素微动示例",
+    "首尾帧连续性验收法：检查首末时刻的角色、光线与机位是否跳变",
+    "文件优化链路：降尺寸、减色数、降帧密度、调速的体积控制方法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实（全文 76 行已读，示例 GIF 与提示词生成器链接均在页面内）"
+  },
+  "tags": ["GIF教程", "提示词结构", "循环动画", "像素风", "体积优化"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

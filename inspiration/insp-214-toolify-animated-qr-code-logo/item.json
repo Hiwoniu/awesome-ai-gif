@@ -1,0 +1,41 @@
+{
+  "id": "insp-214",
+  "title": "Toolify：用 AI 做带 Logo 的动态二维码",
+  "type": "posters",
+  "source": {
+    "url": "https://www.toolify.ai/ai-news/create-stunning-animated-qr-codes-with-logo-using-ai-30364",
+    "platform": "Toolify",
+    "author": "未署名",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 Stable Diffusion + ControlNet 做带 Logo 的艺术二维码，再用 Motion Leap 做成动态二维码的分步教程。",
+  "why": "参数给得很具体（768×768、DPM++、ControlNet tile 起始步 0.23–0.33、img2img 与 inpainting 两条路线），可直接复现。",
+  "borrow": [
+    "ControlNet tile 做二维码可扫性控制的参数",
+    "img2img 与 inpainting 两条 Logo 融合路线",
+    "生成后必须实测可扫性的验收环节",
+    "静态艺术码 + 动态化两段式流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "动态二维码",
+    "ControlNet",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-1038",
+  "title": "SpriteLab：2026 年最佳 AI 精灵表生成器横评",
+  "type": "multi",
+  "source": {
+    "url": "https://spritelab.dev/guides/best-ai-sprite-sheet-generators",
+    "platform": "SpriteLab",
+    "author": "SpriteLab",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "7 款以上 AI 精灵表工具横评：SpriteLab、Ludo.ai、PixelLab、SpriteCook、AutoSprite，列导出格式与免费付费档。",
+  "why": "工具横评加导出格式对照表，选型类干货。",
+  "borrow": [
+    "精灵表工具选型表",
+    "GIF、图集导出能力对照",
+    "Godot 与 Unity 支持情况"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "子代理打开原文核实；横评含自家产品，选型结论仅作参考。"
+  },
+  "tags": [
+    "横评",
+    "精灵表",
+    "工具选型"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

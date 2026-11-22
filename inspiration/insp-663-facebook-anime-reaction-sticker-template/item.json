@@ -1,0 +1,42 @@
+{
+  "id": "insp-663",
+  "title": "Facebook：ChatGPT Anime reaction 模板做 90 年代动漫风反应 GIF（11 月 18 日版）",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/1537337568203666/",
+    "platform": "Facebook",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-18 的录屏教程：ChatGPT App 里选 Anime reaction 模板，上传照片选 Laughing uncontrollably 表情，生成戴眼镜女性大笑的 90 年代动漫风循环 GIF，可保存并一次出多个变体；另展示 Stickers 静态多姿势选项。",
+  "why": "与已收的 11 月 5 日同模板流程互相印证，且是更新的版本，补了一次生成多变体再挑、动图与静态 Stickers 两条产品线。",
+  "borrow": [
+    "Anime reaction 模板调用路径",
+    "一次生成多变体再挑",
+    "动图与静态 Stickers 的分工",
+    "眼镜等面部特征保留效果"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。演示用真人自拍，只借模板流程，不用真人形象。"
+  },
+  "tags": [
+    "wechat-stickers",
+    "ChatGPT",
+    "anime-reaction",
+    "template"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

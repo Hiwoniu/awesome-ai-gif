@@ -1,0 +1,40 @@
+{
+  "id": "insp-896",
+  "title": "GPT Proto：照片转像素风 GIF 三步工作流",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://gptproto.com/nl/blog/how-to-make-pixel-art-animation-with-ai-gif",
+    "platform": "GPT Proto 博客",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "照片转像素风 GIF 三步工作流：4×4 共 16 帧精灵表提示词（1024×1024、2.5D Q 版像素格斗动作）、Ezgif 切片、变速时序表。",
+  "why": "16 帧格斗动作提示词与逐帧变速时序表是池内少见的动作节奏细节，可补像素表情包的时序短板。",
+  "borrow": [
+    "16 帧 4×4 精灵表提示词",
+    "逐帧变速时序表",
+    "三步工作流分工"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "像素风",
+    "精灵表",
+    "变速时序"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

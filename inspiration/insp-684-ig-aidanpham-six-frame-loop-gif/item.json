@@ -1,0 +1,41 @@
+{
+  "id": "insp-684",
+  "title": "IG @aidanpham__：ChatGPT 六帧循环 GIF 完整规格（288×288、200ms）",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfvuDl-E2lC/",
+    "platform": "Instagram",
+    "author": "@aidanpham__",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "教用 ChatGPT 做循环 GIF 的短教程：要求 6 帧 3×2 精灵表、同一角色/机位/比例/纯色背景、首尾衔接；规格是帧尺寸 288×288、6 帧、每帧 200ms、永久循环、总长 1.2 秒；示例覆盖侧目橘猫、像素青蛙、浣熊、水豚、仓鼠、树懒。",
+  "why": "规格给得最全的一条社交教程：帧尺寸、帧数、帧时长、总长四项一次给齐，可直接当作六帧循环的验收基线；示例用多只动物示范同一规格的可复用性。",
+  "borrow": [
+    "六帧循环完整规格：288×288、6 帧、每帧 200ms、总长 1.2 秒",
+    "3×2 精灵表 + 同一角色/机位/比例/纯色背景的约束写法",
+    "首尾衔接的循环要求"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "wechat-stickers",
+    "六帧",
+    "精灵表",
+    "规格"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

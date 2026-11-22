@@ -1,0 +1,40 @@
+{
+  "id": "insp-361",
+  "title": "PicassoIA 像素画指南：精灵表与行走循环",
+  "type": "multi",
+  "source": {
+    "url": "https://blog.picassoia.com/ai-pixel-art-generator-free-sprite-sheets-and-animations",
+    "platform": "PicassoIA",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 Retro Diffusion 四个像素模型做精灵表、行走循环和动画 GIF 的完整指南。",
+  "why": "Rd Animation 直接出 GIF/精灵表、行走循环 48×48 规格、像素风提示词写法，补像素表情包方向。",
+  "borrow": [
+    "像素风行走循环规格",
+    "精灵表生成法",
+    "像素模型选型"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "像素风",
+    "精灵表",
+    "行走循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

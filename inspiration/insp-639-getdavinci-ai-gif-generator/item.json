@@ -1,0 +1,42 @@
+{
+  "id": "insp-639",
+  "title": "GetDavinci：文本/图片转 GIF 工具页，5 种动效预设加 Boomerang",
+  "type": "multi",
+  "source": {
+    "url": "https://getdavinci.ai/ai-gif-generator/",
+    "platform": "GetDavinci",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "文本或图片转 GIF 的工具页：5 种动效预设、帧率/宽度/Boomerang 导出控制，附 6 个真实输出示例与文件体积数据。",
+  "why": "预设加导出参数的组合很完整，Boomerang 消跳帧与相机移动保清晰的思路可直接借鉴。",
+  "borrow": [
+    "5 种动效预设",
+    "Boomerang 回放消跳帧",
+    "帧率/宽度/色数导出参数",
+    "相机移动保清晰的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "工具页示例是对方的生成结果，只借预设与参数设计；与池中已收的两篇 GetDavinci 教程（影格图、无缝循环）不同页、不同内容，本条是工具主页面。"
+  },
+  "tags": [
+    "GIF 生成器",
+    "动效预设",
+    "Boomerang",
+    "导出参数"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-867",
+  "title": "Anagram：GPT-Image-2.6 给设计师的 GIF 与 SVG 导出",
+  "type": "posters",
+  "source": {
+    "url": "https://anagramdesign.graphics/blog/gpt-image-2-6-openai-adds-native-gifs-and-svg-export-for-designers/",
+    "platform": "Anagram Design",
+    "author": "Anagram Design",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "从设计师交付角度讲 Images 2.6：Flare 快稿、Sunburst 定稿，API 直接出 GIF（2–16 帧）与 SVG 矢量，还有标注式编辑与复杂度控制。",
+  "why": "把“出图”和“交活”分开：Flare 探方向、Sunburst 锁定后出成品，SVG 当草稿再进 Illustrator/Figma 精修，贴合动态海报的交付流程。",
+  "borrow": [
+    "Flare 探方向、Sunburst 锁成品的分工",
+    "GIF 覆盖的交付场景清单：循环社媒帖、加载动画、产品微交互、动态贴纸、微动海报",
+    "SVG 两步生成与成本提醒：先出参考图再转矢量，当草稿精修而非成品"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "原文已打开核实；速度与一致性承诺为 OpenAI 单方说法，文中已提醒要拿自有素材实测。"
+  },
+  "tags": [
+    "GPT-Image-2.6",
+    "动态海报",
+    "SVG",
+    "设计师工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

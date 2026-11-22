@@ -1,0 +1,39 @@
+{
+  "id": "insp-322",
+  "title": "X @OpenAI：ChatGPT Images 2.6 官宣主帖",
+  "type": "multi",
+  "source": {
+    "url": "https://x.com/OpenAI/status/2118124944928432327",
+    "platform": "X/Twitter",
+    "author": "@OpenAI",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "OpenAI 2026-11-04 发布的 ChatGPT Images 2.6 官宣主帖，含 GIF 生成演示。",
+  "why": "池内已收同一天另一条 OpenAI 的 GIF 发布帖，这条官宣主帖是 GIF 功能的原始出处，适合作为源头引用。",
+  "borrow": [
+    "官方示例的 GIF 提示词写法（末帧平滑过渡回首帧）",
+    "官宣中对 GIF 功能的定位表述"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "X",
+    "官方发布",
+    "GPT-Image-2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

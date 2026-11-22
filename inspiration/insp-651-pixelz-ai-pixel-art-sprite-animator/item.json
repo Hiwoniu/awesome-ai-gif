@@ -1,0 +1,43 @@
+{
+  "id": "insp-651",
+  "title": "PixelZ：浏览器里的像素画编辑器，AI 生成精灵并直接导出 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://pixelz.io/",
+    "platform": "PixelZ",
+    "author": "PixelZ",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "浏览器里的像素画编辑器：图层、调色板、洋葱皮、帧时间轴齐全，AI 按提示词生成精灵（自研像素模型），还能把单张静帧交给 AI 生成中间帧、导出透明 GIF 或编号 PNG 序列，另有 MCP 与 REST API。",
+  "why": "像素风 GIF 的全链路都在一个编辑器里：AI 出精灵、人工修帧、GIF 导出，另有 8/16 方向旋转精灵表导出，适合像素表情包与游戏素材两条线。",
+  "borrow": [
+    "AI 生成精灵+人工修帧的混合流程",
+    "单帧交 AI 生成中间帧的做法",
+    "8/16 方向旋转精灵表导出",
+    "MCP/REST 接入管线的接口思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "工具页为产品介绍，只借流程与导出规格；免费额度为每月 9 次 AI 生成，以页面当前说明为准。"
+  },
+  "tags": [
+    "像素画",
+    "精灵表",
+    "编辑器",
+    "GIF 导出",
+    "MCP"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

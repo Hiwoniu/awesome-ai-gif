@@ -1,0 +1,42 @@
+{
+  "id": "insp-425",
+  "title": "YouTube 泰语教程：ChatGPT 做 GIF 表情包与 LINE 贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=edGEVMRe5n4",
+    "platform": "YouTube",
+    "author": "未知（泰语频道）",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "1 分钟上手 ChatGPT 做 GIF 的泰语视频：写提示词、调播放速度、做透明底 GIF 发 LINE 贴纸、给 GIF 加泰文、照片转动图。",
+  "why": "覆盖了多语言场景（泰文上字、LINE 落地），透明底与调速两点对表情包出包很实用。",
+  "borrow": [
+    "透明背景 GIF 的制作技巧",
+    "GIF 内嵌本地文字的写法",
+    "调速的操作点",
+    "照片转动图的参考图用法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开页面核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "YouTube",
+    "泰语",
+    "LINE贴纸",
+    "透明底"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

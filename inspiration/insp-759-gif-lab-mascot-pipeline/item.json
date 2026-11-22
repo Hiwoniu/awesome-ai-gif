@@ -1,0 +1,45 @@
+{
+  "id": "insp-759",
+  "title": "IG @thinxai.channel：GIF LAB 五步吉祥物动画管线",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfXKKhpupnW/",
+    "platform": "Instagram",
+    "author": "ThinXai（@thinxai.channel）",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "用 ChatGPT Images 2.6 把一张手绘涂鸦变成可复用的动态吉祥物：先清理涂鸦并让它动起来，再把角色存为参考图跨动作复用，绿幕底方便抠图，快动作加帧到 12 帧防卡顿，最后调速再重生成。",
+  "why": "五步管线把“一个角色做多动作”拆成可复用的流程，参考图复用、绿幕底、帧数调速三点可以直接搬到我们自己的角色上。",
+  "borrow": [
+    "手绘涂鸦先清理成干净角色再动画的起手式",
+    "角色存为参考图，跨动作（滑冰、喝咖啡、挥手）复用",
+    "绿幕底方便抠图贴到其他视频上的做法",
+    "快动作把帧数从 3 加到 12 防卡顿",
+    "先调 0.5×/1×/2× 播放速度再决定是否重生成"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；视频结尾提示评论 MASCOT 私信领提示词原文，未拿到原文，只按摘要里讲到的步骤记录。"
+  },
+  "tags": [
+    "Instagram",
+    "ChatGPT",
+    "Images 2.6",
+    "吉祥物",
+    "绿幕",
+    "参考图"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-644",
+  "title": "Instagram @veedlabs：GPT Image 2.6 GIF 功能 4 实例演示",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dfj1DkQIWw4/",
+    "platform": "Instagram",
+    "author": "@veedlabs",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "演示 GPT Image 2.6 的 GIF 功能：4 个实例各配提示词，含拟人化掰手腕、脑袋炸成彩带后复原、猫咪吐舌眨眼等，约 20 秒出图。",
+  "why": "一人一动作、首尾回接的实测提示词一次给齐 4 个，且有出图速度参考。",
+  "borrow": [
+    "一人一动作、首尾回接的提示词结构",
+    "4 个实例的动作设计",
+    "出图速度参考（约 20 秒）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；演示角色是对方的，只借提示词结构与动作设计思路。"
+  },
+  "tags": [
+    "Instagram",
+    "GPT Image 2.6",
+    "演示",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-1048",
+  "title": "UPGPTs：ChatGPT Image 2.6 新玩法，参考图生成 GIF 表情包、贺卡和电商动图",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://upgpts.com/tutorials/chatgpt/chatgpt-image-2.6-guide",
+    "platform": "UPGPTs",
+    "author": "UPGPTs 团队",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "参考图固定角色到 GIF 三玩法：水豚“躺平组长”6 表情、节日贺卡 4 模板、电商动图 3 种，附五段式提示词模板与失败处理。",
+  "why": "定妆图加参考图的工作流最完整，6 表情加 4 节日模板可直接套用，电商动图是新角度。",
+  "borrow": [
+    "定妆图工作流",
+    "五段式模板",
+    "节日贺卡换场景模板",
+    "电商动图三种：360°旋转、开箱、细节"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "子代理打开原文核实。"
+  },
+  "tags": [
+    "教程",
+    "参考图",
+    "贺卡",
+    "电商"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

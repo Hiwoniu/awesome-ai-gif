@@ -1,0 +1,41 @@
+{
+  "id": "insp-679",
+  "title": "Vessero：多模型首尾帧/Loop 开关对照（Seedance/Kling/MiniMax/Wan/Grok）",
+  "type": "multi",
+  "source": {
+    "url": "https://www.vessero.com/help/start-and-end-frames-and-references",
+    "platform": "Vessero 帮助文档",
+    "author": "Vessero",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "多模型首尾帧与关键帧对照文档：Seedance、Kling 3.0/4.0、MiniMax H3、Wan 3.0、Grok Imagine 等的首尾帧支持情况；Grok Imagine 有专用 Loop 按钮（结尾回到起始帧）。",
+  "why": "挑循环路线时可直接查表：哪个模型原生支持无缝循环、哪个要靠首尾帧硬拼；Grok Imagine 的 Loop 按钮是少数原生循环开关，值得记下来。",
+  "borrow": [
+    "各视频模型首尾帧 + Loop 开关的横向对照表",
+    "Grok Imagine 专用 Loop 按钮：结尾回到起始帧",
+    "首尾帧支持情况按模型查表的选型方法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "multi",
+    "首尾帧",
+    "循环",
+    "模型对照"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

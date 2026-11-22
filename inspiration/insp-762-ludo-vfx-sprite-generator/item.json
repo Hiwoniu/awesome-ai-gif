@@ -1,0 +1,44 @@
+{
+  "id": "insp-762",
+  "title": "Ludo AI 特效精灵表生成器：爆炸闪电等 VFX 循环",
+  "type": "multi",
+  "source": {
+    "url": "https://ludo.ai/tools/vfx-sprite-generator",
+    "platform": "Ludo",
+    "author": "Ludo AI",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "文字描述特效，生成最高 64 帧透明底精灵表并可导出 GIF 的工具页。",
+  "why": "有 12 组真实特效演示与帧数、尺寸、循环参数，空首帧起爆与三关键帧做法可直接借。",
+  "borrow": [
+    "特效精灵表提示词结构：效果描述加动作过程加透明底，再区分循环或一次性",
+    "空首帧起爆的做法：首帧空白、中间峰值、末帧清空",
+    "三关键帧推导动效：只给起、峰、收三帧让模型补中间帧",
+    "循环与一次性的区分：状态类特效开循环，爆炸冲击类一次播放",
+    "帧数与尺寸规格：4/9/16/25/36/49/64 帧档位、32–384px 帧尺寸"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实；页面称生成内容归用户所有、可商用。"
+  },
+  "tags": [
+    "精灵表",
+    "特效",
+    "VFX",
+    "透明底",
+    "循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

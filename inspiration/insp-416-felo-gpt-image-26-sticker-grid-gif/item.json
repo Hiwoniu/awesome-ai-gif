@@ -1,0 +1,41 @@
+{
+  "id": "insp-416",
+  "title": "Felo：一个角色变社区九宫格反应贴纸 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://openapi.felo.ai/fa/model-cases/gpt-image-2-6/crypto-community-character-sticker-grid-gif",
+    "platform": "Felo API Platform",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 GPT Image 2.6 把一个像素小人 IP 做成九宫格反应贴纸（GM 喝咖啡、HODL 抱金币、To the Moon 坐火箭等），再转循环 GIF，用于 X/Telegram/Discord 社区。",
+  "why": "九宫格一次出整套社区反应贴纸的做法，情绪按社群场景设计（非通用开心难过），可借鉴选题思路。",
+  "borrow": [
+    "九宫格贴纸一次成套的生成法",
+    "按社群黑话设计情绪动作",
+    "同一角色跨 X/Telegram/Discord 复用的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "GPT-Image-2.6",
+    "九宫格贴纸",
+    "社区表情",
+    "Felo"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

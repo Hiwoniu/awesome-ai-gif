@@ -1,0 +1,42 @@
+{
+  "id": "insp-429",
+  "title": "Pixazo：如何用 AI 制作自定义 GIF，实用指南（2026）",
+  "type": "multi",
+  "source": {
+    "url": "https://www.pixazo.ai/blog/how-to-make-a-gif",
+    "platform": "Pixazo",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "系统讲解图转 GIF、文生 GIF、视频转 GIF 三种 AI 路线的指南，含视差、缩放、平移、粒子等动效选型与 2–4 秒循环时长建议。",
+  "why": "三种路线一次讲清，动效选型表与循环时长经验可直接用作项目的方法论参考。",
+  "borrow": [
+    "三种输入路线的分流与适用场景",
+    "视差、缩放、粒子等动效选型",
+    "2–4 秒循环时长经验",
+    "找自然循环点的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "教程",
+    "图生GIF",
+    "文生GIF",
+    "视频转GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

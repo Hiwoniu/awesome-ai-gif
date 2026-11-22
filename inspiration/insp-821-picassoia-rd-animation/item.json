@@ -1,0 +1,43 @@
+{
+  "id": "insp-821",
+  "title": "Picasso IA 的 Rd Animation：一句话出像素风行走循环与特效精灵表",
+  "type": "multi",
+  "source": {
+    "url": "https://picassoia.com/en/collection/text-to-image/retro-diffusion-rd-animation",
+    "platform": "Picasso IA",
+    "author": "Retro Diffusion（Picasso IA 收录）",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "一句话描述出像素风动画精灵：四方向行走循环、行走加待机、32×32 多状态小精灵、火焰爆炸闪电特效循环，可直接出循环 GIF 或精灵表 PNG。",
+  "why": "像素风循环是表情包和动态海报之外的另一条线：四种动画样式一次选定、固定种子可复现、参考图可锁角色风格，适合做小尺寸循环动效的起点。",
+  "borrow": [
+    "四种动画样式的分类法：四方向行走、行走加待机、32×32 多状态、特效循环",
+    "固定种子复现同一套帧的思路",
+    "参考图锁定角色风格再出帧的做法",
+    "GIF 与精灵表 PNG 双输出的交付组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "Commercial Use（页面标注生成内容可商用）",
+    "note": "页面已打开核实；示例角色为通用像素小人，无已知 IP"
+  },
+  "tags": [
+    "像素风",
+    "精灵表",
+    "行走循环",
+    "特效循环",
+    "Retro Diffusion"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

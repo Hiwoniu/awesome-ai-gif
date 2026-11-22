@@ -1,0 +1,41 @@
+{
+  "id": "insp-180",
+  "title": "Rainbrand：用品牌简报做动态邮件签名 GIF（MCP Skill）",
+  "type": "signatures",
+  "source": {
+    "url": "https://docs.rainbrand.com/use-cases/email-signature-gif",
+    "platform": "Rainbrand Docs",
+    "author": "Rainbrand",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "通过 MCP 接入的 Skill：编码 Agent 按品牌 Brief 做 600×200、约 11 秒循环的签名横幅，Headless Chrome 逐帧截图+FFmpeg 编码，成品 200–310 KB。",
+  "why": "“品牌资产→Brief→HTML 动画→逐帧渲染 GIF”的签名工作流；“文字用遮罩滑入、不用淡入淡出（GIF 会糊）”的渲染经验可直接复用。",
+  "borrow": [
+    "品牌资产→Brief→HTML 动画→逐帧渲染 GIF 的工作流",
+    "文字遮罩滑入、不用淡入淡出的 GIF 渲染经验",
+    "首帧即成品静帧的兜底做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "官方文档，引用注明出处",
+    "note": "附 Ramp、Supabase 概念示例"
+  },
+  "tags": [
+    "邮件签名",
+    "MCP",
+    "Skill",
+    "品牌"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

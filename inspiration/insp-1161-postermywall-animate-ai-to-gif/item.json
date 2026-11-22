@@ -1,0 +1,43 @@
+{
+  "id": "insp-1161",
+  "title": "PosterMyWall：已有海报逐元素加 AI 动效、再整版导出 GIF 的流程",
+  "type": "posters",
+  "source": {
+    "url": "https://www.postermywall.com/blog/2021/09/15/how-to-download-a-gif/",
+    "platform": "PosterMyWall",
+    "author": "PosterMyWall",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "在已有海报设计里逐个元素加 AI 动效（一段话描述动作），再把整版设计导出为 GIF；附无缝循环写法、导出规格与点数成本，原文 2026-11-16 更新。",
+  "why": "池里多是“从零生成 GIF”，这是“已有静态海报加动效”的另一条路；逐元素动效加整版导出 GIF 的分工对动态海报类型可直接借鉴。",
+  "borrow": [
+    "逐元素动效：先做好静态海报，再按元素分别写动作提示词，动效只加在需要动的局部",
+    "无缝循环三条：提示词里写明首尾衔接、只用重复性小动效、避开单向位移与出画动作",
+    "导出规格：8 秒动效片段、标准 GIF 最长 10 秒、最长边 1280px，720p/1080p 已够、4K 不划算",
+    "成本口径：按清晰度计点数、关掉音频省点数",
+    "GIF 适用场景清单：邮件、社媒、网站横幅、数字标牌"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "Animate with AI 需 Premium 或 Premium Plus 订阅并按点数计费；标准 GIF 导出有 10 秒与月度下载量限制。原文已打开核实。"
+  },
+  "tags": [
+    "动态海报",
+    "AI 动效",
+    "GIF 导出",
+    "无缝循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

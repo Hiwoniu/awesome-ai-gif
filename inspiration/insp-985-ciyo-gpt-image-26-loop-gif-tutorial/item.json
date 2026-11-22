@@ -1,0 +1,40 @@
+{
+  "id": "insp-985",
+  "title": "Ciyo：GPT Image 2.6 循环动图教程 — 热气球往返循环",
+  "type": "multi",
+  "source": {
+    "url": "https://ciyo.ai/zh/blog/gpt-image-2-6-gif-tutorial",
+    "platform": "Ciyo",
+    "author": "Ciyo 编辑部",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "热气球循环 GIF 教程：把返回动作写具体，九帧对照图与接缝检查法。",
+  "why": "“往返动作”提示词写法；“播放至少两次、只看接缝处”的验收方法。",
+  "borrow": [
+    "往返动作写法：去程 + 明确回程路线",
+    "接缝检查法：至少播两遍、只盯接缝",
+    "九帧对照图的呈现法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。"
+  },
+  "tags": [
+    "循环GIF",
+    "往返动作",
+    "验收"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

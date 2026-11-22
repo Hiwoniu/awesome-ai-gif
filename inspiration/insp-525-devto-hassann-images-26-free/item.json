@@ -1,0 +1,41 @@
+{
+  "id": "insp-525",
+  "title": "Dev.to：ChatGPT Images 2.6 免费档核查，精灵图兜底加 ffmpeg 命令",
+  "type": "multi",
+  "source": {
+    "url": "https://dev.to/hassann/how-to-use-chatgpt-images-26-for-free-160l",
+    "platform": "Dev.to",
+    "author": "hassann",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "核查 ChatGPT Images 2.6 免费档到底能用什么的指南，重点是 GIF 在免费档上是否可用，以及不可用时的精灵图兜底路线：6 帧 3×2 网格、无边框无分隔线、末帧接回首帧的完整提示词加 ffmpeg 切图合成命令。",
+  "why": "免费档 GIF 未确认、先花一条提示词实测的核查思路很实用；精灵图兜底的完整提示词加 ffmpeg 命令可以直接抄。",
+  "borrow": [
+    "免费档先实测再下结论的核查思路",
+    "精灵图兜底的完整提示词",
+    "ffmpeg 切图合成命令"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "核查日期 2026-11-05，免费档政策可能已变，以官方最新说明为准；仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "免费档",
+    "核查",
+    "精灵图兜底",
+    "ffmpeg"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

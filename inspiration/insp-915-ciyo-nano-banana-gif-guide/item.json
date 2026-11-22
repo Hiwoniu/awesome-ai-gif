@@ -1,0 +1,40 @@
+{
+  "id": "insp-915",
+  "title": "Ciyo：Nano Banana 能做 GIF 吗？单元素动效工作流",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://ciyo.ai/zh-TW/blog/can-nano-banana-make-gifs",
+    "platform": "Ciyo",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Nano Banana Pro 出静态底图、再让单一元素动起来的工作流，附 32 格 2 秒 GIF 实测与姿势时序分配。",
+  "why": "“先核准底图、只让一处动”的工作流很实用，姿势 A 800ms + B 400ms + 回 A 800ms 的时序分配法是池内少见的细节。",
+  "borrow": [
+    "先核准底图只让一处动",
+    "姿势时序分配法",
+    "32 格 2 秒实测参数"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Nano Banana",
+    "单元素动效",
+    "时序"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

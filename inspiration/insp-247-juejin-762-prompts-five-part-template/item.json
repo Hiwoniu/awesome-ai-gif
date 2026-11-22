@@ -1,0 +1,41 @@
+{
+  "id": "insp-247",
+  "title": "掘金：762 条 AI 生图提示词整理成五段式模板",
+  "type": "multi",
+  "source": {
+    "url": "https://juejin.cn/post/7705204446715936810",
+    "platform": "掘金",
+    "author": "掘金",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "762 条中文提示词开源仓库，归纳为五段式写法，附真实样张、单张成本与在线浏览站。",
+  "why": "提示词结构方法论本身可直接借鉴到 GIF 提示词设计，含小红书封面等中文文字排版实例。",
+  "borrow": [
+    "五段式提示词结构",
+    "中文文字引号标注法",
+    "改图先写“保持不变”",
+    "成本核算思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "提示词语料为通用生图方向，非 GIF 专属，借结构不抄条目"
+  },
+  "tags": [
+    "提示词",
+    "模板",
+    "语料"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

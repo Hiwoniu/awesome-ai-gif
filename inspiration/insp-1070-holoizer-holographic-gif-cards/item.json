@@ -1,0 +1,43 @@
+{
+  "id": "insp-1070",
+  "title": "holoizer：一张图出 48 帧全息 GIF 卡的 Python 工具",
+  "type": "cards",
+  "source": {
+    "url": "https://pypi.org/project/holoizer/",
+    "platform": "PyPI",
+    "author": "Debaditya Malakar",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-20 发布的 Python 包：pip 安装后一行命令把单张图或一整个文件夹转成循环全息 GIF 卡，48 帧透视循环、共享 256 色 GIF 调色板，支持批量与性能基准测试。",
+  "why": "直接命中光栅变画卡类型，是池里少见的开源可复现全息卡管线，48 帧/共享调色板是可直接抄的规格。",
+  "borrow": [
+    "48 帧透视循环规格",
+    "共享 256 色 GIF 调色板",
+    "全息卡批量管线",
+    "光栅卡动效结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实；0.1.2 版 2026-11-20 发布；GitHub 为 github.com/DebadityaMalakar/holoizer。"
+  },
+  "tags": [
+    "全息卡",
+    "光栅卡",
+    "开源工具",
+    "Python",
+    "48帧"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-626",
+  "title": "VIZ：情绪驱动的 ASCII 艺术 GIF 生成器",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/aaajiao/viz",
+    "platform": "GitHub",
+    "author": "aaajiao",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "纯 Python 加 Pillow 的 ASCII 艺术工具：用 VAD 情绪模型把 34 种命名情绪映射成画面参数，可输出 PNG/GIF/MP4，定位是给 AI 调用当渲染后端。",
+  "why": "情绪坐标驱动生成的玩法独特，适合借它的参数化思路做动态签名或氛围动图。",
+  "borrow": [
+    "VAD 情绪坐标映射",
+    "AI 决策加渲染后端分工",
+    "种子可复现生成"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": "开源工具，借思路与分工方式即可。"
+  },
+  "tags": [
+    "ASCII",
+    "开源",
+    "情绪驱动",
+    "GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-1053",
+  "title": "远见明察：GPT Image 2.6 做 GIF，再加一个 Skill 能玩到哪一步？",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.toutiao.com/article/7704726200232509994/",
+    "platform": "今日头条",
+    "author": "远见明察",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "DeepSeek、Gemini、GPT、Claude 四模型拟人各 9 种反应、拼成四张动态九宫格，用开源 sprite-gen 做分帧、去底色、动画导出与固定字幕九宫格排版。",
+  "why": "四角色九宫格是成套量产的新做法，sprite-gen 工作流具体可复现。",
+  "borrow": [
+    "九宫格排版工作流",
+    "分帧去底色导出流程",
+    "四角色九宫格量产法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "sprite-gen 仓库本身已在池中，本条收的是这篇教程文章与九宫格案例；子代理打开原文核实。"
+  },
+  "tags": [
+    "九宫格",
+    "sprite-gen",
+    "量产",
+    "今日头条"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

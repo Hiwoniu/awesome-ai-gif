@@ -1,0 +1,40 @@
+{
+  "id": "insp-548",
+  "title": "Instagram：PlayMoji 照片加舞蹈模板做 GIF，模板化动作库思路",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DPT-bjTAU9i",
+    "platform": "Instagram",
+    "author": "iSocialYou - AI and Social Media",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "演示 aigifgenerate.com（PlayMoji）：选一张照片加舞蹈、跳水等动画模板，点 Try Generate 出 GIF；模板化动作库对表情包量产有参考价值。",
+  "why": "选照片、选动画模板、生成 GIF 的工具工作流很简单：模板化动作库的思路可以直接借到表情包量产上。",
+  "borrow": [
+    "选照片加选模板加生成的工作流",
+    "模板化动作库的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "同内容另有 Facebook 跳水模板版，只收 Instagram 版；产品页本身因与本条同一项目未另收；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "PlayMoji",
+    "模板",
+    "Instagram",
+    "量产"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

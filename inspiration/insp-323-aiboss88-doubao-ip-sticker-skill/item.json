@@ -1,0 +1,41 @@
+{
+  "id": "insp-323",
+  "title": "AiBoss：豆包工作做 IP 形象与表情包教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.aiboss88.com/en/news/tutorial-1161209256-1792570095754-0",
+    "platform": "AiBoss",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用豆包工作安装 GitHub 上的 ip-as-logo-skill，从一句话生成原创 IP 头像，再基于同一形象衍生变体与打工人表情包，并把制作标准沉淀为自己的 sticker-pack Skill 复用。",
+  "why": "完整工作流（装 Skill→选方向→生成头像→衍生表情包→沉淀为 Skill），“把一次制作沉淀为可复用 Skill”的思路可直接借鉴；豆包工作+Skill 的组合与池内 ChatGPT/Codex 路线互补。",
+  "borrow": [
+    "IP 形象先行再扩表情包的顺序",
+    "角落探头构图保证小尺寸可辨识",
+    "把制作标准沉淀为 Skill 的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "文中表情包以静态延展为主，动态 GIF 部分较弱。"
+  },
+  "tags": [
+    "豆包",
+    "IP形象",
+    "Skill",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

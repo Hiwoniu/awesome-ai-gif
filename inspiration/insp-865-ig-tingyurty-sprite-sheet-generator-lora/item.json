@@ -1,0 +1,37 @@
+{
+  "id": "insp-865",
+  "title": "IG @tingyurty：精灵表生成器，LoRA 加动作参考 GIF 出 16 帧行走循环",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/p/DdXo9KIpo0b/",
+    "platform": "Instagram",
+    "author": "@tingyurty",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "精灵表生成器工具截图演示：加载 LoRA 角色、填正负提示词、上传一段动作参考 GIF，生成 16 帧同角色行走循环精灵表。",
+  "why": "LoRA 锁角色加动作参考 GIF 定动作，是角色一致性与动作可控两条线合一的路线，适合做行走循环这类标准动作。",
+  "borrow": [
+    "LoRA 锁角色的精灵表生成路线",
+    "上传动作参考 GIF 定动作的做法",
+    "16 帧行走循环的帧组织",
+    "正负提示词分工：正向定造型、反向排干扰"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "示例角色为明日方舟 IP，只借工具与方法，不借角色；未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["精灵表", "LoRA", "动作参考", "行走循环", "Instagram"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

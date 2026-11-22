@@ -1,0 +1,32 @@
+{
+  "id": "insp-1114",
+  "title": "Felo：原创水獭角色 8 张反应贴纸 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://openapi.felo.ai/model-cases/gpt-image-2-6/original-otter-eight-reaction-stickers-gif",
+    "platform": "Felo API Platform 模型案例",
+    "author": "Felo",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "用 GPT Image 2.6 生成的原创水獭角色 8 张反应表情 GIF 案例。",
+  "why": "同角色多情绪 GIF 成套实测，可对照角色一致性表现。",
+  "borrow": ["同角色 8 情绪的批量生成方式", "反应类表情的情绪清单", "角色一致性检查方法"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实。角色为原创水獭，无 IP 风险。"
+  },
+  "tags": ["GPT-Image-2.6", "反应表情", "角色一致性", "成套案例", "原创角色"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

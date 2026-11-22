@@ -1,0 +1,40 @@
+{
+  "id": "insp-1080",
+  "title": "Threads @0013.core：猴子灯笼循环 GIF 官方示例动作链 + API 参数",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@0013.core/post/DfY5sStji_E",
+    "platform": "Threads",
+    "author": "@0013.core",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-06 帖子：GPT Image 2.6 文档示例截图，猴子提灯笼“举起—看—眨眼—放回”的动作链提示词，参数 output_format=gif、512×512、9 帧、每帧 200ms、循环 1.8 秒。",
+  "why": "官方示例的动作链写法 + 可直接抄的帧参数。",
+  "borrow": [
+    "举起-看-眨眼-放回动作链提示词",
+    "9 帧×200ms=1.8 秒循环参数"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；这是官方文档截图，池内未收官方文档页本身。"
+  },
+  "tags": [
+    "Threads",
+    "官方示例",
+    "动作链",
+    "API 参数"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

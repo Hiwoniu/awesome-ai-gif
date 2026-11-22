@@ -1,0 +1,42 @@
+{
+  "id": "insp-472",
+  "title": "Instagram：Nano Banana 2.6 精灵图浣熊挥手，循环锁定规则",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfhausaM8zp/",
+    "platform": "Instagram",
+    "author": "Dario Vela",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "明确给出可复用的规则：6 帧 3×2 网格、角色完全一致、只改微小动作、末帧自然接回首帧。",
+  "why": "规则写得最干净的一条：只改微小动作加末帧接回首帧，还展示多角色同法复用。",
+  "borrow": [
+    "6 帧 3×2 网格的固定写法",
+    "只改微小动作的约束",
+    "末帧接回首帧的循环规则",
+    "多角色同法复用的组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "sprite-sheet",
+    "Nano-Banana",
+    "循环锁定",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

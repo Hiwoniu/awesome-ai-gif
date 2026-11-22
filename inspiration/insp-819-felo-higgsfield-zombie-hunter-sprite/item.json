@@ -1,0 +1,36 @@
+{
+  "id": "insp-819",
+  "title": "Felo 转述 @higgsfield_ai：像素风僵尸猎人游戏，一张参考图出 GIF 精灵表",
+  "type": "multi",
+  "source": {
+    "url": "https://openapi.felo.ai/model-cases/gpt-image-2-6/zombie-hunter-reference-to-gif-game",
+    "platform": "Felo（转述 X @higgsfield_ai）",
+    "author": "@higgsfield_ai",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "一张参考照片生成 GPT Image 2.6 GIF 精灵表，做成像素风横版打僵尸游戏演示，角色动作均出自同一套精灵表。",
+  "why": "一张参考图锁定整套游戏精灵表的做法，可作角色一致性压力测试的对照：像素风小人加多动作仍保持同一画风。",
+  "borrow": [
+    "一张参考图出整套像素风游戏精灵表的做法",
+    "横版动作游戏的 GIF 素材组织：角色、动作、场景分表",
+    "精灵表批量生成的画风一致性验证思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未找到直达 x.com 原帖链接，以 Felo 转述页收录；转述页已打开核实，原帖未打开核实，仅凭页面与搜索摘要收录。"
+  },
+  "tags": ["GPT Image 2.6", "sprite sheet", "像素风", "游戏", "X"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

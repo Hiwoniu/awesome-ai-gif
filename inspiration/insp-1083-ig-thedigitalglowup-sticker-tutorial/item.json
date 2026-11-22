@@ -1,0 +1,40 @@
+{
+  "id": "insp-1083",
+  "title": "IG @thedigitalglowup.co：九页教程，把自己的脸做成 AI 贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/p/DemplwflC4R/",
+    "platform": "Instagram",
+    "author": "@thedigitalglowup.co",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-10-17 帖子：9 页轮播教程，传清晰自拍 → 定氛围（粉白、可爱、富有表现力、透明底）→ 加口头禅短语 → IG Stories 用 Stickers > Cutouts 保存使用，还讲了品牌用途。",
+  "why": "从生成到实际使用的链路完整，且有“口头禅短语”这个贴纸包特有的提示词要素。",
+  "borrow": [
+    "自拍+氛围+口头禅的贴纸提示词结构",
+    "IG Cutouts 落地用法"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；用的是作者本人照片，只借提示词结构与落地用法。"
+  },
+  "tags": [
+    "Instagram",
+    "贴纸",
+    "教程",
+    "口头禅"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

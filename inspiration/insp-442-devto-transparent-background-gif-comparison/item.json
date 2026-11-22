@@ -1,0 +1,41 @@
+{
+  "id": "insp-442",
+  "title": "DEV：透明背景 AI GIF 生成器的工程横评",
+  "type": "multi",
+  "source": {
+    "url": "https://dev.to/helo2026/best-ai-gif-generators-with-transparent-background-2026-engineering-comparison-3hol",
+    "platform": "DEV",
+    "author": "helo2026",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "四种透明背景 AI GIF 工作流的工程对比，涉及原生 RGBA 精灵网格、Ezgif、Runway 抠像等路线。",
+  "why": "透明底是表情包与贴纸的关键需求，文章给了原生透明与后期抠像的取舍与具体管线。",
+  "borrow": [
+    "原生 RGBA 精灵网格管线",
+    "透明 GIF 与后期抠像的取舍",
+    "按用途选工具的对照表"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "透明背景",
+    "RGBA",
+    "精灵网格",
+    "工程横评"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

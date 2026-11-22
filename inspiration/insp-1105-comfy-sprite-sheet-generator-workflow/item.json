@@ -1,0 +1,32 @@
+{
+  "id": "insp-1105",
+  "title": "Comfy 官方工作流库：Nano Banana Pro 精灵表生成器",
+  "type": "multi",
+  "source": {
+    "url": "https://comfy.org/zh-CN/hub/workflows/sprite-sheet-generator-fe5600667e2c/",
+    "platform": "Comfy 官方工作流库",
+    "author": "Rob",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Nano Banana Pro 精灵表生成工作流，附完整 4 帧像素行走循环提示词（2×2 网格、#00FF00 纯绿幕背景、逐帧腿部姿态描述）及待机呼吸版变体。",
+  "why": "4 帧行走循环精灵表提示词模板可直接复用，绿幕抠像的硬性约束写法值得借。",
+  "borrow": ["4 帧行走循环精灵表提示词模板", "绿幕抠像的硬性约束写法", "待机呼吸版变体的做法"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录；只借提示词结构，不抄提示词原文"
+  },
+  "tags": ["ComfyUI", "精灵表", "Nano Banana Pro", "工作流"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

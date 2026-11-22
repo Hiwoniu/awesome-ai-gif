@@ -1,0 +1,41 @@
+{
+  "id": "insp-238",
+  "title": "spritefx：Claude 写 JSON 规格的像素特效引擎",
+  "type": "multi",
+  "source": {
+    "url": "https://dev.to/hoanglong256/i-built-an-ai-tool-that-lets-you-generate-pixel-art-vfx-458p",
+    "platform": "DEV",
+    "author": "HoangLong256",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "开源 MIT 的像素特效引擎，以 Claude Code Skill 形态存在：Claude 写 JSON 规格，引擎渲染并自检修正，输出游戏可用的精灵条与帧时 JSON。",
+  "why": "Claude 不画像素、只写规格再由引擎校验修正的分工很值得借，输出直通 Godot、Unity、GameMaker。",
+  "borrow": [
+    "JSON 规格描述特效（阶段与图层）",
+    "渲染后自动审图再修正的闭环",
+    "单行精灵条 + Aseprite 风格 JSON 的交付"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": ""
+  },
+  "tags": [
+    "像素风",
+    "特效",
+    "Skill",
+    "JSON"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

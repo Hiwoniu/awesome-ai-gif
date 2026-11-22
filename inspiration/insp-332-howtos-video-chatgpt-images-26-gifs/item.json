@@ -1,0 +1,39 @@
+{
+  "id": "insp-332",
+  "title": "Howtos.video：ChatGPT Images 2.6 做 GIF 三类做法",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://howtos.video/how-to/make-animated-gifs-with-chatgpt-images-2-6",
+    "platform": "Howtos.video",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "3 分 53 秒视频教程的文字版，覆盖吉祥物、产品循环、贴纸包三类做法。",
+  "why": "按“一次做一小套（吉祥物+产品循环+配套贴纸）保持风格统一”的成套思路讲，适合借鉴做系列。",
+  "borrow": [
+    "同角色多物料成套产出的组织方式",
+    "产品旋转循环的构图"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "教程",
+    "成套",
+    "吉祥物"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

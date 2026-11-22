@@ -1,0 +1,43 @@
+{
+  "id": "insp-669",
+  "title": "SpriteCook：四视图正交模型表做假 3D 像素堆叠动画",
+  "type": "multi",
+  "source": {
+    "url": "https://www.spritecook.ai/blog/sprite-stacking-pixel-art",
+    "platform": "SpriteCook 博客",
+    "author": "SpriteCook",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 Nano Banana Pro 一次生成俯视/侧视/正视/后视四张正交视图，再用附带的 Python 脚本切成 15 张 1px 间隔的切片，逐层旋转实现任意角度的假 3D 像素车，附完整提示词、切片代码与浏览器版生成器。",
+  "why": "池里没有过的假 3D 路线：一次生成四视图正交模型表（2×2 网格、严格正交、无透视、同比例）的提示词结构，行列对应切片的切法（侧视图每行即一层），以及 0.75 压扁模拟斜视相机的参数。",
+  "borrow": [
+    "四视图正交模型表的提示词结构：2×2 网格+方位+同比例+无透视",
+    "侧视图行转切片的切法与取色规则",
+    "逐层同角旋转做任意角度",
+    "0.75 压扁模拟斜视相机",
+    "1px 粗轮廓+纯色填充防糊边"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例为一辆蓝色赛车，只借四视图提示词结构与切片思路。"
+  },
+  "tags": [
+    "multi",
+    "pixel-art",
+    "sprite-stacking",
+    "Nano Banana Pro"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

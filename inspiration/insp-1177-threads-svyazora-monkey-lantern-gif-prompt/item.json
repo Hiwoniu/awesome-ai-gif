@@ -1,0 +1,38 @@
+{
+  "id": "insp-1177",
+  "title": "Threads @svyazora：小猴子雪夜提灯完整循环提示词",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@svyazora/post/DfZRQ-dDBFS",
+    "platform": "Threads",
+    "author": "@svyazora",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "官方文档截图：完整循环 GIF 提示词，小猴子雪夜提灯、举灯仰头眨眼再放下、镜头静止。",
+  "why": "一条完整的循环 GIF 提示词实例，动作分解与镜头固定都写全了。",
+  "borrow": [
+    "完整循环 GIF 提示词结构：场景+动作分解+眨眼微动+镜头静止+首尾接回"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；同类官方文档截图池内已有两条，此为新实例。"
+  },
+  "tags": [
+    "Threads",
+    "提示词实例",
+    "官方文档截图"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

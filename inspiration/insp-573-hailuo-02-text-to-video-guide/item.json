@@ -1,0 +1,42 @@
+{
+  "id": "insp-573",
+  "title": "iaifeed：MiniMax Hailuo 02 文生视频指南，提示词结构与生产循环",
+  "type": "unknown",
+  "source": {
+    "url": "https://www.iaifeed.com/how-to-generate-video-with-minimax-hailuo-02-from-text",
+    "platform": "iaifeed",
+    "author": "iaifeed",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Hailuo 02 实测向指南：6/10 秒、768p/1080p、24fps、无音频；提示词公式为主体→动作→环境→镜头→光线→风格，每段一小句；生产循环为三版提示词各换运镜、低分辨率验证、留最好构图再放大；约三渲一可用。",
+  "why": "“三版提示词各换运镜、低分辨率验证再放大”的生产纪律，可直接套用到批量出 GIF 的流程。",
+  "borrow": [
+    "六段式提示词公式，每段一小句、不用长诗化描述",
+    "三版提示词并行试运镜的 A/B 思路",
+    "低分辨率验证、好构图再放大的成本控制法",
+    "约三渲一可用的良率预期与预算规划"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；产出为视频而非 GIF，收的是提示词公式与生产纪律。"
+  },
+  "tags": [
+    "Hailuo-02",
+    "提示词",
+    "生产流程",
+    "实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

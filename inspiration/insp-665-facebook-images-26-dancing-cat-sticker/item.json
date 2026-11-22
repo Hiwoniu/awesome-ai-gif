@@ -1,0 +1,41 @@
+{
+  "id": "insp-665",
+  "title": "Facebook：Images 2.6 文字/照片双入口做跳舞猫与自拍贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/1259286446419856/",
+    "platform": "Facebook",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-05 的宣传式教程：ChatGPT Images 2.6 做自定义 GIF 贴纸，演示文字提示生成穿衣跳舞的猫，再演示上传个人照片、指定场景+动作+文字生成个人动态贴纸，可调播放速度、可下载分享。",
+  "why": "文字生 GIF 与照片生 GIF 两种入口同框演示，含播放速度调节这一导出细节。",
+  "borrow": [
+    "文字/照片双入口",
+    "场景+动作+文字三要素写法",
+    "播放速度调节",
+    "猫跳舞类轻量动效题材"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。演示用真人照片，只借双入口流程。"
+  },
+  "tags": [
+    "wechat-stickers",
+    "ChatGPT",
+    "Images 2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

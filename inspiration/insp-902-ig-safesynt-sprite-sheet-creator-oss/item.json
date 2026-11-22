@@ -1,0 +1,40 @@
+{
+  "id": "insp-902",
+  "title": "Instagram @safesynt：开源 Sprite Sheet Creator，文字提示词出像素精灵表",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DbUJiTmiIRA/",
+    "platform": "Instagram",
+    "author": "@safesynt",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "介绍开源 GitHub 项目 Sprite Sheet Creator（1.5k stars）：输入文字提示词生成完整像素风游戏精灵表，视频带 README 演示。",
+  "why": "文生精灵表的开源实现，与提示词模板互补。",
+  "borrow": [
+    "文生像素精灵表",
+    "开源 README 演示",
+    "游戏向规格"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；2026 年 7 月帖子"
+  },
+  "tags": [
+    "开源",
+    "文生精灵表",
+    "像素风"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

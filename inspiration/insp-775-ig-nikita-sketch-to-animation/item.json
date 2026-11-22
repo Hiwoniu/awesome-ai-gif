@@ -1,0 +1,39 @@
+{
+  "id": "insp-775",
+  "title": "Instagram @nikita：线条草图 30 秒变动画",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfayESshewm/",
+    "platform": "Instagram",
+    "author": "nikita",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "线条骷髅草图 30 秒变动画的演示，含猫头鹰眨眼示例。",
+  "why": "草图直出动画的极简路径与猫头鹰眨眼微动可作草图转动效参考。",
+  "borrow": [
+    "草图直出动画：线条草图加一句提示变动画",
+    "猫头鹰眨眼的微动做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "草图",
+    "微动"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

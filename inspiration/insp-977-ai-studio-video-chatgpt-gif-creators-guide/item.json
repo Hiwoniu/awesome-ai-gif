@@ -1,0 +1,43 @@
+{
+  "id": "insp-977",
+  "title": "AI Studio：ChatGPT GIFs with GPT Image 2.6 — 创作者实例与循环提示词指南",
+  "type": "multi",
+  "source": {
+    "url": "https://ai-studio.video/blog/chatgpt-gpt-image-2-6-gifs-for-creators",
+    "platform": "AI Studio",
+    "author": "",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "汇总 Images 2.6 首日创作者 GIF 实例，提炼三条循环提示词规则、API 参数与失败模式。",
+  "why": "三条规则加 API 参数表加实测失败模式，是目前最系统的循环 GIF 提示词总结。",
+  "borrow": [
+    "锁机位写法（固定机位/三脚架/静态背景）",
+    "可逆或振荡动作选法：蒸汽、挥手、点头、原地踏步",
+    "风格化画风容错思路：黏土、像素、扁平矢量比写实更耐低帧率",
+    "API 参数：output_format=gif、frame_count 2–64、frame_duration_ms 20–2000",
+    "失败模式清单：不写动作会出静帧、接缝明显、写实人像易崩"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实；文中引用的 X 创作者 GIF 示例只借方法，不复用其画面。"
+  },
+  "tags": [
+    "GPT-Image-2.6",
+    "循环GIF",
+    "提示词结构",
+    "API"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

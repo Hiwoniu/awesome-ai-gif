@@ -1,0 +1,39 @@
+{
+  "id": "insp-231",
+  "title": "Threads @airadar.live：GPT Image GIFs 工具发现",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@airadar.live/post/DfqohUbCjOj",
+    "platform": "Threads",
+    "author": "@airadar.live",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "截图介绍新工具 GPT Image GIFs（基于 GPT Image 2.6 Flare / Sunburst）：文字或图片起手，可选风格（3D 黏土、像素、插画、电影感）、帧数与速度。",
+  "why": "本轮唯一经 Threads 发现的新 GIF 工具，界面参数（风格/质量/尺寸/帧数/速度）齐全，可作为工具收录。",
+  "borrow": [
+    "风格预设 + 帧数/速度参数的工具界面设计",
+    "Flare 快线 / Sunburst 画质线的模型分工说法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录"
+  },
+  "tags": [
+    "Threads",
+    "工具",
+    "GPT-Image-2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

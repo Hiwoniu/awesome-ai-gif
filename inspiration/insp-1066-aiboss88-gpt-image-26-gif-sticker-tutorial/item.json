@@ -1,0 +1,43 @@
+{
+  "id": "insp-1066",
+  "title": "AiBoss：ChatGPT Images 2.6 一键生成 GIF 表情包完整教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.aiboss88.com/en/news/tutorial-852597574-1794730091251-0",
+    "platform": "AiBoss",
+    "author": "AiBoss",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-15 发布的完整教程：从零做表情包到上架微信的全流程，一句话生成、结合 ray-sticker-shop Skill 成套出图、参考 GIF 换主角二创。",
+  "why": "全流程完整：单张提示词结构、Skill 成套出图、参考 GIF 换主角、微信 240×240／500KB 上架规格，三个环节都能直接借。",
+  "borrow": [
+    "一句话提示词结构（角色参考＋动作过程＋约束＋输出规格）",
+    "ray-sticker-shop Skill 成套出图的用法",
+    "参考 GIF 换主角的做法（动作取参考、外观取角色图）",
+    "动作聚焦、忌贪大动作的经验"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。文中角色为作者自有形象，只借提示词结构与上架流程，不照搬角色与文案。"
+  },
+  "tags": [
+    "ChatGPT Images 2.6",
+    "微信表情包",
+    "教程",
+    "Skill",
+    "上架"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

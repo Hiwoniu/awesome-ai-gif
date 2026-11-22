@@ -1,0 +1,39 @@
+{
+  "id": "insp-825",
+  "title": "Skillselion：Claude 做 GIF 的 Skill 选型对照指南",
+  "type": "multi",
+  "source": {
+    "url": "https://skillselion.com/guides/how-to-make-gifs-with-claude-code",
+    "platform": "Skillselion",
+    "author": "Skillselion",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Claude 做 GIF 的 Skill 选型对照指南：按安装量与星标对比 slack-gif-creator、gif-sticker-maker、mermaid-to-gif、claude-gif-generate 等，并注明各自适用场景。",
+  "why": "按安装量与星标做的 Skill 选型对照表写法可直接套用，避免逐个试 Skill。",
+  "borrow": [
+    "Claude GIF Skill 选型对照表：安装量加星标加适用场景",
+    "流程图变动效与 Veo 循环提示词两类非贴纸 GIF 路线"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Claude",
+    "Skill选型",
+    "指南"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-897",
+  "title": "星极社：不用视频工具，把一张草图变成会动的 GIF",
+  "type": "posters",
+  "source": {
+    "url": "https://shop.xingjishe.com/news/zh/77ee41ea61dd9c107cf8/",
+    "platform": "星极社 AI 动态",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "按官方公告整理的七步流程：定用途、草图定起点、六格分镜图（3 列 2 行）、动作拆小步、先快后精、定点改图、循环检查导出，附 Flare/Sunburst 档位取舍。",
+  "why": "一张六格分镜图代替一段视频的方法论讲得最干净，附官方示例提示结构。",
+  "borrow": [
+    "六格分镜七步流程",
+    "动作拆小步写法",
+    "先快后精档位策略",
+    "只改一个变量"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "草图",
+    "六格分镜",
+    "动态海报"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-508",
+  "title": "ClipDance：Seedance 2.0 首尾帧中间帧技法，关键帧链串起长动画",
+  "type": "multi",
+  "source": {
+    "url": "https://clipdance.ai/blog/seedance-2-inbetween-technique",
+    "platform": "ClipDance",
+    "author": "ClipDance",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Seedance 2.0 首尾帧中间帧技法教程：先定首帧与末帧，让模型补中间运动，再把末帧接力成下一段首帧串成 79 秒复古动漫；含五段式过渡提示词（桥接两帧、动作、镜头、连续性锁定、音频）与关键帧链 A→B→C→D。",
+  "why": "首尾帧锚点加关键帧链的长循环与多段动画结构法很实用：多段循环可以一段一段接力，而不是一次生成到底。",
+  "borrow": [
+    "首尾帧锚点加关键帧链的结构法",
+    "五段式过渡提示词",
+    "末帧接力成下一段首帧的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；示例为 79 秒复古动漫长片，方法迁移到短循环。"
+  },
+  "tags": [
+    "Seedance",
+    "首尾帧",
+    "关键帧链",
+    "长动画"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

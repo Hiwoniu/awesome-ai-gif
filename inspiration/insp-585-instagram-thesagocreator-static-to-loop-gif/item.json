@@ -1,0 +1,42 @@
+{
+  "id": "insp-585",
+  "title": "Instagram：@thesagocreator，静图变循环 GIF 的风格 + 时长参数化教程",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/p/DfbngmhE3HF/",
+    "platform": "Instagram",
+    "author": "@thesagocreator",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "五页图文教程：把静态插画变成循环 GIF，步骤为上传图片、选风格（闪烁、弹跳、淡入、慢缩放）、指定动什么、设循环时长与速度（3～10 秒）、生成下载；附静图与动图左右对比。",
+  "why": "把“动什么 + 怎么动 + 多长”拆成可选参数，是做系列动图的通用脚手架，静图对比也方便验收。",
+  "borrow": [
+    "动效风格菜单化（闪烁/弹跳/淡入/慢缩放），同一角色可批量出多款",
+    "循环时长 3～10 秒可调，按微信表情包节奏选",
+    "静图 vs 动图并排对比的呈现方式",
+    "只动局部元素、主体不动的省力做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "静图转动图",
+    "动效参数",
+    "循环时长",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "insp-352",
+  "title": "MEFMobile：2026 年 22 款 AI GIF 工具横评",
+  "type": "multi",
+  "source": {
+    "url": "https://mefmobile.org/best/ai-gif-makers/",
+    "platform": "mefmobile.org",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "22 款 AI GIF 工具的横评，含免费计划、模板、导出水印等维度，Hotshot-XL 列为开源自托管选项。",
+  "why": "一次看到 22 款工具的对比口径（输入类型、模板、最大长度、水印），可作后续挖工具的清单来源。",
+  "borrow": [
+    "横评维度设计",
+    "开源自托管工具的单独标注"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "为横评汇总页，非单一案例，价值在工具清单与对比口径。"
+  },
+  "tags": [
+    "横评",
+    "工具清单"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

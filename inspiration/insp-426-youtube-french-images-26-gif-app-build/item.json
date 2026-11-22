@@ -1,0 +1,42 @@
+{
+  "id": "insp-426",
+  "title": "YouTube 法语教程：OpenAI Images 2.6 与自建 GIF 应用",
+  "type": "multi",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=Vip-OQAJWxU",
+    "platform": "YouTube",
+    "author": "未知（法语频道）",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "法语实测 Images 2.6 新功能，并用 Claude Code 从零搭建本地应用：读表格、自动生成缩略图与 LinkedIn 用 GIF。",
+  "why": "从“会做一张 GIF”延伸到“批量自动化生产”的思路，含存参考图、逐帧修图、实测出图速度等硬核内容。",
+  "borrow": [
+    "存参考图复用角色的方法",
+    "逐帧定位修改的编辑思路",
+    "五段式完整请求结构",
+    "GIF 用于 LinkedIn 的落点"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开页面核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "YouTube",
+    "法语",
+    "自动化",
+    "Claude-Code"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

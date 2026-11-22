@@ -1,0 +1,40 @@
+{
+  "id": "insp-353",
+  "title": "CMU 课程：光栅动画作业（10 帧循环规格）",
+  "type": "cards",
+  "source": {
+    "url": "https://ems.andrew.cmu.edu/2014/assignments/project-1/lenticular-animation/index.html",
+    "platform": "卡内基梅隆大学课程页",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "2014 年课程作业，要求用代码生成 10 帧内循环动画，同时出高清 GIF 与 GIFPOP 光栅打印版，附 GIFPOP 的制作建议。",
+  "why": "给出光栅卡的硬规格（1500×1500、≤10 帧、单调色板 256 色、10 帧循环无接缝），是 GIF→实体卡的经典参考。",
+  "borrow": [
+    "10 帧循环的规格",
+    "光栅打印的帧间重影提醒",
+    "GIF 与实体卡同源产出的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "光栅卡",
+    "课程",
+    "规格"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-492",
+  "title": "Instagram：珊瑚红怪物吉祥物挥手，6 帧 3×2 精灵图提示词屏录",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfXanHOgmcq",
+    "platform": "Instagram",
+    "author": "nishantchahar.ai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "屏录展示向 ChatGPT 要 6 帧 3×2 循环动画精灵图的全过程：同一角色机位背景、尾帧接回首帧，主角为原创珊瑚红怪物。",
+  "why": "吉祥物挥手这个最小动作讲得很干净：提示词屏录结构完整，适合当教学参考。",
+  "borrow": [
+    "吉祥物挥手最小动作的写法",
+    "提示词屏录的演示结构",
+    "同一角色机位背景的约束"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "手法与池内 6 帧 3×2 家族接近，差异在角色与演示；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "sprite-sheet",
+    "吉祥物",
+    "挥手",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

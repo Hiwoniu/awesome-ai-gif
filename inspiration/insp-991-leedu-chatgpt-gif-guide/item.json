@@ -1,0 +1,29 @@
+{
+  "id": "insp-991",
+  "title": "leedu：ChatGPT 怎么做 GIF 动图，进度环与铃铛两组提示词",
+  "type": "multi",
+  "source": {
+    "url": "https://leedu.ac.cn/article/chatgpt-images-gif-guide/",
+    "platform": "leedu.ac.cn",
+    "author": "leedu.ac.cn",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "两组可复制提示词（进度环旋转/铃铛摇摆）+调速、修改、下载全流程+静态图/不循环/平台不播放的三类排错表。",
+  "why": "排错表实用；“调速只改每帧时长不重画、改内容会整段重生成”的区别值得记。",
+  "borrow": [
+    "进度环/铃铛两组“只动一处”的极简提示词",
+    "参考图 @名字复用的做法",
+    "下载后本地复查两轮的验收流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["ChatGPT", "教程", "排错"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-21", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

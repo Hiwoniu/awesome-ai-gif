@@ -1,0 +1,38 @@
+{
+  "id": "insp-1150",
+  "title": "Lottie AI：文字提示词出可编辑矢量动画，可导 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.producthunt.com/products/lottiefiles/launches/lottie-ai",
+    "platform": "Product Hunt",
+    "author": "LottieFiles",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "LottieFiles 2026 年 11 月 10 日上线的 Lottie AI：用文字提示词生成可编辑的矢量动画，不用重新生成就能改色、改样式、改尺寸、加悬停与点击交互，可导出 dotLottie、JSON、GIF、视频。",
+  "why": "池里多是逐帧位图的生图路线，这条补了矢量动画路线：生成的是可编辑的矢量而非一帧帧画出来的位图，改色改尺寸不用重生成，导出 GIF 只是其中一种格式；对需要反复改字改色的动态海报、表情尤其有用。",
+  "borrow": [
+    "文字提示词直接出矢量动画的路线：先有可编辑的动画，再选导出格式",
+    "生成后可改色、改样式、改尺寸而不重生成的编辑思路",
+    "Turbo 快速出想法、Quality 精修的两档模式",
+    "用提示词加悬停与点击交互的写法",
+    "矢量动画导 GIF 的出口选择：同一份动画可出 GIF、视频、dotLottie"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开 Product Hunt 上线页核实上线时间与功能描述；未体验产品本体，导出 GIF 的具体表现以实测为准。只借矢量动画路线与编辑思路。"
+  },
+  "tags": ["Lottie", "矢量动画", "动态海报", "Product Hunt", "文字生成"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

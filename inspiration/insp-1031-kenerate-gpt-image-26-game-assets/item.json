@@ -1,0 +1,43 @@
+{
+  "id": "insp-1031",
+  "title": "Kenerate AI：GPT Image 2.6 做游戏素材——精灵表与图标实测",
+  "type": "multi",
+  "source": {
+    "url": "https://kenerateai.com/blogs/gpt-image-2-6-game-assets",
+    "platform": "Kenerate AI 博客",
+    "author": "Kenerate AI",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "实测 6 帧像素骑士行走循环、4×4 RPG 图标表、三姿势吉祥物角色表，附提示词结构、帧时长与失败点。",
+  "why": "精灵表提示词写法最具体的实测之一：帧数加网格加阅读顺序加逐帧姿势加锁定项一次讲清。",
+  "borrow": [
+    "“One image containing…”开头防模型只出一帧",
+    "3×2 用 16:9、4×4 用 1:1 的画幅对照",
+    "逐帧姿势清单写法：接触、下压、经过、抬起",
+    "先出角色表再当参考图的锁形法",
+    "120–180ms 帧时长实测值"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例骑士、图标、机器人吉祥物只借结构，不照搬角色。"
+  },
+  "tags": [
+    "精灵表",
+    "游戏素材",
+    "GPT Image 2.6",
+    "实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

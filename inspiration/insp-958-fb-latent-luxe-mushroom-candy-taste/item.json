@@ -1,0 +1,32 @@
+{
+  "id": "insp-958",
+  "title": "FB Latent Luxe：豆包蘑菇尝糖三段式，酸苦甜配表情字幕",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/1654145003103711/",
+    "platform": "Facebook",
+    "author": "Latent Luxe",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "豆包生成的短动画：毛茸茸蘑菇角色依次尝三种糖果，酸、苦、甜各配一句字幕与一个表情，最后把甜的递给观众。",
+  "why": "三段式品尝结构很适合做表情包：一味一表情一字幕，节奏清楚，结尾递出的动作自带互动感。",
+  "borrow": ["三段品尝结构：酸→苦→甜，情绪递进", "一味一字幕：字幕只写味觉词，配夸张表情", "结尾递出动作：把喜欢的东西递向观众", "小体量原创角色的造型参考：毛茸茸蘑菇"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。原帖为视频形态，只借三段式结构与字幕做法，不复用其角色与画面。"
+  },
+  "tags": ["豆包", "品尝", "字幕", "三段式"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

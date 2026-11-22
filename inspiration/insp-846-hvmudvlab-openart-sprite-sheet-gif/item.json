@@ -1,0 +1,43 @@
+{
+  "id": "insp-846",
+  "title": "IG @hvmudvlab：绕过 OpenArt 内置 GIF 按钮，用 3×2 精灵表拼出 988px 循环 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dfvkj0YCAgj/",
+    "platform": "Instagram",
+    "author": "@hvmudvlab",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "一段短视频教程：不用 OpenArt 自带的 GIF 按钮（只出 224px），改用 GPT Image 2.6 生成 3×2 六帧精灵表，切分后用免费 GIF 工具组装，得到 988px 的高清循环 GIF，一句话一个 GIF 共展示 8 例。",
+  "why": "给出了绕开平台内置低分辨率 GIF 出口的具体替代路线，并有 224px 与 988px 的实测尺寸对照，精灵表法在大尺寸循环 GIF 上可复用。",
+  "borrow": [
+    "跳过内置 GIF 按钮、改走精灵表再组装的路线选择",
+    "3×2 六帧精灵表结构：第 6 帧接回第 1 帧保证无缝循环",
+    "切分后用免费 GIF 工具组装、把成品放大到 988px 的做法",
+    "一提示词一 GIF、8 例并排对照的展示结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；视频中的 8 个示例角色未收录其画面；完整提示词需在原帖评论区索取，未收入本条。"
+  },
+  "tags": [
+    "OpenArt",
+    "GPT-Image-2.6",
+    "sprite-sheet",
+    "looping-GIF",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

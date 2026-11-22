@@ -1,0 +1,41 @@
+{
+  "id": "insp-841",
+  "title": "Product Hunt GIF Labs：浏览器本地 GIF 制作与 AI 循环 GIF 生成器",
+  "type": "multi",
+  "source": {
+    "url": "https://www.producthunt.com/products/gif-labs",
+    "platform": "Product Hunt",
+    "author": "GIF Labs",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Product Hunt 上的 GIF Labs：浏览器内本地制作、转换、压缩与加字幕的 GIF 工具箱，文件不上传服务器；另有按描述或静帧生成循环 GIF 的 AI 功能，按次买积分、无订阅。",
+  "why": "本地处理不上传的产品形态与“描述动作或加一张静帧出循环 GIF”的 AI 入口，是工具类 GIF 产品可借的组织方式。",
+  "borrow": [
+    "浏览器本地处理 GIF、不上传服务器的产品形态",
+    "本地工具免费、AI 生成按次买积分的组织方式",
+    "描述动作或加一张静帧生成循环 GIF 的 AI 入口"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "GIF Labs",
+    "Product Hunt",
+    "GIF工具",
+    "浏览器本地"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

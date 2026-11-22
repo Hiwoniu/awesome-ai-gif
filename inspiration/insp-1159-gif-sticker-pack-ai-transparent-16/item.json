@@ -1,0 +1,44 @@
+{
+  "id": "insp-1159",
+  "title": "GIF Sticker Pack AI：一个角色一次出 16 姿势透明图集，浏览器切图加字加动效成套导出",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://gif-sticker-pack-ai.bgnwd15.workers.dev/",
+    "platform": "GIF Sticker Pack AI",
+    "author": "GIF Sticker Pack AI",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "上传自有角色，一次调用画 16 个姿势的透明 4×4 图集，浏览器按检测到的分隔切图、加描边字幕与 16 种动效预设，导出 320×320 透明循环 GIF，整包 ZIP 交付。",
+  "why": "AI 只画无字姿势、文字与动效全放浏览器做的分工很聪明，绕开了模型写错字的问题；透明 GIF 的调色板与帧处理参数也写明了，可直接复用。",
+  "borrow": [
+    "无字图集加浏览器加字加动效的分工：模型只管姿势一致，文字清晰度与可编辑性留在浏览器",
+    "16 姿势一次调用保角色一致：同一调用内画完 4×4 图集，再按分隔切图",
+    "动效预设参数：24 帧 80ms，点头、跳跃、摇摆、颤抖等 16 种小动效",
+    "透明 GIF 编码参数：共享调色板加透明索引、帧处理用 restore-to-background、无限循环，深浅聊天背景都干净",
+    "整包 ZIP 交付形式：GIF 文件夹加离线预览页加图集，打包一次给全"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "站点声明只接受自有或已授权角色，不接受他人版权角色与未经同意的真人照片；绘图模型为 GPT Images 2.6 Flare，经 TryAllAPI 调用；16 张套装免费但有每日限额；微信上架仍需走平台审核，不保证通过。"
+  },
+  "tags": [
+    "微信表情包",
+    "透明 GIF",
+    "16 张套装",
+    "浏览器合成",
+    "动效预设"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-736",
+  "title": "Substack TITAA #73：Nano Banana Pro 做 4×4 精灵表实测",
+  "type": "multi",
+  "source": {
+    "url": "https://arnicas.substack.com/p/titaa-73-animated-sprites-after-eating",
+    "platform": "Substack",
+    "author": "Lynn Cherny",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Nano Banana Pro 做 4×4 精灵表实测，附精灵提示技巧与 sprite-animator 小工具",
+  "why": "4×4 网格一次出 16 帧的实测记录，含网格输入法与上传网格作参考的做法",
+  "borrow": [
+    "4×4 网格输入法",
+    "上传网格作参考的精灵表思路",
+    "Fofr 的精灵提示技巧"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "精灵表",
+    "Nano Banana Pro",
+    "Substack"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-972",
+  "title": "Felo：弹跳球挤压拉伸 GIF 模型案例",
+  "type": "multi",
+  "source": {
+    "url": "https://openapi.felo.ai/model-cases/gpt-image-2-6/bouncing-ball-squash-gif",
+    "platform": "Felo API",
+    "author": "ailingqu / Awesome AI GIF Prompts",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "红球落地压缩、弹起拉伸，影子随之伸缩的经典动画原理演示 GIF 模型案例。",
+  "why": "squash & stretch 动画原理用一段提示词就讲清了，还带影子联动，是做弹性动效最省的范式。",
+  "borrow": [
+    "squash & stretch 原理的提示词写法：落地压缩+弹起拉伸",
+    "影子随球伸缩的联动写法",
+    "干净扁平风做动画原理演示的选法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "CC BY 4.0",
+    "note": "案例原图与提示词来自 ailingqu 的 Awesome AI GIF Prompts 项目，CC BY 4.0；只借结构，角色换原创。"
+  },
+  "tags": [
+    "Felo",
+    "GPT Image 2.6",
+    "动画原理",
+    "挤压拉伸",
+    "弹跳"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

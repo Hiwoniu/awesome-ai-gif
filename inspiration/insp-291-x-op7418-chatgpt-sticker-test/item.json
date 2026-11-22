@@ -1,0 +1,38 @@
+{
+  "id": "insp-291",
+  "title": "X @op7418：ChatGPT 贴纸实测案例",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://x.com/op7418/status/2118184315507118272",
+    "platform": "X/Twitter",
+    "author": "@op7418",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "在 ChatGPT 里做的贴纸实测案例，被 varg 的 gpt-image-gif Skill 引用为参考。",
+  "why": "被 Skill 收录引用的实测案例，有真实演示。",
+  "borrow": [
+    "ChatGPT 端直出贴纸的实测效果"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "X",
+    "实测",
+    "ChatGPT"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-1035",
+  "title": "佐藤源彦：GPT Image 2.6 做 GIF 动画实测，从动图到 MP4",
+  "type": "multi",
+  "source": {
+    "url": "https://note.com/mbbs/n/n85afc2e63159",
+    "platform": "note.com",
+    "author": "佐藤源彦@MBBS",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "日文实测：常用角色一句“GIFにして”出循环，再追加工序加眨眼摇尾、Loading 与按钮箭头小素材、30 帧图转 MP4。",
+  "why": "“先出一个小循环、再追加工序”的对话式迭代法很贴近日常用法，GIF 转 MP4 的延展是中文圈少见的角度。",
+  "borrow": [
+    "一次只加一个动作的追加工序",
+    "Loading、按钮、箭头类小素材的选题",
+    "30 帧图拼 MP4 的延展思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "日文内容，演示在视频里；文字部分只讲方法，不贴完整提示词。"
+  },
+  "tags": [
+    "实测",
+    "日文",
+    "GIF 转 MP4",
+    "迭代"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

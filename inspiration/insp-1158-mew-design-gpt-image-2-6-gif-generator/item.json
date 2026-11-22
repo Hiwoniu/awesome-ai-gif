@@ -1,0 +1,44 @@
+{
+  "id": "insp-1158",
+  "title": "Mew Design：GPT Image 2.6 GIF 生成器，6 组可复制循环提示词与跳变排查",
+  "type": "multi",
+  "source": {
+    "url": "https://mew.design/create/gpt-image-2-6-ai-gif-generator",
+    "platform": "Mew Design",
+    "author": "Mew Design",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "Mew Design 的 GPT Image 2.6 GIF 生成器页面：文字或图片出反应 GIF、吉祥物动效、产品循环，附 6 组可复制提示词与循环跳变的排查方法。",
+  "why": "提示词写法拆成一个主动作、固定锚点、回到起点、首帧能独立成立四条检查项，另有改小动作与修首帧两条改版提示词，可直接当验收清单用。",
+  "borrow": [
+    "四要素提示词结构：一个主动作、固定锚点、回到起点、首帧独立成图",
+    "产品 GIF 只动一个小细节的写法：产品形状、标签与镜头全固定，只让蒸汽或漂浮物这类小元素动",
+    "循环跳变排查：回位姿势、固定镜头、减少同时动的元素，看多遍循环再定稿",
+    "改版提示词两条：改小动作降幅度、重做首帧让表情与构图先清晰",
+    "角色规则存成 Skill 复用的思路：角色规则、配色与动画简报存下来，下次直接调用"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "工具页需注册领免费积分后使用，按任务扣积分；示例为通用黏土水獭、橘猫、像素星星等，无 IP；不同投放地对 GIF 播放与体积限制不同，交付前要在目标场景实测。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "循环 GIF",
+    "提示词",
+    "吉祥物",
+    "产品动效"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

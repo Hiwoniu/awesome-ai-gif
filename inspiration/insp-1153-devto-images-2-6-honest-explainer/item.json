@@ -1,0 +1,44 @@
+{
+  "id": "insp-1153",
+  "title": "DEV：ChatGPT Images 2.6 做 GIF 的诚实解析",
+  "type": "multi",
+  "source": {
+    "url": "https://dev.to/paullovelace/chatgpt-images-26-turns-chatgpt-into-a-gif-maker-explained-honestly-57k6",
+    "platform": "DEV Community",
+    "author": "paullovelace",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "对 Images 2.6 GIF 功能的核查式解析：Flare 与 Sunburst 分工、速度与定价数字的出处核对。",
+  "why": "少见的“宣称 vs 实测”对照写法：50% 提速只对应 Flare 实测约 32%，定价数字在官方页面未上架前只算传闻，适合做成本与选型判断的参考。",
+  "borrow": [
+    "Flare 求快、Sunburst 求稳的选型口径：批量迭代用 Flare，终稿用 Sunburst",
+    "速度宣称的核对方法：官方说法与实测基准并列标注，不直接引用 50%",
+    "定价未上架官方页时只记为传闻、等官方页再定成本的纪律",
+    "保存参考图防漂移的思路，及真人肖像存取权限需先查文档的提醒",
+    "GIF 只做短循环、不当视频用的定位判断"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "作者声明未做实测，数字均引自公开报道；只借核对方法与选型口径，不把文中数字当实测结论。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "Flare",
+    "Sunburst",
+    "成本",
+    "核查"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

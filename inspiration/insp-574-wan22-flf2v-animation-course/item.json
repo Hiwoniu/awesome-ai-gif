@@ -1,0 +1,42 @@
+{
+  "id": "insp-574",
+  "title": "Class Central：WAN 2.2 FLF2V 专业动画课，Flux 关键帧 + Wan 补中间帧",
+  "type": "unknown",
+  "source": {
+    "url": "https://www.classcentral.com/course/youtube-wan-2-2-is-insane-first-last-frame-endless-animation-474335",
+    "platform": "Class Central",
+    "author": "Vladimir Chopine",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "WAN 2.2 首末帧（FLF2V）动画视频课：用 Flux 生成一致的关键帧，再用 WAN 2.2 补首末帧之间的运动，5 秒一段拼接成无限长动画；全程免费离线可用，需 ComfyUI 0.3.48+。",
+  "why": "“关键帧定一致性、视频模型补运动”的分段接力结构，是长循环与多段动画的可行路线。",
+  "borrow": [
+    "关键帧（Flux）加运动补全（Wan 2.2）的分工结构",
+    "5 秒一段、段段拼接的无限长动画组织法",
+    "关键帧之间保持小幅姿态变化的稳定性原则",
+    "两遍采样的画质设置"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "视频课程页，方法来自课程大纲摘要；仅凭搜索摘要收录，未打开页面核实；产出为视频而非 GIF，收的是分段接力结构。"
+  },
+  "tags": [
+    "Wan-2.2",
+    "首末帧",
+    "关键帧",
+    "视频课"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

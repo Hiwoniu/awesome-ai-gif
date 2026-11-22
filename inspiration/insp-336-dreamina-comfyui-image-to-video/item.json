@@ -1,0 +1,40 @@
+{
+  "id": "insp-336",
+  "title": "Dreamina：ComfyUI 图生视频三路线教程",
+  "type": "multi",
+  "source": {
+    "url": "https://dreamina.capcut.com/resource/comfyui-image-to-video",
+    "platform": "Dreamina / CapCut",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "ComfyUI 图生视频教程，覆盖 AnimateDiff、HunyuanVideo、LTX Video 三种方法，含节点搭建与导出步骤。",
+  "why": "三种图生视频路线并排对比，AnimateDiff 部分讲到逐帧换提示词与导出 GIF 的节点。",
+  "borrow": [
+    "三路线对比选型",
+    "逐帧提示词调度",
+    "GIF 导出节点"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "ComfyUI",
+    "图生视频",
+    "对比"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

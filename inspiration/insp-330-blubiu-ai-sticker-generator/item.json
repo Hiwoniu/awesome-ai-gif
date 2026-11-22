@@ -1,0 +1,39 @@
+{
+  "id": "insp-330",
+  "title": "Blubiu：GPT Image 2.6 透明 GIF 表情生成器",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.blubiu.ai/ai-sticker-generator",
+    "platform": "Blubiu",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 Flare 驱动的表情生成器，每表情出一张透明 PNG 加一段 512×512、8 帧、120ms 的循环 GIF。",
+  "why": "明确给出动画规格（8 帧/120ms/512 方形）与透明 GIF 边缘发硬的注意事项，规格可直接复用。",
+  "borrow": [
+    "表情预设驱动角色表情的流程",
+    "GIF 透明边缘的处理提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "透明GIF",
+    "规格",
+    "Flare"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

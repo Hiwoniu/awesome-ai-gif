@@ -1,0 +1,36 @@
+{
+  "id": "insp-847",
+  "title": "爱范儿：GPT Image 2.6 大肥鱼 GIF 表情包实测",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.ifanr.com/1687778",
+    "platform": "爱范儿",
+    "author": "爱范儿",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "爱范儿实测 GPT Image 2.6 做 GIF 表情包：大肥鱼吃白饭、震惊、点赞三版 GIF，另有六帧 Q 版魔法学徒与黑白小鸟线稿转 GIF。",
+  "why": "同一篇里同时给了三版同角色 GIF 与两种新画风的转 GIF 例子，六帧连续动作逻辑与循环衔接讲得具体，可作表情包批量出图的对照样本。",
+  "borrow": [
+    "六帧连续动作的逻辑写法：起手、动作、收尾回到起手姿势",
+    "同一角色三版 GIF 的成套规划：吃白饭、震惊、点赞三种高频情绪",
+    "黑白线稿转 GIF 的画风迁移思路"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "大肥鱼为他人原创角色，只借动作逻辑与帧数结构，不复刻该角色；未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["GPT Image 2.6", "表情包", "实测", "六帧", "大肥鱼"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-211",
+  "title": "AI Tools Unboxed：ChatGPT 里做 GIF 的实操指南",
+  "type": "multi",
+  "source": {
+    "url": "https://aitoolsunboxed.blogspot.com/2026/11/how-to-make-gifs-in-chatgpt-practical.html",
+    "platform": "Blogspot 个人博客",
+    "author": "未署名",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一篇 Images 2.6 原生 GIF 实操指南，含提示词公式与 Saved References 角色一致性用法。",
+  "why": "给出可直接套用的提示词公式，并讲了用 @角色名跨场景保持同一角色的方法，对表情包/贴纸类 GIF 很实用。",
+  "borrow": [
+    "提示词公式结构",
+    "Saved References 做角色一致性",
+    "速度 0.25×–2× 调整与逐帧编辑的修 loop 手段",
+    "免费账号排队限制说明"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "ChatGPT",
+    "GPT-Image-2.6",
+    "提示词",
+    "实操"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

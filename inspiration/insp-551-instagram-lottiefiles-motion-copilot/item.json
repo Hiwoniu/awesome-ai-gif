@@ -1,0 +1,40 @@
+{
+  "id": "insp-551",
+  "title": "Instagram：LottieFiles Motion Copilot，AI 提示词驱动动画",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/p/DbVkN2-j-_t",
+    "platform": "Instagram",
+    "author": "LottieFiles",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "六段视频轮播，演示 Lottie Creator 里的 Motion Copilot AI 工具：输入文字提示词（如 Animate the eclipse drifting through space… Preserve all artwork），模型（Opus 4.8 / Sonnet 5）生成循环动画（日食、礼盒弹跳、番茄等）。",
+  "why": "AI 动画提示词写法很干净：描述动作加 Preserve all artwork 锁定；模型选型展示对提示词驱动动效也有参考价值。",
+  "borrow": [
+    "描述动作加 Preserve all artwork 的提示词写法",
+    "提示词驱动动效的模型选型"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Lottie",
+    "Motion-Copilot",
+    "提示词驱动",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

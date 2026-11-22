@@ -1,0 +1,41 @@
+{
+  "id": "insp-686",
+  "title": "IG @infusewithai：像素法师 12 帧精灵表全流程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/p/DJsz9RwMp6G/",
+    "platform": "Instagram",
+    "author": "@infusewithai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "6 页轮播：从紫袍法师放火球的循环演示，到 12 帧精灵表、生成所用详细提示词，再到下载 wizard_casting_spell.gif 的成品。",
+  "why": "像素风角色 12 帧施法循环的完整链路：演示、精灵表、提示词、成品 GIF 四步一次给齐，是“精灵表→GIF”链路最完整的社交样本之一。",
+  "borrow": [
+    "像素风角色 12 帧施法循环的提示词结构",
+    "精灵表→GIF 的完整链路：演示→精灵表→提示词→成品",
+    "轮播分步展示的组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "wechat-stickers",
+    "像素风",
+    "精灵表",
+    "12 帧"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

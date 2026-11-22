@@ -1,0 +1,41 @@
+{
+  "id": "insp-950",
+  "title": "Kiki @Mayz1169：16 帧 4×4 像素战斗精灵表提示词",
+  "type": "multi",
+  "source": {
+    "url": "https://x.com/Mayz1169/status/2097539942985728162",
+    "platform": "X",
+    "author": "Kiki（X @Mayz1169）",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "用 GPT Image 2.5 把角色图转成 16 帧 4×4 像素风战斗精灵表的提示词，原文为 X @Mayz1169 的帖子。",
+  "why": "16 帧战斗动作的精灵表排布与提示词写法可直接套用到游戏风角色循环；像素风加战斗动作是池里较少的一类。",
+  "borrow": [
+    "16 帧 4×4 像素战斗精灵表的网格排布",
+    "角色图转战斗精灵表的提示词结构"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "原帖直达链接已找到（本条即原帖）；完整提示词见同帖 thread https://x.com/Mayz1169/status/2097540160611287452；未直接打开原帖核实，内容经转述页全文核实；演示用《鬼灭之刃》炭治郎（IP 角色），只借提示词结构"
+  },
+  "tags": ["X 原帖", "精灵表", "像素风", "战斗动作"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "来源换成 X 原帖直达链接（原为 tau-home 转述页）"
+    }
+  ]
+}

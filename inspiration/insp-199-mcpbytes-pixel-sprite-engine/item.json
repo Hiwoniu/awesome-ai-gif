@@ -1,0 +1,42 @@
+{
+  "id": "insp-199",
+  "title": "mcpbytes-pixel-sprite：像素精灵表引擎（带循环行走 GIF）",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/MCPBytes/mcpbytes-pixel-sprite",
+    "platform": "GitHub",
+    "author": "MCPBytes",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "在自有 GPU 上生成像素风角色精灵表的开源引擎，每个候选输出 128×128 精灵表、循环行走 GIF、QA 元数据及 Godot 4 / Unity 6 导出。",
+  "why": "规格极其具体：16 格布局、行列分工、manifest + qa + provenance 三份元数据，且有真实未修图示例输出，导出链路完整。",
+  "borrow": [
+    "16 格精灵表布局规范（方向×动作分行列）",
+    "每候选附 QA 与来源元数据的验收思路",
+    "Godot/Unity 双引擎导出结构",
+    "行走循环 GIF 的帧组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "像素风",
+    "精灵表",
+    "开源",
+    "游戏"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

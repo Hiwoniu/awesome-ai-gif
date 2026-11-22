@@ -1,0 +1,31 @@
+{
+  "id": "insp-962",
+  "title": "AtlasCloud：GPT Image 2.6 动态贴纸指南，水獭提示词加三例对照与循环验收",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.atlascloud.ai/blog/tips/gpt-image-2.6-animated-sticker",
+    "platform": "AtlasCloud",
+    "author": "AtlasCloud",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "一篇很较真的动态贴纸指南：给出一只海獭的可复制提示词结构，对照狐狸三反应、白猫 25 帧、机器人挥手三个已发布案例，讲清 2-64 帧参数、GIF 不能配透明底的限制，以及 128 像素下首末帧对照的验收方法",
+  "why": "它不只给提示词，还把回姿势不等于无缝讲透：首末帧对照、128 像素可读性、逐帧递进检查三条验收规则，正好补我们贴纸方向的验收清单",
+  "borrow": [
+    "角色加动作加回归姿势的三段式提示词结构",
+    "可量化的动作写法与首末帧接缝定义",
+    "128 像素下首末帧对照与逐帧递进的验收方法",
+    "狐狸、白猫、机器人三例的动作约束对照",
+    "GIF 透明底限制与纯色底加后期抠图的导出取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "文中水獭动画并非原生 GIF 直出实测，是 PNG 加 MP4 本地转 GIF；只借结构与验收法，不搬它的水獭角色与提示词原文"
+  },
+  "tags": ["GPT Image 2.6", "微信表情包", "提示词", "验收"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-20", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

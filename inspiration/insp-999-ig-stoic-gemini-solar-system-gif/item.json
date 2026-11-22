@@ -1,0 +1,39 @@
+{
+  "id": "insp-999",
+  "title": "IG @stoic4.u：Gemini 一句话生成太阳系运转动画",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DgAOmrLlf7A/",
+    "platform": "Instagram",
+    "author": "Stoic @stoic4.u",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-21 发布的 Gemini 演示：一个提示词生成太阳系运转动画，视频中展示了发给 Gemini 的原始提示词。",
+  "why": "Gemini 原生 GIF 上线次日的最新实测，一句话出完整场景动画的句式值得记。",
+  "borrow": [
+    "一句话出完整场景动画的提示词写法",
+    "Gemini GIF 演示中直接展示原始提示词的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Gemini",
+    "Instagram",
+    "一句话提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

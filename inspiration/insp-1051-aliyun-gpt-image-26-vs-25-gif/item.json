@@ -1,0 +1,41 @@
+{
+  "id": "insp-1051",
+  "title": "阿里云：GPT Image 2.6 实测，静态图和 2.5 差不多，新加的 GIF 能做表情包",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://developer.aliyun.com/article/1780633",
+    "platform": "阿里云开发者社区",
+    "author": "阿里云开发者社区作者",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2.6 与 2.5 同提示词对比实测，GIF 做小猫贴纸（9 帧 1.8 秒）与产品照马克杯旋转，明确短板：最多 16 帧、动作一顿一顿、画面复杂会抖。",
+  "why": "对比实测加明确上限（16 帧、抖动），验收参考价值高。",
+  "borrow": [
+    "2.5 与 2.6 对照评测法",
+    "GIF 提示词技巧",
+    "16 帧上限与抖动验收点"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "子代理打开原文核实。"
+  },
+  "tags": [
+    "实测",
+    "对比",
+    "阿里云",
+    "GPT Image 2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

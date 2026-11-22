@@ -1,0 +1,41 @@
+{
+  "id": "insp-938",
+  "title": "Felo：像素风 B-ROLL 字母跳动 GIF 案例",
+  "type": "posters",
+  "source": {
+    "url": "https://openapi.felo.ai/model-cases/gpt-image-2-6/pixel-text-broll-gif",
+    "platform": "Felo",
+    "author": "ailingqu",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 案例：奶油色像素字体 B-ROLL 逐字母跳起落下，珊瑚色光标条在下方滑动，无缝循环。",
+  "why": "文字动效类 GIF 的极简范例：逐字跳动+滑动光标条，拼写与间距全程不变。",
+  "borrow": [
+    "逐字母跳动的文字动效写法",
+    "光标条滑动的第二动效层",
+    "拼写与间距全程不变的一致性约束"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "CC BY 4.0",
+    "note": "已打开 Felo 案例页核实，提示词结构与成品 GIF 已见；原始出处为 ailingqu 的 GitHub 仓库 Awesome AI GIF Prompts，Felo 为案例转载页"
+  },
+  "tags": [
+    "像素风",
+    "文字动效",
+    "B-roll",
+    "Felo 案例"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

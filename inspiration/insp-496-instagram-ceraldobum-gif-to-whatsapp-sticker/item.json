@@ -1,0 +1,40 @@
+{
+  "id": "insp-496",
+  "title": "Instagram：任意 GIF 转 WhatsApp 贴纸的手机端操作，补全分发末端",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfkXvtnAj8J",
+    "platform": "Instagram",
+    "author": "ceraldobum",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "实拍演示：把 AI 生成的两只跳舞动物 GIF 发到 WhatsApp 对话，复制后粘贴进输入框选 Edit sticker 即转为自定义贴纸。",
+  "why": "补全生成之后怎么用的一环：GIF 转即时通讯贴纸的分发末端步骤，手法可迁移到微信。",
+  "borrow": [
+    "GIF 转即时通讯贴纸的操作路径",
+    "分发末端的步骤拆解"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "演示的是 WhatsApp 而非微信，分发手法可迁移；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "分发",
+    "WhatsApp贴纸",
+    "手机端操作",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

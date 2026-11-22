@@ -1,0 +1,40 @@
+{
+  "id": "insp-1045",
+  "title": "51CTO：GPT Images 2.6 实测，能做 GIF 动图和直出 SVG 了",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://blog.51cto.com/u_17792575/15063449",
+    "platform": "51CTO 博客",
+    "author": "mb6ab67445f265b",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "4 组真实 GIF 实测：玻璃蝴蝶、SOL 香水、雨夜摸柴犬、峡谷瀑布，逐项讲穿帮点，附官方尺寸规则。",
+  "why": "实测最细致，失败分析具体，尺寸规则可直接当验收清单。",
+  "borrow": [
+    "四组实测的验收维度：动作、影子、标签、首尾",
+    "GIF 尺寸与像素预算规则：16 倍数、宽高比 1:3–3:1、Flare 与 Sunburst 分工"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "知乎同标题文章为同一作者跨平台转载，只收 51CTO 原创这一条；子代理打开原文核实。"
+  },
+  "tags": [
+    "实测",
+    "51CTO",
+    "验收",
+    "GPT Image 2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

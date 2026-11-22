@@ -1,0 +1,32 @@
+{
+  "id": "insp-1104",
+  "title": "Krene：AI 辅助游戏角色资产制作，从关键帧到丝滑序列帧",
+  "type": "multi",
+  "source": {
+    "url": "https://www.krene.com/blog/ai-pixel-art-sprite-animation-workflow",
+    "platform": "Krene 博客",
+    "author": "",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "从角色设计到丝滑序列帧的完整流程：Niji 7 出角色、GPT Image 2 统一画风、Nano Banana Pro 按 9×9 参考精灵图换皮、Seedance 2.0 生成跑步循环视频再抽帧成 GIF，附完整提示词。",
+  "why": "精灵图换皮不换骨架的提示词结构很实用，视频模型补流畅度的二段式路线值得借。",
+  "borrow": ["精灵图换皮不换骨架的提示词结构（帧位置/大小/排列不变、只替换身体结构配色特征）", "视频模型补流畅度的二段式路线", "9×9 参考精灵图的换皮工作流"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录（browser.open 抓取失败）；只借流程与提示词结构，不抄提示词原文"
+  },
+  "tags": ["精灵图", "像素风", "换皮", "工作流"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

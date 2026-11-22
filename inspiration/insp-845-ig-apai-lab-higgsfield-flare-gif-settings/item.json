@@ -1,0 +1,41 @@
+{
+  "id": "insp-845",
+  "title": "IG @apai.lab：Higgsfield GPT Image 2.6 Flare 三档 GIF 导出设置对比",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfybpxANqb2/",
+    "platform": "Instagram",
+    "author": "@apai.lab",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "IG 屏幕录制教程：用 Higgsfield 平台的 GPT Image 2.6 Flare 模型，同一宇航员猫提示词、同一句话，对比三档 GIF 导出设置的成片效果。",
+  "why": "同一提示词、三档导出设置并排对比的测评结构，是摸清 Flare 导出参数差异最直接的做法，值得复用为验收方法。",
+  "borrow": [
+    "同一提示词、三档导出设置并排对比的测评结构",
+    "Higgsfield 上 GPT Image 2.6 Flare 出 GIF 的平台路线"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "Higgsfield",
+    "Flare",
+    "导出设置",
+    "对比测评"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-438",
+  "title": "Yeti Motion Prompt Studio：选项式 GIF 提示词生成工具",
+  "type": "multi",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=tfnUNl5k4WY",
+    "platform": "YouTube",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "免费工具 Yeti Motion Prompt Studio 的演示视频，用 ChatGPT 生成 GIF 提示词并做动画。",
+  "why": "把提示词生成做成可选式工具，降低写 GIF 提示词的门槛，附带社区分享机制。",
+  "borrow": [
+    "按 GIF 类型分档的提示词模板",
+    "选项式提示词生成器",
+    "工具加社区分享的组合"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原视频核实"
+  },
+  "tags": [
+    "提示词工具",
+    "GIF提示词",
+    "YouTube教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

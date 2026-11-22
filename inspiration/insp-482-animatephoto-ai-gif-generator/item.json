@@ -1,0 +1,41 @@
+{
+  "id": "insp-482",
+  "title": "AnimatePhoto：AI GIF 生成器，Wan 2.2 Turbo 做 5 秒片段再导出循环 GIF",
+  "type": "unknown",
+  "source": {
+    "url": "https://animatephoto.io/ai-gif-generator",
+    "platform": "AnimatePhoto",
+    "author": "AnimatePhoto",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Wan 2.2 Turbo 把照片或文字提示做成 5 秒片段再导出循环 GIF：Small 320px/10fps、Medium 480px/12fps、HD 640px/15fps 三档预设，浏览器内转换免费、无水印。",
+  "why": "三档 GIF 导出规格（尺寸×帧率）可直接作表情包与动图的压缩对照表；先生成片段再转 GIF 与原生 GIF 是两条可对比的路线。",
+  "borrow": [
+    "三档导出规格的对照表",
+    "先生成 5 秒片段再转 GIF 的路线",
+    "尺寸与帧率的取舍关系"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；生成需付费积分，免费的只是转换环节。"
+  },
+  "tags": [
+    "GIF生成器",
+    "Wan-2.2",
+    "导出规格",
+    "工具"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

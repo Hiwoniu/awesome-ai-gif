@@ -1,0 +1,38 @@
+{
+  "id": "insp-1172",
+  "title": "FB Victoria Paris：ChatGPT 动态 GIF 表情包分步流程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/groups/708524285682947/permalink/894921683709872/",
+    "platform": "Facebook",
+    "author": "Victoria Paris",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "公开分享 ChatGPT 做动态 GIF 表情包的完整分步流程（SOP）。",
+  "why": "分步流程结构完整，可对照我们自己的贴纸流程查漏补缺。",
+  "borrow": [
+    "分步流程结构"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；同内容还发在另一小组，跨组重复只收一条；涉及上传照片，须用原创角色、不用真人照片。"
+  },
+  "tags": [
+    "Facebook",
+    "分步流程",
+    "ChatGPT"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

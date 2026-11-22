@@ -1,0 +1,42 @@
+{
+  "id": "insp-414",
+  "title": "AI 做表情包怎么做？微信表情一键生成与上传",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://ai-zhiku.com/ai-tutorial/367.html",
+    "platform": "AI智库（ai-zhiku.com）",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "零基础教程：用文心一格或通义万相生成基础表情图，逐张微调做 3–5 张连续动作序列，再经微信表情开放平台助手小程序上传审核。",
+  "why": "覆盖了最基础的国产工具路线与微信上架全流程，适合做新手路径对照。",
+  "borrow": [
+    "连续动作帧做法（复制主图微调嘴部等局部）",
+    "微信上架流程与审核等待期",
+    "剪映加简单动画做动态表情的替代路线"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；内容偏基础。"
+  },
+  "tags": [
+    "微信表情包",
+    "文心一格",
+    "通义万相",
+    "上架教程",
+    "新手"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

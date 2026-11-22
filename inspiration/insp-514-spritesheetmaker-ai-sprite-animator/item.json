@@ -1,0 +1,40 @@
+{
+  "id": "insp-514",
+  "title": "SpriteSheetMaker：AI 像素精灵图生成与动画工具，跑步循环 6 帧 9 FPS",
+  "type": "multi",
+  "source": {
+    "url": "https://www.spritesheetmaker.ai/",
+    "platform": "SpriteSheetMaker",
+    "author": "SpriteSheetMaker",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "AI 像素精灵图生成与动画工具：文字描述生成像素角色，选动作、设帧数后预览动作并导出 PNG/GIF/JSON；含精灵表拆分、GIF 转精灵表、精灵表转 GIF、GameMaker 打包等配套工具；示例跑步循环 6 帧、9 FPS。",
+  "why": "像素风跑步循环的帧数与帧率参数很实在：6 帧、9 FPS 可以直接当像素循环的起点；生成、拆分、转 GIF 的配套工具链思路也值得借。",
+  "borrow": [
+    "像素跑步循环 6 帧 9 FPS 的参数",
+    "生成加拆分加转 GIF 的工具链思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开官网核实。"
+  },
+  "tags": [
+    "精灵图",
+    "像素风",
+    "工具",
+    "帧率参数"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

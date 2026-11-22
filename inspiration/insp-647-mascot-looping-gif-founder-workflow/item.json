@@ -1,0 +1,43 @@
+{
+  "id": "insp-647",
+  "title": "Turn Your Mascot Into a Looping GIF：创始人视角的 Images 2.6 动图工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://medium.com/@theshaheermalik/turn-your-mascot-into-a-looping-gif-without-a-motion-team-a1540cbc6f8a",
+    "platform": "Medium",
+    "author": "@theshaheermalik",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "创始人视角的 Images 2.6 GIF 工作流：品牌吉祥物或产品图变短循环 GIF，讲 Flare 与 Sunburst 的选型、跨对话角色一致性，最后落到 Framer 产品站。",
+  "why": "把 GIF 放到产品站 hero 与栏目点缀的落点思路很实用，Flare（快）与 Sunburst（稳）的选型有据可依。",
+  "borrow": [
+    "吉祥物/产品图→循环 GIF 的工作流",
+    "Flare vs Sunburst 选型",
+    "GIF 在产品站的落点（hero/栏目点缀）",
+    "ChatGPT 不能二次编辑已上传 GIF 的限制提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "文章观点为作者实测整理，只借工作流与选型；模型价格与可用性以 OpenAI 官方为准。"
+  },
+  "tags": [
+    "吉祥物",
+    "循环 GIF",
+    "Flare",
+    "Sunburst",
+    "产品站"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

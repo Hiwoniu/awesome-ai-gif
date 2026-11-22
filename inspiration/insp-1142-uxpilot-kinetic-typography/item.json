@@ -1,0 +1,42 @@
+{
+  "id": "insp-1142",
+  "title": "UX Pilot 动态排版：六种文字动效模板，可导出 GIF",
+  "type": "posters",
+  "source": {
+    "url": "https://uxpilot.ai/kinetic-typography",
+    "platform": "UX Pilot",
+    "author": "UX Pilot",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "AI 动态文字生成器，六种动效技法（拉伸回弹、膨胀、逐字打出、故障切片、翻牌、回声拖尾），可导出 GIF 与多画幅裁切。",
+  "why": "六种技法各有适用场景与现成模板，动态海报的大字标题可直接按技法点菜，不用从空白关键帧做起。",
+  "borrow": [
+    "六种动态排版技法与适用场景对照",
+    "一句话加技法名出片的点菜式工作流",
+    "GIF 导出与 9:16、方形、4:5 多画幅裁切",
+    "免费版约 6 秒、30fps 的规格口径"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "免费导出带水印、约 6 秒；付费版 60fps；已打开原文核实。"
+  },
+  "tags": [
+    "posters",
+    "动态排版",
+    "文字动效",
+    "GIF导出"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

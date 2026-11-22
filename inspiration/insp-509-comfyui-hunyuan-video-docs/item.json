@@ -1,0 +1,41 @@
+{
+  "id": "insp-509",
+  "title": "ComfyUI 官方文档：混元视频 Hunyuan Video 的文生与图生视频教程",
+  "type": "multi",
+  "source": {
+    "url": "https://docs.comfy.org/tutorials/video/hunyuan/hunyuan-video",
+    "platform": "ComfyUI 官方文档",
+    "author": "ComfyUI 官方",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "混元视频（Hunyuan Video，腾讯开源 13B）在 ComfyUI 中的文生视频与图生视频官方教程：可直接拖入 ComfyUI 的工作流图片、模型清单与分步运行说明；I2V 含 v1 concat 与 v2 replace 两个版本与 LoRA 特效训练代码。",
+  "why": "开源视频模型做 GIF 的官方工作流骨架：图生视频再抽帧转 GIF 的路线很完整；v1/v2 的运动流畅度与画面跟随度取舍值得记。",
+  "borrow": [
+    "开源视频模型做 GIF 的官方工作流骨架",
+    "图生视频再抽帧转 GIF 的路线",
+    "v1 与 v2 的版本取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；讲的是视频模型，GIF 是抽帧转制的后一步。"
+  },
+  "tags": [
+    "Hunyuan",
+    "ComfyUI",
+    "官方文档",
+    "图生视频"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

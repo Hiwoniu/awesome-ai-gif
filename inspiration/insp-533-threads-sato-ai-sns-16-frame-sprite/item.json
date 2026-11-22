@@ -1,0 +1,41 @@
+{
+  "id": "insp-533",
+  "title": "Threads：@sato_ai_sns 角色动画转 GIF 两步法，4×4 共 16 帧精灵表",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@sato_ai_sns/post/DetR1KgnWEp",
+    "platform": "Threads",
+    "author": "さとー｜億越え兄ちゃん",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "两步工作流文字帖：先让 ChatGPT 生成 4 列×4 行共 16 帧的精灵表，再拆帧转 GIF；精灵表规格写法为 16 帧 4×4、每帧同比例缩放、脚步位置对齐。",
+  "why": "16 帧 4×4 的大网格规格是新增价值：帧数多、动作更顺；脚步位置对齐的细节要求也很实用。",
+  "borrow": [
+    "16 帧 4×4 的精灵表规格",
+    "脚步位置对齐的要求",
+    "先出表再拆帧的两步工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "无视频演示，以文字方法为主；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "sprite-sheet",
+    "16帧",
+    "Threads",
+    "两步法"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

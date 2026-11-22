@@ -1,0 +1,42 @@
+{
+  "id": "insp-895",
+  "title": "掘金：照片转 GIF 的 4 种做法，从免费到 AI",
+  "type": "multi",
+  "source": {
+    "url": "https://article.juejin.cn/post/7706583027480395816",
+    "platform": "掘金",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "一张照片做 GIF 的四种方法对照：免费裁帧再拼、AI 序列帧大图切开再拼、GPT Image 2.6 直出、视频模型转 GIF，附成本与积分对照。",
+  "why": "四种路线按动手多少排序对照清晰，16 帧 4×4 序列帧提示词与 120ms 帧间隔可直接借用。",
+  "borrow": [
+    "四种路线对照表",
+    "16 帧 4×4 序列帧提示词",
+    "裁帧推拉做法",
+    "方法选择决策树"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "照片转GIF",
+    "四种路线",
+    "序列帧",
+    "掘金"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

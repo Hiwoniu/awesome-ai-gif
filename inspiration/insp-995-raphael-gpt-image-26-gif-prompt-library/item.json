@@ -1,0 +1,42 @@
+{
+  "id": "insp-995",
+  "title": "Raphael：GPT Image 2.6 GIF 提示词库（79 例，含 X 创作者原帖提示词）",
+  "type": "multi",
+  "source": {
+    "url": "https://raphael.app/gpt-image-2-6-prompts/gif-animation?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_gif-animation&utm_term=en",
+    "platform": "Raphael",
+    "author": "Raphael",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "79 个 GPT Image 2.6 GIF 动画提示词合集，贴纸、产品循环、像素动画、旅行海报循环分类展示，每例附原提示词与成品，可一键载入生成器。",
+  "why": "同一模型下 79 个已验证的 GIF 提示词按场景分类，是现成可查的句式库；海报循环的“只动一处”写法可直接复用。",
+  "borrow": [
+    "按场景分类的 GIF 提示词写法：贴纸/产品循环/像素动画/旅行海报循环",
+    "旅行海报循环的“只动一处”写法：固定机位加微动元素清单",
+    "GIF 模式参数：2–16 帧，每帧 0.2 秒",
+    "Sunburst 与 Flare 的选型对照：细节创作走 Sunburst，快速草稿走 Flare"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。库内个别单例（如 @Gorden_Sun 真香、@SSHCodes 鹈鹕、@xikhar 矮人）池内已有单条收录，本条只借合集的分类组织与参数写法，不抄各例提示词原文。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "提示词库",
+    "GIF",
+    "Raphael"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

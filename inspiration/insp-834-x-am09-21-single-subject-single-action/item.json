@@ -1,0 +1,39 @@
+{
+  "id": "insp-834",
+  "title": "X @AM09_21：静止与运动同处一 GIF 会崩，单主体单动作",
+  "type": "multi",
+  "source": {
+    "url": "https://x.com/AM09_21/status/2118143217434800219",
+    "platform": "X",
+    "author": "@AM09_21",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "静止部分与运动部分同处一 GIF 会崩的失败模式，单主体单动作。",
+  "why": "单主体单动作的构图规则可直接写进提示词模板。",
+  "borrow": [
+    "静止与运动同处一 GIF 会崩的失败模式",
+    "单主体单动作的构图规则"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "X",
+    "单主体",
+    "构图"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

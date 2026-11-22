@@ -1,0 +1,40 @@
+{
+  "id": "insp-235",
+  "title": "aiofm：2026 年视角的 AnimateDiff ComfyUI 实战指南",
+  "type": "multi",
+  "source": {
+    "url": "https://aiofm.info/en/guides/animatediff-comfyui",
+    "platform": "aiofm.info",
+    "author": "aiofm.info",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "2026 年视角的 AnimateDiff 实战指南，用 ComfyUI-AnimateDiff-Evolved + Hotshot-XL，叠加人脸 LoRA 与 ControlNet。",
+  "why": "给出可复现的最小节点图与关键参数（步数、CFG、运动强度），并讲帧插值平滑。",
+  "borrow": [
+    "人脸 LoRA + IP-Adapter + OpenPose + 运动模块的叠加栈",
+    "16 帧安全甜点与 64–96 帧上限",
+    "RIFE 帧插值平滑 1 秒短片"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "AnimateDiff",
+    "ComfyUI",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

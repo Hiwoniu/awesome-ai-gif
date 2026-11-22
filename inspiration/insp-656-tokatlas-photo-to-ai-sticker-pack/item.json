@@ -1,0 +1,42 @@
+{
+  "id": "insp-656",
+  "title": "TokAtlas：照片转 AI 贴纸包实测，512×512 九帧 GIF 与成本记录",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.tokatlas.com/en/blog/photo-to-ai-sticker-pack",
+    "platform": "TokAtlas 博客",
+    "author": "TokAtlas 团队",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "TokAtlas 博客 2026-11-13 的实测：用同一张水豚角色图生成 HELLO / THANKS 两张 GIF 贴纸，并验证单张重生成不影响另一张。",
+  "why": "有真实演示、实测规格（512×512、9 帧、1.8 秒、GPT Image 2.6 Sunburst）与成本（两张 GIF 约 $0.16），单张重生成、ZIP 校验、透明底残边等细节可直接复用为验收清单。",
+  "borrow": [
+    "一张参考图+模板表情+短文案的贴纸包工作流",
+    "单张重生成不污染整包的验证方法",
+    "GIF/PNG 双格式导出与检查清单",
+    "成本与耗时实测口径"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "水豚为示例角色，只借工作流与规格，不用对方角色形象。"
+  },
+  "tags": [
+    "wechat-stickers",
+    "GPT Image 2.6",
+    "sticker-pack",
+    "512x512"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

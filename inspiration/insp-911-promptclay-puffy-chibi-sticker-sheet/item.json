@@ -1,0 +1,40 @@
+{
+  "id": "insp-911",
+  "title": "Promptclay：蓬松 Q 版六表情贴纸表提示词",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://promptclay.com/prompts/puffy-chibi-sticker-sheet-0sqpsa",
+    "platform": "Promptclay",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Q 版角色六表情蓬松贴纸表提示词模板，可填文字、图案、背景色三空，适用 Gemini 与 ChatGPT。",
+  "why": "可填空式贴纸表提示词结构清晰，表情清单与留白要求能直接套进我们的贴纸表模板。",
+  "borrow": [
+    "可填空式贴纸表提示词",
+    "六表情清单写法",
+    "留白便于抠图的构图要求"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "贴纸表",
+    "Q版",
+    "可填空提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

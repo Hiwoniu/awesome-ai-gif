@@ -1,0 +1,43 @@
+{
+  "id": "insp-1071",
+  "title": "design-to-motion Skill：静态设计转循环 MP4/GIF 的确定性逐帧捕获",
+  "type": "posters",
+  "source": {
+    "url": "https://www.thereelstack.com/lab/design-to-motion-skill-static-design-to-mp4-gif-loop",
+    "platform": "The Reel Stack",
+    "author": "Elaya（@elayadesigns）",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Claude Code/Cursor/Codex 用的 Skill：把 Figma 帧或截图用 HTML 像素级重建，每个卡片演绎一个 3–8 秒循环故事、首尾回到原设计；默认产出 X 用 MP4、960px 网站 GIF 与 800×500 GIF。",
+  "why": "捕获手法最值得抄：Playwright 假时钟以整毫秒步进、逐帧截图驱动 CSS 过渡，得到确定性 60fps 帧序列与干净的循环接缝，是动态海报循环可直接复用的工程方法。",
+  "borrow": [
+    "Playwright 假时钟逐帧捕获",
+    "60fps 确定性循环接缝",
+    "静态设计转动态海报流程",
+    "卡片分镜轮流演绎 3–8 秒循环故事"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实；作者当天把 Skill 移到新仓库 elayadesign/Design-to-motion，写稿时该仓库尚未公开，入库以本报道页为准。"
+  },
+  "tags": [
+    "Skill",
+    "动态海报",
+    "Playwright",
+    "逐帧捕获",
+    "循环接缝"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "insp-622",
+  "title": "MeowAI-HK：5×5 精灵表转 GIF/WebP 贴纸开源生成器",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/MeowAI-HK/gpt-image-sticker-generator",
+    "platform": "GitHub",
+    "author": "MeowAI-HK",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "开源 Streamlit 演示：给 gpt-image-2 一张 5×5 空网格模板图，让它在一张图里画完 25 帧连续动作，再本地切分、内缩裁边、拼成循环 GIF/WebP 贴纸。",
+  "why": "用模板图约束版式的控制图工作流代替 ControlNet，管线小而完整，适合借结构做自己的精灵表拼 GIF 工具。",
+  "borrow": [
+    "5×5 网格模板图约束",
+    "切分内缩避网格线",
+    "GIF/WebP/帧包多格式导出"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": "仓库示例是猫，只借管线结构，角色换原创。"
+  },
+  "tags": [
+    "精灵表",
+    "开源",
+    "GPT Image",
+    "贴纸管线"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-19",
+    "note": "借 5×5 网格模板图约束、切分内缩避网格线、GIF/WebP/帧包多格式导出；示例猫角色不照搬，换原创角色"
+  },
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "approved",
+      "by": "向明",
+      "note": "主人在对话中确认通过（第一批推荐）"
+    }
+  ]
+}

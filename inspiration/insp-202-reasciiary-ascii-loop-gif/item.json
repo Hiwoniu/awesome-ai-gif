@@ -1,0 +1,42 @@
+{
+  "id": "insp-202",
+  "title": "Reasciiary：ASCII 艺术动画循环 GIF 生成器",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/latent-9/reasciiary-ascii-art-generator",
+    "platform": "GitHub",
+    "author": "latent-9",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "把图片或涂鸦转成发光 3D ASCII 艺术与动画循环的 Tauri 桌面应用，可导出 MP4、GIF、PNG、文本，MIT 开源。",
+  "why": "角度独特：非 AI 生成角色，而是“字符密度决定高度”的确定性动画循环，提供了一种低成本做循环 GIF 的另类手法。",
+  "borrow": [
+    "字符密度映射高度的 3D 化思路",
+    "loops 工具“首尾闭合”的循环设计",
+    "GIF/MP4/PNG/文本多格式导出",
+    "命令行参数化生成流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": ""
+  },
+  "tags": [
+    "ASCII 艺术",
+    "开源",
+    "循环",
+    "MIT"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

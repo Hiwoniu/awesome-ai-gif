@@ -1,0 +1,44 @@
+{
+  "id": "insp-437",
+  "title": "GIF Sticker Studio：把动画素材整理成动态表情包的开源 Skill",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://github.com/mindnature/biaoqing",
+    "platform": "GitHub",
+    "author": "mindnature",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "一套开源动态表情包制作 Skill（仓库名 biaoqing），把现成视频、GIF 或连续图片素材导入后，按流程做逐帧预览、加字幕、压缩和分批打包，最后交付校验过的微信规格表情包。",
+  "why": "它补齐了从已有动作素材到可投稿成品的后半段流程：逐帧检查、字幕分层、单张 500KB 以内的压缩目标和交付校验，都是我们做微信表情包时可以直接复用的工程化做法。",
+  "borrow": [
+    "动作素材导入后先逐帧预览再合成的工作流",
+    "字幕与动画分层、可自选样式和中文字体的处理方式",
+    "按微信规格压缩打包与交付前校验的清单思路",
+    "制作前环境检查与交付前验收两道质量门禁"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": ""
+  },
+  "tags": [
+    "微信表情包",
+    "Skill",
+    "开源",
+    "GIF合成",
+    "字幕",
+    "压缩打包"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

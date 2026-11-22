@@ -1,0 +1,40 @@
+{
+  "id": "insp-1025",
+  "title": "IG @fossydev：Aseprite 开源像素动画，逐帧绘制加精灵表导出",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df3odMjImrS/",
+    "platform": "Instagram",
+    "author": "@fossydev",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Aseprite 作为 Adobe Animate 的免费开源替代：逐帧绘制＋图层＋实时预览＋精灵表导出。",
+  "why": "像素动画的手绘工具链，补 AI 出表之后的手修与导出环节。",
+  "borrow": [
+    "逐帧绘制加图层加实时预览的手绘流程",
+    "精灵表导出的规格组织",
+    "开源平价工具链的取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；Aseprite 为手动像素动画工具，非 AI 生成，作为 AI 精灵表工作流的手修与导出补充"
+  },
+  "tags": [
+    "像素动画",
+    "开源工具",
+    "精灵表"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

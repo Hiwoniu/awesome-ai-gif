@@ -1,0 +1,41 @@
+{
+  "id": "insp-470",
+  "title": "Instagram：任意照片转无缝循环 GIF 的三条提示词规则",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfXzO2VAN5J/",
+    "platform": "Instagram",
+    "author": "Charlie Hills",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "三条可直接借用的提示词规则：只指定什么动、末帧等于首帧、人物表情与机位每帧一致。",
+  "why": "规则只有三条却覆盖了无缝循环的关键，示例含自拍、金毛与简笔猫，适用面广。",
+  "borrow": [
+    "只指定什么动的写法",
+    "末帧等于首帧的循环规则",
+    "人物表情与机位一致的要求"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；示例含自拍等真人照片，只借规则，不拿他人形象。"
+  },
+  "tags": [
+    "照片转GIF",
+    "无缝循环",
+    "提示词规则",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

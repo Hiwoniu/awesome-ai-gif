@@ -1,0 +1,41 @@
+{
+  "id": "insp-218",
+  "title": "DMS.Labs：用 Claude 写代码做局部动效影格图",
+  "type": "posters",
+  "source": {
+    "url": "https://www.dmssolution.co.kr/en/blog/claude-cinemagraph-beginner",
+    "platform": "DMS.Labs 博客",
+    "author": "未署名",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "让 Claude 写 Python/OpenCV 代码，在原图上叠加局部动效做 10 秒影格图的初学者指南（原图+遮罩+动效三层结构）。",
+  "why": "与视频生成模型路线完全不同：不重绘场景，只用代码合成动效，动效可控、可复现，且明确标注了演示素材的来源与局限，方法论很干净。",
+  "borrow": [
+    "原图 / 遮罩 / 动效三层合成结构",
+    "只动窗内雨、杯上蒸汽等局部元素的选区思路",
+    "10 秒 24fps（240 帧）的规格",
+    "用 Node.js + Sharp + FFmpeg 本地合成的验证做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "影格图",
+    "代码生成",
+    "Claude"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

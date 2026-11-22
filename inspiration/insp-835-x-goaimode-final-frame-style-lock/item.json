@@ -1,0 +1,39 @@
+{
+  "id": "insp-835",
+  "title": "X @goaimode：附已定稿静帧并点名画风，防插画变颗粒感 stock 图",
+  "type": "multi",
+  "source": {
+    "url": "https://x.com/goaimode/status/2118171944285511917",
+    "platform": "X",
+    "author": "@goaimode",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "附已定稿静帧并点名画风，防止插画变颗粒感 stock 图的失败模式。",
+  "why": "附定稿静帧加画风点名的做法可直接写进提示词模板。",
+  "borrow": [
+    "附已定稿静帧并点名画风的防漂移做法",
+    "插画变颗粒感 stock 图的失败模式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "X",
+    "画风锁定",
+    "参考图"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

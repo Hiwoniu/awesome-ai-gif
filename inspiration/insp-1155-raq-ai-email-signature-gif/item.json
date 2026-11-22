@@ -1,0 +1,42 @@
+{
+  "id": "insp-1155",
+  "title": "Raq：AI 邮件签名，描述动作把 logo 变成循环 GIF",
+  "type": "signatures",
+  "source": {
+    "url": "https://raq.com/blog/email-signatures",
+    "platform": "Raq.com",
+    "author": "Raq.com",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "上传 logo、填好联系信息，AI 一次出 30 套 HTML 邮件签名；用语言描述想要的动作，就能把 logo 变成循环播放的 GIF 动效签名。",
+  "why": "签名类少见的“用语言描述动作”路线：3D 旋转、轻浮、微光三个动效预设打底，AI 先生成短视频再转成 GIF，可多档画质反复试；还带团队批量签名，同一版式只换人名与信息。",
+  "borrow": [
+    "用语言描述动作生成签名动效的思路：先定预设（3D 旋转、轻浮、微光），再按描述微调",
+    "短视频转 GIF 的签名动效路线：动效先在视频里做顺，再转成 GIF 落进签名",
+    "多档画质反复试的验收思路：同一动效多试几档，挑一版落定",
+    "团队签名批量生成的组织方式：同一版式、同一动效，只换人名与信息"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "文章发表于 2026-03-20，做法较早，本轮按当前页面核实收录；签名用的是用户自己的 logo，不涉及他人 IP；订阅制工具，免费试用一次。"
+  },
+  "tags": [
+    "动态签名",
+    "邮件签名",
+    "Logo 动效",
+    "GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

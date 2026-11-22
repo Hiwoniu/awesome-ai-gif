@@ -1,0 +1,41 @@
+{
+  "id": "insp-592",
+  "title": "Instagram：@aviral10x，ChatGPT Image 2.5 单提示词 GIF：16 帧剑斗 + 精灵表",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DdXqMTEyQ3I/",
+    "platform": "Instagram",
+    "author": "@aviral10x",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "讲解 ChatGPT 新 Image 2.5 模型：不用视频 AI、不用剪辑软件，一句提示词出完整动画 GIF；示例有蓝发动漫女孩、黏土风滑板橘猫、16 帧炭治郎剑斗、猫狗像素精灵表；解释帧间一致的窍门是整张精灵板一次生成、再切片循环。",
+  "why": "点出“整板一次生成保一致”的关键原理，并给出 16 帧长动作示例，超出常见 6 帧短循环的幅度。",
+  "borrow": [
+    "整张精灵板一次生成、再切片循环的一致性原理",
+    "16 帧长动作（剑斗）的做法，适合做小剧情动图",
+    "多风格并列验证同一方法跨风格可用"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "整板生成",
+    "16帧",
+    "长动作",
+    "一致性"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

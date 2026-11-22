@@ -1,0 +1,42 @@
+{
+  "id": "insp-582",
+  "title": "Instagram：@rachelhxw，照片变像素小人 + 待机/行走精灵表全链路",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DIrHh7WSW1U/",
+    "platform": "Instagram",
+    "author": "@rachelhxw",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "一步步把自拍照变成像素风游戏角色：ChatGPT 生成像素头像与待机/行走精灵表，再经 Figma 去背景、调尺寸，导入 Piskel 逐帧精修后导出 GIF，还有 LEVEL UP、铠甲变身等变体。",
+  "why": "少见的全链路像素角色工作流，覆盖“生成—清理—逐帧精修—导出”四段，可直接复用到原创角色的像素表情/游戏风 GIF。",
+  "borrow": [
+    "先出单帧正面像素头像锁定形象，再分别要待机与行走两张精灵表",
+    "Figma 去背景加统一帧尺寸，Piskel 逐帧修像素、导出 GIF 的收尾链路",
+    "同一角色做 LEVEL UP、换装等变体动作扩展表情包矩阵",
+    "像素风加游戏动作是微信表情包少见的差异化风格"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "像素风",
+    "精灵表",
+    "角色工作流",
+    "Piskel"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

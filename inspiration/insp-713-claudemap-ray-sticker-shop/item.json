@@ -1,0 +1,41 @@
+{
+  "id": "insp-713",
+  "title": "ClaudeMap：ray-sticker-shop Skill，一张图锁角色做整套微信表情包",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.claudemap.org/en/explore/ray-sticker-shop",
+    "platform": "ClaudeMap",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "中文 Claude Code Skill：一张图锁角色做整套微信表情包，240×240 自动压 500KB 内，附封面、图标、横幅、赞赏图，8 张加 5 配图约 0.7 美元。",
+  "why": "锁角色加自动压包加成套交付（含封面与赞赏图）是微信表情包上架的完整链路，成本数据可参考。",
+  "borrow": [
+    "一张图锁角色再批量出表情的流程",
+    "240×240 自动压 500KB 的做法",
+    "封面、图标、横幅、赞赏图的成套交付清单"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原页核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "微信表情包",
+    "Skill",
+    "Claude Code",
+    "成本"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

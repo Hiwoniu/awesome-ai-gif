@@ -1,0 +1,41 @@
+{
+  "id": "insp-546",
+  "title": "Instagram：Adobe Photoshop 2025 做 GIF，时间轴逐帧教程",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DI8Uk1vO0yZ",
+    "platform": "Instagram",
+    "author": "Adobe UK",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "设计师演示用 Photoshop 2025 做网站 GIF：打开 4 张 PNG、窗口、时间轴、创建帧动画、Make Frames From Layers、循环 Forever、每帧 0.5 秒、文件、导出、Save for Web（Legacy）选 GIF。",
+  "why": "标准逐帧 GIF 工作流加规格很完整：0.5s/帧、Forever 循环、Save for Web 导出，可以当手工逐帧的对照参考。",
+  "borrow": [
+    "标准逐帧 GIF 工作流",
+    "0.5s/帧与 Forever 循环的规格",
+    "Save for Web 导出的收尾"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "非 AI 生成路线，属手工逐帧对照参考；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Photoshop",
+    "逐帧",
+    "工作流",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

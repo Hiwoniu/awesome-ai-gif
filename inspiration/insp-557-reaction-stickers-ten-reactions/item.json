@@ -1,0 +1,42 @@
+{
+  "id": "insp-557",
+  "title": "The Arcades：Reaction Stickers，角色图出 10 张反应贴纸（含可下载 Skill）",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.thearcades.me/projects/reaction-stickers/first-release",
+    "platform": "The Arcades",
+    "author": "The Arcades",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "给一张角色参考图，生成 10 种日常反应（挥手、大笑、困、感谢、点头、摇头、难过、生气、思考、睡觉）的贴纸表，2 列 × 5 行预览，提供可下载的 Skill 与插件包，另有机器人参考图与成品示例可直接试用。",
+  "why": "“10 个常用反应 + 大字标签可开关”的贴纸表结构非常贴合微信表情包的成套打法，且附带可安装的 Skill。",
+  "borrow": [
+    "10 反应清单的选取逻辑",
+    "2 列 × 5 行预览表的排版法",
+    "先出预览、确认后再修单张的迭代流程",
+    "大字标签可开关的设计"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "反应贴纸",
+    "角色一致性",
+    "Skill",
+    "贴纸表"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

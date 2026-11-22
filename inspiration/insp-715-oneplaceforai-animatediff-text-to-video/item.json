@@ -1,0 +1,41 @@
+{
+  "id": "insp-715",
+  "title": "OnePlaceForAI：AnimateDiff 文生视频课，8–32 帧出 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://oneplaceforai.com/learn/lesson/animatediff-text-to-video",
+    "platform": "OnePlaceForAI",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "ComfyUI AnimateDiff 文生视频课：8–32 帧、8fps，beta_schedule 用 sqrt_linear，Video Combine 出 GIF 或 MP4。",
+  "why": "帧数与帧率的取值范围、beta_schedule 的选择是 AnimateDiff 出 GIF 的关键参数。",
+  "borrow": [
+    "8–32 帧、8fps 的参数取向",
+    "beta_schedule 选 sqrt_linear 的经验",
+    "Video Combine 出 GIF 的收尾流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原页核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "AnimateDiff",
+    "ComfyUI",
+    "教程",
+    "文生视频"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

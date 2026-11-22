@@ -1,0 +1,40 @@
+{
+  "id": "insp-1018",
+  "title": "IG @komailify：Gemini Omni 单提示词出紫色玻璃文件夹开合循环 GIF",
+  "type": "posters",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df48BaTSejL/",
+    "platform": "Instagram",
+    "author": "@komailify",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Gemini Omni 单提示词生成紫色玻璃文件夹开合无缝循环 GIF：9:16 竖版、深靛蓝背景、文件夹打开后收回、首尾姿势一致，完整提示词贴在视频里。",
+  "why": "Gemini 原生 GIF 路线的循环提示词结构可直接对照复用；文件夹“开合”动作是产品类循环的现成模板。",
+  "borrow": [
+    "Gemini Omni 单提示词出循环 GIF 的结构",
+    "开合后收回、首尾一致的循环写法",
+    "9:16 竖版循环的构图与背景处理"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Gemini",
+    "循环GIF",
+    "提示词结构"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-590",
+  "title": "Instagram：@ppt.note，饼干吉祥物“仙贝的一天”职场场景时间线",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfZmdkpzwVU/",
+    "platform": "Instagram",
+    "author": "@ppt.note",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 ChatGPT Images 2.6 直接生成 GIF 文件：上传圆形饼干吉祥物“仙贝”静态图，一句话提示词如“仙贝比 OK 手势、弹出 Received 气泡”，即出动态贴纸；再按 09:00 团队群回“收到！”“努力工作！”等职场时间线批量出场景款。",
+  "why": "原创吉祥物 + 场景时间线的系列化做法最接近微信表情包成套打法，气泡文案与场景一一对应。",
+  "borrow": [
+    "同一吉祥物按一天时间线批量出场景款（群聊回复、工作状态）",
+    "动作加气泡文案一句话提示词结构",
+    "静态角色图复用，一句话换动作换文案",
+    "职场场景文案库可直接换中文语境"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "吉祥物",
+    "场景系列",
+    "气泡文案",
+    "职场"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

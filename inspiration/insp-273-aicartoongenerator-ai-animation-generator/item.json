@@ -1,0 +1,41 @@
+{
+  "id": "insp-273",
+  "title": "AI Cartoon Generator：绘本转动画的分镜工作流",
+  "type": "storybooks",
+  "source": {
+    "url": "https://aicartoongenerator.io/ai-animation-generator",
+    "platform": "AI Cartoon Generator",
+    "author": "AI Cartoon Generator",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "把故事想法或已有绘本转成动画：分镜规划、锁定角色参考、配音、字幕、蒙太奇，单项目最多 16 场，导出 MP4。",
+  "why": "“绘本 → 动画”的链路完整，且角色跨场一致是绘本动画的关键，16 场的上限也给了规模参考。",
+  "borrow": [
+    "故事先分镜再逐场动画",
+    "锁定角色参考防走样",
+    "绘本原稿不动、动画另起副本",
+    "配音 + 字幕 + 音乐的成片结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "与池内 insp-061（同站绘本生成器）为不同工具页"
+  },
+  "tags": [
+    "绘本",
+    "动画",
+    "分镜"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

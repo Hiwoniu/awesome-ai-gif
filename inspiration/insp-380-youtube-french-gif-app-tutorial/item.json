@@ -1,0 +1,40 @@
+{
+  "id": "insp-380",
+  "title": "YouTube：法语教程——Images 2.6 实测与自建 GIF 应用",
+  "type": "multi",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=inm4fNkZmWo",
+    "platform": "YouTube",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "法语教程：实测 Images 2.6 做 GIF、单帧修图、存参考图，再用 Claude Code 从零搭本地 GIF 应用。",
+  "why": "“模型出图 + 代码搭应用”的组合路线，单帧修图与参考图复用都讲到了。",
+  "borrow": [
+    "单帧修图",
+    "参考图复用",
+    "自建 GIF 应用思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "视频教程",
+    "Claude Code",
+    "自建应用"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

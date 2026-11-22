@@ -1,0 +1,36 @@
+{
+  "id": "insp-724",
+  "title": "graphic-gif Skill：CSS 动效逐帧抓取转循环 GIF",
+  "type": "posters",
+  "source": {
+    "url": "https://www.typingmind.com/skills/varnan-tech-graphic-gif",
+    "platform": "TypingMind Skills",
+    "author": "Varnan-Tech",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 CSS 动画或 Kling 图生视频生成循环 GIF 的 Skill，默认 800×800 画布、单文件 HTML 加内联 CSS，用 Playwright 逐帧抓取后输出 GIF。",
+  "why": "有完整可复用的工作流与规格（6 种动画类型、帧捕获方法、循环参数表、双路线），CSS 动效转 GIF 的做法池里少见。",
+  "borrow": [
+    "CSS @keyframes 动效转逐帧抓取再合成 GIF 的流程",
+    "固定画布与循环参数的写法",
+    "CSS 路线与图生视频路线的双路线组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["Skill", "CSS动画", "循环GIF", "Playwright", "动态海报"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

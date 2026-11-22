@@ -1,0 +1,39 @@
+{
+  "id": "insp-339",
+  "title": "The Signal：ComfyUI 图生视频搭建指南",
+  "type": "multi",
+  "source": {
+    "url": "https://thesignal.blog/comfyui-video-workflow/",
+    "platform": "The Signal",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "ComfyUI 图生视频分步指南，含 Wan 与 LTX 官方模板下载指引、显存排障与导出检查清单。",
+  "why": "给出“先用官方模板、再排障、最后加音频/放大”的稳妥搭建顺序，附 Wan 2.1 14B 的实测基准。",
+  "borrow": [
+    "官方模板优先的工作流搭建顺序",
+    "首次测试用简单运镜的建议"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "ComfyUI",
+    "图生视频",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

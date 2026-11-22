@@ -1,0 +1,44 @@
+{
+  "id": "insp-993",
+  "title": "Toolsmart：Sora 2 运动控制提示词做 GIF，关键词库加三套循环模板",
+  "type": "multi",
+  "source": {
+    "url": "https://www.toolsmart.ai/blog/sora-2-motion-control-prompt-keywords-for-gifs/",
+    "platform": "Toolsmart 博客",
+    "author": "Toolsmart",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Sora 2 做循环 GIF 的运动控制指南：三拨盘写法、带循环安全标注的关键词库、三套可直接套用的循环模板和四类翻车修复表。",
+  "why": "视频模型出 GIF 最大的坑是循环接缝和主体变形，这篇把运动拆成镜头、动作节拍、时间与物理三个可控拨盘，并给了 4 秒最稳的时长经验。",
+  "borrow": [
+    "三拨盘提示词结构：镜头运动+主体动作节拍+时间/物理关键词",
+    "循环安全关键词表：orbit、pendulum、bob、walk cycle 等只标能循环的词",
+    "三套循环模板结构：散文场景+摄影+动作三段式",
+    "四类翻车对照修复：跳帧、变形、太快、镜头漂移各一招",
+    "先简后繁的工作顺序：一个拨盘跑通再加复杂度"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "原文已打开核实；Sora 2 是视频模型，出的是 4 秒短片，需再转 GIF 才能用。"
+  },
+  "tags": [
+    "Sora 2",
+    "视频转GIF",
+    "循环",
+    "提示词",
+    "运动控制"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

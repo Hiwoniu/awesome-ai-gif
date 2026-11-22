@@ -1,0 +1,41 @@
+{
+  "id": "insp-701",
+  "title": "Nereo：文生/图生 GIF 工具，2–16 帧与五档帧长自由组合",
+  "type": "multi",
+  "source": {
+    "url": "https://www.nereo.io/ai-gif-generator",
+    "platform": "Nereo",
+    "author": "Nereo",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "一句话或一张照片直出循环 GIF 的工具页：2–16 帧可选，帧长 100/200/300/500/1000ms 五档，默认 512×512 方形。",
+  "why": "帧数与帧长自由组合的参数设计比固定档更灵活；按张不按时长计费的思路可作参考。",
+  "borrow": [
+    "帧数与帧长自由组合的参数设计：2–16 帧、五档帧长",
+    "一句话动作描述的提示词写法：一个主体+一个简单动作",
+    "照片做 GIF 时只动指定部位、其余锁死的约束写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原页核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "GIF 生成器",
+    "文生 GIF",
+    "图生 GIF",
+    "帧数参数"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

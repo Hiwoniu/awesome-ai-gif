@@ -1,0 +1,41 @@
+{
+  "id": "insp-984",
+  "title": "LaoZhang：ChatGPT 做 GIF 实测 — 帧数与尺寸的量化规律",
+  "type": "multi",
+  "source": {
+    "url": "https://blog.laozhang.ai/zh/posts/how-to-make-a-gif-in-chatgpt",
+    "platform": "LaoZhang AI Blog",
+    "author": "老张",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "三次实测量化规律：9/16/40 帧三档的每帧尺寸与文件大小对照；调速不重画、改内容会整段重画。",
+  "why": "“帧越多画面越小”的量化对照表；“动作想慢优先加毫秒而非加帧”的参数取舍规则。",
+  "borrow": [
+    "帧数×毫秒=一圈时长的参数写法",
+    "动作想慢优先加毫秒而非加帧的取舍规则",
+    "调速与改内容的代价区分：调速只改时长、改内容整段重画",
+    "下载分当前速度/原始速度两档的提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。"
+  },
+  "tags": [
+    "ChatGPT",
+    "参数实测",
+    "帧数"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-461",
+  "title": "Dev.to：GPT Image 2.6 原生 GIF 验证管线，先定稿静帧再做动作",
+  "type": "unknown",
+  "source": {
+    "url": "https://dev.to/germey/gpt-image-26-build-a-validated-native-gif-pipeline-2nll",
+    "platform": "Dev.to",
+    "author": "germey",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "两阶段管线：先审批静态角色定稿，再生成动作 GIF 并校验存档，附帧数与帧时长参数。",
+  "why": "把先审静帧再做动图写成可复用的管线，含校验与审计记录，适合批量做表情包时照着搭流程。",
+  "borrow": [
+    "先审静帧、再做动作的两阶段流程",
+    "frame_count 2–16 与帧时长的参数范围",
+    "生成后校验与存档的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "文末声明为推广任务、AI 辅助、代码未实际执行，当作思路参考而非实测。"
+  },
+  "tags": [
+    "工作流",
+    "验证管线",
+    "GPT-Image-2.6",
+    "批量生产"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

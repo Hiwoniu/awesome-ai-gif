@@ -1,0 +1,41 @@
+{
+  "id": "insp-420",
+  "title": "YingTu：AI 表情包制作，一张照片生成整套表情",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://yingtu.ai/zh/sticker-maker",
+    "platform": "YingTu",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "上传自拍或宠物照、或写角色描述，一次生成同一角色 9 或 16 张表情，自动抠图切单张，按微信、Telegram、WhatsApp、LINE 等平台尺寸导出，附各平台规格表与模型计价。",
+  "why": "各平台导出规格表非常完整（微信 240×240 GIF 不超过 500KB、投稿 8–24 张等），可直接作项目规格参考。",
+  "borrow": [
+    "多平台导出规格对照表",
+    "一次成套加自动去底切图的流程",
+    "按模型计价的成本结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；页面明确说明产出均为静态表情，仅规格表与流程可借，无动态 GIF 生成能力。"
+  },
+  "tags": [
+    "表情包生成器",
+    "平台规格",
+    "抠图",
+    "批量导出"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

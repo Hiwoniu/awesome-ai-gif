@@ -1,0 +1,41 @@
+{
+  "id": "insp-515",
+  "title": "Hugging Face：LCM 加 AnimateDiff 官方文档，4–8 步推理加速动画生成",
+  "type": "multi",
+  "source": {
+    "url": "https://huggingface.co/docs/diffusers/api/pipelines/latent_consistency_models",
+    "platform": "Hugging Face",
+    "author": "Hugging Face Diffusers 团队",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "LCM（潜在一致性模型）与 AnimateDiff 结合的官方文档：LCM-LoRA 让每帧只需 4–8 步推理，大幅加速动画生成；示例代码含 MotionAdapter 加 LCMScheduler 加 zoom-in 运动 LoRA，export_to_gif 直接出 GIF。",
+  "why": "LCM 加速加运动 LoRA 的低成本本地动画路线很实用：每帧 4–8 步就能出动画，批量出 GIF 的成本大降；代码骨架可以直接跑。",
+  "borrow": [
+    "LCM 加速加运动 LoRA 的低成本路线",
+    "MotionAdapter 加 LCMScheduler 的代码骨架",
+    "export_to_gif 直接出 GIF 的收尾"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；官方文档，代码示例可直接跑。"
+  },
+  "tags": [
+    "LCM",
+    "AnimateDiff",
+    "Diffusers",
+    "加速"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

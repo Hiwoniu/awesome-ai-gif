@@ -1,0 +1,40 @@
+{
+  "id": "insp-552",
+  "title": "Threads：Skill Leap AI 草图小鸟变挥手吉祥物循环 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@skillleapai/post/Dfk4uZoEYI1",
+    "platform": "Threads",
+    "author": "Skill Leap AI",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "创作者给 ChatGPT 一张蓝围巾圆小鸟草图，先提示 turn this into a clean, flat cartoon mascot（保留蓝围巾），再让它挥手循环；两段式提示词加草图到吉祥物再到循环 GIF 的工作流。",
+  "why": "两段式提示词很干净：先净化成扁平卡通吉祥物、再指定循环动作；草图到吉祥物再到循环 GIF 的工作流可以直接抄。",
+  "borrow": [
+    "先净化成吉祥物再指定循环动作的两段式提示词",
+    "草图到吉祥物再到循环 GIF 的工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "草图",
+    "吉祥物",
+    "挥手",
+    "Threads"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

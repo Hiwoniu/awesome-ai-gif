@@ -1,0 +1,38 @@
+{
+  "id": "insp-392",
+  "title": "mindwisedai：几分钟做 AI 视频与 GIF——三工具对照指南",
+  "type": "multi",
+  "source": {
+    "url": "https://mindwisedai.blogspot.com/2026/11/make-ai-videos-and-gifs-in-minutes.html",
+    "platform": "mindwisedai",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "ChatGPT Images 2.6、Gemini Omni 与 Google Vids 三工具对照的 AI 视频与 GIF 速成指南。",
+  "why": "三工具对照的选型思路，GIF 在视频工作流里的位置讲得清楚。",
+  "borrow": [
+    "多工具对照选型",
+    "GIF 在视频流里的位置"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "指南",
+    "多工具对照"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

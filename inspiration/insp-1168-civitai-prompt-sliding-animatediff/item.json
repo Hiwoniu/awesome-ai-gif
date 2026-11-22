@@ -1,0 +1,40 @@
+{
+  "id": "insp-1168",
+  "title": "Civitai：AnimateDiff 提示词滑动做两态循环",
+  "type": "multi",
+  "source": {
+    "url": "https://civitai.com/articles/3335/prompt-sliding-animatediff-technique",
+    "platform": "Civitai",
+    "author": "",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "AnimateDiff 提示词滑动技法：双姿态提示词加权重渐变做两态循环，附参数。",
+  "why": "两态循环的权重控制方法具体，附 24 帧/10fps 与 seed 参数。",
+  "borrow": [
+    "双姿态提示词+权重渐变的滑动写法",
+    "prompt travel 做闭环的思路",
+    "24 帧/10fps 的参数取法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实。"
+  },
+  "tags": [
+    "AnimateDiff",
+    "提示词滑动",
+    "循环动画"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

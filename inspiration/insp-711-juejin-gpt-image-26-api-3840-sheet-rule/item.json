@@ -1,0 +1,43 @@
+{
+  "id": "insp-711",
+  "title": "掘金：GPT Image 2.6 API 实战，帧图集 3840 规则与标注图改图",
+  "type": "multi",
+  "source": {
+    "url": "https://juejin.cn/post/7704340730977746959",
+    "platform": "掘金",
+    "author": "apimodels.app",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-05 实测：6 帧 1024 方图失败、832 成功，揭示 GIF 帧图集长边≤3840 的排布规则与 frame_count/frame_duration_ms 参数，另附透明标注图指挥改图的完整流程与成本。",
+  "why": "帧图集 3840 规则是池里没有的硬性约束，直接决定 API 出 GIF 时单帧能给多大；标注图改图是局部改图不重画的新路。",
+  "borrow": [
+    "帧图集 3840 规则：帧数先向上取 2 的幂排网格",
+    "单帧上限速查：5–8 帧短边≤960、9–16 帧两边≤960",
+    "发请求前先算图集尺寸的校验函数思路",
+    "透明标注图指挥局部改图的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实；示例为原创蓝色机器人吉祥物与线稿小鸟，只借帧图集 3840 规则与标注图改图做法。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "API",
+    "掘金",
+    "实测",
+    "规格"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

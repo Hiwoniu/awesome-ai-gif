@@ -1,0 +1,39 @@
+{
+  "id": "insp-1178",
+  "title": "IG @googleindia：照片变 16-bit 游戏角色再变可玩动画",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/p/DPGoGESERLx/",
+    "platform": "Instagram",
+    "author": "@googleindia",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "照片变 16-bit 游戏角色再变可玩动画（Gemini/Nano Banana + Veo 3），三页递进演示。",
+  "why": "“照片→像素角色→游戏动画”的管线是新角度。",
+  "borrow": [
+    "照片→像素角色→游戏动画的三段管线",
+    "三页递进的演示组织"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；2025-09-27 旧帖；涉及照片起手，须用原创角色、不用真人照片。"
+  },
+  "tags": [
+    "Instagram",
+    "像素角色",
+    "游戏动画"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

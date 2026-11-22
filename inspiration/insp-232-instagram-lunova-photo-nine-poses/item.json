@@ -1,0 +1,40 @@
+{
+  "id": "insp-232",
+  "title": "Instagram @___lunova___：一张照片出 9 个动态姿势",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DTQKwOkEbFi/",
+    "platform": "Instagram",
+    "author": "@___lunova___",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "录屏展示一段完整提示词：把上传照片转成 Instagram / Bitmoji 风 2D 插画、粗描边、透明底，一次出 9 个带动作的表情（开心、难过、兴奋、饿、累、大笑、哭等），成品直接进聊天软件贴纸栏。",
+  "why": "提示词全文出镜可复用，且是“一次出 9 个动态姿势”的成套打法，终点落在真实聊天贴纸栏，闭环完整。",
+  "borrow": [
+    "九姿势一次生成的提示词结构",
+    "Bitmoji 风 + 粗描边 + 透明底的风格定语",
+    "成品落进贴纸栏的验证方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录；演示用上传照片，仅借方法；不抄出镜的提示词原文"
+  },
+  "tags": [
+    "Instagram",
+    "贴纸",
+    "成套"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

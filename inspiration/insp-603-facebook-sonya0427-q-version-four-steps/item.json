@@ -1,0 +1,41 @@
+{
+  "id": "insp-603",
+  "title": "Facebook：sonya0427，Q 版 GIF 四步信息图：定角色—拆解小动作—锁一致性",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/sonya0427/posts/pfbid02HQyvriwqPmRyxxPGD2P7eyDLsNSU62wiCBpEnDzn11sWb5TQJEYUvJVe4vKzzQgil",
+    "platform": "Facebook",
+    "author": "sonya0427",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "粉色四步信息图教程：1）上传清晰照片定角色（发型、服装、画风）；2）把动作拆成小动作（打字→抬头→微笑→挥手→回打字）；3）锁一致性（只变表情手势，角色、镜头、场景不动）；4）生成 GIF。",
+  "why": "“动作拆解 + 锁一致性”是本轮中文教程里讲得最清楚的方法论，适合当作动作类 GIF 的通用拆解模板。",
+  "borrow": [
+    "把一个动作拆成 4～5 个小动作的拆解法",
+    "只变表情手势、其余全锁的一致性规则",
+    "定角色三要素（发型/服装/画风）的前置步骤"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "动作拆解",
+    "一致性",
+    "信息图",
+    "Q版"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

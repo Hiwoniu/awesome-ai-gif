@@ -1,0 +1,43 @@
+{
+  "id": "insp-1151",
+  "title": "Chrome Geek：Gemini 原生 GIF 制作教程，约 3 秒循环",
+  "type": "multi",
+  "source": {
+    "url": "https://www.chromegeek.com/gemini-gif-creation-omni/",
+    "platform": "Chrome Geek",
+    "author": "Chrome Geek",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "Gemini 应用原生 GIF 功能的操作指南：文字或图片/视频输入，约 3 秒循环，可复制粘贴或下载 .gif。",
+  "why": "步骤具体到格式选择器与输入上限（最多 5 张图或 1 个视频），并列出订阅、年龄、国家等可用条件，适合对照做 Gemini 路线的 GIF。",
+  "borrow": [
+    "GIF 格式选择器的操作路径：Create video 入口或直接说 Create a GIF of…",
+    "输入规格：文字提示或最多 5 张图/1 个视频",
+    "约 3 秒循环、复制粘贴进聊天/邮件/文档的交付方式",
+    "同对话追问改图的迭代思路：换物件、改场景",
+    "可用条件清单：Google AI 订阅、18 岁以上、8 个国家、逐步推送"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "功能需付费订阅且分国家逐步推送，国内不可用；只借操作流程与规格，不照搬示例画面。"
+  },
+  "tags": [
+    "Gemini",
+    "Gemini Omni 1.2 Flash",
+    "GIF 教程",
+    "反应 GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

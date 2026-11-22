@@ -1,0 +1,40 @@
+{
+  "id": "insp-1023",
+  "title": "Threads @designrock：3 秒循环眨眼 GIF，GridSticker 工具链",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@designrock/post/DffJfMbE08P",
+    "platform": "Threads",
+    "author": "@designrock",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "3 秒循环眨眼 GIF 教程：4×2 静态贴纸→转视频→ GridSticker 导入裁剪导出。",
+  "why": "静态贴纸转循环 GIF 的工具链完整；眨眼这类小幅动作的时长取舍可直接借。",
+  "borrow": [
+    "静态贴纸转循环 GIF 的工具链",
+    "GridSticker 导入裁剪导出的操作",
+    "小幅眨眼动作的循环时长取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "眨眼循环",
+    "工具链",
+    "微信表情包"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

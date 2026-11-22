@@ -1,0 +1,35 @@
+{
+  "id": "insp-857",
+  "title": "IG @Carlz J Söda：手绘直升机变飞行游戏（Higgsfield 插件）",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df509PwS1bR/",
+    "platform": "Instagram",
+    "author": "@Carlz J Söda",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "纸上手绘直升机拍照上传 ChatGPT，加 Higgsfield 插件、GPT-6.2 Astra 模型转成飞行游戏场景。",
+  "why": "手绘草图直通游戏场景的路线：纸上涂鸦拍照就能当素材，插件加新模型接力出游戏画面，适合手绘风循环 GIF 的起手。",
+  "borrow": [
+    "纸上手绘拍照当素材的起手做法",
+    "手绘加插件加新模型三段接力的游戏场景路线"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["手绘", "Higgsfield", "游戏", "图生GIF", "Instagram"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

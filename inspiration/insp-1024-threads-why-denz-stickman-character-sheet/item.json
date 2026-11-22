@@ -1,0 +1,40 @@
+{
+  "id": "insp-1024",
+  "title": "Threads @why_denz：火柴人动画工作流，30 角度角色表先行",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@why_denz/post/DfGum28oUCn",
+    "platform": "Threads",
+    "author": "@why_denz",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "火柴人动画工作流：ChatGPT 出 30 角度角色表＋表情姿势，再做动画。",
+  "why": "角色表先行的思路——先定多角度角色表再做动画，换角色可复用同一套流程。",
+  "borrow": [
+    "30 角度角色表先行的工作流",
+    "角色表加表情姿势的组织方式",
+    "火柴人这类简笔画角色的动效做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "角色表",
+    "动画工作流",
+    "火柴人"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

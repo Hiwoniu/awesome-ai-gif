@@ -1,0 +1,42 @@
+{
+  "id": "insp-1044",
+  "title": "image-2.net：GPT Image 2.6 GIF 动图教程，一句话生成循环表情",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://image-2.net/zh-cn/blog/gpt-image-2-6-gif-animation-tutorial/",
+    "platform": "image-2.net 博客",
+    "author": "Image-2 团队",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "8 段实测动画全放出（含失败例），循环提示词五段式模板，帧数乘时长乘积分规格表，踩坑分析。",
+  "why": "本轮中文教程里规格最全：帧数 4、6、8、12、16，每帧时长、积分价目，失败复盘对避坑最有用。",
+  "borrow": [
+    "五段式循环提示词模板：主体到动作来回再到不动项再到首尾一致",
+    "帧数与时长搭配规则",
+    "参考图动起来做法",
+    "失败复盘清单：动作太细看不出动、场景变化循环接不上"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "中文版，与英文版同文，只收中文版这一条；子代理打开原文核实。"
+  },
+  "tags": [
+    "教程",
+    "GPT Image 2.6",
+    "循环",
+    "规格"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

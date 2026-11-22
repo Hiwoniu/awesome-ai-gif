@@ -1,0 +1,39 @@
+{
+  "id": "insp-773",
+  "title": "Threads @upgle.me：一张照片出 GIF 三步指南",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@upgle.me/post/DfcFEaaGExn",
+    "platform": "Threads",
+    "author": "해뷰리",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "上传图片、要求做动 GIF、追加一句保证平滑无缝循环的分步指南。",
+  "why": "追加一句保无缝循环的提示词是极简做法，可作零基础流程参考。",
+  "borrow": [
+    "三步极简流程：上传图、要求做动 GIF、追加无缝循环句",
+    "无缝循环的追加句写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Threads",
+    "零基础",
+    "无缝循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

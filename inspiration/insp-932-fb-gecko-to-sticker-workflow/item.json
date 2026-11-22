@@ -1,0 +1,39 @@
+{
+  "id": "insp-932",
+  "title": "Facebook：把壁虎照片变贴纸的工作流",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/saveouramazingearth/posts/pfbid02ybdmrd73tfBXSSTGWCauGnnCgp2TqpXDVURk2cyx93eKSFbDHLFP8zN1i4wHqfVpl",
+    "platform": "Facebook",
+    "author": "Save Our Amazing Earth",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "黑底霓虹绿信息图：把壁虎照片变贴纸的 AI 工作流（11 月 16 日）。",
+  "why": "动物/实物照片→贴纸的流程框架完整，黑底霓虹配色也可作贴纸视觉参考。",
+  "borrow": [
+    "实物照片变贴纸流程框架",
+    "黑底霓虹配色参考"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "实物照片",
+    "贴纸流程",
+    "Facebook"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

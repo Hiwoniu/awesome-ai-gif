@@ -1,0 +1,41 @@
+{
+  "id": "insp-254",
+  "title": "Instagram @buncosmos：RoboBun 系列 GIF（H3 MiniMax for GIPHY）",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/p/DfW0UTqiFmn/",
+    "platform": "Instagram",
+    "author": "@buncosmos",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "原创角色 Bum/Bun 与机器人 RoboBun 的三段循环 GIF（问候蒙太奇、太空跳舞、AI 失控开箱），用 H3 MiniMax 制作并上 GIPHY。",
+  "why": "原创角色 + 工具链 + GIPHY 分发全链路的完整案例，角色一致性做得好。",
+  "borrow": [
+    "同一角色多场景问候 GIF",
+    "H3 MiniMax 出 GIF 再上 GIPHY",
+    "角色设定先行再做动作"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录；只借方法"
+  },
+  "tags": [
+    "Instagram",
+    "原创角色",
+    "GIPHY",
+    "MiniMax"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

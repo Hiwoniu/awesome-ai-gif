@@ -1,0 +1,35 @@
+{
+  "id": "insp-955",
+  "title": "Threads @med_ai__：字符拼成爱心的 4.8 秒无缝循环",
+  "type": "posters",
+  "source": {
+    "url": "https://www.threads.com/@med_ai__/post/DfcF_j-Ku7q",
+    "platform": "Threads",
+    "author": "@med_ai__",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "字符拼成爱心的 4.8 秒无缝循环动画，文字本身构成图形再整体动起来。",
+  "why": "字符画加循环动效的构图在池里很少：文字既是内容又是图形，适合做动态海报里的字形动效参考。",
+  "borrow": [
+    "字符拼图形的循环构图",
+    "4.8 秒无缝循环的时长口径"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；只借字符构图与循环做法"
+  },
+  "tags": ["Threads", "字符画", "循环构图", "动态海报"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

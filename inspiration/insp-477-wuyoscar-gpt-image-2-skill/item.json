@@ -1,0 +1,42 @@
+{
+  "id": "insp-477",
+  "title": "GitHub：GPT Image 2 Skill，171 条提示词画廊加双 Skill 与 CLI",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/wuyoscar/gpt_image_2_skill/tree/main/skills/gpt-image",
+    "platform": "GitHub",
+    "author": "wuyoscar",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2/2.5/2.6 的提示词库（171 条、31 个分类）加两个 Agent Skill 与命令行工具，可把 8 格精灵图本地拼成 GIF。",
+  "why": "提示词画廊加 Skill 加 CLI 三件套：分类结构可直接借来组织我们自己的提示词库，两段式工作流值得抄。",
+  "borrow": [
+    "171 条提示词的 31 分类组织法",
+    "先出图再 animate 精灵图的两段式工作流",
+    "本地拼 GIF 的格数与时长参数"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开 GitHub 原仓库核实，仅凭搜索摘要与镜像页收录；画廊以静态图为主，GIF 部分只占一小节。"
+  },
+  "tags": [
+    "Skill",
+    "提示词画廊",
+    "sprite-sheet",
+    "CLI",
+    "GPT-Image"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

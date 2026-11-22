@@ -1,0 +1,40 @@
+{
+  "id": "insp-698",
+  "title": "Typefully 转载 @Nimentrix：Nano Banana Pro 角色表情表教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://typefully.com/nimentrix/character-expression-sheet-tutorial-td82bxW",
+    "platform": "Typefully",
+    "author": "@Nimentrix",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "11 月 19 日发布的 X 长帖转载：用 Nano Banana Pro 做角色多表情参考表，先单图生成表情表，再用“锁定同一版式”的句式把任意表情用于后续漫画/视频场景。",
+  "why": "“表情表先行、再套用到场景”的两段式提示词结构：先锁定角色表情参考表，再用表情表反哺 GIF/视频动作，对表情包角色一致性有直接借鉴价值；原帖 x.com 直达链接未找到，需后续用已登录浏览器补找。",
+  "borrow": [
+    "表情表先行、再套用到场景的两段式提示词结构",
+    "先锁定角色表情参考表的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "wechat-stickers",
+    "表情表",
+    "Nano Banana Pro",
+    "角色一致性"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

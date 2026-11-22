@@ -1,0 +1,40 @@
+{
+  "id": "insp-780",
+  "title": "VdoBloom：首尾同帧法做无缝循环与回旋视频",
+  "type": "multi",
+  "source": {
+    "url": "https://vdobloom.com/blog/seamless-loop-video-ai/",
+    "platform": "VdoBloom",
+    "author": "VdoBloom",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "首尾同帧法做无缝循环：同一张照片锁定为首帧和尾帧，另有给现成视频补 3–5 秒回桥的路线；Kling 3.0、Seedance 2、Wan 3.0 等 7 个首尾帧模型对照，可导出 GIF/WebP。",
+  "why": "首尾同帧锁循环的方法与循环适用的环境动效清单可直接借。",
+  "borrow": [
+    "首尾同帧锁循环的方法：同一张照片做首帧和尾帧",
+    "给现成视频补 3–5 秒回桥的路线",
+    "循环适用的环境动效清单：呼吸、水波、飘尘"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "无缝循环",
+    "首尾帧",
+    "视频转GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "insp-406",
+  "title": "Dappi：iPhone AI 搞笑贴纸，照片到配方再到 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://dappistickers.com/funny-stickers",
+    "platform": "Dappi",
+    "author": "Dappi",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "iPhone 贴纸 App：从熟人照片出发，用“配方”（大哭、震惊、秃头等）或自定义 AI Sticker 生成动画贴纸，以 GIF 发到 iMessage，在 WhatsApp 里以动态贴纸到达。",
+  "why": "“配方加照片加笑点文案”的三段式贴纸生成法，对表情包选题（先有梗、再有图）有直接参考。",
+  "borrow": [
+    "配方库做冷启动",
+    "照片加笑点先于画风的创作顺序",
+    "GIF 跨 App 投递的落点",
+    "免费版先做静态、AI 动画走积分的形态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "贴纸App",
+    "AI贴纸",
+    "配方",
+    "iPhone",
+    "GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

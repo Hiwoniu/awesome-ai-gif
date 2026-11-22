@@ -1,0 +1,40 @@
+{
+  "id": "insp-827",
+  "title": "小亦/花叔：Seedream 5.5 出多格精灵图再切帧拼 GIF 表情包",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://yilearnai.com/seedream-5-5-cases/huashu-gif-stickers-mixed",
+    "platform": "小亦的 AI 学习实验室",
+    "author": "花叔",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Seedream 5.5 出 4 列×2 行、8 帧透明背景精灵图（字幕由模型直接画上），再用 Python 按脚下与字幕位置对齐切帧，合成 200ms/帧、480×480 循环透明 GIF（另存 240×240）。",
+  "why": "先定角色设定图再批量出精灵图、按脚下与字幕对齐切帧的做法可直接套用。",
+  "borrow": [
+    "先定 Q 版角色设定图再批量出精灵图的顺序：设定图当唯一参考，不再重复给照片",
+    "按角色脚下与字幕位置对齐切帧、200ms 每帧、480×480 另存 240×240 的规格"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "原文已打开核实；原帖未公开全部出图提示词，仅「下班！」一例与切帧指令公开。"
+  },
+  "tags": [
+    "Seedream-5.5",
+    "精灵图",
+    "切帧",
+    "微信表情包"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

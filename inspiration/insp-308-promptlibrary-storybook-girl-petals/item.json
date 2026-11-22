@@ -1,0 +1,38 @@
+{
+  "id": "insp-308",
+  "title": "Prompt Library：绘本女孩读书花瓣飘落动效（留白+微动）",
+  "type": "storybooks",
+  "source": {
+    "url": "https://promptlibrary.org/midjourney/storybook-girl-reading-petals/",
+    "platform": "Prompt Library",
+    "author": "Prompt Library",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Midjourney 绘本风动效提示案例：女孩读书、花瓣飘落、窗边花草轻摆，强调大面积留白墙面全程不动。",
+  "why": "留白构图+局部微动的绘本动效范式。",
+  "borrow": [
+    "留白区域静止、只动花瓣与发丝的克制动效"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "绘本",
+    "提示词",
+    "微动"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

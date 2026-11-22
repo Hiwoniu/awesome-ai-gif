@@ -1,0 +1,41 @@
+{
+  "id": "insp-1131",
+  "title": "Sadesign：Gemini 把静图变成生动 GIF 的分步教程",
+  "type": "multi",
+  "source": {
+    "url": "https://sadesign.ai/how-to-turn-still-images-into-lively-gifs-using-gemini-in-just-a-few-steps",
+    "platform": "Sadesign.ai",
+    "author": "Sadesign",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "用 Gemini 的 Create video 功能把静态照片做成动态视频、再转 GIF 的完整流程。",
+  "why": "按风景、人像、产品、海报分场景写“动什么、怎么动、什么不变”的提示词结构，分场景组织可直接套用到我们的类型上。",
+  "borrow": [
+    "按内容分场景的提示词写法：风景、人像、产品、海报各写什么动、什么不动",
+    "“动什么、怎么动、什么必须不变”的提示词结构",
+    "视频转 GIF 的收尾流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实；走视频转 GIF 路线，文中明确该流程下 Gemini 不直接出 GIF 文件，与原生 GIF 功能是两条路"
+  },
+  "tags": [
+    "Gemini",
+    "视频转GIF",
+    "提示词结构",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

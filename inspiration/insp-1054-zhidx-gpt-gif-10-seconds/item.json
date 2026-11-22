@@ -1,0 +1,41 @@
+{
+  "id": "insp-1054",
+  "title": "智东西：GPT 能做动图了！10 秒一张，实测“穿帮”有点多",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://zhidx.com/p/607614.html",
+    "platform": "智东西",
+    "author": "陈骏达",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "媒体实测，动图 10–15 秒一张，穿帮案例：汽车轨迹、人物碰撞、后空翻物理错误，思考量档位影响动作流畅度，附 Flare 与 Sunburst 定价与单张成本估算。",
+  "why": "媒体视角的失败复盘加成本数据，思考量影响动图质量是独特发现。",
+  "borrow": [
+    "穿帮验收清单",
+    "思考量档位用法",
+    "成本估算"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "子代理打开原文核实。"
+  },
+  "tags": [
+    "实测",
+    "媒体",
+    "穿帮",
+    "成本"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

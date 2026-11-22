@@ -1,0 +1,42 @@
+{
+  "id": "insp-325",
+  "title": "Chloe：ChatGPT 六格分镜 + Claude 合成无缝循环 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://chloe.hobbyland-group.com/article/claude-sprite-sheet-gif-loop",
+    "platform": "Chloe Makes Design",
+    "author": "Chloe",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "实测流程：ChatGPT 一次画出 3×2 六格分镜图，再交给 Claude 写脚本按白格线切图、合成无限循环 GIF，另附一段可直接贴进网页的横条动画代码。",
+  "why": "全流程真实跑通且细节完整（六格同次生成保一致、只动一个部位、白色格线辅助切图），提示词结构是“网格+对齐约束+循环收尾”的清晰模板；还覆盖网页嵌入这条池内少见的用法。",
+  "borrow": [
+    "六格同生保一致的手法",
+    "用格线辅助程序化切图的思路",
+    "“只动一个部位”的循环设计原则",
+    "GIF+网页横条双交付"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "精灵图",
+    "六格分镜",
+    "Claude",
+    "网页嵌入"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

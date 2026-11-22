@@ -1,0 +1,41 @@
+{
+  "id": "insp-707",
+  "title": "Ciyo：GPT Image 2.6 GIF 教程，Sunburst 实测 9 帧气球漂移循环",
+  "type": "multi",
+  "source": {
+    "url": "https://ciyo.ai/blog/gpt-image-2-6-gif-tutorial",
+    "platform": "Ciyo 博客",
+    "author": "Ciyo",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Ciyo 的 GPT Image 2.6 GIF 教程：Sunburst 实测 9 帧×200ms 气球漂移循环，指出末帧未回正会跳帧。",
+  "why": "同一作者的 Nano Banana 工作流已在池里（insp-672），这篇补了 Sunburst 直出 GIF 的实测参数与跳帧避坑点。",
+  "borrow": [
+    "9 帧×200ms 的循环默认值",
+    "末帧回正的跳帧检查",
+    "Sunburst 直出 GIF 的实测流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原页核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "Sunburst",
+    "循环 GIF",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

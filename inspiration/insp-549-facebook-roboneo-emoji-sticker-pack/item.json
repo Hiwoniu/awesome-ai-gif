@@ -1,0 +1,40 @@
+{
+  "id": "insp-549",
+  "title": "Facebook：RoboNeo，iOS emoji 风 3D 贴纸加 5 秒动态包",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/1064758779180176",
+    "platform": "Facebook",
+    "author": "翻转大马吃喝玩乐 Eat Pray Love",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "中文教程，演示 RoboNeo App：下载、对话界面输入提示词（学 iOS emoji 风格、生成 3D 贴纸加 5 秒动态包）、选照片、出静态贴纸、动态 5 秒动画与合成图。",
+  "why": "提示词写法很具体：指定 emoji 风格加动态包时长；App 内工作流（提示词、选图、出静态加动态两套产物）也很完整。",
+  "borrow": [
+    "指定 emoji 风格加动态包时长的提示词写法",
+    "静态加动态两套产物的 App 工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "RoboNeo",
+    "3D贴纸",
+    "动态包",
+    "Facebook"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

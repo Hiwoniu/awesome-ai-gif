@@ -1,0 +1,45 @@
+{
+  "id": "insp-1141",
+  "title": "Imaginode：AI 电影片头——字不动、背景活的标题卡工作流",
+  "type": "posters",
+  "source": {
+    "url": "https://imaginode.ai/en/tools/ai-film-title-sequence",
+    "platform": "Imaginode",
+    "author": "Imaginode",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "用图模型写标题卡、视频模型只动背景的影片片头工作流：两张卡十秒，约 158 credits。",
+  "why": "“图模型写字、视频模型只动背景”解决了视频模型写字抖动变形的老问题，同一字体多卡片串联的思路可直接用于动态海报的标题动效。",
+  "borrow": [
+    "图模型写字、视频模型只动背景的分工",
+    "第二张卡从第一张卡接线、锁定同一字体与背景",
+    "视频提示词先写“字不动”再写背景动效",
+    "两卡淡入淡出串成十秒片头的蒙太奇结构",
+    "每张卡只放一两行字的排版克制"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "输出为 720p MP4 视频，需自行转 GIF；演示称字完全不动，但长词仍可能抖动，需逐张验收；已打开原文核实。"
+  },
+  "tags": [
+    "posters",
+    "片头",
+    "标题卡",
+    "Nano Banana Pro",
+    "Wan 3.0",
+    "文字不动"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

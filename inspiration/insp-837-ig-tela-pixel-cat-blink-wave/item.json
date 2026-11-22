@@ -1,0 +1,39 @@
+{
+  "id": "insp-837",
+  "title": "IG Tela：像素猫眨眼挥手，透明底 baked 成棋盘格的坑",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfyjnuXJWkK/",
+    "platform": "Instagram",
+    "author": "Tela",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "像素猫眨眼加挥手循环，动作要小才自然；透明底会 baked 成棋盘格的坑。",
+  "why": "动作要小的循环原则与透明底棋盘格的坑可直接写进验收清单。",
+  "borrow": [
+    "动作要小才自然的循环原则：像素猫眨眼加挥手",
+    "透明底 baked 成棋盘格的失败模式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "像素猫",
+    "透明底"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "insp-988",
+  "title": "VdoBloom：Nano Banana 逐帧画 GIF 工具，七种动作风格",
+  "type": "multi",
+  "source": {
+    "url": "https://vdobloom.com/ai-gif-generator/",
+    "platform": "VdoBloom",
+    "author": "VdoBloom",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Nano Banana 逐帧画 GIF 的工具：3/5/8/10 帧、512/768/1024px，七种动作风格（行走/飞翔/跳舞/旋转/流动/变形/通用），首帧定稿后逐帧续画保一致，每帧 200–1000ms 可调。",
+  "why": "七种动作风格的分类可直接作提示词库；首帧定稿、后续帧只改动作的一致性方法值得借。",
+  "borrow": [
+    "七种动作风格分类",
+    "首帧定稿、后续帧只改动作的一致性方法",
+    "帧数/尺寸/帧延迟参数组合"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["工具", "Nano Banana", "逐帧"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-21", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-620",
+  "title": "Facebook：8 条提示词把静态照片变成动态 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/GraphicsSolutionTricks/posts/pfbid02FXmeK7eofVsaYx3jaHaeNY7d2bUrdxmZjjrqWMXj2xPzhbAuthC5e533NTaSNMMjl",
+    "platform": "Facebook",
+    "author": "GraphicsSolutionTricks",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "8 条现成提示词，教用户把静态照片转为可发送的动态 GIF。",
+  "why": "一次给齐 8 条照片变动效提示词，适合做照片动起来方向的提示词库。",
+  "borrow": [
+    "照片变动效提示词",
+    "8 条成套",
+    "静态转动态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "帖子示例是别人的照片，只借提示词的组织方式，不抄原文。"
+  },
+  "tags": [
+    "照片转 GIF",
+    "提示词库",
+    "Facebook"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

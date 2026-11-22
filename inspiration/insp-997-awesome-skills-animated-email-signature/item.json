@@ -1,0 +1,43 @@
+{
+  "id": "insp-997",
+  "title": "Animated email signature：HTML 动效卡片转循环 GIF 邮件签名的 Claude Skill",
+  "type": "signatures",
+  "source": {
+    "url": "https://www.awesomeskills.dev/en/skill/him4318-animated-email-signature",
+    "platform": "Awesome Skills",
+    "author": "him4318",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Claude Code Skill：读品牌官网后用 HTML 动效卡片渲染出 1200×340、约 11 秒、1MB 内的循环 GIF 邮件签名，附团队签名页。",
+  "why": "“HTML 动效转 GIF”路线有完整规格与验收脚本，首帧兜底的思路对签名类 GIF 通用。",
+  "borrow": [
+    "HTML 动效转 GIF 路线：先写 HTML 动效卡片再渲染成 GIF",
+    "首帧必须是完整品牌卡：老版 Outlook 只显示首帧",
+    "循环必须精确回到首帧的验收要求",
+    "只做小面积动效控体积：1200×340、约 11 秒、1MB 内",
+    "render.mjs 校验脚本思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实（2026-11-16 更新）。"
+  },
+  "tags": [
+    "动态签名",
+    "Skill",
+    "Claude Code",
+    "HTML 动效"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

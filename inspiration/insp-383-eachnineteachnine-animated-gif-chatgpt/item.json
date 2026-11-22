@@ -1,0 +1,40 @@
+{
+  "id": "insp-383",
+  "title": "eachnineteachnine：ChatGPT 动画 GIF——可行与不可行",
+  "type": "multi",
+  "source": {
+    "url": "https://www.eachnineteachnine.com/post/how-to-make-animated-gif-chatgpt",
+    "platform": "eachnineteachnine",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "ChatGPT 做动画 GIF 的实测手记：哪些可行、哪些不行，放在创作者工作流里的位置。",
+  "why": "“可行/不可行”的对照写法很实用，能帮我们少踩坑。",
+  "borrow": [
+    "可行与不可行对照",
+    "工作流落点",
+    "实测手记结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "教程",
+    "实测",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

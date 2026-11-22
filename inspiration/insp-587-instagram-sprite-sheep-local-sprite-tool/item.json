@@ -1,0 +1,42 @@
+{
+  "id": "insp-587",
+  "title": "Instagram：Sprite Sheep 0.0.5，免费本地 AI 精灵表工具，一键出 5 种动作",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DdzbuKLulmm/",
+    "platform": "Instagram",
+    "author": "@sprite_sheep",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "免费本地 AI 工具 Sprite Sheep 0.0.5 演示：输入一张 ChatGPT 画的角色图，一键排队生成 IDLE、RUN、JUMP、CROUCH、HURT 五种平台动作，每种出循环动画 + 5×5 共 25 帧精灵表 + GIF + 日志，并有游戏实机跑跳演示。",
+  "why": "本地工具 + 动作库 + 实机演示三者齐全，是做游戏风动态表情/像素角色最完整的工具型候选。",
+  "borrow": [
+    "一次输入、五种动作并行生成的动作库思路",
+    "每动作 25 帧精灵表加 GIF 加日志的成套输出",
+    "游戏实机演示验证循环与动作可读性",
+    "本地运行，适合批量做原创角色动作集"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "工具",
+    "精灵表",
+    "动作库",
+    "本地AI"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

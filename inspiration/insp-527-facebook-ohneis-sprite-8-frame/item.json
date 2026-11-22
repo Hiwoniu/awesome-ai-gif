@@ -1,0 +1,41 @@
+{
+  "id": "insp-527",
+  "title": "Facebook：Ohneis 精灵表 8 帧 4×2 网格教程，6 帧×200ms 循环规格",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/reel/1631174461800684",
+    "platform": "Facebook",
+    "author": "Ohneis",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "录屏教程，演示用一句话提示词让 ChatGPT 生成循环表情 GIF：精灵表提示词结构最完整——8 帧 4×2 网格、同机位同背景、末帧接回首帧；并给出 6 帧×200ms＝1.2 秒循环的规格。",
+  "why": "精灵表提示词结构很完整：8 帧 4×2 网格加同机位同背景加末帧接回首帧三要素齐全；6 帧×200ms＝1.2 秒的规格可以直接当默认值。",
+  "borrow": [
+    "8 帧 4×2 网格的提示词结构",
+    "同机位同背景加末帧接回首帧的三要素",
+    "6 帧×200ms＝1.2 秒的循环规格"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "sprite-sheet",
+    "8帧",
+    "Facebook",
+    "循环规格"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

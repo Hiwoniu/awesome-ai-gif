@@ -1,0 +1,41 @@
+{
+  "id": "insp-172",
+  "title": "DEV：从零做一个会动的二维码生成器（码元逐帧变化）",
+  "type": "multi",
+  "source": {
+    "url": "https://dev.to/linmingren/building-an-animated-qr-code-generator-yes-it-actually-animates-n21",
+    "platform": "DEV Community",
+    "author": "linmingren",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "纯前端实现的动态二维码生成器，QR 码元本身逐帧变化，每帧都是可扫的有效二维码。",
+  "why": "逐帧 GIF 处理 + NeuQuant 神经网络调色板优化，对 GIF 画质与体积控制有直接参考价值。",
+  "borrow": [
+    "逐帧处理 GIF 的合成流程",
+    "NeuQuant 调色板优化：256 色下多帧色彩一致",
+    "纯前端实现、URL 不上服务器的隐私做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "教程代码，引用注明出处",
+    "note": ""
+  },
+  "tags": [
+    "动态二维码",
+    "前端",
+    "GIF编码",
+    "调色板"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

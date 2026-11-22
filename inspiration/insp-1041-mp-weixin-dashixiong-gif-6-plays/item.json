@@ -1,0 +1,41 @@
+{
+  "id": "insp-1041",
+  "title": "大师兄AI笔记：实测 GPT Image 2.6，一句话做 GIF，6 种玩法",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://mp.weixin.qq.com/s/ZSxUXeCk-7r-L0G0khP-MA",
+    "platform": "微信公众号",
+    "author": "大师兄",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "6 种玩法实测：表情包、商品爆炸拆解、阿凡提木偶定格动画、电商详情页、动态信息图、教育素材，附通用换角模板与完整提示词。",
+  "why": "11 月 19 日最新公众号实测，玩法覆盖面最广，定格动画提示词可直接复用。",
+  "borrow": [
+    "定格动画逐格抖动感提示词结构",
+    "换角色复用模板",
+    "商品拆解动图做法"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "文中 Elmo 玩偶等 IP 示例只借结构不借角色；主代理复核时遇微信验证码墙，内容以检索抓取为准。"
+  },
+  "tags": [
+    "公众号",
+    "实测",
+    "定格动画",
+    "GPT Image 2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

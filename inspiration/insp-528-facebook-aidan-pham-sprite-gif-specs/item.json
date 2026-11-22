@@ -1,0 +1,41 @@
+{
+  "id": "insp-528",
+  "title": "Facebook：Aidan Pham 6 帧 3×2 精灵表转 GIF 全流程，帧尺寸规格齐全",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/reel/1174338578354864",
+    "platform": "Facebook",
+    "author": "Aidan Pham",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "快节奏图文教程，从提示词结构讲到把精灵表转成 GIF 的完整流程：6 帧 3×2 网格、同角色同机位纯色背景、末帧回首帧；转 GIF 规格为 1536×1024 精灵表、帧尺寸 288×288、200ms/帧、1.2 秒循环，附橘猫斜眼示例提示词。",
+  "why": "从提示词到转 GIF 的全流程很完整：帧尺寸 288×288、200ms/帧这些规格数字可以直接抄；橘猫斜眼示例提示词也是现成的参考。",
+  "borrow": [
+    "6 帧 3×2 的提示词结构",
+    "1536×1024 精灵表与 288×288 帧尺寸的规格",
+    "200ms/帧的时序参数"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "sprite-sheet",
+    "转GIF",
+    "规格",
+    "Facebook"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

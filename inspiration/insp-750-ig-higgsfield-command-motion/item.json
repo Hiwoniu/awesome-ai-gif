@@ -1,0 +1,38 @@
+{
+  "id": "insp-750",
+  "title": "Instagram @kevinqvdang：Higgsfield 命令式动效演示",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DemwXn-vY81",
+    "platform": "Instagram",
+    "author": "@kevinqvdang",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Higgsfield 命令式动效演示：/clones、/anime、/stickerpeel 等斜杠命令玩法",
+  "why": "斜杠命令触发动效的交互形式",
+  "borrow": [
+    "斜杠命令触发动效的交互形式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Instagram",
+    "Higgsfield",
+    "动效"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

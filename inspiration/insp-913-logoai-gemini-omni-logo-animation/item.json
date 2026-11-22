@@ -1,0 +1,40 @@
+{
+  "id": "insp-913",
+  "title": "LogoAI：Gemini Omni 1.2 Flash 做 Logo 动画，六组可复制提示词",
+  "type": "posters",
+  "source": {
+    "url": "https://www.logoai.com/blog/animate-your-logo-in-minutes-gemini-omni-1-2-flash",
+    "platform": "LogoAI",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Logo 动画六组可复制提示词（鳄鱼眨眼摇尾、吉祥物进食、胡子抖动、美洲狮跳跃回归等），可导出 GIF。",
+  "why": "Logo 动效提示词三原则讲得干净，“只动一处”的约束写法可迁移到海报与签名类动效。",
+  "borrow": [
+    "Logo 动效提示词三原则",
+    "只动一处的约束写法",
+    "动作排序与落点回归"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Gemini",
+    "Logo动画",
+    "动态海报"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "insp-1034",
+  "title": "Germey：GPT Image 2.6 两段式动态贴纸验收管线",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://dev.to/germey/gpt-image-26-build-a-two-stage-animated-sticker-acceptance-pipeline-281d",
+    "platform": "Dev.to",
+    "author": "Germey",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "两段式贴纸验收管线：先写角色契约、生成前校验 GIF 参数、Flare 出候选、Sunburst 定向修、manifest 归档。",
+  "why": "角色契约加校验函数加 manifest 三件套，是工程化验收最完整的写法。",
+  "borrow": [
+    "角色契约结构：preserve、variable、forbidden 三段",
+    "生成前校验函数：帧数 2–16、帧时长 20–655350ms",
+    "512×512、9 帧、200ms 的推荐配置",
+    "只修坏处不重画的定向编辑法",
+    "manifest 归档结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "文中声明为 Ace Data 推广任务、示例请求未实际执行，只借流程结构；示例水豚角色来自 Ace Data 教程，不照搬。"
+  },
+  "tags": [
+    "验收",
+    "两段式",
+    "GPT Image 2.6",
+    "Dev.to"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

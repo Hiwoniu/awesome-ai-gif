@@ -1,0 +1,40 @@
+{
+  "id": "insp-229",
+  "title": "Instagram @brianbuffington：免费 Unscreen 做透明底 GIF 贴纸",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DFIeB1oJTOu/",
+    "platform": "Instagram",
+    "author": "@brianbuffington",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 unscreen.com 免费版把 1–2 秒自拍视频自动去背景、导出透明底 GIF 贴纸的录屏教程。",
+  "why": "与“AI 画 GIF”不同的另一条路线：真人视频→去背景→GIF 贴纸，零绘画成本，且点明了免费版水印与导出细节。",
+  "borrow": [
+    "视频→GIF 贴纸的替代路线",
+    "自动去背景 + 透明底导出流程",
+    "免费版水印的取舍说明"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录；演示用作者本人自拍视频，仅借方法"
+  },
+  "tags": [
+    "Instagram",
+    "去背景",
+    "透明底"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

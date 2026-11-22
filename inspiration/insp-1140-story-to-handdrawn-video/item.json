@@ -1,0 +1,45 @@
+{
+  "id": "insp-1140",
+  "title": "story-to-handdrawn-video：文案变手绘翻书视频的开源 Skill",
+  "type": "storybooks",
+  "source": {
+    "url": "https://www.uied.cn/posts/922142",
+    "platform": "UIED学习社区",
+    "author": "gnipbao",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "开源项目，把中文故事或已有插画做成 3:4 竖屏手绘视频：Agent Skill 规划分镜、Remotion 渲染器按时间线出片。",
+  "why": "逐层揭示与翻书两种程序化动画、分镜 JSON 先审后渲、297 条画风配方可复用，适合把绘本或图文做成可检查、可复用的视频画面轨。",
+  "borrow": [
+    "Agent Skill + Remotion 渲染分工：AI 准备画面、程序按规则动起来",
+    "逐层揭示（文字→黑白画稿→彩色插画）与右下角卷页翻书两种转场",
+    "storyboard JSON 先审分镜、文字与时间安排再渲染",
+    "画风配方库复用同一系列风格的做法",
+    "已有插画直接导入做翻书视频，不必重新生图"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": "项目代码 MIT，但 Remotion 另有许可，故事文本与插画需另确认授权；默认输出为静音 MP4 视频画面轨，需另转 GIF；已打开原文核实。"
+  },
+  "tags": [
+    "storybooks",
+    "skill",
+    "开源",
+    "Remotion",
+    "翻书",
+    "手绘"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

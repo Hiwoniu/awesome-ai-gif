@@ -1,0 +1,41 @@
+{
+  "id": "insp-666",
+  "title": "Threads：Q 版娃娃四情绪 3 秒循环 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@__.lbguabao.__/post/Dfb_hYtEwPw",
+    "platform": "Threads",
+    "author": "@__.lbguabao.__",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-07 的帖子：约 3 秒循环 GIF，Q 版半写实迷你娃娃风女性形象黑底依次切换四种情绪（开心比赞、生气抱臂、难过擦泪、兴奋举拳眨眼），各配情绪符号（星星、怒气、泪滴、爱心）；配文说明做法：ChatGPT 把个人照片转成 Q 版娃娃再动画化为喜怒哀乐循环 GIF。",
+  "why": "四情绪一图流的紧凑结构，配文自带提示路径，情绪符号点缀法可借。",
+  "borrow": [
+    "一图四情绪的循环结构",
+    "情绪符号点缀法",
+    "照片→Q 版娃娃→四情绪动画的两段式提示",
+    "黑底突出人物"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。形象源自个人照片，只借四情绪结构与符号点缀。"
+  },
+  "tags": [
+    "wechat-stickers",
+    "four-emotions",
+    "Q-version"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

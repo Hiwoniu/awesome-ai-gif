@@ -1,0 +1,40 @@
+{
+  "id": "insp-324",
+  "title": "JEECG：Images 2.6 GIF 的 API 与参数解析",
+  "type": "multi",
+  "source": {
+    "url": "https://bbs.jeecg.com/t/32353",
+    "platform": "JEECG 技术社区",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "面向开发者的 Images 2.6 GIF 能力解析：Flare 与 Sunburst 的速度/质量分工、API 输出 GIF 的做法、帧数与单帧时长的搭配经验、精灵图转动画路线。",
+  "why": "有实测参数与 API 规格，是池内少见的“开发者视角+参数表”型资料，可补表情包之外的电商、运营海报、前端动效场景。",
+  "borrow": [
+    "按场景给帧数/时长搭配的经验规则",
+    "Flare 快、Sunburst 精的选型口诀",
+    "GIF 的 256 色、无半透明等硬限制提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "API",
+    "参数表",
+    "开发者视角"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-569",
+  "title": "LUVI：让静止照片动起来，“只写运动，不写画面”",
+  "type": "unknown",
+  "source": {
+    "url": "https://www.luvicreator.com/blog/workflows/animate-a-still-photo",
+    "platform": "LUVI",
+    "author": "LUVI",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "图生视频提示词方法论文：照片已是首帧，提示词只写“什么在动、多大幅度、镜头怎么走、听到什么”；给出四段式运动提示词结构，并对照 Seedance/Kling/Hailuo 等 12 个视频家族的写法差异（如 Hailuo 用方括号镜头指令）。",
+  "why": "“只写运动、不写画面”的原则是所有图生视频转 GIF 的通用提示词纪律，且附跨模型对照。",
+  "borrow": [
+    "四段式运动提示词：动作加幅度加镜头加声音",
+    "不要重述画面里已有的东西的负面约束写法",
+    "各模型家族的镜头指令差异对照",
+    "每个镜头只给一个运镜动作的约束"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；产出为视频而非 GIF，收的是运动提示词方法论。"
+  },
+  "tags": [
+    "图生视频",
+    "提示词方法论",
+    "运动提示词",
+    "跨模型对照"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

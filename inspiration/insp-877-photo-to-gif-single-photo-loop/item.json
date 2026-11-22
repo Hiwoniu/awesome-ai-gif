@@ -1,0 +1,37 @@
+{
+  "id": "insp-877",
+  "title": "Photo to GIF：一张照片加一句话动作，AI 补 8 帧出循环 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://tokenfly.club/en/products/photo-gif",
+    "platform": "Tokenfly",
+    "author": "Photo to GIF",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "2026 年 11 月上线的独立小工具，上传一张照片、写一句话动作，AI 重绘 8 帧生成 512×512 循环 GIF，首张免费，之后按张计费。",
+  "why": "“一张照片加一个简单动作”的极简产品形态值得借鉴，规格固定（8 帧、120ms、约 1 秒循环）让出图预期很明确。",
+  "borrow": [
+    "一张照片加一句话动作的三步流程",
+    "固定规格：8 帧、512×512、每帧 120ms、约 1 秒循环",
+    "预设动作提示词：一键动作的写法",
+    "明确说明不是拼接器：单张静态图合成动效的定位写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "收录页已打开核实；工具站本身未披露运营主体，照片经第三方模型处理，只借产品形态与规格，不上传真人照片测试"
+  },
+  "tags": ["照片转GIF", "工具", "循环GIF", "产品形态"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

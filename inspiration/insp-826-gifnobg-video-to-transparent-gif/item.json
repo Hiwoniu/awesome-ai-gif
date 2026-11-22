@@ -1,0 +1,39 @@
+{
+  "id": "insp-826",
+  "title": "GifNoBg：浏览器内视频转透明 GIF 工具",
+  "type": "multi",
+  "source": {
+    "url": "https://www.hunted.space/product/gifnobg",
+    "platform": "Hunted",
+    "author": "GifNoBg",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "浏览器内视频转透明 GIF 的工具：自动抠背景，可导出 GIF、WebP、APNG，免费无水印，2026-11-06 上线。",
+  "why": "视频转透明 GIF 这一步可补现有管线的短板，自动抠背景加多格式导出是现成的产品形态。",
+  "borrow": [
+    "浏览器内视频转透明 GIF 的产品形态：自动抠背景、导出 GIF/WebP/APNG",
+    "透明底 GIF 制作作为管线补位"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "工具",
+    "透明GIF",
+    "视频转GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

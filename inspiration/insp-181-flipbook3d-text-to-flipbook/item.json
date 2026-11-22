@@ -1,0 +1,40 @@
+{
+  "id": "insp-181",
+  "title": "Flipbook3D：文字转 3D 翻页动画",
+  "type": "multi",
+  "source": {
+    "url": "https://www.flipbook3d.com/text-to-flipbook",
+    "platform": "Flipbook3D",
+    "author": "Flipbook3D",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "文字转 3D 翻页动画工具：输入场景描述生成手绘素描风翻页动画，另有视频转翻页动画（MP4/MOV，≤32MB）。",
+  "why": "“文字提示→翻页本动画”的产品形态；“纸纹+逐帧翻页”的定格翻页视觉语言，可与动态绘本的翻页环节对照。",
+  "borrow": [
+    "文字提示→翻页本动画的产品形态",
+    "纸纹+逐帧翻页的定格视觉语言",
+    "视频转翻页动画的规格（≤32MB）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "商业工具（Seedance 模型、credits 计费），只借形态",
+    "note": "成品为 MP4，需转 GIF"
+  },
+  "tags": [
+    "翻页书",
+    "定格",
+    "素描风"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

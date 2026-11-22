@@ -1,0 +1,42 @@
+{
+  "id": "insp-498",
+  "title": "Medium：OpenAI Images 2.6 加了 GIF，怎么管住吉祥物走样",
+  "type": "multi",
+  "source": {
+    "url": "https://medium.com/@nina-chen/openai-images-2-6-adds-gifs-how-to-manage-mascot-drift-f069946583f1",
+    "platform": "Medium",
+    "author": "Nina Chen",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "以橙猫 Milo 为例：保留一份 approved 参考图、一次只改一个小动作、六姿势分镜（休息→抬爪→挥手→收回→放下→回起始）、512×512 交付、修图与返工成本核算。",
+  "why": "一份定稿参考加六姿势分镜加改动审计的防走样工作流很扎实，成本核算也值得参考。",
+  "borrow": [
+    "一份定稿参考的保留方法",
+    "六姿势分镜的拆解",
+    "一次只改一个小动作的约束",
+    "改动审计与成本核算"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "作者自述部分提示词块为未实测的教学示例。"
+  },
+  "tags": [
+    "吉祥物",
+    "防走样",
+    "分镜",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

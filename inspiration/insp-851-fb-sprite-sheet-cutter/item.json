@@ -1,0 +1,35 @@
+{
+  "id": "insp-851",
+  "title": "FB Sprite Sheet Cutter：一张精灵表切出 29 帧",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/reel/1764693924608239/",
+    "platform": "Facebook",
+    "author": "@Gridwright",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Sprite Sheet Cutter 免费切帧工具实录：一张精灵表切出 29 帧，行列数与格高 48px 等参数界面可见。",
+  "why": "精灵表到 GIF 的最后一环：切帧参数直接决定循环顺不顺，29 帧的切分实录可作我们切格验收的参照。",
+  "borrow": [
+    "精灵表切帧的参数组织：行列数、格高 48px",
+    "一张表切出 29 帧的切分实录作验收参照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["精灵表", "切帧", "工具", "Facebook"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

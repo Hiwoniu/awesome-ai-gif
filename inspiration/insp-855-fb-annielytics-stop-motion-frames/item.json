@@ -1,0 +1,35 @@
+{
+  "id": "insp-855",
+  "title": "FB @Annielytics：10 张递增图做逐帧定格动画",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/Annielytics/posts/pfbid028v1PSeS4toNob8dUSypryipUY9v5UYHLWLHvUhgafBxtrj8nPSiPMrydGjxQomZjl",
+    "platform": "Facebook",
+    "author": "@Annielytics",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "让 AI 出 10 张递增变化的图、拼成逐帧定格动画的方法，极光示例。",
+  "why": "递增变化图的定格路线：不依赖视频模型，一张张出静帧再拼，变化幅度可控，适合风景与氛围类循环。",
+  "borrow": [
+    "10 张递增变化图拼定格动画的方法",
+    "逐帧变化幅度递增的提示词组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["定格动画", "逐帧", "工作流", "Facebook"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

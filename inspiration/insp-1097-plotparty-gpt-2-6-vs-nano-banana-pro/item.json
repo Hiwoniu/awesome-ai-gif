@@ -1,0 +1,32 @@
+{
+  "id": "insp-1097",
+  "title": "Plot Party：GPT Image 2.6 对比 Nano Banana Pro 实测，含精灵表失败记录",
+  "type": "multi",
+  "source": {
+    "url": "https://plotparty.ai/blog/gpt-image-2-6-vs-nano-banana-pro-gemini-3-pro-image",
+    "platform": "Plot Party 博客",
+    "author": "",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "11 月 8 日实测对比：同一批提示词下 GPT Image 2.6 与 Nano Banana Pro 的表现，含 4×4 像素精灵表测试，并给出三条前期制作提示词。",
+  "why": "同一提示词多模型对照实测的验收写法有参考价值，精灵表测试里模型违规加网格线的失败记录可作验收素材。",
+  "borrow": ["同一提示词多模型对照实测的验收写法", "四角度转身表提示词结构", "精灵表失败记录（模型违规加网格线）作验收 checklist 素材"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录；只借实测方法与提示词结构，不抄提示词原文"
+  },
+  "tags": ["GPT Image 2.6", "Nano Banana Pro", "实测对比", "精灵表"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

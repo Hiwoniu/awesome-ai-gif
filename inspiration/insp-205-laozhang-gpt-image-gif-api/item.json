@@ -1,0 +1,42 @@
+{
+  "id": "insp-205",
+  "title": "老张博客：GPT Image 2.6 GIF API 实测（参数、帧数与成本）",
+  "type": "multi",
+  "source": {
+    "url": "https://blog.laozhang.ai/en/posts/gpt-image-2-6-gif-api",
+    "platform": "blog.laozhang.ai",
+    "author": "老张",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "实测 GPT Image 2.6 的 GIF API：output_format gif + frame_count（默认 9）+ frame_duration_ms（默认 200），附 Python/curl 完整请求、512 方 9 帧实测约 2,073 token（约 0.062 美元），以及循环首尾跳变检测脚本。",
+  "why": "参数、成本、失败模式都有真实测试数据，连官方文档 2–64 帧与 API 参考 2–16 帧不一致的坑也测出来了，不是转载通稿。",
+  "borrow": [
+    "GIF API 三个关键参数与取值",
+    "“循环不等于平滑循环”的首尾跳变检测脚本思路",
+    "Flare 与 Sunburst 的选型区分",
+    "按 token 计费的实测成本记录法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "与池内 insp-092（同博客界面版教程）为同一博客的两篇独立文章，内容不重复；只借参数与方法，不抄示例提示词"
+  },
+  "tags": [
+    "GPT-Image-2.6",
+    "API",
+    "实测",
+    "成本"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

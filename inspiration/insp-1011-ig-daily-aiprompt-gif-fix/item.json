@@ -1,0 +1,38 @@
+{
+  "id": "insp-1011",
+  "title": "IG @daily_aiprompt：ChatGPT GIF 卡顿的诊断与修复「THE GIF FIX」",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dfh1T3hD0CK",
+    "platform": "Instagram",
+    "author": "@daily_aiprompt",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "解释 AI 生成 GIF 常像幻灯片一样卡顿的原因：底层是精灵表，通常 9 帧、每帧 200ms，并给出修复思路。",
+  "why": "池内多为怎么做 GIF，这条是少见的为什么卡、怎么修的故障诊断视角，可直接借鉴为 GIF 验收标准。",
+  "borrow": [
+    "9 帧 × 200ms 的默认帧结构认知",
+    "卡顿归因于帧间隔与动作幅度不匹配",
+    "用帧数/帧时长调平滑度的思路",
+    "把先看底层精灵表再调参数作为调试步骤",
+    "可复用的 GIF 修复检查清单结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": ["GIF 修复", "卡顿", "帧结构", "验收"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "insp-831",
+  "title": "X @justynclark：快而复杂的动作会做坏，GIF 只做一个慢动作",
+  "type": "multi",
+  "source": {
+    "url": "https://x.com/justynclark/status/2118189691820482677",
+    "platform": "X",
+    "author": "@justynclark",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "快而复杂的动作（如 360 踢翻）会做坏的失败模式，GIF 只做一个慢动作。",
+  "why": "单一慢动作的动作选择规则可直接写进提示词模板。",
+  "borrow": [
+    "快而复杂动作做坏的失败模式：360 踢翻一例",
+    "GIF 只做一个慢动作的选动作规则"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "X",
+    "慢动作",
+    "失败模式"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

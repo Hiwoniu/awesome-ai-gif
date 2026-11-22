@@ -1,0 +1,42 @@
+{
+  "id": "insp-598",
+  "title": "Facebook：SpriteCast，Claude Code 等距精灵生成器（3D 锁定动作与阴影）",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/reel/1856482828931737/",
+    "platform": "Facebook",
+    "author": "Facebook 用户",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "GitHub README 录屏讲解 SpriteCast：Claude Code 用的等距精灵生成器，把单张角色插画变成完整动画游戏角色；用 3D 模型锁定动作与阴影，解决逐帧 AI 形象漂移，角色可朝八个方向行走，输出真实像素画，含坐姿与道具。",
+  "why": "用 3D 锁定一致性是解决精灵表“每帧换脸”的新思路，八方向行走 + 坐姿道具的输出规格很完整。",
+  "borrow": [
+    "3D 模型锁定动作与阴影保跨帧一致",
+    "八方向行走的动作规格",
+    "单图输入出全套游戏角色的工具形态",
+    "坐姿、道具等非行走动作的扩展"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；作者未具名。"
+  },
+  "tags": [
+    "工具",
+    "3D锁定",
+    "八方向",
+    "像素画"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-823",
+  "title": "IG @chatgptricks：ChatGPT-4o 做像素风游戏素材动画",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/p/DJtiDhNx55N/",
+    "platform": "Instagram",
+    "author": "@chatgptricks",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "用 ChatGPT-4o 做 2D 像素风游戏素材动画的轮播教程：青色角色放光、12 帧法师火球精灵表、4 帧扑克筹码旋转，并附像素帧动画的提示词模板。",
+  "why": "像素风游戏素材是池里较少的角度：12 帧火球与 4 帧筹码旋转给了不同帧数的参照，结尾的提示词模板可直接套到原创角色上。",
+  "borrow": [
+    "像素帧动画的提示词模板结构",
+    "12 帧法师火球与 4 帧筹码旋转的帧数参照",
+    "精灵表转 GIF 的流程组织"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；其中一例用了 Pepe the Frog，只借提示词模板结构，不借该角色"
+  },
+  "tags": [
+    "像素风",
+    "游戏素材",
+    "精灵表",
+    "ChatGPT-4o"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

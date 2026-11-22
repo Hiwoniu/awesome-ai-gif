@@ -1,0 +1,40 @@
+{
+  "id": "insp-240",
+  "title": "Civitai：Daxamur 的 Wan 2.2 工作流合集",
+  "type": "multi",
+  "source": {
+    "url": "https://civitai.com/models/1853617/daxamurs-wan-22-workflows-v121-flf2v-or-t2v-or-i2v-or-gguf-or-easy-bypass-or-experimental-true-endless-generation?modelVersionId=2097744",
+    "platform": "Civitai",
+    "author": "Daxamur",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Wan 2.2 的 T2V、I2V、FLF2V 工作流合集，含分段提示词与实验性无限循环生成。",
+  "why": "分段提示词与无限循环链的思路适合做长循环 GIF 的前期探索。",
+  "borrow": [
+    "分段提示词（一段一动作）",
+    "片段无限串联做循环",
+    "FLF2V 首尾帧模式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Wan-2.2",
+    "ComfyUI",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

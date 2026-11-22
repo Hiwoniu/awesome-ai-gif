@@ -1,0 +1,42 @@
+{
+  "id": "insp-565",
+  "title": "aiofm：AnimateDiff vs SVD vs CogVideoX，2026 本地视频生成三路线对照",
+  "type": "unknown",
+  "source": {
+    "url": "https://aiofm.info/en/guides/animatediff-vs-svd-vs-cogvideox",
+    "platform": "aiofm",
+    "author": "aiofm",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "三条开源本地视频路线的对照指南：AnimateDiff（给 SD 检查点加运动模块）、SVD（单张静帧出 14/25 帧短片，无文字提示，用 motion bucket ID 控制运动幅度）、CogVideoX（文生/图生视频 DiT，默认 49 帧 6 秒）；含 ComfyUI 接法与显存门槛。",
+  "why": "本地出 GIF 的三条路线选型表：按任务选模型而非只追最新模型。",
+  "borrow": [
+    "任务到模型的选型表",
+    "SVD 的 motion bucket ID 参数作为运动幅度控制法",
+    "CogVideoX 的 8N+1 帧、49 帧默认帧数结构",
+    "各路线显存与帧数/时长的对照参数"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；产出为视频而非 GIF，收的是本地路线选型与参数。"
+  },
+  "tags": [
+    "AnimateDiff",
+    "SVD",
+    "CogVideoX",
+    "本地生成"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

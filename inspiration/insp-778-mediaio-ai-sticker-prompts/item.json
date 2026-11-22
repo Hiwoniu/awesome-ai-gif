@@ -1,0 +1,39 @@
+{
+  "id": "insp-778",
+  "title": "Media.io：24+ 可复制的 AI 贴纸提示词库",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.media.io/ai-prompts/ai-sticker-prompts.html",
+    "platform": "Media.io",
+    "author": "Media.io",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "24+ 可直接复制的贴纸提示词：kawaii、亮面 3D、全息、厚白模切边等风格，附珍珠奶茶、柴犬点赞、青蛙雨衣等例子。",
+  "why": "按风格分类的即贴提示词库结构与模切边加阴影的贴纸质感句式可直接借。",
+  "borrow": [
+    "按风格分类的即贴提示词库结构：kawaii、亮面 3D、全息、厚白模切边",
+    "模切边加阴影的贴纸质感句式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "提示词库",
+    "贴纸",
+    "风格分类"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

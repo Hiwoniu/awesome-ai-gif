@@ -1,0 +1,46 @@
+{
+  "id": "insp-882",
+  "title": "MCPBytes pixel-sprite：本地 GPU 出像素精灵表与行走循环 GIF 的 MCP 服务器",
+  "type": "multi",
+  "source": {
+    "url": "https://glama.ai/mcp/servers/MCPBytes/mcpbytes-pixel-sprite",
+    "platform": "Glama",
+    "author": "MCPBytes",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "MCPBytes 的开源 pixel-sprite 服务器：本地 GPU 或云端按提示词生成 128×128 十六格像素精灵表，附四方向行走循环 GIF 与 Godot、Unity 导出。",
+  "why": "唯一一个把精灵表、循环 GIF、QA 元数据和游戏引擎导出打通的本地开源方案，种子可复现，适合做游戏向精灵表管线参考。",
+  "borrow": [
+    "16 格 32×32 布局：四方向行走加四种待机姿势",
+    "同一种子复现同一张表的可复现写法",
+    "帧矩形、支点、调色板、QA 状态写进 manifest 的组织方式",
+    "行走预览用 0-1-2-1 三姿势循环的节奏",
+    "参考图锚定角色再出表的流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "AGPL-3.0",
+    "note": "开源引擎本身 AGPL-3.0；我们只借表结构与导出组织，不直接复用其生成结果。原文已打开核实。"
+  },
+  "tags": [
+    "像素精灵表",
+    "MCP",
+    "开源",
+    "游戏",
+    "FLUX.2",
+    "Godot",
+    "Unity"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

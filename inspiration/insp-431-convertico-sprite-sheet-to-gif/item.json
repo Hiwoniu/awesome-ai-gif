@@ -1,0 +1,42 @@
+{
+  "id": "insp-431",
+  "title": "Convertico：精灵表转 GIF 转换器（浏览器本地处理）",
+  "type": "multi",
+  "source": {
+    "url": "https://convertico.com/sprite-sheet-to-gif/",
+    "platform": "Convertico",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "浏览器内把精灵表转 GIF 的工具页：自动检测网格、可点选与重排帧、设 FPS 与乒乓循环、像素风整数倍缩放，全程不上传。",
+  "why": "精灵表转 GIF 的最后一公里工具，网格自动检测与像素风缩放的规格细节可直接作为导出标准参考。",
+  "borrow": [
+    "网格自动检测加手动修正的流程",
+    "逐帧时延与乒乓循环设置",
+    "像素风 2×/3×/4× 整数缩放规则",
+    "GIF 帧率上限 50fps 的注意事项"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "精灵表",
+    "转换工具",
+    "像素风",
+    "本地处理"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

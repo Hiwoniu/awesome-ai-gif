@@ -1,0 +1,40 @@
+{
+  "id": "insp-512",
+  "title": "SpriteFuse：AI 精灵图生成器，动作到帧规划再到时序的自动分帧",
+  "type": "multi",
+  "source": {
+    "url": "https://aitoolfinder.org/tools/spritefuse/",
+    "platform": "AI Tool Finder",
+    "author": "SpriteFuse",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "AI 精灵图生成器：文字提示或参考图输入，指定动作后由服务规划帧与时序，导出透明精灵表、单帧 PNG、GIF 预览、元数据与引擎接入说明。",
+  "why": "动作到帧规划再到时序的自动分帧产品形态值得参考；透明精灵表加 GIF 预览的导出组合也很完整。",
+  "borrow": [
+    "动作到帧规划再到时序的产品形态",
+    "透明精灵表加 GIF 预览的导出组合"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "聚合工具站转述页，非官方原站，未实测；免费版仅限个人非商用；仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "精灵图",
+    "工具",
+    "自动分帧",
+    "导出"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "insp-810",
+  "title": "Facebook：Gemini 贴 9 张自拍加 emoji 混搭出 3×3 九宫格贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/2162823994361600/",
+    "platform": "Facebook",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Gemini Flash 表情包：贴 9 张自拍加 emoji 混搭提示词出 3×3 九宫格夸张反应贴纸。",
+  "why": "Gemini 路线的 emoji 混搭贴纸包做法可作另一模型路线的对照。",
+  "borrow": [
+    "Gemini 路线的 emoji 混搭贴纸包做法：9 张自拍加 emoji 混搭出九宫格"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Facebook",
+    "Gemini",
+    "emoji混搭",
+    "九宫格"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

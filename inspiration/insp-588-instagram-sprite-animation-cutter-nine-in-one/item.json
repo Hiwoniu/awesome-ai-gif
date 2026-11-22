@@ -1,0 +1,41 @@
+{
+  "id": "insp-588",
+  "title": "Instagram：Sprite animation cutter，九合一精灵表/GIF 互转小工具",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/p/DPtzvScjrwA/",
+    "platform": "Instagram",
+    "author": "@elideveloper",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "展示一款“Sprite animation cutter”应用界面：九个功能按钮覆盖播放精灵表、拆分精灵表、精灵表转 GIF、GIF 转精灵表、从 GIF 抽帧、图片转精灵表等；另有演示为 5 张爱心图拼成消耗动画。",
+  "why": "切帧/拼帧/互转是精灵表 GIF 的必备后处理，九合一工具一次覆盖，比零散脚本省事。",
+  "borrow": [
+    "精灵表与 GIF 双向互转的工具形态",
+    "从 GIF 抽帧、按行列拆帧的后处理功能清单",
+    "用爱心消耗动画演示多帧讲一个小状态变化"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "工具",
+    "切帧",
+    "GIF互转",
+    "后处理"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

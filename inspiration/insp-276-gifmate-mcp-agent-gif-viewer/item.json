@@ -1,0 +1,40 @@
+{
+  "id": "insp-276",
+  "title": "gifmate MCP：让编码 Agent 看懂 GIF 的抽帧工具",
+  "type": "unknown",
+  "source": {
+    "url": "https://glama.ai/mcp/servers/AntonioNoOne/gifmate",
+    "platform": "Glama MCP",
+    "author": "AntonioNoOne",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "让编码 Agent 能“看懂”GIF 的 MCP 服务器：按时间均匀抽帧给 Agent 读，解决 Agent 只读首帧的问题。",
+  "why": "不是生成工具，而是 GIF 质检/验收的基础设施——我们的 GIF 成品正需要逐帧验收。",
+  "borrow": [
+    "逐帧抽帧验收法",
+    "反应日记的记录思路",
+    "双向互发表情 GIF 的玩法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "MCP",
+    "验收",
+    "GIF质检"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

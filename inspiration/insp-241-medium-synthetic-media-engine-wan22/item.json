@@ -1,0 +1,40 @@
+{
+  "id": "insp-241",
+  "title": "Medium：合成媒体引擎 Pt2——Wan 2.2 图生视频管线",
+  "type": "multi",
+  "source": {
+    "url": "https://medium.com/@sergiopr89/building-a-synthetic-media-engine-pt2-bringing-images-to-life-3124ba9314a1",
+    "platform": "Medium",
+    "author": "sergiopr89",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "身份保持图片接 Wan 2.2 图生视频的合成媒体管线文章，含 ComfyUI 模板与模型下载。",
+  "why": "把静态角色图变动图再转 GIF 的完整管线思路，低分辨率快速验证 GIF 可行。",
+  "borrow": [
+    "身份保持图 + Wan 2.2 I2V 的两段式管线",
+    "ComfyUI 模板快速搭建",
+    "低分辨率先验证再放大的节奏"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Wan-2.2",
+    "图生视频",
+    "管线"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

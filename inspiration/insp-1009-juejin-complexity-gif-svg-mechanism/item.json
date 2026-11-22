@@ -1,0 +1,38 @@
+{
+  "id": "insp-1009",
+  "title": "掘金：GPT Image 2.6 complexity 拆解——规划与渲染分开，GIF、SVG 怎么做",
+  "type": "multi",
+  "source": {
+    "url": "https://juejin.cn/post/7704237589776498714",
+    "platform": "掘金",
+    "author": "掘金作者",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "拆解 Images 2.6 的 complexity 参数与 GIF、SVG 输出机制，给出 API 参数表、代码示例和系统卡安全数据。",
+  "why": "池内少见的机制层拆解：GIF 疑似整张帧图集一次规划、共享像素预算，直接解释了帧数与单帧尺寸的取舍。",
+  "borrow": [
+    "API 参数表：frame_count 2–64 帧（默认 9）、frame_duration_ms 20–2000ms（默认 200）",
+    "complexity（规划量）与 quality（渲染质量）分离的思路：简单编辑用低 complexity + 高 quality，复杂海报用高 complexity 先排布局",
+    "GIF 很可能是一张大画布同时规划多帧的推测及一致性来源分析",
+    "系统卡 GIF 审核召回率 77.7% 的数据",
+    "帧数、单帧尺寸与像素预算三者联动的取舍框架"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "帧图集机制为作者推测、未获官方确认；已打开原文核实。"
+  },
+  "tags": ["GPT Image 2.6", "complexity", "API", "GIF 机制"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

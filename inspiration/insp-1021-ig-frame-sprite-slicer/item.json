@@ -1,0 +1,40 @@
+{
+  "id": "insp-1021",
+  "title": "IG @frame.sprite：FrameSprite 浏览器切图工具，精灵表切片下载 PNG",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dd_OU4QSJck/",
+    "platform": "Instagram",
+    "author": "@frame.sprite",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "FrameSprite 免费浏览器切图工具：上传精灵表、设 4 列 2 行、切片下载 PNG，四步演示（示例为 8 帧骨龙）。",
+  "why": "补精灵表工作流的最后一环——切图环节的标准操作，浏览器内完成、零安装。",
+  "borrow": [
+    "精灵表切图的标准操作流程",
+    "行列数与帧数的对应关系",
+    "切图后 PNG 帧的下载组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "切图工具",
+    "精灵表",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

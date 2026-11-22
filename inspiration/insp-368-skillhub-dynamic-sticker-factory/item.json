@@ -1,0 +1,41 @@
+{
+  "id": "insp-368",
+  "title": "Dynamic Sticker Factory：批量可投稿 GIF 表情包 Skill",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.skillhub.cn/skills/user_cae83fba/dynamic-sticker-factory",
+    "platform": "SkillHub",
+    "author": "小浣熊肖恩",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "SkillHub 社区 Skill：把 IP 参考图、角色规范、情绪场景与平台规则串成批量可投稿 GIF 动态表情包的生产流程，v2.0.0，下载约 2943 次。",
+  "why": "标杆基线、提示词装配、GIF 合成与节奏修复、四维门禁（规格/视觉/动效/透明底）的质检思路很完整。",
+  "borrow": [
+    "标杆基线",
+    "四维门禁",
+    "GIF节奏修复",
+    "批量投稿流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Skill",
+    "微信表情包",
+    "质检"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

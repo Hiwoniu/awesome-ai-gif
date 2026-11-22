@@ -1,0 +1,41 @@
+{
+  "id": "insp-493",
+  "title": "Instagram：6 帧×200ms 精灵图加成品 GIF 全流程，参考图加双产出",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df1kRD8OS0X",
+    "platform": "Instagram",
+    "author": "lenabrooks.ai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "上传参考图、写无缝循环提示词、3×2 网格、6 帧每帧 200ms，同时产出精灵图与成品 GIF。",
+  "why": "200ms/帧的时序参数是新增价值：参考图加精灵图双产出的流程也很完整。",
+  "borrow": [
+    "200ms/帧的时序参数",
+    "参考图加精灵图双产出的流程",
+    "无缝循环提示词的写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "手法与 insp-470、insp-471 重叠度高，新增价值在时序参数；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "sprite-sheet",
+    "时序参数",
+    "参考图",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

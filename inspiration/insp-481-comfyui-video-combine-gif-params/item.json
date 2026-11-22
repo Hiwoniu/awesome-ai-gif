@@ -1,0 +1,42 @@
+{
+  "id": "insp-481",
+  "title": "ComfyUI Wiki：Video Combine 节点文档，GIF 导出的循环与 pingpong 参数表",
+  "type": "multi",
+  "source": {
+    "url": "https://comfyui-wiki.com/en/custom-nodes/ComfyUI-VideoHelperSuite/nodes/video-combine",
+    "platform": "ComfyUI Wiki",
+    "author": "VideoHelperSuite",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "把帧序列合成为视频/GIF/WebP 的核心节点文档：format 可选 image/gif，loop_count（0 为无限循环）、pingpong 往返播放等参数全列。",
+  "why": "ComfyUI 出 GIF 的收尾环节标准写法：循环次数与 pingpong 模式的参数表可以直接抄进我们的工作流文档。",
+  "borrow": [
+    "GIF 导出的参数表写法",
+    "loop_count 无限循环的设定",
+    "pingpong 往返播放的用法",
+    "帧率与格式的取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录；该节点包本身已在池内多篇文章中提及，本条价值在参数文档本身。"
+  },
+  "tags": [
+    "ComfyUI",
+    "VideoHelperSuite",
+    "GIF导出",
+    "参数文档"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

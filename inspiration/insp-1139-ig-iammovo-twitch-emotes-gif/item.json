@@ -1,0 +1,41 @@
+{
+  "id": "insp-1139",
+  "title": "Instagram @iammovo：用 ChatGPT GIF 接 Twitch 动态表情单",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DgA4yduBpRG/",
+    "platform": "Instagram",
+    "author": "iammovo",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "把 ChatGPT Images 2.6 的 GIF 功能当成接单工具：拿客户自己的角色图做 Twitch 动态表情，Fiverr 上同类单 1900 多个、定价约 11–39 美元。",
+  "why": "池里少有的变现角度：Twitch 动态表情的方形 GIF、最多 60 帧规格，以及按客户角色图出表情的接单流程，可直接对应我们“原创角色做表情包变现”的方向。",
+  "borrow": [
+    "Twitch 动态表情的规格意识：方形 GIF、最多 60 帧",
+    "拿客户角色图做表情的接单流程",
+    "Fiverr 同类单的定价参考"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Twitch",
+    "变现",
+    "Instagram",
+    "接单"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-269",
+  "title": "BeatAPI：Seedream 5.5 vs GPT Image 2.6——按交付物选型",
+  "type": "multi",
+  "source": {
+    "url": "https://beatapi.io/blog/seedream-5-5-vs-gpt-image-2-6",
+    "platform": "BeatAPI",
+    "author": "BeatAPI",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "按交付物给选型结论：Seedream 5.5 负责多轮编辑、RGBA 透明素材与中文密排文字；GPT 2.6 负责原生 GIF、SVG 与规划控制。",
+  "why": "讲清了 Seedream 5.5 做 GIF 的正确姿势是“透明精灵图 + 切片拼装”，避免走弯路。",
+  "borrow": [
+    "按交付物选模型",
+    "Seedream 透明精灵图 → 切片 → 拼 GIF 的流程",
+    "RGBA 半透明边缘的处理",
+    "中文文字场景优先 Seedream"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "选型",
+    "Seedream-5.5",
+    "透明底"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

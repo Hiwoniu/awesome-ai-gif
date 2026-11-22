@@ -1,0 +1,41 @@
+{
+  "id": "insp-275",
+  "title": "Animation Machine MCP：浏览器逐帧渲染 HTML 动画出 GIF",
+  "type": "posters",
+  "source": {
+    "url": "https://glama.ai/mcp/servers/dssdave/animation-machine-mcp",
+    "platform": "Glama MCP",
+    "author": "dssdave",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "让 AI 助手把 HTML 动画（GSAP/CSS 关键帧/Lottie/Three.js）在真实浏览器里逐帧渲染成 MP4 或 GIF 的 MCP 服务器。",
+  "why": "“代码动画→GIF”的另一条路，帧级精确，适合动态海报与标题卡，且能单帧自查。",
+  "borrow": [
+    "逐帧渲染思路",
+    "单帧自查再成片",
+    "GIF≤15 秒的规格约束",
+    "加音乐/配音/字幕的成片结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "MCP",
+    "动态海报",
+    "代码动画"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

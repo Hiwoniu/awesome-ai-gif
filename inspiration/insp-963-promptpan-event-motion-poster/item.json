@@ -1,0 +1,32 @@
+{
+  "id": "insp-963",
+  "title": "Promptpan：13 秒竖版活动海报提示词，6 场按节拍排布加旅行圆点变星徽",
+  "type": "posters",
+  "source": {
+    "url": "https://promptpan.com/en/p/event-motion-poster/",
+    "platform": "Promptpan",
+    "author": "Promptpan",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "一条 7523 字的完整提示词，让会跑代码的 AI 用单个 HTML 文件做 13 秒竖版活动动效海报并渲染成 MP4：标题与日期全程固定可读，只有装饰在动",
+  "why": "结构极完整：6 场按节拍排布、旅行圆点变形、二次印刷换色、纯 seek(t) 可复现渲染，末帧即成品海报，是一套可以直接套用到我们动态海报的编排框架",
+  "borrow": [
+    "6 场按节拍排布的动效结构：标题、信息、内容、权益、二次印刷、结尾各占固定节拍",
+    "旅行圆点与星徽同物的变形思路：96 角采样插值的形态过渡写法",
+    "标题日期全程固定、只动装饰的一点动效原则",
+    "三条彩带扫过全片的二次印刷换色做法",
+    "末帧即成品海报的验收标准",
+    "纯 seek(t) 渲染加逐场景抽帧检查表的可复现做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "成品是 MP4 而非 GIF，只借动效结构与提示词组织，不直接复用其 HTML 代码与 MP4；示例为虚构店铺活动海报，无真实品牌"
+  },
+  "tags": ["动态海报", "Promptpan", "提示词", "活动海报", "MP4"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-21", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

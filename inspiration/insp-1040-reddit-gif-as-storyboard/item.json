@@ -1,0 +1,40 @@
+{
+  "id": "insp-1040",
+  "title": "Reddit：把 GPT Image 2.6 的 GIF 当动态分镜用",
+  "type": "multi",
+  "source": {
+    "url": "https://www.reddit.com/r/aifilmmaking/comments/1xruxvp/using_a_gpt_image_26_gif_as_a_storyboard_the_gif",
+    "platform": "Reddit",
+    "author": "r/aifilmmaking 用户",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "16 帧 2.5fps 循环 GIF 当动态分镜：先锁定角色元素出 GIF，再抽 4 张关键帧，用 Seedance 2.5 渲染 8 秒成片，附各阶段参数表。",
+  "why": "GIF 到关键帧再到视频的完整接力工作流，参数表齐全，是“GIF 当分镜”的新用法。",
+  "borrow": [
+    "GIF 作动态分镜的接力工作流",
+    "16 帧到 4 关键帧的抽帧法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "Reddit 在本环境被政策屏蔽，主代理未能直接复核原文，内容以检索抓取为准。"
+  },
+  "tags": [
+    "分镜",
+    "GIF",
+    "工作流",
+    "Reddit"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

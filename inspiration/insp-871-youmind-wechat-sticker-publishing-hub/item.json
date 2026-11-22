@@ -1,0 +1,42 @@
+{
+  "id": "insp-871",
+  "title": "YouMind 微信表情包发布中心 Skill：10 张 GIF 加上架全套素材",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://hello-lucy.com/skills/wechat-sticker-publishing-generator-aFNisEIuhRhy85",
+    "platform": "YouMind",
+    "author": "YouMind",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "YouMind 上的微信表情包 Skill：传 IP 形象或照片，先定角色再分批出默认 10 张 GIF，最后连横幅、封面、头像、打赏图和上架表单一起生成。",
+  "why": "把表情包从生成延伸到上架交付，含五种画风提示词库和 20 张贴纸提示词库，补上了池里少有的发布环节。",
+  "borrow": [
+    "锁角色→定数量→分批生成→上架核查的四步流程",
+    "五种画风提示词库的组织方式",
+    "表情锁定、动作改姿势的两条保真规则",
+    "先出 2 张小样再扩 8～16 张的节奏"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "Skill 依赖 YouMind 环境；照片转 Q 版需用自有形象或已授权照片，不用他人照片。"
+  },
+  "tags": [
+    "微信表情包",
+    "Skill",
+    "YouMind",
+    "上架"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

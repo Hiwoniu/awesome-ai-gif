@@ -1,0 +1,39 @@
+{
+  "id": "insp-331",
+  "title": "Rukhanka：一张照片变 Telegram 动态贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.producthunt.com/products/rukhanka",
+    "platform": "Product Hunt",
+    "author": "Ivan",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "上传一张照片生成 8/16/24 张一套的 Telegram 动态贴纸产品，含挥手、大笑、思考等成套反应。",
+  "why": "成套表情包的产品形态很完整（一次付费、按套卖、自定义 emoji 赠品），是表情包变现形态的参考。",
+  "borrow": [
+    "按 8/16/24 张成套的包体设计",
+    "一张照片定角色再批量出反应的流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "做的是 Telegram 动态贴纸，微信表情包需按微信规格另做适配。"
+  },
+  "tags": [
+    "Product-Hunt",
+    "成套表情包",
+    "变现"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

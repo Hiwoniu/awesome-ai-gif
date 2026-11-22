@@ -1,0 +1,42 @@
+{
+  "id": "insp-661",
+  "title": "dev.to：Nano Banana Pro 七段式提示词与 8 个可复制提示词",
+  "type": "posters",
+  "source": {
+    "url": "https://dev.to/veemoai/nano-banana-pro-prompt-guide-8-copy-paste-prompts-and-how-to-turn-them-into-video-335i",
+    "platform": "dev.to",
+    "author": "veemoai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Nano Banana Pro 的七段式提示词结构加 8 个可复制提示词（含角色转身表、电影感关键帧），以及把静帧当 Seedance 2.5 首帧、首尾帧做转场、链式接续的视频化工作流。",
+  "why": "七段式提示词结构（主体→场景构图→镜头→光线→风格→文字→约束）可直接复用；写动效提示词而非画面提示词、首尾帧做昼夜转场等做法与 GIF 循环直接相关。",
+  "borrow": [
+    "七段式提示词结构",
+    "角色一致性提示词写法",
+    "关键帧构图留白给运镜",
+    "首尾帧+链式接续"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "Veemo 平台博客，带一定平台推广成分，只借提示词结构与工作流。"
+  },
+  "tags": [
+    "posters",
+    "Nano Banana Pro",
+    "prompt-structure",
+    "Seedance"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

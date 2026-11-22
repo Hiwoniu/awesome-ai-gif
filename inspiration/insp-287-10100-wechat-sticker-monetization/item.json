@@ -1,0 +1,40 @@
+{
+  "id": "insp-287",
+  "title": "10100：微信表情包怎么赚钱——赞赏与付费双钱路拆解",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.10100.com/article/157103175",
+    "platform": "大数跨境",
+    "author": "大数跨境",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "拆解微信表情赞赏与付费表情两条变现路径、准入门槛与结算公式，并用真实案例戳破“月入过万”营销话术。",
+  "why": "变现与审核规则讲得最实在，含三类易驳回问题，适合作为立项前的预期校准。",
+  "borrow": [
+    "先读官方文档再生产的立项原则",
+    "审核红线清单",
+    "真实收益预期的校准方法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "变现",
+    "审核",
+    "微信表情包"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "insp-891",
+  "title": "SpriteAI：文字或参考图出透明精灵表，四方向行走加对齐修正",
+  "type": "multi",
+  "source": {
+    "url": "https://spriteai.io",
+    "platform": "SpriteAI",
+    "author": "trytrycc",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "精灵表生成器：文字描述或上传参考图，选一个动作生成透明底精灵表，浏览器里预览循环，导出 PNG 表、单帧、GIF 与 atlas 数据；另有四方向行走表、GIF 转表、切表、视频转表等免费工具。",
+  "why": "精灵表做得最细的一家：256px 透明格、四方向行走表、动作切换时落脚点对齐的修正方法、Godot/Unity/Unreal 等引擎导入参数全给齐，是一份可直接对照的验收清单。",
+  "borrow": [
+    "256px 透明格精灵表的规格与验收写法",
+    "四方向行走表的 3 列×4 行布局",
+    "动作切换时以落脚点对齐的修正方法",
+    "GIF 与视频转精灵表的工具思路",
+    "Godot、Unity、Unreal、RPG Maker 的导入参数表"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "官网已打开核实；站内示例精灵均为原创示例，不照搬角色。"
+  },
+  "tags": [
+    "SpriteAI",
+    "精灵表",
+    "工具",
+    "游戏动画"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

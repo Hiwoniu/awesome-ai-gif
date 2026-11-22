@@ -1,0 +1,42 @@
+{
+  "id": "insp-870",
+  "title": "Opusly：GPT Image 2.6 GIF 生成器，免 ChatGPT 账号直出循环 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.opusly.ai/gpt-image-2-6",
+    "platform": "Opusly",
+    "author": "Opusly",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "用 GPT Image 2.6 API 做的在线 GIF 生成器，输一句话或传一张照片，返回 512×512、8 帧、可调速的循环 GIF，可选透明背景。",
+  "why": "把模型参数钉死成固定规格（8 帧/512/三档速度），附 11 月 5 日六次实测的耗时与价格，是一份可直接照抄的选型表。",
+  "borrow": [
+    "512×512 八帧加慢/中/快三档速度的规格取舍",
+    "一个小动作加引号短文案的提示词写法",
+    "透明背景开关的贴纸导出思路",
+    "X 首日玩家案例当灵感起点的组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "生成器本身是工具页；页面灵感来自 X 玩家首日作品，只借规格与写法，不搬画面。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "GIF 生成器",
+    "工具",
+    "透明背景"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

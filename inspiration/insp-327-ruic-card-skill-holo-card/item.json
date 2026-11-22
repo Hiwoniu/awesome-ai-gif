@@ -1,0 +1,40 @@
+{
+  "id": "insp-327",
+  "title": "RuiC-card-skill：AI 生成 3D 全息收藏卡的 Skill",
+  "type": "cards",
+  "source": {
+    "url": "https://skillsllm.com/skill/ruic-card-skill",
+    "platform": "SkillsLLM",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "生成交互式 3D 全息收藏卡网站的 Skill：模型绘制分层美术（主体、特效、线稿、文字各一层、不同深度），经 Blender 建场景、Three.js 做视差浏览。",
+  "why": "分层视差做全息闪卡的思路与池内光栅/镭射卡方向直接相关，图层分工与深度差原则讲得很具体。",
+  "borrow": [
+    "按深度分层的卡面结构",
+    "视差来自图层深度差、而非把彩虹效果 baked 进图的原则"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "做的是网页交互卡而非可打印/可导出的 GIF 卡，借鉴时需甄别。"
+  },
+  "tags": [
+    "全息卡",
+    "Skill",
+    "视差",
+    "分层"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-386",
+  "title": "liveournarrative：ChatGPT 照片变 GIF 的 9 个技巧",
+  "type": "multi",
+  "source": {
+    "url": "https://liveournarrative.com/chatgpt-photos-into-gifs-tricks/",
+    "platform": "liveournarrative",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "ChatGPT Images 2.6 照片变 GIF 的 9 个技巧合集，含像素画跑步循环等提示词示例。",
+  "why": "9 个技巧覆盖面广，像素画跑步循环的提示词示例可直接参考结构。",
+  "borrow": [
+    "9 技巧合集结构",
+    "像素跑步循环提示词",
+    "照片转动图"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "教程",
+    "技巧合集",
+    "像素画"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

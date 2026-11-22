@@ -1,0 +1,41 @@
+{
+  "id": "insp-270",
+  "title": "xTool O1 光栅卡打印教程：局部变画",
+  "type": "cards",
+  "source": {
+    "url": "https://support.xtool.com/academy/course?id=416&from=academy_home_view_all",
+    "platform": "xTool Support Center",
+    "author": "xTool Support Center",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "7 分钟中级课程：用 Atomm 生成打印图，在 O1 打印机上对齐光栅纹路并直接打印，做局部变画卡（只有部分图案随倾斜切换）。",
+  "why": "补上 Atomm 工具缺的“打印对齐”一环，有双线对齐检测等可操作方法。",
+  "borrow": [
+    "局部变画（只变一部分、其余不变）",
+    "光栅纹路与打印机 X 轴平行对齐",
+    "双线检测对齐法",
+    "节日卡/邀请卡等落地场景"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "与池内 insp-156（同站光栅打印指南文章）为同一站点的不同内容（课程 vs 文章），侧重点不同"
+  },
+  "tags": [
+    "光栅卡",
+    "打印",
+    "xTool"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

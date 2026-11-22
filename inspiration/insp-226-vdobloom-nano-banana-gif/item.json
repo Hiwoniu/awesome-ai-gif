@@ -1,0 +1,40 @@
+{
+  "id": "insp-226",
+  "title": "VdoBloom：用 Nano Banana 做 GIF（首帧锚定法）",
+  "type": "multi",
+  "source": {
+    "url": "https://vdobloom.com/blog/ai-gif-generator/",
+    "platform": "VdoBloom 博客/工具",
+    "author": "未署名",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 Nano Banana 做 GIF 的做法：先画首帧，再以首帧为锚逐帧生成，可选走路、飞翔、跳舞等动作风格，3/5/8/10 帧；自备帧可免费合成。",
+  "why": "与 Images 2.6 原生 GIF 路线不同，是“首帧锚定 + 动作风格参数”的另一条可复现技术路线，且成本按帧明码标价。",
+  "borrow": [
+    "首帧锚定保一致性的做法",
+    "动作风格作为显式参数",
+    "自备帧免费合成的低成本路径"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Nano-Banana",
+    "首帧",
+    "工具"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

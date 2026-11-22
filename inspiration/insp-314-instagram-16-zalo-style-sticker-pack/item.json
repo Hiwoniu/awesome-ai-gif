@@ -1,0 +1,39 @@
+{
+  "id": "insp-314",
+  "title": "IG：16 张 Zalo 风表情贴纸批量展示（4×4 网格）",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DYERJtOsdxe/",
+    "platform": "Instagram",
+    "author": "未具名",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "前后对比展示：一次生成 16 张同人不同表情的贴纸（4×4 网格），每格配英文短文案。",
+  "why": "16 张一套的批量范式，文案排版值得参考。",
+  "borrow": [
+    "4×4 网格批量出图的构图",
+    "每格一短句的文案排版"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Instagram",
+    "批量",
+    "网格"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-916",
+  "title": "AlphaSignal：Gemini 新增原生 GIF 生成（Omni 1.2 Flash）",
+  "type": "multi",
+  "source": {
+    "url": "https://alphasignal.ai/news/google-s-gemini-now-turns-plain-text-prompts-into-custom-gifs",
+    "platform": "AlphaSignal",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Gemini 新增原生 GIF 生成功能（Gemini Omni 1.2 Flash 驱动），约 3 秒无声循环，文本、图片、视频均可作输入，11 月 19 日新闻。",
+  "why": "11 月 19 日最新功能，除 ChatGPT Images 2.6 之外的第二条原生 GIF 路线，规格（最多 10 张参考图、3 段参考视频）值得对照收录。",
+  "borrow": [
+    "Gemini 原生 GIF 三步操作",
+    "自定义反应 GIF 替代固定 GIF 库",
+    "多参考图输入规格"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Gemini",
+    "原生GIF",
+    "新功能"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

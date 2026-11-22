@@ -1,0 +1,41 @@
+{
+  "id": "insp-250",
+  "title": "X @goan999999：一张照片生成 6 款 Q 版微信表情包 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://x.com/goan999999/status/2118178981363249325",
+    "platform": "X",
+    "author": "@goan999999",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一张自拍生成 6 款 Q 版微信表情包，每款 2×2 四帧、320×320、每帧 200ms、无限循环。",
+  "why": "结构最完整的微信表情包 GIF 方案：6 种情绪一次成套、帧规格和循环缝合都写明了。",
+  "borrow": [
+    "6 情绪成套一次生成",
+    "2×2 四帧分镜排布",
+    "首尾同姿势锁循环",
+    "320×320/200ms 规格参数"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；只借方法，不抄出镜的提示词原文"
+  },
+  "tags": [
+    "X",
+    "微信表情包",
+    "成套"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

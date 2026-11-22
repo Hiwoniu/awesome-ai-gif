@@ -1,0 +1,42 @@
+{
+  "id": "insp-568",
+  "title": "Faceless：Seedance 2.5/2.0 选型与 Loop 开关指南",
+  "type": "unknown",
+  "source": {
+    "url": "https://faceless.so/models/seedance",
+    "platform": "Faceless",
+    "author": "Faceless",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Seedance 2.5 与 2.0 的对照指南：2.5 为文字/首帧输入、5/10/15 秒、带声音；2.0 支持最多 5 张参考图、3 段参考视频与 3 段音频；明确提到 Loop 开关：开启后片尾溶回首帧图片，形成无缝循环。",
+  "why": "官方功能级的循环解法：Loop 开关让片尾溶回首帧，是最省事的无缝循环实现。",
+  "borrow": [
+    "Loop 开关片尾溶回首帧的循环实现法",
+    "动作按节拍写的提示词结构",
+    "每个镜头只给一个运镜动词的约束",
+    "2.5 与 2.0 的选型对照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；产出为视频而非 GIF，收的是 Loop 开关与选型对照。"
+  },
+  "tags": [
+    "Seedance",
+    "循环开关",
+    "图生视频",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

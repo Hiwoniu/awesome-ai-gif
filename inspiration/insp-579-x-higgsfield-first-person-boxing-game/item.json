@@ -1,0 +1,41 @@
+{
+  "id": "insp-579",
+  "title": "X：@higgsfield_ai，第一人称拳击游戏（GPT Image 2.6 精灵表）",
+  "type": "multi",
+  "source": {
+    "url": "https://x.com/higgsfield_ai/status/2118154923070439759",
+    "platform": "X",
+    "author": "@higgsfield_ai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Higgsfield 展示的第一人称拳击游戏，用 GPT Image 2.6 生成精灵表/GIF 驱动游戏动作。",
+  "why": "与废品场游戏同源、不同玩法：第一人称视角下角色动作循环同样由 AI 生成的帧序列驱动，说明精灵表路线不只适用于俯视/横版小游戏，也能撑第一人称交互。",
+  "borrow": [
+    "第一人称动作循环的帧序列设计：出拳/格挡等往返动作天然适合首尾相接的循环",
+    "同一账号多条游戏案例可合并对照，看同一技术在不同玩法下的表现",
+    "游戏化应用可作为 GIF 循环不只是聊天表情的延展方向"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "sprite-sheet",
+    "拳击游戏",
+    "第一人称",
+    "动作循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

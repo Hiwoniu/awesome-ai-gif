@@ -1,0 +1,40 @@
+{
+  "id": "insp-545",
+  "title": "Instagram：SpriteFix，三张像素图合成 6 帧精灵表",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DcXk6L2SBKo",
+    "platform": "Instagram",
+    "author": "InSpiritOfTheGames",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "录屏演示 SpriteFix 工具：上传 3 张南瓜像素 PNG，清理后合成横向帧条，128×128 帧尺寸、强制 6 帧，输出循环预览。",
+  "why": "精灵表制作工作流很具体：上传、清理、合并帧文件、定帧尺寸、出循环预览五步齐全；128×128 与 6 帧的规格也可以直接抄。",
+  "borrow": [
+    "精灵表制作五步工作流",
+    "128×128 帧尺寸与 6 帧的规格"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "精灵表",
+    "像素",
+    "工具",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

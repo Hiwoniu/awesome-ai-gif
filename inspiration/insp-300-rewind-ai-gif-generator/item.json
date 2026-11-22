@@ -1,0 +1,39 @@
+{
+  "id": "insp-300",
+  "title": "Rewind.ai：AI GIF Generator（镜像帧无缝循环）",
+  "type": "multi",
+  "source": {
+    "url": "https://rewind.ai/image/gif/",
+    "platform": "Rewind.ai",
+    "author": "Rewind.ai",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "文生 GIF 工具页：写清动作、选动画类型与时长（1–3 秒）、GPU 渲染约 1 分钟，支持 API 调用，含 Smooth Loop 镜像帧做法。",
+  "why": "有明确的时长/帧机制与 API 接入方式。",
+  "borrow": [
+    "镜像帧实现无缝循环的手法",
+    "API 化调用结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "工具",
+    "循环",
+    "API"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-497",
+  "title": "Medium：GPT Image 2.6 先建角色系统，再做表情包，水豚选角表加微信投稿规格",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://medium.com/@office_90417/gpt-image-2-6-build-a-character-system-before-you-build-a-sticker-pack-4a60cd723d18",
+    "platform": "Medium",
+    "author": "office_90417",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "以水豚为例：先用 3×3 图做九个方向选角，锁定唯一参考形象（黏土质感水豚加黄雨靴），先做 4 个常用反应试点再扩到 10 个；附微信表情包投稿规格：8–24 张、240×240、每张 ≤500KB。",
+  "why": "选角表 → 唯一参考 → 试点 4 张 → 扩 10 张的角色系统工作流很完整，微信投稿规格是现成的验收表。",
+  "borrow": [
+    "3×3 选角表的工作流",
+    "唯一参考形象的锁定方法",
+    "试点 4 张再扩 10 张的节奏",
+    "微信投稿规格的验收表"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "基于厂商关联案例，未经独立验证，未宣称已过审。"
+  },
+  "tags": [
+    "角色系统",
+    "选角表",
+    "微信投稿规格",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

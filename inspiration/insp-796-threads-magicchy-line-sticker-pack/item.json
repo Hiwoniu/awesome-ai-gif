@@ -1,0 +1,40 @@
+{
+  "id": "insp-796",
+  "title": "Threads @magic.chy：一张个人照出整套 LINE 动态贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@magic.chy/post/DfhuHoEktI6",
+    "platform": "Threads",
+    "author": "@magic.chy",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "一张个人照加提示词出整套 LINE 动态贴纸：每贴 16 帧、连续动作、透明背景、符合 LINE 投稿规格。",
+  "why": "16 帧每贴加透明背景的 LINE 动态贴纸规格可直接套用。",
+  "borrow": [
+    "16 帧每贴加透明背景的 LINE 动态贴纸规格",
+    "一张个人照出整套贴纸的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Threads",
+    "LINE贴纸",
+    "16帧",
+    "透明背景"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

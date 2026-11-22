@@ -1,0 +1,39 @@
+{
+  "id": "insp-306",
+  "title": "Substack：用新版 ChatGPT Images 做完整绘本（含 GIF 动效）",
+  "type": "storybooks",
+  "source": {
+    "url": "https://writingbeginner.substack.com/p/i-made-a-picture-book-with-the-new",
+    "platform": "Substack",
+    "author": "Writing Beginner",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用新版 ChatGPT Images 做完整绘本的实测手记：同一角色、封面、地图、六个跨页，外加 GIF 动效。",
+  "why": "有完整绘本案例与可复用的动效经验法则。",
+  "borrow": [
+    "绘本封面/内页的动效提示结构（小动作+文字静止）",
+    "风格表写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "绘本",
+    "实测",
+    "ChatGPT-Images"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

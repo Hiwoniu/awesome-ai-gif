@@ -1,0 +1,42 @@
+{
+  "id": "insp-1002",
+  "title": "FB Synaptic Labs：上传精灵表图加一句话提示词出 ChatGPT GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/reel/1443009014031127/",
+    "platform": "Facebook",
+    "author": "Synaptic Labs @connect2synapse",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-13 动画教程：上传吉祥物图，输入一句话提示词让它眨眼冒泡，一次成功，文件名含 4x 规格，导出 1.25x 速，并注明返回黑底而非透明。",
+  "why": "精灵表命名规格、眨眼冒泡微动词与黑底坑点都很具体，是可直接复用的实测记录。",
+  "borrow": [
+    "精灵表文件命名规格的写法",
+    "眨眼冒泡微动词：一句话出微动效",
+    "导出 1.25x 速的做法",
+    "返回黑底而非透明的坑点提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。"
+  },
+  "tags": [
+    "Facebook",
+    "精灵表",
+    "ChatGPT",
+    "微动效"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

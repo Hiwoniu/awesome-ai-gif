@@ -1,0 +1,40 @@
+{
+  "id": "insp-905",
+  "title": "Instagram @sosohyeon_99：AetherAI 一张图出 36 帧精灵表",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfhQJA_Rhq_/",
+    "platform": "Instagram",
+    "author": "@sosohyeon_99",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "AetherAI 宣传演示：蓝发 Q 版小鸡角色一张图生成 36 帧精灵表并循环动起来，分四步走。",
+  "why": "高帧数精灵表的工具示例，可对照 6 帧模板的流畅度差异。",
+  "borrow": [
+    "一图出 36 帧",
+    "四步工作流",
+    "Q 版角色动效"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "高帧数",
+    "精灵表",
+    "AetherAI"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

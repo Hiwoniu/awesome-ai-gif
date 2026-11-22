@@ -1,0 +1,40 @@
+{
+  "id": "insp-937",
+  "title": "AI Sprite Sheet Creator：角色图出多动作精灵表与 GIF 指南",
+  "type": "multi",
+  "source": {
+    "url": "https://aispritesheetcreator.com/how-to-make-a-sprite-sheet",
+    "platform": "AI Sprite Sheet Creator",
+    "author": "AI Sprite Sheet Creator",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "精灵表制作指南：手绘、GIF 转表、AI 生成三条路线，附 11 月 10 日四角色四动作 8 帧实测与游戏引擎导入方法。",
+  "why": "三条路线对照完整，AI 路线可选动作、帧数与分辨率，导出透明 PNG 表、单动作 GIF 与 JSON atlas。",
+  "borrow": [
+    "三条做表路线的取舍：手绘/转 GIF/AI 生成",
+    "动作×帧数×分辨率的参数选择",
+    "透明 PNG 表+JSON atlas 的导出结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "精灵表",
+    "工具",
+    "游戏动画"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

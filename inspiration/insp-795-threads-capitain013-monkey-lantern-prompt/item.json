@@ -1,0 +1,40 @@
+{
+  "id": "insp-795",
+  "title": "Threads @capitain.013：官方猴子提灯笼循环 GIF 示例提示词",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@capitain.013/post/DfY5ptnjPJV",
+    "platform": "Threads",
+    "author": "@capitain.013",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "OpenAI 官方文档截图：猴子提灯笼循环 GIF 的完整示例提示词（雪夜松林、提灯、抬头眨眼、放回）。",
+  "why": "官方循环 GIF 示例提示词的全文结构可直接套用到原创角色。",
+  "borrow": [
+    "官方循环 GIF 示例提示词全文结构：雪夜松林、提灯、抬头眨眼、放回",
+    "抬头眨眼再放回的动作链写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；为官方文档截图的转述，猴子为通用动物形象，非特定 IP。"
+  },
+  "tags": [
+    "Threads",
+    "官方示例",
+    "提示词",
+    "循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

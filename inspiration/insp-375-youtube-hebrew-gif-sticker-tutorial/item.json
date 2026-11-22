@@ -1,0 +1,41 @@
+{
+  "id": "insp-375",
+  "title": "YouTube：希伯来语 GIF 教程——贴纸与动态签名双落点",
+  "type": "multi",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=QYmfht5Mths",
+    "platform": "YouTube",
+    "author": "Shahar Golan",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "希伯来语教程：一步步教用 ChatGPT 做 GIF、控帧与速度，再落到 WhatsApp 动态贴纸与 Gmail 动态签名。",
+  "why": "同一条 GIF 链路覆盖贴纸与签名两种落点，含逐帧编辑与 ffmpeg 转 WebP 的实操。",
+  "borrow": [
+    "逐帧控速",
+    "WhatsApp 贴纸规格",
+    "Gmail 签名落点",
+    "ffmpeg 转码"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "视频教程",
+    "WhatsApp贴纸",
+    "动态签名"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-542",
+  "title": "Threads：Arif Kamal ChatGPT 做 GIF 两步教程，微笑挥手加戴墨镜",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@thearifkamal/post/DfeLkj-n7Qs",
+    "platform": "Threads",
+    "author": "Arif Kamal",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "两页轮播教程：上传图片/角色到 ChatGPT，再输入描述动作的提示词（如微笑挥手、戴墨镜说 WOW、开心大笑）；动作描述提示词示例加两步极简工作流。",
+  "why": "两步极简工作流很适合新手引导：上传图片再写动作提示词；微笑挥手、戴墨镜、开心大笑三个动作示例也是现成的参考。",
+  "borrow": [
+    "两步极简工作流",
+    "微笑挥手与戴墨镜的动作提示词示例"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "说明文字为马来/印尼语；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "两步教程",
+    "Threads",
+    "动作提示词",
+    "新手引导"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

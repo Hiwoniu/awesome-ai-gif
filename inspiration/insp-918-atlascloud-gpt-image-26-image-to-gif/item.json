@@ -1,0 +1,40 @@
+{
+  "id": "insp-918",
+  "title": "AtlasCloud：GPT Image 2.6 静态图变 GIF 三步流程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.atlascloud.ai/zh-TW/blog/tips/gpt-image-2.6-image-to-gif",
+    "platform": "AtlasCloud",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "静态图转 GIF 的三步流程，附纸船 GIF（16 帧×120ms=1.92 秒）、机器人精灵图、茶杯动画三个已发布案例。",
+  "why": "已核准静态图→单动作→逐帧检查的流程干净，黏土机器人单臂挥手提示词与本地验收方法可直接借用。",
+  "borrow": [
+    "已核准静态图单动作流程",
+    "单臂挥手提示词",
+    "下载后本地打开确认真动图的验收方法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "静态图转GIF",
+    "三步流程",
+    "验收"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

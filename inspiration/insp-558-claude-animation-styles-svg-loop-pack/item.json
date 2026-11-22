@@ -1,0 +1,42 @@
+{
+  "id": "insp-558",
+  "title": "UseSkillPedia：Claude Animation Styles，20 种风格的 HTML+SVG 循环动画 Skill",
+  "type": "posters",
+  "source": {
+    "url": "https://www.useskillpedia.com/en/pack/10-more-claude-animation-styles/",
+    "platform": "UseSkillPedia",
+    "author": "pahesilva1",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "给 Claude 的动画风格包：每种风格一句话提示词，生成单文件 HTML（内联 SVG + 原生 JS，无外部素材），16:9、每 6 秒循环；新增 10 种风格（彩色玻璃、皮影、浮世绘、低多边形、包豪斯、笔记本涂鸦、贴纸、故障、毛毡刺绣、装饰艺术），贴纸风含模切白边滤镜与弹跳挤压动效，累计 20 种风格。",
+  "why": "“代码画帧、单变量驱动无缝循环”的确定性动效路线，可迁移到动态海报与故事书的矢量循环动画；贴纸风的白边滤镜写法可直接借用。",
+  "borrow": [
+    "单个时间变量驱动全场动画的无缝循环写法",
+    "SVG 滤镜做模切白边加柔和投影的贴纸质感配方",
+    "12fps 加挤压拉伸的卡通动效节奏",
+    "每种风格一张参考图加一句提示词的组织法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；产出是 HTML/SVG 动画而非 GIF，收的是确定性循环写法。"
+  },
+  "tags": [
+    "SVG动画",
+    "循环海报",
+    "Claude-Skill",
+    "贴纸风"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-607",
+  "title": "Facebook：Ma Ding Teacher，会说话的 GIF：Q 版角色 3 秒循环（张嘴 + 眨眼）",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02j82BKz7CzMk5AnxPce6yAwiZY7HCv3UKyBoTaeRPtEshxiE7mz14VhZJ9CU8euZrl&id=61566117840489",
+    "platform": "Facebook",
+    "author": "Ma Ding Teacher",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "四页图文教程：做会说话的 GIF——准备 Q 版角色图并上传 ChatGPT，贴出可复制提示词，要一个 3 秒循环 GIF，含自然张嘴、眨眼等动作；示例为灰衣项链尖发 Q 版男青年挥手。",
+  "why": "“说话”类动作（张嘴）是动态表情里少见的品类，3 秒循环 + 可复制提示词可直接复用。",
+  "borrow": [
+    "张嘴加眨眼的说话类动作组合",
+    "3 秒循环的时长规格",
+    "可复制提示词的呈现方式",
+    "Q 版角色先行、动作后加的两步法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "说话GIF",
+    "张嘴",
+    "3秒循环",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

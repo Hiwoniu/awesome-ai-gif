@@ -1,0 +1,41 @@
+{
+  "id": "insp-263",
+  "title": "Instagram @theboogley：手绘粉色小人循环贴纸 15 分钟流程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dd4w2k2z4FN/",
+    "platform": "Instagram",
+    "author": "@theboogley",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "日记本上手绘小人、隔纸描摹做逐帧、马克笔上色，线稿 10 分钟+上色 5 分钟，数字抛光后上 GIPHY。",
+  "why": "非 AI 但循环动画方法论极简，15 分钟出 loop 的节奏感值得借鉴到 AI 逐帧流程。",
+  "borrow": [
+    "隔纸描摹保一致性",
+    "“动画数独”式逐帧试错",
+    "15 分钟快速 loop",
+    "GIPHY 分发"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录；非 AI 做法，只借循环方法论"
+  },
+  "tags": [
+    "Instagram",
+    "手绘",
+    "循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

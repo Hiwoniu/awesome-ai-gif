@@ -1,0 +1,32 @@
+{
+  "id": "insp-1100",
+  "title": "NeuroHelper：AI 绘本从故事到预告片的 8 步全流程",
+  "type": "storybooks",
+  "source": {
+    "url": "https://neurohelper.ai/usecases/creative/ai-childrens-book",
+    "platform": "NeuroHelper 用例页",
+    "author": "",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "以真实项目《怕飞的小绿龙 Pip》为例的 8 步全流程：写故事、定角色表、画封面与插画、配音有声书、Seedance 做预告片，各步附可复制的提示词模板。",
+  "why": "先定一句话故事概念、再定角色表、最后逐页出图的绘本工作流顺序值得借，每页一句可跟读重复句的绘本结构也可复用。",
+  "borrow": ["先定故事概念、再定角色表、最后逐页出图的绘本工作流顺序", "每页一句可跟读重复句的绘本结构", "绘本预告片的收尾做法"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录；该页为厂商用例页，带自家产品引导，只借工作流与提示词结构，不抄原文与角色"
+  },
+  "tags": ["绘本", "工作流", "预告片", "角色表"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

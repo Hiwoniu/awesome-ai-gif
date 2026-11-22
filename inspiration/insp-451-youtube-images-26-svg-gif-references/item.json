@@ -1,0 +1,40 @@
+{
+  "id": "insp-451",
+  "title": "YouTube：ChatGPT Images 2.6 实测——SVG 转 GIF、草图变透明贴纸",
+  "type": "multi",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=6DPvWj9Qx1Q",
+    "platform": "YouTube",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Images 2.6 实测教程：SVG 图标转无缝循环 GIF、照片变动图、逐帧调速，以及用 @ 提及复用已保存的参考图；草图可变成透明底 GIF。",
+  "why": "SVG 图标转 GIF 与草图变动图的流程值得借：图标类循环不必逐帧画，靠约束写法让模型只动描边。",
+  "borrow": [
+    "SVG 图标转循环 GIF 的流程",
+    "保存参考图并用 @ 复用的工作流",
+    "逐帧调速与单帧编辑的验收方法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原视频核实"
+  },
+  "tags": [
+    "YouTube教程",
+    "SVG转GIF",
+    "参考图复用"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

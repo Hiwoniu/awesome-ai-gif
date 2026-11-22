@@ -1,0 +1,41 @@
+{
+  "id": "insp-518",
+  "title": "ApiDog：GPT Image 2.6 API 使用指南，GIF 三字段加边界测试清单",
+  "type": "multi",
+  "source": {
+    "url": "https://apidog.com/blog/gpt-image-2-6-api/",
+    "platform": "ApiDog",
+    "author": "ApiDog",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 API 使用指南：flare/sunburst 两个模型 ID、GIF 输出三字段（output_format=gif、frame_count、frame_duration_ms）、SVG 输出与 complexity 参数、测试清单（含 frame_count=17 应记录返回的边界测试）。",
+  "why": "GIF API 的完整参数表加边界测试清单很扎实：程序化批量出 GIF 的接口依据就按这张表来；边界测试的思路也值得抄。",
+  "borrow": [
+    "GIF API 的完整参数表",
+    "frame_count 边界测试清单",
+    "flare 与 sunburst 的模型选型"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "作者声明未用真实 Key 跑过，属文档整理；仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "API",
+    "GPT-Image",
+    "参数表",
+    "边界测试"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

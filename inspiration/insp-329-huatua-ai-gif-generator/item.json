@@ -1,0 +1,39 @@
+{
+  "id": "insp-329",
+  "title": "Huatua：文字生成循环 GIF（四种模式）",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://huatua.com/",
+    "platform": "Huatua",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "文字生成循环 GIF 的工具，分 Sticker / Meme / Banner / Loop 四种模式，首 3 张免费。",
+  "why": "四种模式对应四种构图与时长规格（Quick 6 帧、Standard/HD 12 帧），可直接对照做自己的规格表。",
+  "borrow": [
+    "按用途分档的帧数与尺寸规格",
+    "贴纸与氛围循环两种构图"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "文字生GIF",
+    "规格表",
+    "工具"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

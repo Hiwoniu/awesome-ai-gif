@@ -1,0 +1,32 @@
+{
+  "id": "insp-1128",
+  "title": "Krene：AI 像素风攻击精灵表教程",
+  "type": "multi",
+  "source": {
+    "url": "https://krene.com/blog/ai-pixel-art-attack-animation-sprite-sheet-tutorial",
+    "platform": "Krene 博客",
+    "author": "Krene",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "用 Nano Banana Pro 做像素风角色攻击技能序列帧的教程：以已有精灵图为动作骨架参考，替换为目标角色，保留帧位置/大小/排列与动态趋势，再导入 PS 时间轴合成 GIF。",
+  "why": "“复刻动作骨架、只换皮囊”的换皮方法论非常具体，且是像素风攻击动画这一细分动作的实操。",
+  "borrow": ["“动作骨架复刻加角色替换”的提示词结构", "帧位置/大小/排列严格一致的约束写法", "精灵图导入 PS 时间轴合成 GIF 的流程"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实。文中以已有精灵图为参考骨架，只借方法与提示词结构，不复用参考精灵图本身。"
+  },
+  "tags": ["精灵表", "像素风", "攻击动画", "Nano-Banana-Pro", "换皮"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

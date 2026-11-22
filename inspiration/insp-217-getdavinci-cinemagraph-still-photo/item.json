@@ -1,0 +1,41 @@
+{
+  "id": "insp-217",
+  "title": "GetDavinci：从一张静照做影格图",
+  "type": "posters",
+  "source": {
+    "url": "https://getdavinci.ai/how-to-make-cinemagraph-from-still-photo/",
+    "platform": "GetDavinci 博客",
+    "author": "King Kaisar",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 AI 运动笔刷从一张静照做影格图的教程：涂抹想动区域、设方向与速度、导出无缝循环。",
+  "why": "把“只动一处、其余全静止”的影格图原则落成可操作步骤，含 8 个方向、箭头弯曲、按秒计费等具体参数。",
+  "borrow": [
+    "运动笔刷涂抹选区的交互",
+    "8 方向 + 箭头弯曲的运动控制",
+    "“慢速几乎总是最好的”速度原则",
+    "适用元素清单（水/云/蒸汽/烟/布料）与禁区（人肢/人脸不动）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "影格图",
+    "教程",
+    "动效"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

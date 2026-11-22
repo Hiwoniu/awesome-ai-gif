@@ -1,0 +1,42 @@
+{
+  "id": "insp-222",
+  "title": "PostAI：面向房产经纪的 Images 2.6 GIF 指南",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.postai.sg/guides/chatgpt-images-2-6/",
+    "platform": "PostAI",
+    "author": "PostAI 编辑组",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "面向房产经纪的 Images 2.6 GIF 指南，含可直接复制的贴纸提示词模板、6 个场景化 GIF 案例（附真实 GIF 演示）及 WhatsApp 导入 4 步法。",
+  "why": "提示词是“固定块 + 变量行”的分块结构，且是少见的“同一角色、同一对话连续出整套贴纸”打法，另有光线变化、日落、地图路线等非表情包类循环 GIF 写法。",
+  "borrow": [
+    "四段式贴纸提示词模板",
+    "“同一对话追加一行换一张贴纸”的成套做法",
+    "WhatsApp 规格（512×512、500KB、3–30 张）",
+    "光线/路线类“静态图局部动”提示词写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "ChatGPT",
+    "贴纸",
+    "WhatsApp",
+    "成套"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "insp-923",
+  "title": "Instagram @toolbit_ai：手绘猫头鹰涂鸦变循环 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfWRslfjbW4/",
+    "platform": "Instagram",
+    "author": "@toolbit_ai",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "手绘猫头鹰涂鸦上传 ChatGPT，变循环动画 GIF（11 月 5 日）。",
+  "why": "涂鸦/线稿→动画的提示词路线，门槛低，适合原创角色从草图起步。",
+  "borrow": [
+    "涂鸦变动画提示词",
+    "草图起步路线"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "涂鸦",
+    "草图",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

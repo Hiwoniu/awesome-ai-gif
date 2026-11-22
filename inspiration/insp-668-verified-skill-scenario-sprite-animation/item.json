@@ -1,0 +1,43 @@
+{
+  "id": "insp-668",
+  "title": "Scenario Sprite Animation Skill：按控制需求分流的精灵表动画 Skill",
+  "type": "multi",
+  "source": {
+    "url": "https://verified-skill.com/skills/scenario-labs/skills/scenario-sprite-animation",
+    "platform": "Verified Skill",
+    "author": "scenario-labs",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "scenario-labs 的 sprite-animation Skill（仓库 553 stars）：按任务控制需求分流到像素循环、精确网格、首尾帧循环、关键帧钉姿势等路线，附帧数学、网格规格与对齐、接缝检查等完整流程。",
+  "why": "池里少见的把精灵表按控制需求分流的系统化 Skill：网格规格写法（行列 6×6 上限、16 帧 4×4、末帧回首帧）、GIF 帧延迟 10ms 量化导致 fps 取 10/20/25 的经验、对齐是后处理步骤而非提示词、抽帧顺序必须验证不能假设。",
+  "borrow": [
+    "按控制需求分流的路线表：像素/网格/首尾帧/关键帧",
+    "网格规格写法：行列、画布整除、统一比例与地面基线",
+    "GIF fps 取 10/20/25 的 10ms 量化经验",
+    "逐 tile 对齐到同一基线与中心的后处理步骤",
+    "抽帧顺序验证与接缝检查"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "开源 Skill，只借分流思路与规格写法。"
+  },
+  "tags": [
+    "multi",
+    "skill",
+    "sprite-sheet",
+    "Scenario"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

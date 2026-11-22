@@ -1,0 +1,41 @@
+{
+  "id": "insp-692",
+  "title": "IG @epicuts.studio：Nano Banana 2 分层＋AE 篮球海报动起来",
+  "type": "posters",
+  "source": {
+    "url": "https://www.instagram.com/reel/DY_vTF2M0AY/",
+    "platform": "Instagram",
+    "author": "@epicuts.studio",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "把一张 Pinterest 篮球海报（大字 GRIP＋握球的手）用 Nano Banana 2 按图层分别生成绿幕素材，再进 After Effects 2026 抠像、遮罩让手从字母后穿过、加速度线做动效。",
+  "why": "海报类目前最完整的一条工作流：AI 分层生成→AE 合成；手从字母后穿过的遮罩穿插与速度线，是动态海报“图层穿插”手法的具体样本。",
+  "borrow": [
+    "AI 分层生成→AE 合成的动态海报工作流",
+    "遮罩穿插：手从字母后穿过",
+    "速度线做动效"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例海报来自 Pinterest，只借分层与合成手法，不用它的海报画面与文案。"
+  },
+  "tags": [
+    "posters",
+    "动态海报",
+    "Nano Banana 2",
+    "AE 合成"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

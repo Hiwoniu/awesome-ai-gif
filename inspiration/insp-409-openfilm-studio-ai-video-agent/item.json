@@ -1,0 +1,42 @@
+{
+  "id": "insp-409",
+  "title": "OpenFilm Studio：开源 AI 视频 agent，可出 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://alternativeto.net/software/openfilm-studio/about/",
+    "platform": "AlternativeTo",
+    "author": "OpenFilm",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "开源 AI 视频 agent：Claude Code/Codex 等 coding agent 用 HTML 写镜头、组装成片，本地渲染 MP4（最高 4K，含动态模糊、透明视频、GIF、音频分轨、字幕），时间线可导出到 Final Cut/Premiere/DaVinci。",
+  "why": "“代码即时间线、agent 写片”的路线，对动态海报与故事书的批量生产是另一条可借鉴的工程化思路。",
+  "borrow": [
+    "HTML 镜头加 agent 编排的制片模式",
+    "GIF 作为渲染导出格式之一",
+    "时间线导出到剪辑软件",
+    "自带 key 的成本结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "来源为 AlternativeTo 的软件收录页，非项目官网。"
+  },
+  "tags": [
+    "AI视频agent",
+    "开源",
+    "HTML成片",
+    "GIF导出"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

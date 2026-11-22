@@ -1,0 +1,42 @@
+{
+  "id": "insp-177",
+  "title": "Typing Text GIF：纯前端打字机动画转循环 GIF",
+  "type": "signatures",
+  "source": {
+    "url": "https://github.com/fancydirty/typing-text-gif",
+    "platform": "GitHub",
+    "author": "fancydirty",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "纯前端小工具，在 canvas 上渲染打字机动画并编码成循环 GIF/APNG，无后端、不用 ffmpeg/WASM。",
+  "why": "打字机动效的逐字时序与 GIF 透明描边处理经验，是动态文字类 GIF 的编码注意事项清单。",
+  "borrow": [
+    "打字机动效的逐字时序写法",
+    "GIF89a 无半透明的描边光晕处理（按背景色做 matte）",
+    "Outlook 只显示第 0 帧的兜底意识"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": "在线试用 typingtextgif.com"
+  },
+  "tags": [
+    "打字机",
+    "动态文字",
+    "开源",
+    "MIT",
+    "GIF编码"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

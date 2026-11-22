@@ -1,0 +1,43 @@
+{
+  "id": "insp-822",
+  "title": "HEIBA AI GIF 动图生成器：Web 与达芬奇插件双路出 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.heibagen.com/zh/ai-gif-generator",
+    "platform": "HEIBA",
+    "author": "HEIBA AI Studio",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "在网页或 DaVinci Resolve 插件里用提示词或参考图生成短时 GIF：选帧数与帧间隔，播放检查循环后下载原件；插件可把 GIF 沿用素材池与 Fusion MediaIn 流程导入时间线。",
+  "why": "唯一同时打通网页生成与剪辑软件导入的 GIF 工作流：帧数乘帧间隔算总时长（如 9 帧×200ms＝1.8 秒）、先播放检查首尾衔接再下载的验收顺序值得借。",
+  "borrow": [
+    "帧数×帧间隔算总时长的参数组织",
+    "生成后先播放检查首尾衔接再下载的验收顺序",
+    "动态图标/产品动效/解说循环三类场景的提示词分工",
+    "达芬奇插件导入保留完整帧序列的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "页面已打开核实；为工具官方页，提示词示例为通用纸飞机，无 IP"
+  },
+  "tags": [
+    "GIF 生成器",
+    "DaVinci Resolve",
+    "帧数",
+    "帧间隔",
+    "循环验收"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

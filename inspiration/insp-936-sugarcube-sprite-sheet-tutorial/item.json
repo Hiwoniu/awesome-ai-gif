@@ -1,0 +1,40 @@
+{
+  "id": "insp-936",
+  "title": "SugarCube：GPT Image 2.6 精灵表 GIF 教程",
+  "type": "multi",
+  "source": {
+    "url": "https://sugarcube.art/blog/es/how-to-make-ai-gifs-from-sprite-sheets/",
+    "platform": "SugarCube",
+    "author": "SugarCube",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "不用视频模型做 GIF 的另一条路：让图像模型一次画出 3×3 精灵表，再裁帧、定时间、编码成 GIF 的完整教程。",
+  "why": "精灵表路线的标准讲解：九帧网格读法、连续性要求与裁帧组装四步。",
+  "borrow": [
+    "3×3 九帧精灵表的网格读法与提示词结构",
+    "精灵表与拼贴的区别：帧间连续性",
+    "生成→检查网格→裁帧→编码四步流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；命中链接为西班牙语版"
+  },
+  "tags": [
+    "精灵表",
+    "教程",
+    "GPT Image 2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

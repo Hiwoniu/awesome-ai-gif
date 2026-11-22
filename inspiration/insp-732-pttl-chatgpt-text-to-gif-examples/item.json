@@ -1,0 +1,29 @@
+{
+  "id": "insp-732",
+  "title": "ChatGPT 文生 GIF 两例实测：鹈鹕与猫头鹰，9 帧极简提示词加逐句约束",
+  "type": "multi",
+  "source": {
+    "url": "https://www.pttl.gr/en/chatgpt-images-2-6-gif-animation/",
+    "platform": "pttl.gr",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "用两条极短文字提示词直接生成 9 帧循环 GIF 的实测：湖上鹈鹕展翅、猫头鹰兴奋跳跃，全程不用上传图片",
+  "why": "两例都给出从极简初版到加约束精修的过程，动与不动的分工写得很清楚，可当作短循环提示词的起手模板来参考",
+  "borrow": [
+    "极简提示词起手、再逐句加约束的迭代写法",
+    "动静分工句式：主体动作加背景与机位固定加末帧回首帧",
+    "9 帧短循环的默认帧数取向"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "原文已打开核实；示例是对方的鹈鹕与猫头鹰画面，只借提示词结构，不用它的角色与画面"
+  },
+  "tags": ["GPT Image 2.6", "文生GIF", "提示词结构", "无缝循环"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-20", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

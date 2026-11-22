@@ -1,0 +1,32 @@
+{
+  "id": "insp-1101",
+  "title": "AI Sprite Generator：浏览器本地精灵表转 GIF 工具",
+  "type": "multi",
+  "source": {
+    "url": "https://aispritegenerator.io/sprite-sheet-to-gif",
+    "platform": "aispritegenerator.io",
+    "author": "",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "浏览器本地运行的精灵表转 GIF 工具，按列/行或帧尺寸切片，1–100 FPS 可调，文件不上传；同站还有 AI 精灵生成器，可从一张角色图出 8 帧行走/待机循环。",
+  "why": "本地切片＋帧率直观预览的 GIF 质检环节做法实用，出精灵表后可快速验循环。",
+  "borrow": ["本地切片＋帧率直观预览的 GIF 质检环节做法", "按列/行或帧尺寸切片的切表参数设计", "一张角色图出 8 帧行走/待机循环的规格"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录；同款工具另有 aispritegenerator.com 镜像，同一工具只收一条"
+  },
+  "tags": ["精灵表", "转 GIF", "工具", "质检"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

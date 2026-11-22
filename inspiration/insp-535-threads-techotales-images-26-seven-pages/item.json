@@ -1,0 +1,41 @@
+{
+  "id": "insp-535",
+  "title": "Threads：Techotales 七页图解 Images 2.6，四步做循环 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@techotales/post/DfZThURFOk7",
+    "platform": "Threads",
+    "author": "Techotales",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "七页教学轮播，讲 ChatGPT Images 2.6 的 GIF 功能：文字或照片转循环 GIF，可调速、可逐帧改；四步流程为要求 looping GIF、指定动什么、调速、分享；示例提示词为眨眼猫、冒热气的咖啡。",
+  "why": "四步流程加两个示例提示词很干净：眨眼猫与冒热气的咖啡都是最小动作的范例；调速与逐帧改的控制点也讲到了。",
+  "borrow": [
+    "四步流程",
+    "眨眼猫与冒热气咖啡的示例提示词",
+    "调速与逐帧改的控制点"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "内容为 Instagram 轮播的转载；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "七页图解",
+    "Threads",
+    "四步流程",
+    "示例提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

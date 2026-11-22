@@ -1,0 +1,42 @@
+{
+  "id": "insp-702",
+  "title": "apimodels：37+ GPT Image 2.5 角色与贴纸提示词，含精灵表结构",
+  "type": "multi",
+  "source": {
+    "url": "https://apimodels.app/gpt-image-2-5-prompts/characters-stickers",
+    "platform": "apimodels",
+    "author": "apimodels",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "37 条以上 GPT Image 2.5 角色与贴纸提示词合集，附示例图与来源，含 16 帧哥布林拉弓精灵表、像素待机动画等 GIF 相关提示词。",
+  "why": "提示词合集按角色/贴纸/精灵表分类的组织方式可借；像素待机动画要求一次交付透明精灵表+透明 GIF 双格式，值得参考。",
+  "borrow": [
+    "提示词合集的分类组织：角色设定表/贴纸页/精灵表/待机动画",
+    "16 帧哥布林拉弓精灵表的提示词结构：动作过程+切图+永动 GIF",
+    "像素待机动画的双交付写法：透明 4×4 精灵表 + 透明 GIF（256×256、约 2.4 秒循环）",
+    "每条提示词标注来源与作者的收录做法"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "合集中部分示例涉及既有角色形象，只借提示词结构与分类方式，不复刻角色；未打开原页核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "提示词合集",
+    "GPT Image 2.5",
+    "精灵表",
+    "角色设定"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

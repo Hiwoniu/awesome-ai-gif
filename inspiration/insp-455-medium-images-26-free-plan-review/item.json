@@ -1,0 +1,39 @@
+{
+  "id": "insp-455",
+  "title": "Medium：ChatGPT Images 2.6 免费版实测——每天约 8 张、GIF 约 20 秒",
+  "type": "multi",
+  "source": {
+    "url": "https://medium.com/@iamsupcat/chatgpt-images-2-6-review-perfect-korean-text-about-8-free-images-a-day-vs-3-local-models-85319f592f9e",
+    "platform": "Medium",
+    "author": "iamsupcat",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "免费版与本地模型（Z-Image、Qwen-Image、FLUX 3）的对照实测：GIF 约 20 秒一张、9 帧×0.3 秒、免费额度约 24 小时 8 次操作。",
+  "why": "免费额度的实测数字对成本规划有用；同一提示词跨模型对照的验收写法值得借。",
+  "borrow": [
+    "免费额度与生成耗时的实测数字",
+    "同一提示词跨模型对照的验收写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实；免费额度数字以 OpenAI 当前公示为准"
+  },
+  "tags": [
+    "Medium",
+    "免费版",
+    "实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

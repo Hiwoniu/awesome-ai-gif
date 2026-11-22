@@ -1,0 +1,39 @@
+{
+  "id": "insp-1167",
+  "title": "Fluxnote：四步循环提示词流程与工具选型",
+  "type": "multi",
+  "source": {
+    "url": "https://fluxnote.io/guides/how-to-make-seamless-loop-video-ai",
+    "platform": "Fluxnote",
+    "author": "Fluxnote 编辑部",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "四步循环提示词流程：核心动作→场景风格→循环关键词→技术参数，附 Pika/Runway/Kaiber 对比。",
+  "why": "提示词四步结构清晰，可直接套用到 GIF 循环提示词的写法上。",
+  "borrow": [
+    "提示词四步结构：核心动作、场景风格、循环关键词、技术参数",
+    "Pika/Runway/Kaiber 的工具选型对照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实；视频向，落到 GIF 要补帧数与体积参数。"
+  },
+  "tags": [
+    "无缝循环",
+    "提示词结构",
+    "工具选型"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

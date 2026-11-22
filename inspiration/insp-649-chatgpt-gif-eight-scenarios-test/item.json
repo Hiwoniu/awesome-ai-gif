@@ -1,0 +1,43 @@
+{
+  "id": "insp-649",
+  "title": "ChatGPT 动图 8 个场景提示词实测：表情包、产品旋转与 Logo",
+  "type": "multi",
+  "source": {
+    "url": "https://www.chong-zhen.com/moxing/gpt-image/dongtu-changjing",
+    "platform": "chong-zhen.com",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "11 月 5 日实测 8 个 ChatGPT 动图场景（微信表情包、产品旋转、Logo、贺卡、促销图、步骤图等），每条给提示词、成片与失败点，附帧数、尺寸与体积数据。",
+  "why": "一次实测覆盖 8 类用途，失败点写得实在（表情包要裁方图、促销图比例失控、步骤图只能当示意），可直接当避坑清单。",
+  "borrow": [
+    "8 类场景的提示词写法",
+    "产品旋转一圈的提示结构",
+    "带字三条全用「」标字的做法",
+    "失败复盘（比例、裁切、示意类局限）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "实测为作者 11 月 5 日单次结果，未复测；只借场景写法与复盘，不照搬成片。"
+  },
+  "tags": [
+    "实测",
+    "8 场景",
+    "表情包",
+    "产品旋转",
+    "Logo"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

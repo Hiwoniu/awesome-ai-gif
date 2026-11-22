@@ -1,0 +1,42 @@
+{
+  "id": "insp-467",
+  "title": "Instagram：3×3 贴纸提示词全文可见，含负面提示词",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/p/DakmqHrjALW/",
+    "platform": "Instagram",
+    "author": "Barış Mehtiyev",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "第二张图直接贴出完整英文提示词：3×3 布局、粗白模切边、性别自适应风格与负面提示词。",
+  "why": "静态贴纸包提示词结构较完整的公开案例，负面提示词列得很细，可直接借写法。",
+  "borrow": [
+    "3×3 布局的提示词写法",
+    "粗白模切边的描述方式",
+    "负面提示词的列法",
+    "性别自适应风格的措辞"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；这是静态贴纸格，非 GIF，收的是提示词结构。"
+  },
+  "tags": [
+    "提示词结构",
+    "贴纸包",
+    "负面提示词",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

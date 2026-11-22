@@ -1,0 +1,41 @@
+{
+  "id": "insp-454",
+  "title": "Medium：GPT-Image-2.6 Flare 与 Sunburst 横评，含 9 帧猫 GIF 实测",
+  "type": "multi",
+  "source": {
+    "url": "https://medium.com/@302.AI/gpt-image-2-6-flare-vs-sunburst-review-fc3505e13469",
+    "platform": "Medium",
+    "author": "302.AI",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Flare 与 Sunburst 的横评，含 9 帧猫打哈欠 GIF 案例：逐帧动作拆解，以及两模型在文字、果冻感变形上的差异。",
+  "why": "9 帧打哈欠的逐帧拆解是很好的动作分镜写法参考；Flare 与 Sunburst 在 GIF 上的取舍结论可作选型依据。",
+  "borrow": [
+    "9 帧动作的逐帧拆解写法",
+    "Flare 与 Sunburst 的 GIF 选型结论",
+    "默认 9 帧×200ms 的参数取法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实"
+  },
+  "tags": [
+    "Medium",
+    "Flare",
+    "Sunburst",
+    "横评"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "insp-859",
+  "title": "IG 青蛙像素精灵表：35 帧八动作演示",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df5NSKQhZqg/",
+    "platform": "Instagram",
+    "author": "@Rimal",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "青蛙像素精灵表 35 帧演示：STAND、IDLE、CROUCH、JUMP、FALL、LAND、TONGUE、HURT 八个动作。",
+  "why": "跳跃类动作的完整分解样本：下蹲、起跳、下落、落地四段连贯帧，可作跳跃循环的帧数分配参照；与企鹅表对照看同一技术在不同角色下的动作库组织。",
+  "borrow": [
+    "下蹲、起跳、下落、落地四段跳跃帧的分解组织",
+    "35 帧在八动作间的帧数分配参照",
+    "吐舌头这类角色专属小动作的加法思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["像素风", "精灵表", "多动作", "青蛙", "跳跃循环", "Instagram"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

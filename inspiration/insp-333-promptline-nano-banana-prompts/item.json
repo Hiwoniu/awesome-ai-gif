@@ -1,0 +1,39 @@
+{
+  "id": "insp-333",
+  "title": "PromptLine：Nano Banana 官方提示词示例全集",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://promptline.net/guides/nano-banana-prompts",
+    "platform": "PromptLine",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "整理自 Google 官方文档的 Nano Banana 提示词示例库，按贴纸、图标、Logo、产品图、漫画等分类。",
+  "why": "贴纸类给出 Google 官方的贴纸提示词结构（风格+主体+特征+配色+线条+底色），是角色设计提示词的可靠底本。",
+  "borrow": [
+    "官方贴纸提示词的五要素结构",
+    "贴纸类“纯白底”的写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "以静态贴纸提示词为主，GIF 动画部分较少，主要价值在角色与风格定型。"
+  },
+  "tags": [
+    "Nano-Banana",
+    "提示词库",
+    "官方示例"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

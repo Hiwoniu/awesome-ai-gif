@@ -1,0 +1,44 @@
+{
+  "id": "insp-1058",
+  "title": "Higgsfield 游戏生成 Skill：精灵表与 2D 动画规范",
+  "type": "multi",
+  "source": {
+    "url": "https://www.skillhub.club/skills/higgsfield-ai-skills-higgsfield-game-generation",
+    "platform": "SkillHub",
+    "author": "Higgsfield",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "用 Higgsfield CLI 生成可玩网页游戏的 Claude Skill，全流程含资产清单、风格公式、精灵表／2D 动画、部署验证。",
+  "why": "其中风格公式逐字复用于每个资产提示词、精灵表按视角词匹配的做法，对做成套 GIF／精灵表时保持角色与风格一致很有参考价值。",
+  "borrow": [
+    "STYLE FORMULA 五段式结构，60–90 词定稿后逐字复用",
+    "design/assets.csv 资产清单先行、再生成的流程",
+    "精灵表／2D 动画单独走 references/2d-animation.md 的分工",
+    "部署前本地 HTTP 验证、重启、触屏等检查清单"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。该页为 SkillHub 的 Skill 全文镜像页，底层项目为 Higgsfield CLI（github.com/higgsfield-ai/cli）；它是游戏生成 Skill，GIF／精灵表只是其中一部分。"
+  },
+  "tags": [
+    "Higgsfield",
+    "Skill",
+    "游戏",
+    "精灵表",
+    "风格公式",
+    "Claude Skill"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

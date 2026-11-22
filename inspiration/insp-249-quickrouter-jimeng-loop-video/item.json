@@ -1,0 +1,41 @@
+{
+  "id": "insp-249",
+  "title": "QuickRouter：即梦循环视频——相同首尾帧仍需检查接点",
+  "type": "posters",
+  "source": {
+    "url": "https://quickrouter.ai/tutorials/jimeng-start-end-loop-video",
+    "platform": "QuickRouter",
+    "author": "QuickRouter",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用相同首尾帧做即梦 4 秒 720p 循环视频的实测，强调须逐帧比对接点、不能只凭任务成功判定无缝循环。",
+  "why": "循环接点验收方法可直接迁移到 GIF 循环质量检查，附可下载的实测视频与首尾帧素材。",
+  "borrow": [
+    "首尾帧相同锁定条件",
+    "逐帧比对接点验收",
+    "播放两遍验循环",
+    "程序循环参考与生成结果区分"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "即梦",
+    "循环",
+    "验收"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-842",
+  "title": "IG @alpha_me_2014：三组提示词配 3×3 九宫格无缝循环 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dft4LHpBwuS/",
+    "platform": "Instagram",
+    "author": "@alpha_me_2014",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "IG 短视频教程：展示三组 AI 生图提示词与成品，含一张 3×3 九宫格 90 年代动漫风多表情图，配无缝循环 GIF 的提示词。",
+  "why": "三组提示词对照展示的做法与 3×3 九宫格配循环 GIF 的组合，是表情表类内容可借的呈现结构。",
+  "borrow": [
+    "三组提示词与成品对照展示的教程结构",
+    "3×3 九宫格多表情加无缝循环 GIF 的组合做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "九宫格",
+    "循环GIF",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

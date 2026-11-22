@@ -1,0 +1,41 @@
+{
+  "id": "insp-243",
+  "title": "EvoLink：GPT Image 2.6 GIF 教程（参数、帧数与成本）",
+  "type": "multi",
+  "source": {
+    "url": "https://evolink.ai/zh/blog/gpt-image-2-6-gif-guide",
+    "platform": "EvoLink",
+    "author": "EvoLink",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Flare 与 Sunburst 对照、循环提示词写法、帧数与帧时长参数、费用结构说明。",
+  "why": "参数讲得最细的一篇，frame_count 与 frame_duration_ms 的默认值与取值范围可直接当规格参考。",
+  "borrow": [
+    "Flare 快 vs Sunburst 细的选型",
+    "9 帧×200ms 默认组合",
+    "首尾衔接写法",
+    "费用按帧图布局分档"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "GPT-Image-2.6",
+    "参数",
+    "成本"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

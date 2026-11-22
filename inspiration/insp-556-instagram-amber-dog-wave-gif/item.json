@@ -1,0 +1,40 @@
+{
+  "id": "insp-556",
+  "title": "Instagram：狗狗 Amber 挥爪 GIF，上传照片加提示词保真",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfxK3NmjcDP",
+    "platform": "Instagram",
+    "author": "Amber Showed Me How",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "教程：上传狗狗 Amber 的静态照，输入提示词让它轻轻挥爪，同时保持脸、斑纹、衣服与背景不动；演示下载与分享。",
+  "why": "指定动作加锁定不动项的提示词写法很干净：脸、斑纹、衣服、背景四项一次锁死；宠物表情包方向的参考也很直接。",
+  "borrow": [
+    "指定动作加锁定不动项的提示词写法",
+    "脸斑纹衣服背景四项锁死的约束"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "宠物",
+    "挥爪",
+    "保真",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

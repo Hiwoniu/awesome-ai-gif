@@ -1,0 +1,41 @@
+{
+  "id": "insp-471",
+  "title": "Instagram：6 格精灵图做眨眼猫 GIF，提示词全程可见",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfcTv9QBL3N/",
+    "platform": "Instagram",
+    "author": "Bhawna Sikriwal",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "录屏展示完整提示词：ChatGPT 生成 6 格精灵图再合成循环 GIF，猫眨眼与 wink 两种效果。",
+  "why": "精灵图路线讲得很透：角色、颜色与复古未来风一次定好，再讲三类用途，适合当教学参考。",
+  "borrow": [
+    "6 格精灵图的提示词结构",
+    "角色与颜色一次定好的写法",
+    "吉祥物、旋转产品、reaction meme 三类用途划分"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "sprite-sheet",
+    "精灵图",
+    "循环GIF",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

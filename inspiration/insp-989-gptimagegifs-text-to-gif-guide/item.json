@@ -1,0 +1,29 @@
+{
+  "id": "insp-989",
+  "title": "gptimagegifs：Text to GIF 指南，9 帧与 16 帧选用规则",
+  "type": "multi",
+  "source": {
+    "url": "https://gptimagegifs.com/text-to-gif",
+    "platform": "gptimagegifs.com",
+    "author": "gptimagegifs.com",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 文字转 GIF 指南：512–960px、6–16 帧、每帧 80–500ms，9 帧适合单手势、16 帧更顺滑；Flare 快、Sunburst 细。",
+  "why": "帧数/速度/质量三维参数讲得完整，9 帧与 16 帧的选用规则可直接作参数表。",
+  "borrow": [
+    "9 帧 vs 16 帧的选用规则",
+    "“一个主体 + 一个动作 + 固定机位”的提示词公式",
+    "按帧数计价的成本意识"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["GPT Image 2.6", "参数", "教程"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-21", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

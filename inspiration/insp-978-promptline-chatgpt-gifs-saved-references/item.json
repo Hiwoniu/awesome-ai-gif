@@ -1,0 +1,41 @@
+{
+  "id": "insp-978",
+  "title": "Promptline：ChatGPT GIF 与保存参考照片（@名字调用）用法指南",
+  "type": "multi",
+  "source": {
+    "url": "https://promptline.net/news/2026/11/chatgpt-gifs-saved-reference-images",
+    "platform": "Promptline",
+    "author": "",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "GIF 生成与 @名字保存参考图、复用角色做系列 GIF 的官方用法整理。",
+  "why": "@引用复用角色的工作流对做系列表情包很关键，另有 6 帧 3×2 网格写法。",
+  "borrow": [
+    "保存参考图再 @调用做系列 GIF 的工作流",
+    "6 帧 3×2 网格 + 固定机位 + 末帧过渡回首帧的写法",
+    "起手提示词结构：说动什么、其余不动、说清循环收尾"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实；指南基于 OpenAI 官方帮助页整理。"
+  },
+  "tags": [
+    "GPT-Image-2.6",
+    "参考图复用",
+    "系列GIF",
+    "精灵表"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

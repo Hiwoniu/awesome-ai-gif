@@ -1,0 +1,32 @@
+{
+  "id": "insp-907",
+  "title": "DreamMew：参考图/文本出无缝循环动画与精灵表 ZIP",
+  "type": "multi",
+  "source": {
+    "url": "https://www.dreammew.com/en/",
+    "platform": "网站",
+    "author": "DreamMew",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "浏览器端工具，参考图或文本生成无缝循环 2D 动画，可导出 GIF/WebM/MP4 或精灵表 ZIP，支持透明背景。",
+  "why": "参数面很全：参考图当首帧、无缝循环开关、时长 4–15 秒、最多 96 帧，适合拿来对标精灵表导出规格。",
+  "borrow": ["参考图当首帧的设定", "无缝循环开关加 96 帧上限的时长/帧数配比", "GIF 与精灵表 ZIP 双导出路线"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "付费工具（起步约 0.9 美元），未实测生成效果；页面宣称可商用，未核实条款"
+  },
+  "tags": ["sprite-sheet", "loop", "tools", "GIF-export"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

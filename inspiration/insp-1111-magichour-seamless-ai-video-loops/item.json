@@ -1,0 +1,32 @@
+{
+  "id": "insp-1111",
+  "title": "Magic Hour：AI 视频无缝循环方法论",
+  "type": "multi",
+  "source": {
+    "url": "https://magichour.ai/blog/how-to-make-seamless-ai-video-loops",
+    "platform": "Magic Hour 官方博客",
+    "author": "Magic Hour",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "教 AI 生成片段如何做出无缝循环的完整方法论：选可回归的动作、写带回归描述的 motion brief、找循环区间、用 trim/crossfade/ping-pong 修接缝、导出后按清单验收。",
+  "why": "池里已有大量提示词与帧数规格，但缺“循环接缝”这一环的系统方法；这篇补上了动作选择、接缝修法与验收标准，可直接用来验收表情包、卡片、海报的循环质量。",
+  "borrow": ["循环动作选择：只选能自然回归的动作（旋转、呼吸、摆动、脉冲），单向动作先改动作再谈无缝循环", "motion brief 结构：固定元素与动作分开写，明确写出回归方式", "接缝三法：trim 直接剪、crossfade 只修小残差、ping-pong 仅当反向属于动作本身", "验收清单：导出后连放 5 遍检查、逐帧看接缝，GIF 需另查渐变、细边与帧时序"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。文中引用了一段 Kapwing 2022 年的旧视频作示例，与 AI 生成无关；全文主体面向视频循环，GIF 只是交付检查中的一节，以“循环接缝方法”为准。"
+  },
+  "tags": ["无缝循环", "接缝修复", "motion-brief", "验收清单", "视频循环"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

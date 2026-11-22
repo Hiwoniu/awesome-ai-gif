@@ -1,0 +1,39 @@
+{
+  "id": "insp-372",
+  "title": "X @SSHCodes：鹈鹕骑自行车 GIF 空间推理测试",
+  "type": "unknown",
+  "source": {
+    "url": "https://x.com/SSHCodes/status/2118127375481504100",
+    "platform": "X/Twitter",
+    "author": "@SSHCodes",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "上线当天用“鹈鹕骑自行车”这一经典空间推理测试提示词生成的 GIF 示例。",
+  "why": "展示了新模型对复杂动作与空间关系的处理效果，可作模型能力边界参考。",
+  "borrow": [
+    "复杂动作提示词写法",
+    "模型能力测试用例"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；只有真实演示，未见提示词结构与工作流，边缘候选。"
+  },
+  "tags": [
+    "模型测试",
+    "复杂动作",
+    "演示"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

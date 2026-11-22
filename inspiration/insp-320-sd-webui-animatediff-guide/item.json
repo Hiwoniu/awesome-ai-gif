@@ -1,0 +1,43 @@
+{
+  "id": "insp-320",
+  "title": "sd-webui-animatediff：WebUI 扩展的 GIF 闭环与参数指南",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/continue-revolution/sd-webui-animatediff",
+    "platform": "GitHub",
+    "author": "continue-revolution",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Stable Diffusion WebUI 的 AnimateDiff 扩展使用指南：闭环 R-P/R+P/A、GIF 直出、FreeInit 与 FILM 插帧、Prompt Travel、ControlNet 视频转视频。",
+  "why": "池里 AnimateDiff 多是 ComfyUI 路线，WebUI 这条主流集成一直没收；这份指南把闭环三种模式与 GIF 输出讲得最全。",
+  "borrow": [
+    "闭环三模式 R-P/R+P/A 的选型",
+    "GIF/MP4/WebP 多格式同出的设置",
+    "FreeInit 降闪烁的参数思路",
+    "首尾帧 latent 控制与 Prompt Travel 的用法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "指南经 DeepWiki 镜像页核实，源仓库为 continue-revolution/sd-webui-animatediff；授权信息以仓库为准，未在所读页面确认。"
+  },
+  "tags": [
+    "AnimateDiff",
+    "Stable Diffusion WebUI",
+    "开源",
+    "GIF",
+    "闭环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

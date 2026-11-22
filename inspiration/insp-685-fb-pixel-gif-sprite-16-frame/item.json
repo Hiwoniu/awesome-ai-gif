@@ -1,0 +1,41 @@
+{
+  "id": "insp-685",
+  "title": "Facebook：不用视频模型做像素 GIF 的 16 帧精灵表技巧",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/1096823479995555/",
+    "platform": "Facebook",
+    "author": "未具名作者",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "不用视频模型做像素 GIF 的精灵表技巧：上传真人照片加白猫参考图（或纯文字描述），让 ChatGPT 出 4×4 共 16 帧像素风精灵表（蓄力→放出猫形魔法→回起始姿势），再转成循环 GIF，并检查跳帧与裁边。",
+  "why": "16 帧 4×4 闭环动作结构很完整：蓄力、放招、回起始姿势三段式；回起始姿势保循环的检查点与跳帧/裁边检查可直接进验收清单。",
+  "borrow": [
+    "16 帧 4×4 闭环动作结构：蓄力→放招→回起始姿势",
+    "回起始姿势保循环的检查点",
+    "跳帧与裁边检查"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "演示用真人照片加宠物照片，只借 16 帧闭环结构与检查方法，不用它的照片与角色。"
+  },
+  "tags": [
+    "wechat-stickers",
+    "像素风",
+    "精灵表",
+    "16 帧"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

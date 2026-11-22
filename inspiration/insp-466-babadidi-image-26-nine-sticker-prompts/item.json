@@ -1,0 +1,40 @@
+{
+  "id": "insp-466",
+  "title": "巴巴小站：Image 2.6 实测，9 套表情包提示词一次给齐",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.babadidi.com/3698.html",
+    "platform": "巴巴小站",
+    "author": "Adrian Punk",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "9 个场景表情包实测，提示词逐字照录，含批量生成与调速、逐帧修改的做法。",
+  "why": "9 套场景一次给齐，含批量生成与调速的实操，适合对照着拆提示词结构。",
+  "borrow": [
+    "9 个场景的分类组织",
+    "批量生成的流程",
+    "调速与逐帧修改的迭代方法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "含真人动态表情包示例，只借结构，不拿真人形象。"
+  },
+  "tags": [
+    "提示词合集",
+    "实测",
+    "批量生成"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

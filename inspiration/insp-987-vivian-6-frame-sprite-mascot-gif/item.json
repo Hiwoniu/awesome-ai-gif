@@ -1,0 +1,30 @@
+{
+  "id": "insp-987",
+  "title": "Vivian Lin：ChatGPT 六帧精灵表挥手吉祥物 GIF，Claude Code 切图合成",
+  "type": "multi",
+  "source": {
+    "url": "https://vivian.hobbyland-group.com/en/article/chatgpt-6-frame-sprite-sheet-looping-gif-mascot",
+    "platform": "Vivian Lin",
+    "author": "Vivian Lin",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "ChatGPT 一次画出 3×2 六帧精灵表（只右臂动），Claude Code 按白缝切图、不动部位对齐、ffmpeg 合成循环 GIF，再出横条 sprite 用 CSS steps(6) 播放；咖啡杯吉祥物 2026-11-10 实做。",
+  "why": "精灵表路线不依赖原生 GIF 功能，六帧同生保一致、按缝切图防抖、首帧即封面的交付细节全，还附 Outlook 只显首帧的提醒。",
+  "borrow": [
+    "3×2 六帧精灵表提示词结构（每帧只动一个部位、第六帧回第一帧）",
+    "按白缝切图而非等分、不动部位对齐防抖的方法",
+    "ffmpeg palettegen/paletteuse 保色合成命令",
+    "GIF 与 CSS sprite 双交付、首帧即封面的验收意识"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。"
+  },
+  "tags": ["精灵图", "ChatGPT", "Claude Code", "吉祥物"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-21", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

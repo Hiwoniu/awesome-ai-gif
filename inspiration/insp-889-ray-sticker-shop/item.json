@@ -1,0 +1,43 @@
+{
+  "id": "insp-889",
+  "title": "ray-sticker-shop：一张角色图出整套微信动态表情与投稿素材的开源 Skill",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://github.com/imraywang/ray-sticker-shop",
+    "platform": "GitHub",
+    "author": "imraywang",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "开源 Agent Skill：给一张角色图或照片，先定整套表情的配字与动作，再出 4×4 精灵图、切帧、Pillow 合成动态 GIF，并按微信规范检查、打包封面、图标、横幅、赞赏图、上架文案和交付压缩包。",
+  "why": "把表情包从单张生成升级成一整套交付流水线：pack.json 先规划、dry-run 先预估费用、240×240 自动压到 500KB 内，微信投稿要的配套素材一次出齐。",
+  "borrow": [
+    "pack.json 先规划整套表情再生成的流程",
+    "gen --dry-run 预估调用数量与费用的做法",
+    "4×4 精灵图切帧加 Pillow 合成 GIF 的路线",
+    "240×240 自动压到 500KB 内的规格检查",
+    "封面、图标、横幅、赞赏图、上架文案一次打包的交付清单"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": "仓库 MIT 许可；只借流程与规格，不用示例角色，示例用猫照片。"
+  },
+  "tags": [
+    "GitHub",
+    "Skill",
+    "微信表情包",
+    "精灵表"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-571",
+  "title": "MiniMax：首末帧视频生成 API 文档，FLF2V 与 15 条镜头指令",
+  "type": "unknown",
+  "source": {
+    "url": "https://platform.minimax.io/docs/api-reference/video-generation-fl2v",
+    "platform": "MiniMax",
+    "author": "MiniMax",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "MiniMax Hailuo-02 首末帧（First & Last Frame）视频生成 API：传首帧与末帧图片 + 文字提示，模型补中间运动；支持 15 条方括号镜头指令（如 [Push in]、[Static shot]），可组合与按顺序执行；分辨率由首帧决定。",
+  "why": "程序化批量出循环 GIF 的官方接口依据：首末帧相同即循环，且镜头指令是可编程的精确控制。",
+  "borrow": [
+    "首末帧 API 的参数结构：首帧定分辨率、末帧定落点",
+    "15 条方括号镜头指令表，可编程的运镜控制法",
+    "镜头指令的组合与顺序执行两种用法",
+    "prompt_optimizer 开关：精确控制时关掉自动优化"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；产出为视频而非 GIF，收的是 API 参数与镜头指令表。"
+  },
+  "tags": [
+    "MiniMax",
+    "Hailuo",
+    "首末帧",
+    "API"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

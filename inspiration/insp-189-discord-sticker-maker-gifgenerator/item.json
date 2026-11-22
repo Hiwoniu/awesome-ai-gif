@@ -1,0 +1,40 @@
+{
+  "id": "insp-189",
+  "title": "Discord Sticker Maker：输入一句话生成模切风 Discord 循环贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://gifgenerator.app/discord-sticker-maker",
+    "platform": "gifgenerator.app",
+    "author": "未注明",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "输入一句话生成模切风 Discord 循环贴纸，页内直接贴出 6 条可复用提示词原文。",
+  "why": "“die-cut sticker, thick white border, soft drop shadow, flat color, seamless loop”贴纸框定句式 + 16 帧、5/10/20 fps 的帧率取舍说明。",
+  "borrow": [
+    "模切贴纸框定句式：粗白边+柔和投影+扁平色+无缝循环",
+    "16 帧、5/10/20 fps 的帧率取舍",
+    "一句话生成贴纸的极简入口"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "工具站，提示词原文仅作结构参考、不照搬",
+    "note": "页内提示词为英文原文，notes 只写自己分析"
+  },
+  "tags": [
+    "Discord贴纸",
+    "模切风",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-828",
+  "title": "掘金：GPT Image 2.6 批量改图工程化——任务拆分与失败重跑",
+  "type": "multi",
+  "source": {
+    "url": "https://juejin.cn/post/7709418733185974323",
+    "platform": "掘金",
+    "author": "Ace Data Cloud",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 批量改图的工程化结构：任务拆四层、提示词拆基线/变量/禁止修改三段、Flare 预览加 Sunburst 交付分工、幂等键与失败重跑、GIF 独立验收（frame_count 2–16）。",
+  "why": "提示词三段模板与幂等键失败重跑的工程化写法可直接套用到批量 GIF 生产。",
+  "borrow": [
+    "提示词拆基线/变量/禁止修改三段模板，基线带版本号与参考图固化",
+    "幂等键与失败重跑：只重跑失败节点，GIF 独立验收 frame_count 2–16"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "原文已打开核实；本文为 Ace Data Cloud 合作推广内容，API 代码未实际执行。"
+  },
+  "tags": [
+    "掘金",
+    "批量生产",
+    "工程化",
+    "GPT-Image-2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

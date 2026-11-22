@@ -1,0 +1,40 @@
+{
+  "id": "insp-224",
+  "title": "Kompozy：ChatGPT 原生 GIF 功能说明与工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://kompozy.io/news/chatgpt-animated-gif-generation",
+    "platform": "Kompozy 博客",
+    "author": "未署名",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Images 2.6 原生 GIF 功能的说明与工作流：文字或照片起手，可调速、可逐帧改、可分享。",
+  "why": "本轮同类首发报道中最完整的一篇，讲清了“翻页书式逐帧一致性”原理与逐帧编辑、调速等后续操作，可作为 Images 2.6 GIF 能力的基准说明。",
+  "borrow": [
+    "单动作循环的提示词原则",
+    "帧一致性原理表述",
+    "生成后调速/逐帧修正的工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "ChatGPT",
+    "GPT-Image-2.6",
+    "功能说明"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

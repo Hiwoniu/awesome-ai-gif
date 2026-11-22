@@ -1,0 +1,52 @@
+{
+  "id": "insp-623",
+  "title": "charmoji：一张 IP 正面照出整套可提交微信表情的 Skill",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://github.com/webkubor/charmoji-sticker-skill",
+    "platform": "GitHub",
+    "author": "webkubor",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Claude Code Skill：一张 IP 正面照出发，出图、切图、透明背景机检、含义词校验、提交清单全脚本化，产出一整套能直接提交微信表情开放平台的素材。",
+  "why": "把微信投稿的规格坑（240×240、横幅 750×400、含义词 4 字内不重复、透明底）做成机检，还留了真实驳回记录，参考价值高。",
+  "borrow": [
+    "微信规格机检清单",
+    "透明 GIF 阈值加腐蚀去白边法",
+    "含义词校验与提交清单"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "只借规格与校验做法；仓库许可证未确认，代码不直接搬运。"
+  },
+  "tags": [
+    "微信表情包",
+    "Skill",
+    "规格机检",
+    "上架"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-19",
+    "note": "借微信规格机检清单、透明 GIF 去白边法、含义词校验与提交清单；许可证未确认，代码不直接搬运"
+  },
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "approved",
+      "by": "向明",
+      "note": "主人在对话中确认通过（第一批推荐）"
+    }
+  ]
+}

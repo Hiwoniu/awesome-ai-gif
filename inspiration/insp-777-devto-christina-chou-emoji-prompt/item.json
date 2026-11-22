@@ -1,0 +1,40 @@
+{
+  "id": "insp-777",
+  "title": "Dev.to：Nano Banana 三步提示词做个人表情包",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://dev.to/christina_chou_aefe524991/create-your-own-emojis-by-using-this-prompt-5mc",
+    "platform": "Dev.to",
+    "author": "christina_chou",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Nano Banana 三步结构化提示词：先内省分析照片特征（发型最关键），再按扁平矢量加 Q 版加 9–12 表情网格生成贴纸表。",
+  "why": "先特征分析再组提示词的三步法与 9–12 表情网格的情绪清单可直接套用。",
+  "borrow": [
+    "先特征分析再组提示词的三步法：内省照片特征，发型最关键",
+    "9–12 表情网格的情绪清单组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Dev.to",
+    "Nano-Banana",
+    "贴纸表",
+    "三步法"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

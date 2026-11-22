@@ -1,0 +1,40 @@
+{
+  "id": "insp-278",
+  "title": "Nano Banana：一句话提示词出 8 帧连续画面再切格成 GIF",
+  "type": "storybooks",
+  "source": {
+    "url": "https://theaibooster.medium.com/turn-a-single-prompt-into-a-full-animation-with-nano-banana-14bb259539b9",
+    "platform": "Medium",
+    "author": "AIBooster",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 Nano Banana 一次生成 8 帧连续画面网格（产品组装步骤全程保持机位、光线、背景、配色一致），再经开源切格工具导出 GIF。",
+  "why": "“单提示词→多帧网格→切格成 GIF”是低成本做分步动画/动态绘本的通用解法。",
+  "borrow": [
+    "逐帧一致性约束写法",
+    "网格切分导出链路",
+    "单提示词多帧的组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Nano-Banana",
+    "分步动画",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-488",
+  "title": "X：@xinzhang322，低帧率卡顿感反而让搞笑 GIF 更出效果",
+  "type": "unknown",
+  "source": {
+    "url": "https://x.com/xinzhang322/status/2118303276613656597",
+    "platform": "X",
+    "author": "xinzhang322",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "分享多组 ChatGPT Images 2.6 GIF 样例，评价出乎意料地好，并指出低帧率的卡顿感反而让搞笑类提示词更出效果。",
+  "why": "一个反直觉的风格判断：卡顿感不是缺陷，而是搞笑表情包的风格选择，值得记下来当选题依据。",
+  "borrow": [
+    "低帧率卡顿感当风格的判断",
+    "搞笑类提示词的帧率取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "X原帖",
+    "低帧率",
+    "搞笑表情包",
+    "风格判断"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

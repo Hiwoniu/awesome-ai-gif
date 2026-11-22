@@ -1,0 +1,41 @@
+{
+  "id": "insp-1004",
+  "title": "IG Core of AI：赛博黑客房间 3D 循环 GIF 完整提示词",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfmTtnJhEcj/",
+    "platform": "Instagram",
+    "author": "Core of AI @coreofai_yt",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-11 静态文字卡视频：全文展示一段做 3D 赛博黑客房间循环 GIF 的详细提示词，含霓虹耳机机器人、CODE ALL DAY 灯牌、深紫加电光蓝加霓虹粉配色与逐帧平滑循环要求。",
+  "why": "一段完整可套用的长提示词结构，场景、配色、循环要求三部分写得很全。",
+  "borrow": [
+    "完整长提示词结构：场景加配色加逐帧平滑循环要求",
+    "3D 房间循环的写法：固定机位加多处微动",
+    "霓虹配色词：深紫加电光蓝加霓虹粉"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。只借提示词结构，不抄提示词原文。"
+  },
+  "tags": [
+    "Instagram",
+    "提示词",
+    "3D 循环",
+    "赛博"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

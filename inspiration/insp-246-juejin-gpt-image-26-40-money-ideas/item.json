@@ -1,0 +1,41 @@
+{
+  "id": "insp-246",
+  "title": "掘金：GPT Image 2.6 的 GIF 和 SVG 带来的 40 个赚钱机会",
+  "type": "multi",
+  "source": {
+    "url": "https://juejin.cn/post/7705412224672284707",
+    "platform": "掘金",
+    "author": "掘金",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "40 个变现方向清单（微信、QQ、LINE、Telegram 表情、红包封面、定制服务等），每方向写做法、售卖渠道、价格与规则，附 GitHub 开源清单与提示词模板。",
+  "why": "各平台规格（微信 240×240、≤500KB、8–24 张等）一次汇总齐全，可当作多平台规格速查表。",
+  "borrow": [
+    "多平台规格对照表",
+    "6–8 帧 + 白边规格",
+    "定价区间参考",
+    "平台规则与合规边界"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "变现",
+    "规格",
+    "多平台"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

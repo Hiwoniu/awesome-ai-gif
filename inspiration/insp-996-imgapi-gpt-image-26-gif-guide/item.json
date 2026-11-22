@@ -1,0 +1,41 @@
+{
+  "id": "insp-996",
+  "title": "ImgAPI：用 GPT Image 2.6 生成 GIF——提示词、循环和 API",
+  "type": "multi",
+  "source": {
+    "url": "https://imgapi.ai/blog/gpt-image-2.6-gif?lang=zh",
+    "platform": "ImgAPI 博客",
+    "author": "ImgAPI",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 原生 GIF 的提示词公式、Python 调 API 生成 GIF、帧数与时长参数表和循环排错。",
+  "why": "从提示词到 API 调用的完整链路，有可直接跑的 make_gif.py 与参数表，是 API 路线的参考实现。",
+  "borrow": [
+    "「主体+一个动作+固定镜头+回到起始姿势」提示词公式",
+    "frame_count/frame_duration_ms 参数表：2–16 帧，每帧 20–2000ms",
+    "可直接跑的 make_gif.py 脚本思路",
+    "循环不顺滑的排错清单"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实（2026-11-05 发布、11-17 更新）。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "API",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

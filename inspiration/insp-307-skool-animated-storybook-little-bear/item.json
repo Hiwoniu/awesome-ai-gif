@@ -1,0 +1,38 @@
+{
+  "id": "insp-307",
+  "title": "Skool：小熊请客动画绘本教程（故事→角色→内页→动效）",
+  "type": "storybooks",
+  "source": {
+    "url": "https://www.skool.com/the-ai-advantage/how-to-create-an-animated-storybook-with-gpt-image-26-the-little-bears-special-invitation",
+    "platform": "Skool",
+    "author": "The AI Advantage",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "小熊请小狐狸做客的绘本分步教程：写故事→设计角色→生成内页→转 GIF 动效，可选接视频模型。",
+  "why": "步骤完整，含角色设计与内页生成的提示结构。",
+  "borrow": [
+    "故事→角色→内页→动效的四段工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "绘本",
+    "教程",
+    "GPT-Image-2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

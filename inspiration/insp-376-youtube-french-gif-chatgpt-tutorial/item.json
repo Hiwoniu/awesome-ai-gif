@@ -1,0 +1,41 @@
+{
+  "id": "insp-376",
+  "title": "YouTube：法语教程——5 类动画 GIF 与帧数取舍",
+  "type": "multi",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=76A8DmYAdz0",
+    "platform": "YouTube",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "法语教程：5 类 GIF（反应、吉祥物、产品循环、微交互、照片转动画）与帧数、帧率、三步迭代法。",
+  "why": "5 类 GIF 的分类组织与 4/6/9/12/16 帧取舍、三步迭代法都很实用。",
+  "borrow": [
+    "5 类 GIF 分类",
+    "帧数取舍",
+    "三步迭代法",
+    "帧率调节"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "视频教程",
+    "GIF分类",
+    "帧数"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

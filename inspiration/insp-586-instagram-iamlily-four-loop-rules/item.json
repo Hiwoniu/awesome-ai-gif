@@ -1,0 +1,42 @@
+{
+  "id": "insp-586",
+  "title": "Instagram：@iamlily.genai，6 帧循环 GIF 的四条提示词规则",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfzZszDzawW/",
+    "platform": "Instagram",
+    "author": "@iamlily.genai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "教用 ChatGPT 做循环 GIF：上传一张照片、一句话提示词，生成 6 帧、每帧 0.12 秒的循环动画；总结四条规则：动作要小、头保持不动、背景不变、末帧接回首帧。",
+  "why": "四条规则是防穿帮、防跳帧的检查清单，比单纯给示例更有复用价值；同款内容另有 Facebook 跨平台转载，本条取 Instagram 原帖。",
+  "borrow": [
+    "6 帧 × 0.12 秒的帧率规格",
+    "四条防跳帧规则可作验收清单",
+    "一句话提示词的极简路径，适合快速出稿",
+    "单张照片输入，换原创角色即用"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；同款内容另有 Facebook 跨平台转载，本条取 Instagram 原帖。"
+  },
+  "tags": [
+    "循环规则",
+    "帧率",
+    "验收清单",
+    "极简提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

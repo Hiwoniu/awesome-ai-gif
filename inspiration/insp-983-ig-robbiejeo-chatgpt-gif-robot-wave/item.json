@@ -1,0 +1,40 @@
+{
+  "id": "insp-983",
+  "title": "IG @robbiejeo：ChatGPT GIF 机器人招手 + 调速逐帧改",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df8vcInBFg_/",
+    "platform": "Instagram",
+    "author": "@robbiejeo",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "机器人招手循环 GIF 演示；可调速 0.25x–2x、可逐帧加像素墨镜、爱心与星星。",
+  "why": "调速与逐帧改的具体用法；“保持机位静止、循环平滑”的追问写法。",
+  "borrow": [
+    "调速 0.25x–2x 与逐帧改的追问写法",
+    "照片/视频转 GIF 的入口",
+    "让相机静止、循环平滑的修正提示词"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "调速",
+    "逐帧改"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

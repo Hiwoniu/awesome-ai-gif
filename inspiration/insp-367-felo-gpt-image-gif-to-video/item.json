@@ -1,0 +1,41 @@
+{
+  "id": "insp-367",
+  "title": "Felo：GPT Image 2.6 GIF 转视频镜头的 API 工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://felo.ai/zh-Hans/blog/gpt-image-2-6-gif-to-video/",
+    "platform": "Felo",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "讲 GPT Image 2.6 在 Felo 上做 2–16 帧循环 GIF，再用 Kling 转视频的 API 工作流，含代码示例。",
+  "why": "四段式动作提示词结构（场景/动作/固定元素/回起点）是通用性很强的循环 GIF 写法。",
+  "borrow": [
+    "四段式提示词",
+    "2–16帧参数",
+    "GIF作视频初稿",
+    "Kling交接"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "循环GIF",
+    "提示词结构",
+    "API工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

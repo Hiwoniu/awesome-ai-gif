@@ -1,0 +1,40 @@
+{
+  "id": "insp-371",
+  "title": "X @freeman1266：循环锁定提示词实测结论",
+  "type": "unknown",
+  "source": {
+    "url": "https://x.com/freeman1266/status/2118188822752317443",
+    "platform": "X/Twitter",
+    "author": "@freeman1266",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "实测发现提示词里写“首尾帧相同 + 锁定角色比例”后，API 出的 GIF 循环质量明显更好。",
+  "why": "一条可直接复用的提示词规则，被 varg 的 gpt-image-gif Skill 引用为依据。",
+  "borrow": [
+    "循环锁定写法",
+    "首尾帧一致",
+    "角色比例锁定"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "循环锁定",
+    "提示词",
+    "实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

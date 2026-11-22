@@ -1,0 +1,41 @@
+{
+  "id": "insp-494",
+  "title": "Facebook：ChatGPT App 内 Anime reaction 模板做 9 帧 90 年代动漫风反应 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/2100883450557448",
+    "platform": "Facebook",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "录屏演示：打开 ChatGPT App → Images → Anime reaction 模板 → 上传自拍 → 选捧腹大笑表情 → 生成 9 帧循环 GIF。",
+  "why": "App 内置模板路线值得记：不用手写提示词，点模板就能出反应 GIF，门槛比提示词路线低得多。",
+  "borrow": [
+    "App 内置模板的操作路径",
+    "9 帧动漫风反应 GIF 的规格",
+    "模板加自拍的组合做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "作者名未从摘要中确认；11 月 18 日另有同模板帖疑似转载，本条为较早的 11 月 5 日版；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "App模板",
+    "动漫风",
+    "反应GIF",
+    "Facebook"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

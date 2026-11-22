@@ -1,0 +1,35 @@
+{
+  "id": "insp-728",
+  "title": "AIGifsMaker：文生 GIF 加图转动图，浏览器本地转码",
+  "type": "multi",
+  "source": {
+    "url": "http://make.rs/project/12054-aigifsmaker",
+    "platform": "Make.rs",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 AI 做 GIF 的网页应用：文字提示词生成动画、照片转动图、视频片段或图片序列转 GIF；本地转换在浏览器内完成、不上传、无水印，AI 生成按积分计费。",
+  "why": "功能链路完整（文生 GIF 加图转动图加本地转码），是轻量工具型参照。",
+  "borrow": [
+    "提示词生成与本地转码结合的产品形态",
+    "文生、图生、视频转 GIF 三路并行的功能组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["工具", "文生GIF", "图生GIF", "本地转码"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

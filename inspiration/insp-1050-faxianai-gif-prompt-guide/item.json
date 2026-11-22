@@ -1,0 +1,40 @@
+{
+  "id": "insp-1050",
+  "title": "发现AI：Images 2.6 的 GIF 提示词怎么写，动作、帧数和循环",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "http://image.faxianai.com/blog/gpt-images-2-6-gif-prompt-guide",
+    "platform": "发现AI",
+    "author": "发现AI",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "动作拆帧、锁不动项、首尾衔接的方法论，整理 API 的 frame_count、frame_duration_ms 参数与精灵图做法，附多例站内动图。",
+  "why": "唯一讲 API 帧参数的中文教程，“只动局部、去而复返、对称旋转”三类低失败率起手式很实用。",
+  "borrow": [
+    "帧参数用法",
+    "三类低失败率动作选法：只动局部、去而复返、对称旋转"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "发布日期未在抓取中显示，内容围绕 11 月发布的 Images 2.6；子代理打开原文核实。"
+  },
+  "tags": [
+    "教程",
+    "API 参数",
+    "帧数",
+    "发现AI"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

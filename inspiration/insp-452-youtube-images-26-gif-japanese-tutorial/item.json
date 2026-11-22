@@ -1,0 +1,40 @@
+{
+  "id": "insp-452",
+  "title": "YouTube（日语）：ChatGPT Images 2.6 新功能速报——GIF 动画制作",
+  "type": "multi",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=QAEaGWs-_us",
+    "platform": "YouTube",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "日语速报教程：用参考图定角色名再做 GIF，角色微笑、挥手、再举手的循环写法，方形透明底。",
+  "why": "给参考图起名字再复用的做法值得借：角色一旦命名，后续生成可直接点名调用，比每次贴图更省事。",
+  "borrow": [
+    "给参考图命名后复用的做法",
+    "微笑挥手再举手的简单循环写法",
+    "方形透明底的规格取法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原视频核实"
+  },
+  "tags": [
+    "YouTube教程",
+    "日语",
+    "参考图复用"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

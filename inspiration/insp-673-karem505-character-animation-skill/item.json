@@ -1,0 +1,44 @@
+{
+  "id": "insp-673",
+  "title": "character-animation Skill：静态角色图转循环动画的三路管线",
+  "type": "multi",
+  "source": {
+    "url": "https://www.skillsdirectory.com/skills/karem505-character-animation",
+    "platform": "Skills Directory",
+    "author": "karem505",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "静态角色图转循环动画的 Claude Skill（Nano Banana 2 出 4K 精灵表，切片去背拼成动 SVG/WebP/GIF）：按主体分流——有机主体单张整表、刚性主体逐帧改同一底板、已有视频片段直接抽帧；附逐帧时长权重做缓动与关键帧插帧补平滑的完整流程。",
+  "why": "池里最系统的角色动画 Skill：单表 vs 逐帧底板的选型规则（有固定骨架就用逐帧底板）、色键抠不掉时换绿幕或 U²-Net 形状抠图、逐帧时长权重做缓动、关键帧+插帧补平滑，四点都能直接进我们的精灵表工作流。",
+  "borrow": [
+    "按主体分流：有机主体单表、刚性主体逐帧改同一底板",
+    "逐帧底板做法：固定底板+姿势清单只写动了什么",
+    "色键失效时换绿幕底或 U²-Net 形状抠图",
+    "逐帧时长权重做缓动：预备帧 1.6、顶点 1.5、静帧 1.3",
+    "关键帧+插帧补平滑：少画关键帧、运动补偿插值补中间帧",
+    "三路输出：动 SVG + WebP + GIF，同一精灵表出三格式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "Skills Directory 收录的开源 Skill，只借分流思路与规格写法。"
+  },
+  "tags": [
+    "multi",
+    "skill",
+    "sprite-sheet",
+    "Nano Banana 2"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

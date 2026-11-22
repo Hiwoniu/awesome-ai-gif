@@ -1,0 +1,41 @@
+{
+  "id": "insp-474",
+  "title": "The Rundown：StickerBaker，文本提示词生成透明底贴纸，可传人脸转贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.therundown.ai/tools/stickerbaker",
+    "platform": "The Rundown",
+    "author": "cbh123",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "开源 Phoenix 应用：文本提示词生成透明底贴纸，上传人脸转贴纸，底层为 Replicate 的贴纸模型。",
+  "why": "文本出贴纸加人脸转贴纸两条路线合在一个开源应用里，部署结构值得参考。",
+  "borrow": [
+    "文本提示词出透明底贴纸的做法",
+    "上传人脸转贴纸的流程",
+    "开源 Phoenix 应用的部署结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "底层人脸模型为非商业许可；只借流程与结构，不用人脸功能。"
+  },
+  "tags": [
+    "贴纸生成",
+    "透明底",
+    "开源",
+    "Replicate"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

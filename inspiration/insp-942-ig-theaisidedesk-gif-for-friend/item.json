@@ -1,0 +1,39 @@
+{
+  "id": "insp-942",
+  "title": "IG @theaisidedesk：给朋友做一张专属 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df_Ac8ugUlj/",
+    "platform": "Instagram",
+    "author": "@theaisidedesk",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "用 ChatGPT 给朋友做一张专属 GIF 的演示：按朋友的特点定制一张可发聊天的动图。",
+  "why": "个性化 GIF 的定制思路：按收件人特点定制动图，适合聊天场景。",
+  "borrow": [
+    "按朋友特点定制 GIF 的个性化思路",
+    "聊天场景 GIF 的演示结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；Facebook 同内容 cross-post 已去重，只收 IG 版"
+  },
+  "tags": [
+    "Instagram",
+    "个性化 GIF",
+    "聊天"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

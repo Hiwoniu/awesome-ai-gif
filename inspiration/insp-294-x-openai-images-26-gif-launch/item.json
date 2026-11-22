@@ -1,0 +1,38 @@
+{
+  "id": "insp-294",
+  "title": "X @OpenAI：ChatGPT Images 2.6 GIF 功能发布帖",
+  "type": "unknown",
+  "source": {
+    "url": "https://x.com/OpenAI/status/2118124953832935810",
+    "platform": "X/Twitter",
+    "author": "@OpenAI",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "官方宣布 ChatGPT Images 2.6 支持 GIF 生成的发布帖，附演示。",
+  "why": "GIF 表情包这波热潮的源头公告，是后续所有模板的基准。",
+  "borrow": [
+    "官方对 GIF 能力的原始表述与演示形式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "X",
+    "官方发布",
+    "GPT-Image-2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-577",
+  "title": "X：@plasm0，GPT Image 2.6 风格化循环动图示例",
+  "type": "unknown",
+  "source": {
+    "url": "https://x.com/plasm0/status/2118177268870562241",
+    "platform": "X",
+    "author": "@plasm0",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Images 2.6 上线首日（2026-11-04）在 X 分享的风格化循环 GIF 示例，被 ai-studio.video 收入“上线首日创作者案例”合集，展示模型如何处理自包含（self-contained）循环动作。",
+  "why": "上线首日即被第三方评测引用的循环动图实测样本，与鹈鹕骑单车（@SSHCodes，已收）、@xinzhang322（已收）并列为 2.6 GIF 能力的早期证据，可作“风格化循环容忍低帧率”的对照案例。",
+  "borrow": [
+    "自包含循环动作的选材：动作起止在同一姿态内完成，适合 9 帧左右的短循环",
+    "风格化（插画/扁平）画风可掩盖低帧率的顿挫感",
+    "首日实测样本的引用链：原帖到第三方评测文章的来源标注方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；具体画面内容（角色/动作细节）转述中未描述，信息不完整。"
+  },
+  "tags": [
+    "GPT-Image-2.6",
+    "循环GIF",
+    "风格化循环",
+    "首日实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

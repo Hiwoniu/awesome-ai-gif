@@ -1,0 +1,42 @@
+{
+  "id": "insp-873",
+  "title": "Hung Hsuan：照片转九宫格 meme 贴纸包的完整提示词",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://hunghsuan.com/en/articles/chatgpt-meme-stickers/",
+    "platform": "Hung Hsuan",
+    "author": "Hung Hsuan",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "作者用自己照片加 ChatGPT 做的一套 meme 贴纸包：3×3 九宫格、九种夸张反应、emoji 混搭，附完整提示词和后续微调句式。",
+  "why": "提示词结构拆成人物、反应、风格、版式四部分，另有只改一格的局部修改写法，可直接套用到原创角色。",
+  "borrow": [
+    "3×3 九宫格加透明间隔的贴纸表结构",
+    "夸张反应词加低保真剪贴风的提示词写法",
+    "只改一格的局部修改句式",
+    "按情境而非情绪写反应的替代思路"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "原文用作者本人照片示范；我们只借提示词结构，换原创角色重做，不用真人照片。"
+  },
+  "tags": [
+    "贴纸包",
+    "提示词",
+    "九宫格",
+    "meme"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

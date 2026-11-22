@@ -1,0 +1,41 @@
+{
+  "id": "insp-507",
+  "title": "ChatCut：22 条 Seedance 2.5 提示词，分时镜头加不可变项锁定",
+  "type": "multi",
+  "source": {
+    "url": "https://chatcut.io/blog/seedance-2-5-prompts",
+    "platform": "ChatCut",
+    "author": "ChatCut",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "22 条 Seedance 2.5 提示词合集（产品广告、风景、动作、对白、风格化动画等 8 类），每条附其生成的真实片段；风格化动画类含黏土定格、纸艺循环等；提示词结构为引用、观感、场景、分时镜头、不可变项、音频、无字幕。",
+  "why": "分时镜头加不可变项锁定的提示词骨架很完整，可直接套用到 GIF 与动态海报的短循环提示词；22 条按 8 类分的合集本身也是选题参考。",
+  "borrow": [
+    "分时镜头加不可变项锁定的提示词骨架",
+    "8 类提示词的分类法",
+    "黏土定格与纸艺循环的风格写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；合集偏视频提示词，GIF 相关只占风格化动画一类。"
+  },
+  "tags": [
+    "Seedance",
+    "提示词合集",
+    "分时镜头",
+    "风格化动画"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

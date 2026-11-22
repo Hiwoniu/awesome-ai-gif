@@ -1,0 +1,35 @@
+{
+  "id": "insp-954",
+  "title": "FB @mokaai55：静态图转动图的动作清单",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/mokaai55/posts/pfbid0CfL7AefEBmw175EGSXHcCMFLrDcMBM99dxG16tFMMms6ketpvc7aM2Ac5w181zicl",
+    "platform": "Facebook",
+    "author": "@mokaai55",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "静态图转动图的动作清单：眨眼、挥手、走路、跳舞等一串可直接套用的单动作。",
+  "why": "动作清单可作提示词的动作词库：每个动作都是单动作、易循环，写提示词时直接取用组合。",
+  "borrow": [
+    "单动作清单作提示词动作词库",
+    "眨眼、挥手、走路、跳舞等易循环动作的取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；只借动作清单思路"
+  },
+  "tags": ["Facebook", "动作清单", "静态图转GIF"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

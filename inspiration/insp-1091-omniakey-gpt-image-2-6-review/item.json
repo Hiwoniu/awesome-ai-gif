@@ -1,0 +1,41 @@
+{
+  "id": "insp-1091",
+  "title": "GPT Image 2.6 Review：GIF、SVG、成本与适用人群实测",
+  "type": "multi",
+  "source": {
+    "url": "https://omniakey.com/blog/gpt-image-2-6-review",
+    "platform": "OmniaKey 博客",
+    "author": "未注明",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "OmniaKey 对 GPT Image 2.6 的实测复盘：9 帧 GIF 约 0.035 美元、32.6 秒出图，模型会把请求的 200ms/帧悄悄改成 180ms。",
+  "why": "有真实 token 账单与耗时数据，还点出请求参数被模型改写的细节，是成本核算与出图后验收的依据。",
+  "borrow": [
+    "成本核算口径：按帧数与尺寸估算单张 GIF 的费用",
+    "GIF 实测规格：9 帧、433×395、约 0.035 美元、32.6 秒出图",
+    "参数被改写的验收意识：出图后核对实际帧时长，而非只信请求值"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "成本",
+    "实测",
+    "GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

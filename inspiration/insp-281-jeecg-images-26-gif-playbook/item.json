@@ -1,0 +1,40 @@
+{
+  "id": "insp-281",
+  "title": "JEECG：Images 2.6 动图玩法清单——三类 GIF 实战",
+  "type": "multi",
+  "source": {
+    "url": "https://bbs.jeecg.com/t/32359",
+    "platform": "JEECG 技术社区",
+    "author": "JEECG",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "按游戏 sprite 动作、美食产品展示、表情包玩梗三类讲提示词写法与适用边界，另谈 GIF 与视频模型的分工。",
+  "why": "三类速查表思路清晰，明确“动图只做 2–3 秒循环小动作”的定位判断。",
+  "borrow": [
+    "三类分法",
+    "游戏素材“原地动作、位移交给引擎”的约束写法",
+    "体积与尺寸先定投放位置的原则"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "玩法清单",
+    "教程",
+    "分类"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

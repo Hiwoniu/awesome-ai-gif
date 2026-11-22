@@ -1,0 +1,54 @@
+{
+  "id": "insp-642",
+  "title": "Ace Data：水豚角色九宫格选角到微信表情包上架",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://20260104.platform.acedata.cloud/blog/create-wechat-stickers-with-gpt-image-2-6",
+    "platform": "Ace Data",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 Ace Data Cloud Studio 以水豚角色为起点：九宫格选角、先测 4 个场景再扩到 10 张表情包，附头像与 750×400 横幅，完整走到微信表情开放平台提交。",
+  "why": "先选角再小批量验证、最后扩量的工作流很稳，且补了头像、横幅与上架这最后一环。",
+  "borrow": [
+    "九宫格选角法",
+    "先测 4 张再扩 10 张的工作流",
+    "头像与横幅配套做法",
+    "微信上架规格（750×400）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "教程示例是对方的水豚角色，只借工作流与上架规格；与池中已收的同站四格绘本（insp-031）是不同文章、不同内容。"
+  },
+  "tags": [
+    "微信表情包",
+    "选角",
+    "上架",
+    "九宫格",
+    "工作流"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-19",
+    "note": "借九宫格选角、先测 4 张再扩 10 张的工作流、头像与横幅配套及微信上架规格；水豚角色换原创"
+  },
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "approved",
+      "by": "向明",
+      "note": "主人在对话中确认通过（第一批推荐）"
+    }
+  ]
+}

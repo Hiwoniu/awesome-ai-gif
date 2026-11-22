@@ -1,0 +1,42 @@
+{
+  "id": "insp-1043",
+  "title": "卡尔的AI沃茨：GPT Image 2.6 10 大 GIF 邪修玩法，提示语全公开",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.woshipm.com/ai/6490532.html",
+    "platform": "人人都是产品经理",
+    "author": "卡尔的AI沃茨",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "10 种 GIF 玩法加提示语全公开：黏土定格、抽象打工人表情包、剪辑贴纸、公众号结尾动图、Loading 图、PPT 流程图、产品演示、零件爆炸、历史时间轴、名画解构，附 3 项新能力测试。",
+  "why": "玩法数量最多、提示词全公开，黏土定格与超窄横版结尾动图是差异化做法。",
+  "borrow": [
+    "10 玩法分类法",
+    "黏土定格提示词结构：约 8fps 抽帧停顿感加手捏指纹纹理",
+    "超窄横版结尾动图画幅 1400×260",
+    "Loading 图 8 帧透明底写法"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "示例含大肥鱼娘、黑大圣等形象，只借结构不借角色；主代理打开原文核实。"
+  },
+  "tags": [
+    "玩法合集",
+    "黏土定格",
+    "提示词",
+    "人人都是产品经理"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

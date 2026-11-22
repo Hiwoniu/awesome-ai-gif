@@ -1,0 +1,40 @@
+{
+  "id": "insp-381",
+  "title": "genie-artificiel：ChatGPT 做 GIF 的步骤、权限与限制",
+  "type": "multi",
+  "source": {
+    "url": "https://www.genie-artificiel.com/en/ai-tutorials/make-gif-chatgpt/",
+    "platform": "genie-artificiel",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "ChatGPT 做循环 GIF 的步骤教程：文字描述动作或上传静图，含访问权限与限制说明。",
+  "why": "步骤清晰，含权限与限制的说明，适合做新手向的对照。",
+  "borrow": [
+    "分步教程结构",
+    "权限与限制说明",
+    "上传静图转动图"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "教程",
+    "ChatGPT",
+    "入门"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

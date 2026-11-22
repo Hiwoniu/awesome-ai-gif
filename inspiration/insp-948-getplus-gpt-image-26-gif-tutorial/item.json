@@ -1,0 +1,36 @@
+{
+  "id": "insp-948",
+  "title": "GetPlus：GPT Image 2.6 动图教程，一句话做 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.getplus.ai/codex/gpt-image-2-6",
+    "platform": "GetPlus AI",
+    "author": "GetPlus AI 编辑部",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "11 月 5 日实测教程：柴犬踩步 16 帧 GIF、调速、只改其中一帧、精灵图标注、同一角色换场景。",
+  "why": "实测给了帧数、尺寸、文件大小的对照；逐格编辑与同一角色换场景是做系列贴纸时最常用的两个操作。",
+  "borrow": [
+    "实测帧数、尺寸、文件大小对照",
+    "只改第一行第三格的逐格编辑提示词写法",
+    "同一角色换场景的复用写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录；只借编辑方法与复用写法"
+  },
+  "tags": ["GPT Image 2.6", "教程", "逐格编辑", "实测"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

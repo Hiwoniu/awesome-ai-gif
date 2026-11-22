@@ -1,0 +1,40 @@
+{
+  "id": "insp-901",
+  "title": "Instagram @marc.kaz：AutoSprite 一张角色图出完整游戏动画精灵表",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DWWk0duBXHn/",
+    "platform": "Instagram",
+    "author": "@marc.kaz",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "演示 autosprite.io：上传一张角色图，几秒内出带待机、走、跑、跳、攻击的完整动画精灵表，可导出给 Unity、Godot、GameMaker。",
+  "why": "一图出多动作精灵表的工具路线，比单张提示词更成体系。",
+  "borrow": [
+    "一图出多动作精灵表",
+    "Unity/Godot 导出",
+    "动作集（待机/走/跑/跳/攻击）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；2026 年 3 月旧帖"
+  },
+  "tags": [
+    "游戏精灵表",
+    "AutoSprite",
+    "多动作"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

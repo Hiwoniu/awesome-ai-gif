@@ -1,0 +1,43 @@
+{
+  "id": "insp-884",
+  "title": "IG @afilmby_ronald：8 帧 4×2 精灵表加 HyperFrames 拼解说视频",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfW34TJIkoS/",
+    "platform": "Instagram",
+    "author": "Ronald Immanuel (@afilmby_ronald)",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "IG 教程：用 8 帧 4×2 精灵表做循环 GIF，再用 HyperFrames 工具把多段循环加旁白拼成解说视频，附动画地图、吉祥物、旋转产品三个用法。",
+  "why": "把单张循环 GIF 升级成多段拼视频的做法，适合把我们的 GIF 串成解说或产品演示。",
+  "borrow": [
+    "8 帧 4×2 精灵表的提示词写法",
+    "每段一个节拍、循环后拼起来的多段组装思路",
+    "动画地图、吉祥物、旋转产品三个高频用法",
+    "先做循环再配旁白与字幕的流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "精灵表",
+    "HyperFrames",
+    "解说视频",
+    "产品演示"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

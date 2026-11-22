@@ -1,0 +1,39 @@
+{
+  "id": "insp-343",
+  "title": "AnimGen：精灵表转 GIF 浏览器工具",
+  "type": "multi",
+  "source": {
+    "url": "https://animgen.com/tools/sprite-sheet-to-gif",
+    "platform": "AnimGen",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "浏览器内把精灵表转 GIF 的工具，自动识别网格、可点选帧、设帧率与缩放、透明或纯色背景，全程不上传。",
+  "why": "讲清了像素画 255 色内保真、共享调色板防闪烁、GIF 透明逐像素等实操细节。",
+  "borrow": [
+    "按行选动画（角色表一行一个动作）",
+    "共享调色板防闪烁"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "精灵表转GIF",
+    "浏览器工具",
+    "调色板"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

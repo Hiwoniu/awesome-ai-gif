@@ -1,0 +1,42 @@
+{
+  "id": "insp-459",
+  "title": "Atlas Cloud：影片转精灵图集，把 AI 片段变成游戏视觉特效",
+  "type": "multi",
+  "source": {
+    "url": "http://atlascloud.ai/zh-TW/blog/video-to-sprite-sheet",
+    "platform": "Atlas Cloud",
+    "author": "Atlas Cloud",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 Seedance 首尾帧生成法术特效短片，再一行 FFmpeg 转 8×8 精灵图、在 Godot 里播放。",
+  "why": "把视频生成和精灵图拼在一起：先用首尾帧定循环或淡出，再批量切帧，是一条少见的游戏特效 GIF 路线。",
+  "borrow": [
+    "首尾帧决定循环还是淡出的取舍写法",
+    "视频片段转精灵图集的切帧参数",
+    "法术特效类循环的构图思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "同一站点的另两篇文章已在池内（insp-266、insp-382），本篇是不同的视频转精灵图主题。"
+  },
+  "tags": [
+    "sprite-sheet",
+    "视频转GIF",
+    "游戏特效",
+    "Seedance",
+    "FFmpeg"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

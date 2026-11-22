@@ -1,0 +1,41 @@
+{
+  "id": "insp-236",
+  "title": "TryVideoToPrompt：GPT Image 2.6 精灵表提示词解剖",
+  "type": "multi",
+  "source": {
+    "url": "https://www.tryvideotoprompt.com/blog/gpt-image-2-6-whats-new-and-how-to-prompt/",
+    "platform": "TryVideoToPrompt",
+    "author": "TryVideoToPrompt",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "解析 GPT Image 2.6 的 GIF 精灵表格式，逐条说明每个子句在防哪种失败，并讲贴纸表与草图变动图两种变体。",
+  "why": "失败模式到子句的映射很细，是提示词模板分析的好样本。",
+  "borrow": [
+    "精确帧数与网格的写法",
+    "固定镜头与等格要求",
+    "循环接缝句的作用",
+    "硬排除项清单"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "提示词",
+    "精灵表",
+    "GPT-Image-2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-805",
+  "title": "Facebook Mohammed Zaharadeen：六步图与视频转 GIF 教程",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/mohammed.zaharadeen.524/posts/pfbid0UK65xLmqMTrX8uMMyn5ZkMbjAwQ6F6D1atjZmBc7uMvKy7jU41PY9GtcCapy97tXl",
+    "platform": "Facebook",
+    "author": "Mohammed Zaharadeen",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "六步教程：图与视频转 GIF，保画质加无缝循环提示词，可发 WhatsApp、X、Telegram；附剪视频成 GIF 的窍门。",
+  "why": "六步加视频转 GIF 的补充做法可作多入口教程参考。",
+  "borrow": [
+    "六步图与视频转 GIF 的教程结构",
+    "保画质加无缝循环的提示词",
+    "剪视频成 GIF 的窍门"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Facebook",
+    "六步教程",
+    "视频转GIF",
+    "保画质"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

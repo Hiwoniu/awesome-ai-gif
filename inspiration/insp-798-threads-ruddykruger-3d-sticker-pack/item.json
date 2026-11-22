@@ -1,0 +1,40 @@
+{
+  "id": "insp-798",
+  "title": "Threads @ruddykruger_：照片转 3D 贴纸包，emoji 可替换",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@ruddykruger_/post/Dfy8c21GT7G",
+    "platform": "Threads",
+    "author": "@ruddykruger_",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "照片转 3D 贴纸包提示词，可替换 9 个自选 emoji 生成贴纸表，用于 WhatsApp。",
+  "why": "emoji 可替换的贴纸包提示词模板可直接套用。",
+  "borrow": [
+    "emoji 可替换的贴纸包提示词模板：9 个自选 emoji 换表",
+    "照片转 3D 贴纸包的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Threads",
+    "3D贴纸",
+    "emoji",
+    "WhatsApp"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-487",
+  "title": "Slloy：让商品轻轻摆动、标签始终朝镜头，5 秒循环视频的克制写法",
+  "type": "posters",
+  "source": {
+    "url": "https://slloy.com/zh/blog/product-sway-loop-video",
+    "platform": "Slloy AI Blog",
+    "author": "Slloy",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Wan 2.2 图生视频做商品循环展示：左右各摆 20 度回原位、标签全程朝镜头，30 积分 75 秒出片。",
+  "why": "循环提示词的克制写法值得抄：单动作、幅度写死、机位不动、末帧回起点，可直接套到 GIF 循环动作设计上。",
+  "borrow": [
+    "单动作循环的克制写法",
+    "幅度写死的提示词措辞",
+    "机位不动与末帧回起点的约束"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "成品是 5 秒 mp4 视频而非 GIF，收的是循环提示词写法，方法可迁移到 GIF。"
+  },
+  "tags": [
+    "循环视频",
+    "商品展示",
+    "提示词写法",
+    "Wan-2.2"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-540",
+  "title": "Threads：SleepyFrogg 涂鸦小人变循环 GIF，股价崩盘哭泣梗",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@sleepyfroggggggg/post/DfYQurSOPZk",
+    "platform": "Threads",
+    "author": "SleepyFrogg",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "创作者上传自己的火柴人上班族涂鸦，让 ChatGPT 做成循环 GIF：旁边股票图先涨后暴跌，小人开始哭；提示词原文可见：make a looping GIF of this character. A stock chart next to him crashes and he starts crying. Keep my drawing style.",
+  "why": "保持我的画风的锁定写法很干净：涂鸦转 GIF 的低门槛路线也值得记；一句话提示词加画风锁定的组合可以直接抄。",
+  "borrow": [
+    "保持我的画风的锁定写法",
+    "涂鸦转 GIF 的低门槛路线",
+    "一句话提示词的结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；演示为 1.6 秒循环。"
+  },
+  "tags": [
+    "涂鸦",
+    "梗图",
+    "Threads",
+    "画风锁定"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

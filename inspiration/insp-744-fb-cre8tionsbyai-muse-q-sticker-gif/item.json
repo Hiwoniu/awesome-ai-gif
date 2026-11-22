@@ -1,0 +1,39 @@
+{
+  "id": "insp-744",
+  "title": "Facebook @cre8tionsbyai：Muse 做的 Q 版动态贴纸 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/cre8tionsbyai/posts/pfbid035QSNzR4u98KwxJNx6Ajp1aLjMUBKWUG1gUcYkAfb7DWTMTifQu1qz7MSKjuVTWThl",
+    "platform": "Facebook",
+    "author": "@cre8tionsbyai",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Muse 做的 Q 版动态贴纸 GIF 提示词：照片变大头小身 Q 版贴纸 GIF，挥手+飞吻，附四步复现法",
+  "why": "大头小身 Q 版比例加双动作的贴纸 GIF 结构",
+  "borrow": [
+    "Q 版比例+挥手/飞吻双动作的贴纸 GIF 结构",
+    "四步复现法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Facebook",
+    "Q版",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

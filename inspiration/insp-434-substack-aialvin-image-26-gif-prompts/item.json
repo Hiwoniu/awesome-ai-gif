@@ -1,0 +1,42 @@
+{
+  "id": "insp-434",
+  "title": "Substack @AI Alvin：ChatGPT Image 2.6 正在流行的 GIF 提示词",
+  "type": "multi",
+  "source": {
+    "url": "https://aialvin.substack.com/p/chatgpt-image-26-gif-prompts-that",
+    "platform": "Substack（AI Alvin）",
+    "author": "AI Alvin",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "整理当下流行的 GPT Image 2.6 GIF 提示词合集：橘猫震惊反应、品牌吉祥物挥手、产品展示、草图转动图、宇航员小故事等多场景模板。",
+  "why": "提示词模板库性质，可直接改写套用到原创角色，含通用提示词结构公式。",
+  "borrow": [
+    "通用 GIF 提示词结构公式（主体到起始姿势到 2–5 步动作再回到起始姿势再到锁定项）",
+    "表情由平静到夸张再回落的节奏写法",
+    "草图保轮廓转动图的用法",
+    "产品光扫循环的写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "提示词合集",
+    "Substack",
+    "反应GIF",
+    "吉祥物"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

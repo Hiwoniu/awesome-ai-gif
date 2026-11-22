@@ -1,0 +1,42 @@
+{
+  "id": "insp-415",
+  "title": "Drawing to GIF：把插画与手绘变成循环 GIF",
+  "type": "storybooks",
+  "source": {
+    "url": "https://www.tokatlas.com/en/studio/plays/illustration-to-animation",
+    "platform": "Tokatlas",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "上传一张插画或儿童手绘、描述一个动作，生成约 2 秒循环 GIF（10 帧×200 毫秒），保留原画轮廓、色彩与手绘感。",
+  "why": "“一张画动起来”的极简路线，对绘本与手绘角色做动态化有直接参考价值，规格明确（JPG/PNG/WebP 不超过 10MB）。",
+  "borrow": [
+    "单图加单动作的极简输入设计",
+    "10 帧×200 毫秒的默认循环参数",
+    "手绘稿拍摄要求（均匀光线、裁掉手与界面）",
+    "循环接缝检查法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "手绘转GIF",
+    "插画动画",
+    "儿童画",
+    "单动作循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

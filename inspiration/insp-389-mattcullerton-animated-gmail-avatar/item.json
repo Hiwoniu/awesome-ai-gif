@@ -1,0 +1,40 @@
+{
+  "id": "insp-389",
+  "title": "mattcullerton：动态 Gmail 头像 GIF trick 真的管用吗",
+  "type": "signatures",
+  "source": {
+    "url": "https://mattcullerton.com/tokdocs/animated-gmail-profile-picture-does-the-gif-avatar-hack-work/",
+    "platform": "mattcullerton",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "实测把动画 GIF 设为 Google 账号头像、在收件人收件箱里动起来的 trick 是否管用。",
+  "why": "动态签名/头像方向少有的实测结论，含 100px 高度限制等具体规格。",
+  "borrow": [
+    "动态头像实测结论",
+    "Gmail 签名规格",
+    "头像落点"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "动态签名",
+    "Gmail",
+    "实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

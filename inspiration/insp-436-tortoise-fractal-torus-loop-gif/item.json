@@ -1,0 +1,43 @@
+{
+  "id": "insp-436",
+  "title": "Tortoise：分形圆环生成器，可导出无缝循环 GIF 与 16K 海报",
+  "type": "posters",
+  "source": {
+    "url": "https://www.producthunt.com/products/tortoise",
+    "platform": "Product Hunt",
+    "author": "Fabin",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "一款浏览器里的分形圆环与神圣几何生成器，可导出无缝循环动图（MP4/GIF）、16K 海报、SVG/DXF 刻绘线稿，开源 MIT 协议。",
+  "why": "它提供了一条与像素表情包完全不同的动图路线：纯程序化几何加无缝循环，循环本身就是卖点；同时能把任意画面发给 Stability AI 做结构参考再生成，动图与大幅面海报同一套源文件出，值得作为动态海报分支的参考。",
+  "borrow": [
+    "无缝循环的生成思路：几何结构本身按循环设计，而不是先做视频再硬剪成环",
+    "同一源文件多格式导出：GIF 循环、海报大图、SVG/DXF 刻绘线稿一次产出",
+    "把 AI 只用在结构参考上：几何定骨架，AI 负责质感与画面，避免全图生成的不稳定"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": ""
+  },
+  "tags": [
+    "动态海报",
+    "无缝循环",
+    "分形几何",
+    "开源工具",
+    "GIF导出",
+    "Product Hunt"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

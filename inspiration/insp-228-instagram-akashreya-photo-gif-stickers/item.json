@@ -1,0 +1,40 @@
+{
+  "id": "insp-228",
+  "title": "Instagram @akashreya.dev：一张照片变 5 张 GIF 贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dfkb9OvNDVv/",
+    "platform": "Instagram",
+    "author": "@akashreya.dev",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 ChatGPT Images 2.6 把一张照片做成 5 张 GIF 贴纸（指镜头、大笑、抱头等），另用 Claude 新模型 Fable 5.2 做了一张像素风动画作对比。",
+  "why": "同一需求双模型对照（ChatGPT vs Claude Fable 5.2），且是开发者语境的梗图，提示词极简仍可用，适合做“极简提示词 + 双模型对比”案例。",
+  "borrow": [
+    "极简动作提示词写法",
+    "一次出多张候选再挑的打法",
+    "双模型对照的评测结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录；演示用作者本人照片，仅借方法"
+  },
+  "tags": [
+    "Instagram",
+    "贴纸",
+    "双模型对照"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

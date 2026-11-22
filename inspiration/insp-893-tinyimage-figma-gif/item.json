@@ -1,0 +1,42 @@
+{
+  "id": "insp-893",
+  "title": "TinyImage：Figma 图层选帧直出 GIF，含 Motion 导出与 GIF 编辑器",
+  "type": "posters",
+  "source": {
+    "url": "https://docs.hypermatic.com/tinyimage/gif",
+    "platform": "Hypermatic",
+    "author": "TinyImage",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Figma 插件 TinyImage 的 GIF 文档：选 Figma 图层当帧，排序、调逐帧时序、加淡入淡出过渡后导出 GIF；也能直接导出 Figma Motion 动画，并有 GIF 编辑器可裁剪、重定时、无损转 APNG 与动态 WebP。",
+  "why": "设计稿直出动态海报的另一条路线：在 Figma 里画好各帧，用图层顺序当帧顺序，导出参数一次给齐，适合把静态海报稿直接变成循环 GIF。",
+  "borrow": [
+    "Figma 图层选帧、按图层顺序或自定义顺序排帧的做法",
+    "逐帧时序、循环次数与过渡效果的配置清单",
+    "Figma Motion 原生渲染导出 GIF、MP4 与 WebM 的路线",
+    "GIF 编辑器裁剪、重定时与无损导出 APNG、动态 WebP 的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "官方文档已打开核实，2026-11-20 更新。"
+  },
+  "tags": [
+    "TinyImage",
+    "Figma",
+    "动态海报",
+    "工具"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

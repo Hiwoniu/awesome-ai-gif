@@ -1,0 +1,42 @@
+{
+  "id": "insp-208",
+  "title": "MidassAI：ChatGPT Images 2.6 逐帧修图的 GIF 工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://blog.midassai.com/zh-cn/tutorials/chatgpt-images-2-6-gif-loop-workflow/",
+    "platform": "MidassAI 博客",
+    "author": "未署名",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "讲透 Images 2.6“先合精灵图再切帧”的机制，给出五条循环脚本写法、逐帧检修流程、Flare/Sunburst 分工与发布前五项验收检查（2026-11-12 发布）。",
+  "why": "本轮中文圈最有方法论深度的一篇，含独立 API 实测数据（512×512、10 帧、每帧 200ms），且点出 GIF 审核比静图更严等实操坑。",
+  "borrow": [
+    "循环脚本五要素：锚点、唯一动作、不动项、取景裁切、首尾帧回归",
+    "每次只修一处缺陷、逐帧找接缝",
+    "Flare 试动作、Sunburst 定稿的两阶段分工",
+    "发布前五项检查清单"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "GPT-Image-2.6",
+    "工作流",
+    "实测",
+    "精灵表"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

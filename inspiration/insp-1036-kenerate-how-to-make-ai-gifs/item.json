@@ -1,0 +1,41 @@
+{
+  "id": "insp-1036",
+  "title": "Kenerate AI：用 GPT Image 2.6 做 AI GIF——提示词、帧数与时长",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://kenerateai.com/blogs/how-to-make-ai-gifs-gpt-image-2-6",
+    "platform": "Kenerate AI 博客",
+    "author": "Kenerate AI",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "单提示词出循环 GIF 教程，自制 8 张 GIF，编号姿势序列写法，帧数与时长对照表。",
+  "why": "8 个真实 GIF 加提示词原文加帧数时长对照表，提示词结构可直接借。",
+  "borrow": [
+    "编号姿势序列写法",
+    "末帧接回首帧的闭合句式",
+    "6 帧×160–200ms 的贴纸配置"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "子代理打开原文核实。"
+  },
+  "tags": [
+    "教程",
+    "GPT Image 2.6",
+    "提示词",
+    "循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

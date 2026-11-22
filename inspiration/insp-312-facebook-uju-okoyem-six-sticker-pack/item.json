@@ -1,0 +1,39 @@
+{
+  "id": "insp-312",
+  "title": "FB Uju Okoyem：六张个人表情贴纸批量教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/2009268673121022/",
+    "platform": "Facebook",
+    "author": "Uju Okoyem",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "视频教程：上传参考照、用详细提示词一次出六张卡通贴纸（保留面部特征与肤色），展示成品并讲 WhatsApp / IG Stories 用法。",
+  "why": "六张一套的批量做法有录屏实证。",
+  "borrow": [
+    "一次出六张的批量提示结构",
+    "面部特征锁定写法"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；以真人参考照出贴纸，只借批量结构，不用真人做法。"
+  },
+  "tags": [
+    "Facebook",
+    "批量",
+    "贴纸"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

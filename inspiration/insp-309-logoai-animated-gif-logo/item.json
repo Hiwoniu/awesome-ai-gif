@@ -1,0 +1,39 @@
+{
+  "id": "insp-309",
+  "title": "LogoAI：GPT Image 2.6 动态 Logo（4–16 帧透明底 GIF）",
+  "type": "signatures",
+  "source": {
+    "url": "https://www.logoai.com/blog/gpt-image-2-6-animated-gif-logo",
+    "platform": "LogoAI",
+    "author": "LogoAI",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "LogoAI 新增的 AI 提示词动画功能：上传 Logo、描述动作、选 4–16 帧、可导出透明底 GIF，附真实 Logo 动画案例。",
+  "why": "Logo 动效的实测案例，帧数与场景的对照表清晰。",
+  "borrow": [
+    "Logo 动效的帧数选择（4 帧快循环 vs 16 帧平滑）",
+    "透明底导出"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "动态Logo",
+    "签名",
+    "GPT-Image-2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

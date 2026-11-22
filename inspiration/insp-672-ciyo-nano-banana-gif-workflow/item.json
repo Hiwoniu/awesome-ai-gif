@@ -1,0 +1,43 @@
+{
+  "id": "insp-672",
+  "title": "Ciyo：Nano Banana 能做 GIF 吗？静帧锚定+只动一层的工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://ciyo.ai/blog/can-nano-banana-make-gifs",
+    "platform": "Ciyo 博客",
+    "author": "Ciyo editorial team",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-12 的实测指南：Nano Banana 只出静帧，要先定一张“动画停下时那帧”做底，再只动一个元素出循环 GIF；产品卡只动下划线、挥手角色只换两姿势，配 800/400/800ms 的两秒时序与首帧对照验收，附可下载的实测 GIF 与首帧 PNG。",
+  "why": "池里少见的“静帧锚定+只动一层”路线：先锁定批准静帧、只改动层、首帧即回落帧的验收法；两姿势挥手 800/400/800ms 的时序写法可直接套产品卡与挥手表情。",
+  "borrow": [
+    "静帧锚定法：先定动画停下那帧再加动效",
+    "只动一个元素：产品卡只动下划线、其余锁死",
+    "两姿势挥手时序：A 800ms、B 400ms、A 800ms，两头 A 在循环边界相接",
+    "首帧对照验收：GIF 与首帧 PNG 并排放、标题不动才算过",
+    "动起来发灰就复用原背景、只改动层"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例为 Fern Shop 虚构品牌图（授权照片），只借静帧锚定与时序写法。"
+  },
+  "tags": [
+    "multi",
+    "Nano Banana Pro",
+    "产品卡",
+    "循环验收"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

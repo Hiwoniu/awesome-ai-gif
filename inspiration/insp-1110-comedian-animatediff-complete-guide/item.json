@@ -1,0 +1,32 @@
+{
+  "id": "insp-1110",
+  "title": "川博客：AnimateDiff 动画生成完整指南，本地部署与 ComfyUI 工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://www.comedian.cc/?id=639",
+    "platform": "川博客",
+    "author": "",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "AnimateDiff 长文指南：本地部署（Python 3.10/CUDA 匹配）、ComfyUI 工作流节点接线（Checkpoint→AnimateDiff Loader→KSampler→VAE Decode→Video Combine，帧率 8/12）、ControlNet/IP-Adapter 约束、显存配置表。",
+  "why": "ComfyUI 里 AnimateDiff 出 GIF 的最小节点链与帧率设置口径可直接参考。",
+  "borrow": ["ComfyUI 里 AnimateDiff 出 GIF 的最小节点链", "帧率 8/12 的设置口径", "ControlNet/IP-Adapter 约束动效的做法"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录；与 insp-646 的 AnimateDiff 文生视频教程角度不同（本文侧重本地部署与节点接线）"
+  },
+  "tags": ["AnimateDiff", "ComfyUI", "本地部署", "教程"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

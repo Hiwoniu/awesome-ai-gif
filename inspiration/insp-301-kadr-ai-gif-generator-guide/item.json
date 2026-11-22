@@ -1,0 +1,39 @@
+{
+  "id": "insp-301",
+  "title": "KADR：AI GIF Generator 实测指南（9 帧×200ms 规格表）",
+  "type": "multi",
+  "source": {
+    "url": "https://kadr-ai.ru/en/blog/ai-gif-generator",
+    "platform": "KADR",
+    "author": "KADR",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 GIF 的实测指南：9 帧×200ms、约 1.8 秒循环、20 秒出图，附 10 个现成场景示例与各画幅规格表。",
+  "why": "参数表最细（画幅/帧数/成本/适用场景对照）。",
+  "borrow": [
+    "9 帧循环的规格表",
+    "“一个重复动作+镜头静止+无缝循环”公式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "实测",
+    "规格表",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-469",
+  "title": "Instagram：ChatGPT GIF 上线当日演示，加 100+ 提示词模板",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfWlXjyuGie/",
+    "platform": "Instagram",
+    "author": "Dubibubi",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "上线 6 小时内的实测：文字与草图转循环 GIF、逐帧编辑、加元素、改速度、角色一致性对比。",
+  "why": "上线当日第一批实测之一，功能点测得全，还附 100+ 提示词模板的领取玩法。",
+  "borrow": [
+    "文字与草图两条转 GIF 路线的对比",
+    "逐帧编辑与改速度的演示",
+    "角色一致性的对照做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；100+ 模板需评论领取，属引流玩法，只借演示本身。"
+  },
+  "tags": [
+    "上线实测",
+    "提示词模板",
+    "逐帧编辑",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

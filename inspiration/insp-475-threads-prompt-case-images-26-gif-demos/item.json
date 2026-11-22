@@ -1,0 +1,40 @@
+{
+  "id": "insp-475",
+  "title": "Threads：ChatGPT Images 2.6 GIF 演示合集，跳舞动物加粉色激光再编辑",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@prompt_case/post/DfVvOzajbg0",
+    "platform": "Threads",
+    "author": "Prompt Case",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用最简单的跳舞猫起手，再演示帧内编辑：加激光、改速度，是 2.6 GIF 能力的代表性演示。",
+  "why": "从一句最简单提示词起手，再一步步加编辑，演示节奏很好；评论还讨论了 Flare 与 Sunburst 的 API 分工。",
+  "borrow": [
+    "从最简提示词起手的演示节奏",
+    "帧内编辑加元素的思路",
+    "Flare 与 Sunburst 分工的讨论"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "上线演示",
+    "帧内编辑",
+    "Threads"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

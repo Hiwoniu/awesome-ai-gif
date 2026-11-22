@@ -1,0 +1,38 @@
+{
+  "id": "insp-1013",
+  "title": "Threads @techfren：直播 AI 副主持——单图出多视角精灵表",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@techfren/post/DfTcQ6GDnVL",
+    "platform": "Threads",
+    "author": "@techfren",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "从一张卡通角色图出发，用 ChatGPT Image 生成含多视角、手势、表情的精灵表，再加一张待机动画表，两表交给 Claude 集成进直播副主持系统，让虚拟形象在主播不在时陪聊。",
+  "why": "精灵表落到直播虚拟主播的新场景，且是 ChatGPT 出表 + Claude 集成的跨工具链路，池内没有同类。",
+  "borrow": [
+    "单图出多视角/手势/表情表的提示思路",
+    "待机动画单独成表的拆分",
+    "精灵表切帧驱动动作的原理",
+    "跨工具链路（生成 + 代码集成）的结构",
+    "虚拟主播落点"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": ["精灵表", "虚拟主播", "直播", "跨工具"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

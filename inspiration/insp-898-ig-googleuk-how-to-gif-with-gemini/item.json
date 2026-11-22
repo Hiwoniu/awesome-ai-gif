@@ -1,0 +1,40 @@
+{
+  "id": "insp-898",
+  "title": "Instagram @googleuk：HOW TO GIF WITH GEMINI 八页教程",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/p/Df-KQ5qDkFO/",
+    "platform": "Instagram",
+    "author": "@googleuk",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "8 页轮播分步教程，讲用 Gemini 做 GIF，含仓鼠梗图、打字橘猫、像素贴纸等示例。",
+  "why": "官方账号的分步教程结构清晰，示例覆盖梗图与贴纸两类。",
+  "borrow": [
+    "分步轮播教程结构",
+    "梗图 GIF 示例",
+    "像素贴纸示例"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Gemini",
+    "官方教程",
+    "梗图"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "insp-1012",
+  "title": "Threads @so.what.ai：填空式无缝循环 GIF 精灵表模板",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@so.what.ai/post/DgALrGHoyrO",
+    "platform": "Threads",
+    "author": "@so.what.ai",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "填空式提示词模板：6 帧 3 列 × 2 行网格、同尺寸、固定机位、角色/背景/服装全程一致、第 6 帧自然接回第 1 帧，无文字数字 Logo 边框。",
+  "why": "参数最完整的精灵表模板之一，填空式结构可直接改造成我们自己的提示词模板。",
+  "borrow": [
+    "6 帧 3×2 网格的规格",
+    "固定机位 + 全程一致的锁定写法",
+    "首尾帧衔接的循环要求",
+    "无文字/数字/Logo/边框的负向约束",
+    "填空式模板结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；模板原文不照搬，只借结构。"
+  },
+  "tags": ["精灵表", "提示词模板", "无缝循环"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

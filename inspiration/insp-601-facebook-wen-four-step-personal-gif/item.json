@@ -1,0 +1,40 @@
+{
+  "id": "insp-601",
+  "title": "Facebook：Wen 樂齡 × AI，四步做个人动画 GIF：微笑眨眼 + 保长相保背景",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/981223895060387/",
+    "platform": "Facebook",
+    "author": "Wen 樂齡 × AI",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "四步教程：打开 ChatGPT、上传清晰单人照、输入文字提示词要一个自然微笑眨眼的循环 GIF（保长相、保背景）、等待生成保存；示例为短发眼镜女士。",
+  "why": "提示词明确写了“保长相、保背景 + 微笑眨眼”，是最简可用的防崩提示词结构，适合长辈/新手向教程对照。",
+  "borrow": [
+    "保长相、保背景的锁定写法",
+    "微笑加眨眼的最小动效组合",
+    "四步流程可作新手引导模板"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "防崩提示词",
+    "微笑眨眼",
+    "四步教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

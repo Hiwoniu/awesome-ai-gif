@@ -1,0 +1,40 @@
+{
+  "id": "insp-286",
+  "title": "觉醒 AI：Opus 5.5 一天做 7 分钟手绘动画绘本",
+  "type": "storybooks",
+  "source": {
+    "url": "https://www.jxxy.net/ai/articles/HaileyAILabs-2111265099096973334/",
+    "platform": "觉醒 AI 知识库",
+    "author": "HaileyAILabs",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 GPT 写剧本 + Claude Opus 5.5 + 开源 hand-drawn-storybook-animation Skill + 豆包配音，一天产出 7 分钟手绘水彩动画绘本的实战教程。",
+  "why": "storybooks 方向少见的完整中文实战，剧本→分镜→动画→配音链路完整，含三轮剧本打磨法。",
+  "borrow": [
+    "剧本先行再拆镜头的绘本流程",
+    "水彩手绘风统一法",
+    "豆包语音配音方案"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "绘本",
+    "手绘动画",
+    "实战"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

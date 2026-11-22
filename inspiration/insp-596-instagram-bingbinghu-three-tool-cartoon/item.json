@@ -1,0 +1,41 @@
+{
+  "id": "insp-596",
+  "title": "Instagram：@bingbinghu_，三工具串联：ChatGPT 定 Q 版角色 + 即梦生成视频 + 剪映剪辑",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DMANshVTZW9/",
+    "platform": "Instagram",
+    "author": "@bingbinghu_",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "中文教程：只用三个工具做卡通动画——ChatGPT 上传参考照生成 Q 版角色并合成背景场景，即梦选视频生成、上传图片、输入描述出视频，剪映剪辑成片。",
+  "why": "跨工具串联（形象—动效—剪辑）是目前中文区常见打法，环节分工清晰，可把其中视频段截成 GIF 用。",
+  "borrow": [
+    "形象（ChatGPT）—动效（即梦）—剪辑（剪映）三段分工",
+    "Q 版角色加背景场景先合成再做动效，保画面统一",
+    "中文工具链，适合中文语境复用"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；产出为视频而非 GIF，收的是三段分工的工具链。"
+  },
+  "tags": [
+    "跨工具",
+    "Q版角色",
+    "即梦",
+    "剪映"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

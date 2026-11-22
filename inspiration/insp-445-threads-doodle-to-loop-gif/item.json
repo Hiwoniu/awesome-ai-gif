@@ -1,0 +1,40 @@
+{
+  "id": "insp-445",
+  "title": "Threads：手绘涂鸦拍下来，上传 ChatGPT 做成循环 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@zephyrhq/post/DfyYXGgiIC3",
+    "platform": "Threads",
+    "author": "@zephyrhq",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "分步方法帖：拍下手绘涂鸦、上传给 ChatGPT，请求做成循环 GIF。",
+  "why": "涂鸦转动图是低成本原创路径，手绘感与我们的原创角色很搭。",
+  "borrow": [
+    "涂鸦转 GIF",
+    "拍手绘稿上传的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "涂鸦",
+    "手绘",
+    "循环GIF",
+    "低成本"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

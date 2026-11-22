@@ -1,0 +1,40 @@
+{
+  "id": "insp-628",
+  "title": "Threads @andyaipm：FreeGIF 开源照片转 GIF，手机浏览器本地跑",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@andyaipm/post/DfzXW-GAtgw",
+    "platform": "Threads",
+    "author": "AI酋长Andy (@andyaipm)",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "介绍开源项目 FreeGIF：照片在手机网页里直接变动态 GIF，弹跳、漂浮、摇摆等效果还能加文字，全程本地导出、不上传原图。",
+  "why": "本地处理不上传的隐私卖点和「让 AI 批量套效果再人工挑错」的用法值得记。",
+  "borrow": [
+    "本地导出不上传原图",
+    "效果模板批量套用",
+    "AI 批量处理加人工复检"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭社交搜索摘要收录，未打开原帖逐字核实。"
+  },
+  "tags": [
+    "照片转 GIF",
+    "开源",
+    "本地处理"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-366",
+  "title": "GIF Sticker Studio：角色图做成套透明循环贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.aiezz.com/tutorial/tutorial-0bc80b4c1e5f397cda9a3cf8",
+    "platform": "AI我搜",
+    "author": "AI我搜编辑部",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "结合 Codex 用 GIF Sticker Studio 把角色图做成成套透明循环 GIF 贴纸的教程，附 218 个 GIF 示例库。",
+  "why": "512×512 透明循环规格、两种输出模式与交付打包流程都很具体。",
+  "borrow": [
+    "角色图转贴纸流程",
+    "512×512透明GIF",
+    "连续动作示例",
+    "打包交付"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "微信表情包",
+    "透明底",
+    "贴纸教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

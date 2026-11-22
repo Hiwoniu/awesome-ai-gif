@@ -1,0 +1,40 @@
+{
+  "id": "insp-589",
+  "title": "Instagram：@supriyatechtalks，“打开 ChatGPT、上传照片、输入 Create a GIF”三步极简路径",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfZ2Z8vIbIL/",
+    "platform": "Instagram",
+    "author": "@supriyatechtalks",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "介绍 ChatGPT 新功能的三步教程：打开 ChatGPT、上传照片、输入“Create a GIF”，即可把照片变成动画 GIF；示例有比心“I Love You”、男孩等成品。",
+  "why": "极简路径的代表：零提示词技巧也能出 GIF，适合作为“先跑通、再精修”的入门对照组；同款极简教程另有 Gadgets360 等转载，本条取信息较全的一条。",
+  "borrow": [
+    "三步极简路径可作新手引导",
+    "一句话生成的低门槛可对比精细提示词的收益",
+    "成品示例覆盖比心等常用社交手势"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；同款极简教程另有转载，本条取信息较全的一条。"
+  },
+  "tags": [
+    "极简路径",
+    "入门",
+    "ChatGPT新功能"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

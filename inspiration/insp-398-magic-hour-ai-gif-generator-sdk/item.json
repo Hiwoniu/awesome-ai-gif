@@ -1,0 +1,41 @@
+{
+  "id": "insp-398",
+  "title": "Magic Hour：AI GIF 生成器 API 与 SDK",
+  "type": "unknown",
+  "source": {
+    "url": "https://npm.io/package/magic-hour",
+    "platform": "npm",
+    "author": "Magic Hour",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Magic Hour API 的 Node SDK，其中 AI GIF 生成接口提供两级调用：先创建任务、再生成 GIF，每个 GIF 计 50 credits。",
+  "why": "有明确的 API 参数面（风格、提示词、命名、输出格式），可作为“GIF 生成 API 如何封装成 SDK”的参考。",
+  "borrow": [
+    "AI GIF 生成的 API 字段设计",
+    "创建与生成两级工作流",
+    "按次计费的成本标价写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "API",
+    "SDK",
+    "AI-GIF生成器",
+    "Magic-Hour"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

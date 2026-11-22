@@ -1,0 +1,32 @@
+{
+  "id": "insp-1102",
+  "title": "itch.io Sprite Sheet Animator：浏览器里预览精灵表动画并导出透明 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://antahonist.itch.io/sprite-sheet-animator-gif-maker",
+    "platform": "itch.io",
+    "author": "Antahonist",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "浏览器里预览精灵表动画并导出透明 GIF 的小工具，纯 HTML/JS，拖入表或帧文件、设速度即下载，不上传文件；示例动画注明由生成式 AI 制作。",
+  "why": "透明 GIF 导出＋零上传的轻量工具形态，可作为精灵表出 GIF 的备选导出链路。",
+  "borrow": ["透明 GIF 导出＋零上传的轻量工具形态", "拖入精灵表、设速度即预览导出的交互", "精灵表出 GIF 的备选导出链路"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录"
+  },
+  "tags": ["精灵表", "透明 GIF", "工具", "导出"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

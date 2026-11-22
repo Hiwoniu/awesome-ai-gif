@@ -1,0 +1,40 @@
+{
+  "id": "insp-284",
+  "title": "夜雨飘零：动态表情包生成器 Skill（两图合成 240×240 循环 GIF）",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://blog.yeyupiaoling.cn/article/1793341362466?lang=zh-tw",
+    "platform": "夜雨飘零博客",
+    "author": "夜雨飘零",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "SkillHub 社区 Skill qianjin-sticker-pack：任意两张图合成 240×240 永久循环 GIF，支持交替、淡入、滑入、弹入四种切换模式。",
+  "why": "两帧极简动效路线成本最低，四种切换模式是轻量动效的现成套路。",
+  "borrow": [
+    "两帧切换四模式",
+    "240×240 固定输出规格",
+    "两帧法与多帧法的取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Skill",
+    "两帧动效",
+    "微信表情包"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

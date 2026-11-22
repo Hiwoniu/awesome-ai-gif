@@ -1,0 +1,41 @@
+{
+  "id": "insp-504",
+  "title": "Civitai：Wan 2.2 14B 无限长视频生成循环工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://civitai.com/models/1897323/wan22-14b-unlimited-long-video-generation-loop?modelVersionId=2277626",
+    "platform": "Civitai",
+    "author": "Civitai 社区作者",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Wan 2.2 I2V A14B 的 ComfyUI 循环工作流：高/低噪声双模型两阶段去噪，Ollama 视觉模型读上一段末帧自动续写下一段提示词，末帧颜色匹配后回灌循环，RIFE 插帧到 32fps，每轮产 33 帧。",
+  "why": "末帧回灌加视觉模型续写提示词的长循环接力结构很关键：长循环不断裂的思路可以直接借；双模型去噪与插帧提顺滑度的参数组合也值得记。",
+  "borrow": [
+    "末帧回灌加视觉模型续写提示词的接力结构",
+    "高低噪声双模型两阶段去噪",
+    "RIFE 插帧提顺滑度的参数"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "产出是视频而非 GIF，收的是长循环接力结构；仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "Wan-2.2",
+    "ComfyUI",
+    "长循环",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

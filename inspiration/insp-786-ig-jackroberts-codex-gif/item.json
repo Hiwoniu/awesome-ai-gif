@@ -1,0 +1,39 @@
+{
+  "id": "insp-786",
+  "title": "Instagram @jackroberts___：Images 2.6 在 ChatGPT 与 Codex 中出 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df22k84l2Wg/",
+    "platform": "Instagram",
+    "author": "@jackroberts___",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Images 2.6 在 ChatGPT 与 Codex 中都能出 GIF，示例跳舞猫、粉色激光鸟、宠物产品图。",
+  "why": "Codex 入口加产品图动效示例，是池内少见的 Codex 路径。",
+  "borrow": [
+    "Codex 出 GIF 的入口",
+    "产品图动效示例：跳舞猫、粉色激光鸟、宠物产品图"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "Codex",
+    "入口"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

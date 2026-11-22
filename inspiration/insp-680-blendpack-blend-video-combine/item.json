@@ -1,0 +1,41 @@
+{
+  "id": "insp-680",
+  "title": "ComfyUI BlendPack：BlendVideoCombine 帧合成 GIF 节点",
+  "type": "multi",
+  "source": {
+    "url": "https://www.runcomfy.com/comfyui-nodes/ComfyUI_BlendPack/blend-video-combine",
+    "platform": "RunComfy 节点文档",
+    "author": "RunComfy",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "ComfyUI_BlendPack 的 BlendVideoCombine 节点文档：把多帧合成为 GIF/WebP，带平滑过渡、预览、loop_count（0=无限循环）。",
+  "why": "本地工作流里“帧→GIF”导出环节的新选择：带过渡效果与循环次数参数，可作 VideoHelperSuite 的 Video Combine 的对照或替代。",
+  "borrow": [
+    "帧合成 GIF 的新节点选择：BlendVideoCombine",
+    "平滑过渡与 loop_count（0=无限循环）参数",
+    "预览环节放在合成节点内的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "multi",
+    "ComfyUI",
+    "GIF 导出",
+    "节点"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

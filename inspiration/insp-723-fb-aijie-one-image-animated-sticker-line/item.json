@@ -1,0 +1,42 @@
+{
+  "id": "insp-723",
+  "title": "FB 艾婕：一张图变会动贴图，填动作加文字，15 秒出 LINE 动态贴图",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/2587378948341284/",
+    "platform": "Facebook",
+    "author": "艾婕Ai親子探險",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "中文指令模板：请把我上传的图片做成一张可下载的手机动态贴图，指定动作加贴图文字两个填空；示例为打哈欠加好累，提醒切到工作模式效果更好，成品可下载 GIF 发 LINE，也可上架 LINE Creator Market。",
+  "why": "模板只有动作加文字两个填空，上手成本极低；工作模式提示与 LINE 上架路径是其他教程少提的实操细节。",
+  "borrow": [
+    "动作加文字双填空指令模板结构",
+    "工作模式出 GIF 的提示",
+    "LINE 动态贴图上架路径"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；视频为中文解说。"
+  },
+  "tags": [
+    "Facebook",
+    "LINE 贴图",
+    "动态贴图",
+    "提示词模板",
+    "中文教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

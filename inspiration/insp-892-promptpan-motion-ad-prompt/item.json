@@ -1,0 +1,43 @@
+{
+  "id": "insp-892",
+  "title": "Promptpan：一点贯穿全片的动态海报提示词，8 场按节拍排布",
+  "type": "posters",
+  "source": {
+    "url": "https://promptpan.com/en/p/what-to-make-motion-ad/",
+    "platform": "Promptpan",
+    "author": "Promptpan",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "一条 18 秒竖屏动态广告提示词：一个小圆点贯穿全片，每拍变形为一样东西，最后变成品牌名后的句号；分 8 场，场长按节拍与阅读时长算，配 Riso 错版印刷质感与三套配色。",
+  "why": "动态海报少见的完整结构提示词：一点贯穿、按关键帧算状态、形状按关键词映射、场长按阅读时间公式算，整套思路可以平移到 GIF 动态海报的分镜设计。",
+  "borrow": [
+    "一个元素贯穿全片、每拍变形一次的结构",
+    "按关键帧算状态、变形时位置大小颜色一起缓动的写法",
+    "形状按关键词映射的做法：海报方形、标志圆形、贴纸星形",
+    "按节拍分 8 场、文字场按阅读时长算场长的排布方法",
+    "Riso 错版印刷质感的叠加做法：错版、半调网点、纸纹"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "提示词全文已打开核实；成品输出为 MP4 动态海报而非 GIF，只借结构与变形思路，不照搬提示词原文与示例文案。"
+  },
+  "tags": [
+    "Promptpan",
+    "动态海报",
+    "提示词",
+    "分镜"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

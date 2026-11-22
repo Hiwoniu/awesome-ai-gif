@@ -1,0 +1,41 @@
+{
+  "id": "insp-244",
+  "title": "爱范儿：实测 Seedream 5.5（透明底贴纸与图层拆分）",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.ifanr.com/1688447",
+    "platform": "爱范儿",
+    "author": "APPSO",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Seedream 5.5 五项能力实测，含原生透明底 RGBA 贴纸、图层拆分，提到用它做品牌表情包与豆包工作流 Skill。",
+  "why": "透明底直出 + 图层拆分的实测细节对贴纸类制作有直接参考价值。",
+  "borrow": [
+    "原生透明底贴纸",
+    "图层拆分复用",
+    "豆包工作流 Skill 调用",
+    "真人转 chibi 贴纸流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "本文主体是模型评测，GIF 部分篇幅较短"
+  },
+  "tags": [
+    "Seedream-5.5",
+    "透明底",
+    "评测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-1093",
+  "title": "X @minchoi：Gemini 4 Neon 用代码直接生成动画 GIF，10 例合集",
+  "type": "multi",
+  "source": {
+    "url": "https://agihunt.info/en/p/1a1f72c5761762076492a107624",
+    "platform": "X（经 AGI Hunt 聚合页）",
+    "author": "minchoi",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Gemini 4 Neon 发布不到 39 小时，用户已用它完全用代码生成动画 GIF，合集含 10 个早期实例。",
+  "why": "代码生成而非图像模型直出的新路子，演示合集展示了 GIF 生成的另一条技术路线。",
+  "borrow": [
+    "代码生成 GIF 的做法：模型写代码、代码逐帧出动画",
+    "10 例演示合集的组织方式：同一能力多场景并排展示"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；x.com 直达链接暂缺，待已登录 Chrome 补找；来源为 AGI Hunt 聚合页"
+  },
+  "tags": [
+    "X",
+    "Gemini 4 Neon",
+    "代码生成",
+    "GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

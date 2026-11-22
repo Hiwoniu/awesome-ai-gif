@@ -1,0 +1,41 @@
+{
+  "id": "insp-257",
+  "title": "Instagram @typedtim：无 App 做 GIF（ezgif + Giphy 上架）",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DdhT3IViRLY/",
+    "platform": "Instagram",
+    "author": "@typedtim",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "纯网页工具流：onlinepngtools 加透明边距→ezgif 合成 GIF→Giphy 加微小贴纸满足动画要求后上架打标签。",
+  "why": "不依赖任何 App 的 GIF 制作与分发流程，透明底处理细节很实用。",
+  "borrow": [
+    "透明边距前置处理",
+    "ezgif 在线合成",
+    "Giphy 上架打标签分发",
+    "单帧 GIF 也能进贴纸库"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录；只借方法"
+  },
+  "tags": [
+    "Instagram",
+    "工具流",
+    "GIPHY"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

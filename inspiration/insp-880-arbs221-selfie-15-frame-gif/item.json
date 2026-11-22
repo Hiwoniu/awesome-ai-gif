@@ -1,0 +1,35 @@
+{
+  "id": "insp-880",
+  "title": "IG @arbs221：自拍出 15 帧循环 GIF，真人照片转动图演示",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/p/Dfg9dSoD36J/",
+    "platform": "Instagram",
+    "author": "@arbs221",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "创作者用自己的三张自拍演示 ChatGPT 生成循环 GIF，最后一页贴出原提示词：指定 15 帧循环 GIF。",
+  "why": "真人照片转动图的实测演示，帧数直接写进提示词（15 帧）的做法可作参考。",
+  "borrow": [
+    "真人自拍转循环 GIF 的演示结构：多造型同角色循环展示",
+    "提示词里直接指定 15 帧循环的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "涉及真人自拍，只借提示词写法与演示结构，不用真人形象；未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["Instagram", "真人照片", "循环GIF", "15帧"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

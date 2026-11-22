@@ -1,0 +1,39 @@
+{
+  "id": "insp-754",
+  "title": "Instagram @glennhasabeard：Runway 里 GIF 的失败与修复",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dfr5kzupxu0",
+    "platform": "Instagram",
+    "author": "@glennhasabeard",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Runway 里 GPT Image 2.6 的失败与修复：背景变透明棋盘格、图标挤作一团，修复是提示词加纯色不透明底与十六进制色值",
+  "why": "纯色不透明底+十六进制色值的防翻车写法",
+  "borrow": [
+    "纯色不透明底+十六进制色值的防翻车写法",
+    "失败模式对照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Instagram",
+    "失败修复",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

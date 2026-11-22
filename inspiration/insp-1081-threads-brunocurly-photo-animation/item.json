@@ -1,0 +1,40 @@
+{
+  "id": "insp-1081",
+  "title": "Threads @brunocurly.raw：哈利·波特式会动的照片微动提示词",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@brunocurly.raw/post/DfYOkypDmZr",
+    "platform": "Threads",
+    "author": "@brunocurly.raw",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-05 葡萄牙语帖：把静态照片变成栩栩如生的循环动画，保留主体身份细节，只加呼吸、发丝风动、眨眼、微表情、相机闪光、可选魔法粒子，追求写实电影感、不卡通不变形。",
+  "why": "微动提示词写得细，是“照片变动图”的好模板。",
+  "borrow": [
+    "微动清单写法（呼吸/眨眼/发丝/微表情）",
+    "保身份+写实不卡通的约束句"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；标题化用哈利·波特“会动的照片”概念，只借微动清单写法，不借 IP 形象与真人照片做法。"
+  },
+  "tags": [
+    "Threads",
+    "照片变动图",
+    "微动",
+    "写实"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

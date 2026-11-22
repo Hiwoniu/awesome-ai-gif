@@ -1,0 +1,41 @@
+{
+  "id": "insp-681",
+  "title": "ComfyUI 官方：Wan Animate 2 动作迁移（驱动视频带动静态角色）",
+  "type": "multi",
+  "source": {
+    "url": "https://docs.comfy.org/tutorials/video/wan/wan-animate-2",
+    "platform": "ComfyUI 官方文档",
+    "author": "ComfyUI",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Wan Animate 2 动作迁移官方教程：用一段驱动视频直接带动静态角色做动作，ComfyUI 原生工作流模板，含循环子图处理长视频（每段 81 帧）。",
+  "why": "表情包动作的新思路：不必逐帧画动作，先拍或找一段参考动效再迁移到原创角色上；81 帧分段处理长视频的循环子图做法可借鉴。",
+  "borrow": [
+    "用现成动作视频驱动原创角色的思路",
+    "循环子图处理长视频：每段 81 帧",
+    "ComfyUI 原生工作流模板结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "multi",
+    "ComfyUI",
+    "动作迁移",
+    "Wan"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

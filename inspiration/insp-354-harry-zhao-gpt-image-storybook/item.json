@@ -1,0 +1,40 @@
+{
+  "id": "insp-354",
+  "title": "Harry Zhao：GPT Image 2 做 12 页个性化绘本",
+  "type": "storybooks",
+  "source": {
+    "url": "https://harry-zhao-au.github.io/blog/2026/05/20/building-a-personalised-storybook-with-gpt-image-2/",
+    "platform": "个人博客（GitHub Pages）",
+    "author": "Harry Zhao",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用真人照片做 12 页个性化儿童绘本的完整管线：角色参考表（三视图）→分镜网格→逐页生成，每阶段人工审核。",
+  "why": "角色一致性解法很扎实（参考表+分镜网格+每阶段审核 gate），且明确指出“一致性是工作流问题而非提示词问题”。",
+  "borrow": [
+    "角色三视图参考表",
+    "分镜网格先行",
+    "阶段审核防误差累积"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "以真人照片做绘本主角，借鉴时只借工作流，不用真人形象。"
+  },
+  "tags": [
+    "绘本",
+    "角色一致",
+    "审核流程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

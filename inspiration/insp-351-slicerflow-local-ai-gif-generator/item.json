@@ -1,0 +1,39 @@
+{
+  "id": "insp-351",
+  "title": "SlicerFlow：本地 WebGPU 出 GIF 的工具集",
+  "type": "multi",
+  "source": {
+    "url": "https://www.slicerflow.com/",
+    "platform": "SlicerFlow",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "浏览器内工具集，流程图/架构图可导出 GIF，AI 功能跑在本地 WebGPU，不上传文件。",
+  "why": "端侧 AI + 本地出 GIF 的产品形态少见，隐私卖点明确。",
+  "borrow": [
+    "本地 WebGPU 出 GIF 的产品形态",
+    "图表类 GIF 的构图"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "主打图表/流程图 GIF，与角色表情关联较弱，主要价值在端侧出图形态。"
+  },
+  "tags": [
+    "WebGPU",
+    "本地处理",
+    "图表GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

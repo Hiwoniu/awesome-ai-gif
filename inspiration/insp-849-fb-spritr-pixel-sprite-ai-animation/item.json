@@ -1,0 +1,36 @@
+{
+  "id": "insp-849",
+  "title": "FB SPRITR：像素精灵编辑器 AI 辅助动画",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/reel/1842581760387716/",
+    "platform": "Facebook",
+    "author": "Manuel Kyd Thomas",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "SPRITR 像素精灵编辑器 Windows v0.2.1 演示：16×32 精灵新建、镜像绘制、图层与 AI 辅助动画。",
+  "why": "手绘像素帧加 AI 辅助补帧的混合路线：编辑器里直接画关键帧、AI 补中间帧，适合像素风表情包的精细控制。",
+  "borrow": [
+    "16×32 小尺寸精灵的绘制与图层组织",
+    "镜像绘制省一半手工帧的思路",
+    "手绘关键帧加 AI 补帧的混合动画路线"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["像素风", "精灵表", "编辑器", "AI辅助", "Facebook"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

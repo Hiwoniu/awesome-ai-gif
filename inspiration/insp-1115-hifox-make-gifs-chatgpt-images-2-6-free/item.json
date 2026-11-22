@@ -1,0 +1,32 @@
+{
+  "id": "insp-1115",
+  "title": "HiFox：免费做 ChatGPT Images 2.6 GIF 实测指南",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://hifox.com/blog/make-gifs-chatgpt-images-2-6-free/",
+    "platform": "HiFox 博客",
+    "author": "HiFox",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "免费制作 GIF 动图的实测步骤与提示词指南。",
+  "why": "面向零成本路线的实测教程，可补免费路径的做法。",
+  "borrow": ["免费路径的操作步骤", "提示词写法", "实测中的排错经验"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实。"
+  },
+  "tags": ["GPT-Image-2.6", "免费", "实测", "教程"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

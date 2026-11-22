@@ -1,0 +1,39 @@
+{
+  "id": "insp-348",
+  "title": "Dev.to：GIF 转精灵表列数间距时序教程",
+  "type": "multi",
+  "source": {
+    "url": "https://dev.to/gifdesk/gif-to-sprite-sheet-columns-spacing-and-timing-that-matter-15c",
+    "platform": "Dev.to",
+    "author": "GIFDesk 团队",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "GIF 转精灵表时的布局与时序教程，讲列数、瓦片尺寸、间距与帧时长 JSON 的取舍。",
+  "why": "用 12 帧 64×64 瓦片的算例讲清间距如何影响运行时坐标，附“先验证一格再接整表”的检查法。",
+  "borrow": [
+    "瓦片尺寸与间距的算例",
+    "帧时长随 JSON 一起导出的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Dev.to",
+    "精灵表布局",
+    "时序"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

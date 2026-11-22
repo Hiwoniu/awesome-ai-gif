@@ -1,0 +1,39 @@
+{
+  "id": "insp-791",
+  "title": "Instagram @tapnow.ai_official：TapNow 一句话出跳舞彩虹 blob",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dfg_4fBAjyU/",
+    "platform": "Instagram",
+    "author": "@tapnow.ai_official",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "TapNow GPT Image 2.6 Prompt to GIF：彩虹 blob 跳舞。",
+  "why": "TapNow 工具入口可作第三方出 GIF 的入口对照。",
+  "borrow": [
+    "TapNow 工具入口：Prompt to GIF",
+    "彩虹 blob 跳舞的抽象角色动效示例"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "TapNow",
+    "工具入口"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

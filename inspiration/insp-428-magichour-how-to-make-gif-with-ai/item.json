@@ -1,0 +1,42 @@
+{
+  "id": "insp-428",
+  "title": "Magic Hour：如何用 AI 做 GIF，免费步骤与提示词示例",
+  "type": "multi",
+  "source": {
+    "url": "https://magichour.ai/blog/how-to-make-a-gif-with-ai",
+    "platform": "Magic Hour",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Magic Hour AI GIF 生成器教程：文字描述一处短动作即可出 GIF，附录制 walkthrough 与多组提示词 starter，每天 3 张免费、无水印。",
+  "why": "零门槛路线的代表，提示词 starter 与“文字/图片/已有视频”三种输入分流值得参考。",
+  "borrow": [
+    "主体加动作加风格的短提示词写法",
+    "文字、图片、视频三种输入的分流",
+    "免费额度与无水印的选型信息",
+    "录制演示对照的验证方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "AI-GIF生成器",
+    "教程",
+    "免费工具",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

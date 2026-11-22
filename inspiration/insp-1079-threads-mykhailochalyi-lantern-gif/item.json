@@ -1,0 +1,40 @@
+{
+  "id": "insp-1079",
+  "title": "Threads @mykhailochalyi：灯笼 GIF 实测规格（16 帧/2.2 秒/1.4MB）",
+  "type": "posters",
+  "source": {
+    "url": "https://www.threads.com/@mykhailochalyi/post/DfYh-OmgbuM",
+    "platform": "Threads",
+    "author": "@mykhailochalyi",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-06 帖子：提示词“纸灯笼黄昏摇曳+萤火虫”出 16 帧、2.2 秒、1.4MB 的 lantern.gif，标注 gpt-image-2.6-flare、耗时 41.2 秒。",
+  "why": "少见的带完整参数的单例实测（帧数/时长/体积/模型/耗时全有），适合做“小幅度+够帧数”的规格参照。",
+  "borrow": [
+    "16 帧 2.2 秒单主体小幅度循环规格",
+    "一句话氛围提示词写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Threads",
+    "实测",
+    "规格",
+    "小幅度循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

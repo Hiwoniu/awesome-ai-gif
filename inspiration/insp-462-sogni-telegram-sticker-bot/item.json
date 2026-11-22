@@ -1,0 +1,41 @@
+{
+  "id": "insp-462",
+  "title": "Sogni Sticker Bot：一句提示词生成贴纸并去底，可自托管",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://docs.sogni.ai/more-superapps/telegram-sticker-bot/",
+    "platform": "Sogni AI",
+    "author": "Sogni-AI",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Telegram/Discord 机器人：一句提示词生成贴纸并自动去底，开源 npm 包加仓库，可自托管。",
+  "why": "一句话出贴纸加自动去底的机器人形态，部署方式开源，适合参考做轻量贴纸服务。",
+  "borrow": [
+    "一句提示词出贴纸的机器人交互",
+    "生成后自动去底的流程",
+    "开源自托管的部署思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "贴纸机器人",
+    "Telegram",
+    "去底",
+    "开源"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

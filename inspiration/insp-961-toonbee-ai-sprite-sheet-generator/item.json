@@ -1,0 +1,31 @@
+{
+  "id": "insp-961",
+  "title": "ToonBee AI Sprite Sheet Generator：描述或上传角色图，直出透明精灵表加循环 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://toonbee.app/ai-sprite-sheet-generator",
+    "platform": "ToonBee",
+    "author": "ToonBee",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 驱动的精灵表工具：描述角色或上传角色图，选动作、画风与帧数，一次出透明 PNG 精灵表、循环 GIF 预览和 JSON 图集，并给出 Unity、Godot、Phaser 的导入说明与实测结论",
+  "why": "它把画帧和拼表合在一次运行里，透明底、等格、角色定点三点都经过实测；帧数取舍和引擎导入写法可直接对照，补我们精灵表方向的规格细节",
+  "borrow": [
+    "一次运行同时出 PNG 精灵表、循环 GIF、JSON 图集的三件套输出",
+    "走跑 8 帧、待机 4-6 帧、攻击 6-8 帧的帧数取舍",
+    "角色每帧定点、等格、透明底的验收点",
+    "Unity、Godot、Phaser 的表导入写法",
+    "按动作顺序写姿势的自定义动作提示词写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "按积分付费，8 帧默认 30 积分；只借流程与规格，不搬它的示例角色"
+  },
+  "tags": ["精灵表", "GPT Image 2.6", "工具", "游戏"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-20", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

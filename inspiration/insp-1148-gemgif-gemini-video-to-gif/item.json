@@ -1,0 +1,38 @@
+{
+  "id": "insp-1148",
+  "title": "GemGIF：用 Gemini 视频理解从 YouTube 视频里挑 GIF 场景",
+  "type": "multi",
+  "source": {
+    "url": "https://thomaschang.me/blog/video-to-gif",
+    "platform": "个人博客",
+    "author": "Thomas Chang",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "AGI House 黑客松项目 GemGIF：把 YouTube 视频交给 Gemini 的视频理解能力，按一句话创意挑出 3–5 个 2–5 秒的高光片段，输出带起止时间戳的 JSON，再切成 GIF，不用再去 Giphy 翻现成图。",
+  "why": "池里多是“生图变 GIF”，这条补了反向路线——从现成视频里用 AI 挑片段做 GIF：结构化 JSON 输出时间戳、按“独特动态瞬间、娱乐价值、贴合创意”三条筛场景，方法可直接复用到从素材库里挑循环片段。",
+  "borrow": [
+    "视频理解替代字幕推断场景的思路：直接看画面挑高光，而不是从文案猜时间点",
+    "场景挑选规格：一次挑 3–5 个场景，每段 2–5 秒，互不重复、各成一个 GIF",
+    "start_time、end_time、caption 的结构化 JSON 输出，用 response_schema 锁死格式",
+    "先上传视频、轮询等处理完成再提问的流程",
+    "YouTube 视频先下载到本地再上传的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "文章用的是较早的 gemini-2.0-flash-exp，模型名与 API 可能已变；示例代码只给到时间戳 JSON，切片成 GIF 的步骤需自己补；只借场景挑选方法，不搬代码。已打开原文核实。"
+  },
+  "tags": ["Gemini", "视频转GIF", "场景挑选", "JSON", "黑客松"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

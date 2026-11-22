@@ -1,0 +1,41 @@
+{
+  "id": "insp-255",
+  "title": "Instagram @uday.posia：自拍三步变 ChatGPT 动态 GIF 贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfgngnIu6tj/",
+    "platform": "Instagram",
+    "author": "@uday.posia",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "三步教程——描述风格发提示词、ChatGPT 内自拍、约 20 秒出 GIF，成品为 3D 黏土风挥手小人，附 6 条配套提示词索取入口。",
+  "why": "11 月 9 日新帖，把“自拍→GIF 贴纸”压缩成三步，门槛最低的入门路径。",
+  "borrow": [
+    "三步极简流程",
+    "黏土风等风格词前置",
+    "自拍直出 GIF",
+    "成品先展示再讲步骤"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录；只借方法"
+  },
+  "tags": [
+    "Instagram",
+    "自拍",
+    "黏土风"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

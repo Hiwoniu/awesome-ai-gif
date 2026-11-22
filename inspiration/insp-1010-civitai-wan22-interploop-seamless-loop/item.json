@@ -1,0 +1,38 @@
+{
+  "id": "insp-1010",
+  "title": "Civitai：WAN 2.2 InterpLoop——ComfyUI 无缝循环工作流（接缝插帧法）",
+  "type": "multi",
+  "source": {
+    "url": "https://civitai.com/models/1931348/wan-22-5b-whiterabbit-interploop?modelVersionId=2185956",
+    "platform": "Civitai",
+    "author": "WhiteRabbit",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "开箱即用的 ComfyUI 工作流：WAN 2.2 5b 图生视频做循环，针对末帧注入会出脏帧闪烁的问题，先裁掉脏帧、再对首尾接缝做插帧过渡。",
+  "why": "池内少见的视频模型转 GIF 接缝处理方案：不是拼贴首尾帧，而是插帧过渡，适合长循环与视频模型出 GIF 的流程。",
+  "borrow": [
+    "接缝处理法：裁脏帧 + 首尾帧之间生成过渡帧、不重复首帧",
+    "Roll & Multiply 全片插帧 + 重采样到指定 FPS",
+    "视觉模型反推运动提示词的模板（让 Gemini/ChatGPT 看图写运动描述）",
+    "WAN 2.2 参数甜点（约 30 步、24fps、CFG 略高于默认 5）",
+    "Simple/Fancy 两种接缝插值切换排错"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "页内含作者推广链接，只借工作流本身；已打开原文核实。"
+  },
+  "tags": ["ComfyUI", "WAN 2.2", "无缝循环", "插帧"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

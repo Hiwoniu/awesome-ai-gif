@@ -1,0 +1,41 @@
+{
+  "id": "insp-1170",
+  "title": "OpenAI 官方：Sora 2 提示词指南与循环建议",
+  "type": "multi",
+  "source": {
+    "url": "https://developers.openai.com/cookbook/examples/sora/sora2_prompting_guide",
+    "platform": "OpenAI 开发者文档",
+    "author": "OpenAI 官方",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "Sora 2 官方提示词指南：角色引用、分辨率、时长参数与循环建议。",
+  "why": "官方指南，Sora 2 做循环 GIF 的提示词框架可直接参考。",
+  "borrow": [
+    "角色引用的写法",
+    "1920×1080、4–20 秒时长的参数取法",
+    "短片段更易控的经验",
+    "循环建议"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实；指南面向视频，做 GIF 要截取 2–3 秒循环段。"
+  },
+  "tags": [
+    "Sora 2",
+    "官方指南",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

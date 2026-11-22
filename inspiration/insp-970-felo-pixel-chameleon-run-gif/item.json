@@ -1,0 +1,42 @@
+{
+  "id": "insp-970",
+  "title": "Felo：像素变色龙跑步循环 GIF 模型案例",
+  "type": "multi",
+  "source": {
+    "url": "https://openapi.felo.ai/model-cases/gpt-image-2-6/pixel-chameleon-run-gif",
+    "platform": "Felo API",
+    "author": "ailingqu / Awesome AI GIF Prompts",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "侧面像素风变色龙原地跑步循环，16-bit 游戏精灵风的 GIF 模型案例。",
+  "why": "像素跑步循环的写法很完整，侧面视角、原地跑、地面带齐全，适合游戏精灵与像素表情包的跑步动作。",
+  "borrow": [
+    "侧面视角跑步循环的提示词结构",
+    "原地跑加地面带移动的错觉写法",
+    "16-bit 像素风的定调词与深青纯色底"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "CC BY 4.0",
+    "note": "案例原图与提示词来自 ailingqu 的 Awesome AI GIF Prompts 项目，CC BY 4.0；只借结构，角色换原创。"
+  },
+  "tags": [
+    "Felo",
+    "GPT Image 2.6",
+    "像素风",
+    "跑步循环",
+    "游戏精灵"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

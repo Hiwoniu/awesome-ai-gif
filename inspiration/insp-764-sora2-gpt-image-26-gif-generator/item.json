@@ -1,0 +1,39 @@
+{
+  "id": "insp-764",
+  "title": "Sora2.Center：GPT Image 2.6 在线 GIF 生成器",
+  "type": "multi",
+  "source": {
+    "url": "https://sora2.center/gen-image/gpt-image-2-6",
+    "platform": "Sora2.Center",
+    "author": "Imagenter AI",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "基于 GPT Image 2.6 的文生、图生 GIF 在线生成器。",
+  "why": "8 或 16 帧与 512×512 循环规格、透明底与海报小字等实测点可作对照。",
+  "borrow": [
+    "8 或 16 帧、512×512 的循环规格",
+    "图生 GIF 与文生 GIF 两种入口的组织",
+    "透明底与横幅等特殊场景的实测记录"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "GIF工具",
+    "GPT-Image-2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

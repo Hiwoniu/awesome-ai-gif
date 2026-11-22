@@ -1,0 +1,42 @@
+{
+  "id": "insp-765",
+  "title": "AInformation：GPT Image 2.6 五条提示词实测与通过表",
+  "type": "multi",
+  "source": {
+    "url": "https://ainformation.jp/en/article/18461",
+    "platform": "AInformation",
+    "author": "AInformation",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "ChatGPT Plus 上 11 月 5 日实测 Images 2.6 的五条提示词与逐条通过、失败记录。",
+  "why": "同一对话追加动效请求的极简做法与逐项验收表，是可直接复用的测试方法。",
+  "borrow": [
+    "同一对话追加动效：一句话让已定稿角色挥手做循环 GIF",
+    "逐项验收表：每条请求先定通过条件再记耗时与结果",
+    "点名保持不变的元素：换背景时逐项列出脸、服装、眼镜、姿势",
+    "单动作优先：只写一个动作加保持背景，避免多动作失控"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实；提示词为日文原版的英文翻译，中文使用时需再测。"
+  },
+  "tags": [
+    "实测",
+    "GPT-Image-2.6",
+    "提示词",
+    "验收"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

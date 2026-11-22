@@ -1,0 +1,39 @@
+{
+  "id": "insp-363",
+  "title": "WhiteRabbit Prepare Loop Frames：缝合循环接缝的节点",
+  "type": "unknown",
+  "source": {
+    "url": "https://www.runcomfy.com/comfyui-nodes/comfyui-WhiteRabbit/prepare-loop-frames",
+    "platform": "RunComfy",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "专为无缝视频循环设计的 ComfyUI 节点：取视频首尾两帧做插值，缝合循环接缝。",
+  "why": "循环接缝有专用节点解法，是所有 ComfyUI 循环 GIF 工作流都能复用的关键一步。",
+  "borrow": [
+    "首尾帧缝合思路",
+    "循环接缝处理节点用法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "ComfyUI",
+    "无缝循环",
+    "节点"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

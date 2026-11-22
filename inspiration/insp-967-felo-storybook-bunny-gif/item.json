@@ -1,0 +1,40 @@
+{
+  "id": "insp-967",
+  "title": "Felo：绘本小兔浇花 GIF 模型案例",
+  "type": "storybooks",
+  "source": {
+    "url": "https://openapi.felo.ai/model-cases/gpt-image-2-6/storybook-bunny-garden-gif",
+    "platform": "Felo API",
+    "author": "ailingqu / Awesome AI GIF Prompts",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 绘本页动图案例：一只小兔浇花、水滴落下、两只蝴蝶飞舞，水彩加彩铅风的无缝循环 GIF。",
+  "why": "绘本页只动局部的做法样本：画面定调后只列两个微动效（水滴、蝴蝶），其余全静止，循环干净。",
+  "borrow": [
+    "绘本页单动作提示词结构：画风定调在前、动作列在后、固定镜头收尾",
+    "只动两个微动效的克制写法：水滴落下加蝴蝶飞舞，其余元素静止",
+    "水彩加彩铅的绘本质感定调词"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "单条提示词加演示 GIF 的模型案例页；提示词署名来自 GitHub 的 Awesome AI GIF Prompts 整理"
+  },
+  "tags": [
+    "动态绘本",
+    "GPT Image 2.6",
+    "提示词案例"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

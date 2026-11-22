@@ -1,0 +1,42 @@
+{
+  "id": "insp-714",
+  "title": "ChatGPT 画六帧精灵表，Claude 切帧拼循环 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://chloe.hobbyland-group.com/en/article/claude-sprite-sheet-gif-loop",
+    "platform": "Hobbyland Group",
+    "author": "Chloe",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "ChatGPT 画 3×2 六帧精灵表，Claude 写 Pillow 切帧拼 480×480、160ms 循环 GIF，附网页播放代码。",
+  "why": "画表与拼 GIF 分工给两个模型的做法很干净，480×480、160ms 的参数与网页播放代码可直接参考。",
+  "borrow": [
+    "画表与拼 GIF 分给两个模型的做法",
+    "Pillow 切帧拼 GIF 的流程",
+    "480×480、160ms 的循环参数",
+    "网页播放 GIF 的代码组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原页核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "精灵表",
+    "Claude",
+    "Pillow",
+    "循环 GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

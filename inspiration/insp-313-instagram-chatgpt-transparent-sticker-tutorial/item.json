@@ -1,0 +1,38 @@
+{
+  "id": "insp-313",
+  "title": "IG @chatgpt：官方透明贴纸对话式生成教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DIEmR0LpzsF/",
+    "platform": "Instagram",
+    "author": "@chatgpt",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "OpenAI 官方教学视频：用对话方式生成透明底卡通贴纸，可指定长宽比与十六进制颜色。",
+  "why": "官方出品，方法权威，适合作为基准参考。",
+  "borrow": [
+    "对话式指定透明底与精确配色的写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Instagram",
+    "官方",
+    "透明贴纸"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

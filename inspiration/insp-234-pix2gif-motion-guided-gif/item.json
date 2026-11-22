@@ -1,0 +1,40 @@
+{
+  "id": "insp-234",
+  "title": "Pix2Gif：动作幅度引导的图生 GIF 论文",
+  "type": "multi",
+  "source": {
+    "url": "https://ar5iv.labs.arxiv.org/html/2403.04634",
+    "platform": "arXiv",
+    "author": "Hitesh Kandala",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "以文本与动作幅度引导、把单图转成 GIF 的扩散模型研究，代码与数据集公开。",
+  "why": "少有的 GIF 专属生成模型思路，附 78,692 条训练 GIF 数据集，可作方法论参考。",
+  "borrow": [
+    "图生 GIF 的动作幅度控制思路",
+    "以图像翻译视角做 GIF 的建模方式",
+    "自建 GIF 数据集的规模参考"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "研究论文，方法参考"
+  },
+  "tags": [
+    "论文",
+    "图生GIF",
+    "扩散模型"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

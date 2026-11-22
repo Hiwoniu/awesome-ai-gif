@@ -1,0 +1,40 @@
+{
+  "id": "insp-687",
+  "title": "IG @elideveloper：安卓精灵动画播放器 5 帧爱心 GIF 实测",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DblOCehufQg/",
+    "platform": "Instagram",
+    "author": "@elideveloper",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "录屏演示一款安卓 App：导入 5 张像素爱心（满红→空心），正向/反向循环预览，以 0.1 秒/帧保存为 GIF。",
+  "why": "小帧数循环的规格样本：5 帧、0.1 秒/帧；正向加反向循环两种循环模式对“来回摆动”类小动作有参考价值。",
+  "borrow": [
+    "小帧数循环规格：5 帧、0.1 秒/帧",
+    "正向 + 反向循环两种循环模式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "multi",
+    "精灵表",
+    "小帧数",
+    "循环模式"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "insp-1109",
+  "title": "AgentCraft：Seedream 5.5 提示词写法，字节官方 15 条示例拆解",
+  "type": "multi",
+  "source": {
+    "url": "https://agentcraft.dev/zh/blog/seedream-5-5-prompts-2026-11/",
+    "platform": "AgentCraft",
+    "author": "",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "对字节 Seedream 5.5 官方 15 条示例提示词的测量拆解：中位数 417 字符、原字放引号、版面每块写数量、透明背景直接写明、多轮编辑像素级不动、原生 RGBA 输出。",
+  "why": "版面每块写数量的规则可直接用于精灵表与角色设定提示词，透明背景写法也有用。",
+  "borrow": ["Seedream 5.5 写提示词的六条规则", "版面每块写数量（角色设定板四变体/三视图/五表情/六配件）", "透明背景直接写明的写法"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录；只借提示词规则，不抄示例原文"
+  },
+  "tags": ["Seedream 5.5", "提示词", "角色设定板", "透明背景"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

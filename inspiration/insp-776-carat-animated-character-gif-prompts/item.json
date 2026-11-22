@@ -1,0 +1,39 @@
+{
+  "id": "insp-776",
+  "title": "Carat：动画角色 GIF 提示词库，带参数槽位模板",
+  "type": "multi",
+  "source": {
+    "url": "https://carat.im/en/prompt-gallery/animated-character-gif",
+    "platform": "Carat",
+    "author": "Carat",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "动画角色 GIF 提示词库页：Kawaii Chibi 贴纸表、狗狗表情包等多组带参数槽位的模板（服装、网格布局、文案可替换）。",
+  "why": "带可替换参数槽位的提示词模板写法与角色 GIF 要素清单可直接套用。",
+  "borrow": [
+    "带可替换参数槽位的提示词模板写法：服装、网格布局、文案可替换",
+    "角色 GIF 要素清单：锁定剪影、发型、配饰加单一可读动作"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "提示词库",
+    "模板",
+    "参数槽位"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

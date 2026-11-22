@@ -1,0 +1,39 @@
+{
+  "id": "insp-737",
+  "title": "Claude from Zero：11 支循环 GIF 讲 Claude 技巧",
+  "type": "multi",
+  "source": {
+    "url": "https://dunhammatt.com/blog/claude-from-zero-gif-series/",
+    "platform": "博客",
+    "author": "Matt Dunham",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "11 支 10 秒循环 GIF 讲 Claude 技巧，每支由网页动画时间线代码渲染转 GIF",
+  "why": "代码时间线渲染 GIF、可模板化量产系列教程 GIF 的做法",
+  "borrow": [
+    "代码时间线渲染 GIF 的做法",
+    "换三行文案即出下一支的模板化量产思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "代码动画",
+    "教程GIF",
+    "循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-430",
+  "title": "Engadget：现在可以用 ChatGPT 生成和编辑 GIF 了",
+  "type": "multi",
+  "source": {
+    "url": "https://www.engadget.com/2313818/how-to-generate-edit-gifs-with-chatgpt/",
+    "platform": "Engadget",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Engadget 的 Images 2.6 GIF 上手指南：文字或照片出 GIF、调速、逐帧编辑、保存参考图复用角色、API 的两种模型选型。",
+  "why": "主流科技媒体的实测向指南，步骤完整且点明了“上传 GIF 不能再编辑、只能重画”的关键限制。",
+  "borrow": [
+    "照片/草图转动图的入口写法",
+    "逐帧编辑与调速的操作点",
+    "存参考图复用角色的方法",
+    "GIF 能力的边界清单"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Engadget",
+    "ChatGPT",
+    "教程",
+    "实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

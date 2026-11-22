@@ -1,0 +1,42 @@
+{
+  "id": "insp-874",
+  "title": "Itscai：Images 2.6 一句话出 GIF 指南，官方提示词逐段拆解",
+  "type": "multi",
+  "source": {
+    "url": "https://www.itscai.com/chatgpt-images-2-6-gif-guide/",
+    "platform": "Itscai",
+    "author": "Itscai",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Images 2.6 实测指南：把官方 OpenArt 精灵表提示词逐段拆成目标、角色、动作序列、版式、一致性、循环、风格、排除项八部分，并给了一个短版六帧模板。",
+  "why": "分段拆解表把长提示词的每一句都对应到作用，短版模板可直接套用，是池里最细的官方提示词读法。",
+  "borrow": [
+    "官方提示词八段拆解表的分析方法",
+    "故事板式动作序列的写法",
+    "短版六帧提示词模板的结构",
+    "草图转动图的起手思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "拆解的是 OpenAI 官方示例提示词；我们只借结构，角色与文案换原创。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "提示词拆解",
+    "精灵表",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

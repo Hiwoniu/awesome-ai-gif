@@ -1,0 +1,41 @@
+{
+  "id": "insp-271",
+  "title": "DocsAura：动态邮件签名生成器横评",
+  "type": "signatures",
+  "source": {
+    "url": "https://www.docsaura.com/blog/best-animated-email-signature-generators",
+    "platform": "DocsAura",
+    "author": "DocsAura",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "2026-10-30 横评多款动态签名工具：从已有动画出发与从网站自动生成两条路线，并核对各家价格与免费额度。",
+  "why": "给出动态签名卡的关键规格（480×160 GIF、12 秒循环、<900KB），对 signatures 类型是直接的规格参考。",
+  "borrow": [
+    "480×160/12 秒/<900KB 的签名卡规格",
+    "首帧必须自成完整画面的原则",
+    "从网站自动生成三张卡片的流程",
+    "各客户端 GIF 播放差异"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "与池内 insp-021（同站签名产品页）为不同页面（横评文章 vs 产品页）"
+  },
+  "tags": [
+    "签名",
+    "横评",
+    "规格"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

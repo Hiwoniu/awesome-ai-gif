@@ -1,0 +1,42 @@
+{
+  "id": "insp-969",
+  "title": "Felo：蘑菇点头 GIF 模型案例",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://openapi.felo.ai/model-cases/gpt-image-2-6/mushroom-yes-nod-gif",
+    "platform": "Felo API",
+    "author": "ailingqu / Awesome AI GIF Prompts",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "红帽蘑菇点头、帽子弹跳、脸颊泛红的短循环贴纸 GIF 模型案例。",
+  "why": "点头单动作循环的提示词结构很干净，角色、动作、表情变化、循环指令四段式，适合做微信表情包的点头、赞同类。",
+  "borrow": [
+    "点头单动作的提示词结构：角色定调+动作+表情变化+循环收尾",
+    "帽子弹跳与脸红两个微动效叠加的写法",
+    "薄荷绿纯色底的贴纸底色取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "CC BY 4.0",
+    "note": "案例原图与提示词来自 ailingqu 的 Awesome AI GIF Prompts 项目，CC BY 4.0；只借结构，角色换原创。"
+  },
+  "tags": [
+    "Felo",
+    "GPT Image 2.6",
+    "微信表情包",
+    "点头",
+    "单动作循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-555",
+  "title": "Instagram：Rick Boers 四个斜杠命令做 GIF，/come alive gif 等极简工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfancmbzUAL",
+    "platform": "Instagram",
+    "author": "Rick Boers",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "教程：上传任意图片，输入斜杠命令即得动画——眼睛素描 /come alive gif 变眨眼、自拍 /birthday gif 加派对帽蛋糕彩带、金毛 /dance gif 站立跳舞、时代广场照片 /time warp 让车流人群穿越到未来。",
+  "why": "斜杠命令式提示词结构很新颖：一张图加一个命令的极简工作流；四个具体命令示例可以直接当提示词模板的变体参考。",
+  "borrow": [
+    "斜杠命令式提示词结构",
+    "一张图加一个命令的极简工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "斜杠命令",
+    "Instagram",
+    "极简工作流",
+    "提示词模板"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

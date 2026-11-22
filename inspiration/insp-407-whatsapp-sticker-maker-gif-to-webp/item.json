@@ -1,0 +1,43 @@
+{
+  "id": "insp-407",
+  "title": "WhatsApp Sticker Maker：浏览器内 GIF 转动态贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://imagetojpg.app/whatsapp-sticker-maker/",
+    "platform": "imagetojpg.app",
+    "author": "imagetojpg.app 团队",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "免费、无需注册、无水印的浏览器内工具：本地抠图加白边加文案带，GIF 可转 512×512、10 秒内、500KB 以下的循环动态 WebP，超限时先降画质再隔帧抽帧。",
+  "why": "给了 GIF 到聊天贴纸的完整规格链（尺寸、时长、体积、降级策略），可直接复用到微信表情包的压缩与验收环节。",
+  "borrow": [
+    "512×512/500KB/10 秒的贴纸规格",
+    "超限时先降画质、再隔帧的降级顺序",
+    "浏览器内抠图不上传照片",
+    "文案单独成带不遮主体"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "WhatsApp贴纸",
+    "GIF转WebP",
+    "抠图",
+    "规格",
+    "免费工具"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

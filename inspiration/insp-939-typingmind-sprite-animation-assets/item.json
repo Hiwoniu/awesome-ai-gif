@@ -1,0 +1,41 @@
+{
+  "id": "insp-939",
+  "title": "Sprite Animation Assets Skill：连续帧动画素材的规划与组装",
+  "type": "multi",
+  "source": {
+    "url": "https://www.typingmind.com/skills/dwdestiny-sprite-animation-assets",
+    "platform": "TypingMind",
+    "author": "DwDestiny",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Codex 用的连续帧动画 Skill：先定状态与帧规格、锚定一张标准底图、分状态生帧，再用脚本拼 atlas、导出每状态 GIF 预览并出验收报告。",
+  "why": "从单帧到成套动画素材的完整工作流：规格先行、身份锚定、脚本组装、报告验收四段。",
+  "borrow": [
+    "状态名+帧数+画布+格式的规格先行写法",
+    "一张 canonical base image 做身份锚点",
+    "compose_sprite_set.py 拼 atlas+每状态 GIF 预览+验收报告"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Skill",
+    "精灵表",
+    "连续帧",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

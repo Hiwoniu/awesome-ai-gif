@@ -1,0 +1,42 @@
+{
+  "id": "insp-606",
+  "title": "Facebook：自拍变循环贴纸/GIF 八页教程：免费档可用 + 逐帧编辑 + 调速",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid019jJPStEaoDdXv6qcv7Jy6HZ5bvpnyM4YQ9pQMwfVKShf4i2gcYV5Y87RmLD9t8Bl&id=61588618373399",
+    "platform": "Facebook",
+    "author": "Facebook 用户",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "八页图文教程：用 ChatGPT Images 2.6 把单张自拍变成循环动态贴纸/GIF；说明免费档也可用、可在 LINE 用、可选表情（大笑、震惊、崩溃等）、可逐帧编辑、可调播放速度；并提示动画约 2 秒、复杂动作人脸可能变形。",
+  "why": "规格信息最全的一条中文教程（免费档、逐帧编辑、调速、2 秒时长、变形风险），可直接当作功能清单与避坑清单。",
+  "borrow": [
+    "逐帧编辑加调速的功能点",
+    "约 2 秒时长的规格参考",
+    "复杂动作人脸变形的事前风险提示",
+    "表情菜单化（大笑/震惊/崩溃）的选法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；作者未具名。"
+  },
+  "tags": [
+    "规格清单",
+    "逐帧编辑",
+    "调速",
+    "避坑"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

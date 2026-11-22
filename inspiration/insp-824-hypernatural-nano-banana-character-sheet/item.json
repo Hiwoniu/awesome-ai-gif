@@ -1,0 +1,40 @@
+{
+  "id": "insp-824",
+  "title": "Hypernatural 角色转身表 Skill：Nano Banana Pro 2×2 四视图提示词",
+  "type": "multi",
+  "source": {
+    "url": "https://hypernatural.ai/skill/hn/nano-banana-character-sheet",
+    "platform": "Hypernatural",
+    "author": "Hypernatural",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Nano Banana Pro 的 2×2 角色转身表提示词语法：正面特写、侧面特写、全身正面、全身背面四格同一服装同一比例、无文字标签，附切格脚本与验收规则。",
+  "why": "四视图同一服装同一比例的转身表结构可直接平移到表情表的多视图一致性上。",
+  "borrow": [
+    "2×2 四视图转身表提示词语法：正面/侧面特写加全身正/背面，四格同一服装同一比例、无文字标签",
+    "切格脚本与“视图打架就拒收”的验收规则"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "角色转身表",
+    "Nano-Banana-Pro",
+    "四视图",
+    "Skill"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

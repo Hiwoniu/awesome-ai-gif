@@ -1,0 +1,40 @@
+{
+  "id": "insp-186",
+  "title": "PPT.note：ChatGPT GIF 制作教学（去背、图片转动画与 6 种案例）",
+  "type": "posters",
+  "source": {
+    "url": "https://pptnote.com/chatgpt-gif-tutorial/",
+    "platform": "PPT.note",
+    "author": "PPT.note",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "以简报场景切入的 GIF 教学，含摺纸鲸鱼等 6 个案例，其中一个是用原创角色“仙贝”做的 16 张透明贴图。",
+  "why": "16:9 横式循环 GIF 的规格写法（约 3 秒、深蓝背景、去背透明）与“一张 GIF 讲清一个变化”的简报式构图思路。",
+  "borrow": [
+    "16:9 横式循环 GIF 的规格写法",
+    "一张 GIF 讲清一个变化的简报式构图",
+    "去背透明贴图的制作思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "教程文章，引用注明出处",
+    "note": ""
+  },
+  "tags": [
+    "简报",
+    "横式GIF",
+    "去背"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

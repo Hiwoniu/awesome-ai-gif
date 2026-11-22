@@ -1,0 +1,32 @@
+{
+  "id": "insp-1125",
+  "title": "Ciyo：GIF 转精灵表——帧、时序与循环修复",
+  "type": "multi",
+  "source": {
+    "url": "https://ciyo.ai/blog/gif-to-sprite-sheet-ai",
+    "platform": "Ciyo 博客",
+    "author": "Ciyo",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "用 AI 把 GIF 转成精灵表的教程，覆盖帧、时序与循环修复。",
+  "why": "反向路线（GIF 到精灵表），与精灵表到 GIF 形成闭环，可借其帧时序处理经验。",
+  "borrow": ["GIF 拆帧方法", "帧时序还原", "循环修复"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实。"
+  },
+  "tags": ["精灵表", "GIF拆帧", "帧时序", "循环修复"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

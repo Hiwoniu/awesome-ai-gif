@@ -1,0 +1,41 @@
+{
+  "id": "insp-373",
+  "title": "Domestika：AI 动态海报课——海报到 GIF 全链路",
+  "type": "posters",
+  "source": {
+    "url": "https://www.domestika.org/en/courses/6433-create-motion-posters-with-ai-for-instagram-and-tiktok",
+    "platform": "Domestika",
+    "author": "Daniel Arranz",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "ChatGPT 加 Nano Banana Pro 做海报底图、VEO3 做动画、首尾帧对齐做 8 秒无缝循环、再导出 GIF 的完整动态海报课程。",
+  "why": "唯一覆盖“海报→动态海报→GIF 导出”全链路的教程，首尾帧对齐与多尺寸导出可直接借鉴。",
+  "borrow": [
+    "动态海报工作流",
+    "首尾帧对齐",
+    "无缝循环",
+    "GIF 导出"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "动态海报",
+    "课程",
+    "无缝循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "insp-1133",
+  "title": "AI Sprite Generator：一句话出 16 帧透明精灵表",
+  "type": "multi",
+  "source": {
+    "url": "https://gifgenerator.app/ai-sprite-generator",
+    "platform": "gifgenerator.app",
+    "author": "未署名",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "一句话描述角色动画，生成 16 帧带透明通道的像素风精灵表，可预览循环 GIF、下载 4×4 打包 PNG，直接导入 Unity/Godot。",
+  "why": "精灵表路线的完整闭环（生成→预览→打包→引擎导入），6 张实测卡片各有动作设计要点，对像素风表情包和游戏风 GIF 有直接参考价值。",
+  "borrow": [
+    "一句话动作描述结构：角色+动作+方向+16 帧循环+透明背景收尾",
+    "6 种循环动作的节拍拆分法：待机只做一个节奏、跳跃拆成蹲-起-落-恢复四拍",
+    "双交付：GIF 只做预览、PNG 精灵表才是交付物",
+    "透明底贯穿全流程，提示词里写死透明背景、避免后期抠图"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实；同站另有三页已在池内（discord-sticker-maker、pixel-art-gif、text-to-gif-ai），本页为独立的精灵表工具页，内容不重复"
+  },
+  "tags": ["精灵表", "像素风", "透明背景", "游戏动画", "GPT Image 2.6"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

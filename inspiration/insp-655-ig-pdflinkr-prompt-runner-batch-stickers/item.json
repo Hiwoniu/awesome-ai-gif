@@ -1,0 +1,41 @@
+{
+  "id": "insp-655",
+  "title": "IG @pdflinkrcreatoracademy：PromptRunner 批量跑贴纸提示词，不用逐条复制",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df52xLgDvhb/",
+    "platform": "Instagram",
+    "author": "@pdflinkrcreatoracademy",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "贴纸批量生产的自动化演示：先写好一套 12 只森林动物贴纸的风格指南与提示词 TXT，上传到 PromptRunner 网页应用批量跑，自动出图，省掉逐条复制提示词的手工操作。",
+  "why": "把“写提示词”与“跑提示词”拆开、批量跑的思路很实用，成套贴纸一次跑完再挑，适合我们批量出表情包的工作流。",
+  "borrow": [
+    "风格指南+提示词 TXT 的批量跑法",
+    "写提示词与跑提示词拆开的分工",
+    "成套一次跑完再挑的流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭社交搜索摘要收录，未打开原帖核实；演示用的 PromptRunner 为第三方工具，只借批量流程。"
+  },
+  "tags": [
+    "批量生产",
+    "自动化",
+    "贴纸",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

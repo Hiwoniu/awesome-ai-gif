@@ -1,0 +1,35 @@
+{
+  "id": "insp-953",
+  "title": "FB @imericfoo：4×4 真人表情贴纸网格，16 格一图出齐",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/imericfoo/posts/pfbid02fA9AMbuRtHWXTM23gWKjVjuavNQXZxrZ4ucuy7JFSZJ2Pu33Ln7oXwLUDNuPhofJl",
+    "platform": "Facebook",
+    "author": "@imericfoo",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "4×4 真人表情贴纸网格：OK、比心、眨眼等 16 种表情一图排齐。",
+  "why": "16 格一图出齐的排布法值得借：一次成图再切分，表情覆盖全；但主体是真人，只借排布不借人物。",
+  "borrow": [
+    "4×4 十六格表情网格的排布法",
+    "一图出齐再切分的批量思路"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "主体为真人出镜，只借网格排布与批量思路，绝不用真人形象重做；未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["Facebook", "表情网格", "真人", "批量"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

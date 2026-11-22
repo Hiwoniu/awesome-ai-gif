@@ -1,0 +1,42 @@
+{
+  "id": "insp-619",
+  "title": "X @op7418：大肥鱼动态 GIF 表情包四段式提示词模板",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://aisignalhub.me/items/sfabjr6lqliozzcdoi2m1syhc",
+    "platform": "X",
+    "author": "@op7418",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "一套四段式模板：角色保持一致、自动设计动作、自动配字、画面与输出，填主题即可出 2～3 秒循环 GIF（AI 信号站转载页）。",
+  "why": "模板结构通用，配字规则与压缩回弹动作设计法可直接复用。",
+  "borrow": [
+    "四段式模板结构",
+    "自动配字规则",
+    "压缩回弹动作设计",
+    "首尾衔接循环"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "原帖 x.com 未打开核实，内容以 AI 信号站转载页为准；模板针对对方的大肥鱼角色，只借四段式结构，不抄角色与原文。"
+  },
+  "tags": [
+    "提示词模板",
+    "X",
+    "配字",
+    "循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

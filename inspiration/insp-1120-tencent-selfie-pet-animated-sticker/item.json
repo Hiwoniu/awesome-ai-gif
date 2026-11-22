@@ -1,0 +1,32 @@
+{
+  "id": "insp-1120",
+  "title": "腾讯云：自拍/宠物照片转微信动画表情",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://cloud.tencent.com/developer/article/2739503?policyId=1004",
+    "platform": "腾讯云开发者社区",
+    "author": "",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "把自拍或宠物照片变成专属微信动画表情的教程。",
+  "why": "照片转动效表情的路线（真人/宠物照片输入），覆盖“参考图驱动”这一做法。",
+  "borrow": ["照片转动画表情的工作流", "宠物/自拍类参考图的提示词写法", "动效幅度与角色保真之间的取舍"],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实。涉及自拍真人照片转表情，只借工作流，不收录任何真人示例；宠物照片路线无此问题。"
+  },
+  "tags": ["参考图驱动", "照片转表情", "宠物", "教程"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

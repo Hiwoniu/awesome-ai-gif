@@ -1,0 +1,40 @@
+{
+  "id": "insp-178",
+  "title": "ClickySignature 2.0：带真正透明背景的动态 Logo 签名",
+  "type": "signatures",
+  "source": {
+    "url": "https://clickysignature.com/",
+    "platform": "ClickySignature",
+    "author": "ClickySignature 团队",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "带动态 Logo 的邮件签名生成器 2.0：上传 Logo，AI 生成带真正透明背景的动态 GIF，页面展示 19 个真实 Logo 动画案例。",
+  "why": "签名 GIF“透明底+Logo 入场动画”的做法；“先给 19 个真实案例、再套自己 Logo”的选款式流程。",
+  "borrow": [
+    "透明底+Logo 入场动画的签名做法",
+    "先给真实案例库、再套自己 Logo 的选款流程",
+    "无锯齿透明 GIF 的交付要求"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "商业工具，只借做法",
+    "note": "2026-10-31 上线 Product Hunt"
+  },
+  "tags": [
+    "邮件签名",
+    "Logo动画",
+    "透明背景"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-597",
+  "title": "Facebook：9 帧正装男士动态贴纸，九宫格图转可播放循环 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/1872998947001169/",
+    "platform": "Facebook",
+    "author": "Facebook 用户",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "9 帧动态贴纸演示：黑西装男士做眨眼带星光、瞪大眼、飞吻、抱红心、庆祝挥拳、乘火箭、吹派对喇叭等夸张正能量表情；配文说明把之前生成的九宫格图转成可播放循环 GIF 的方法。",
+  "why": "给出“静态九宫格 → 循环 GIF”的转化思路，正装 + 正能量表情组合适合职场社交场景。",
+  "borrow": [
+    "九宫格静态图转循环 GIF 的复用路径",
+    "每帧一个夸张表情加卡通图形点缀的构图",
+    "正能量职场表情选题（庆祝、加油、感谢）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；作者未具名。"
+  },
+  "tags": [
+    "九宫格转GIF",
+    "职场表情",
+    "9帧"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

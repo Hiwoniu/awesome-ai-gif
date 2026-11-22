@@ -1,0 +1,39 @@
+{
+  "id": "insp-304",
+  "title": "PrismPoster：Make an Animated Poster with AI（只动氛围层）",
+  "type": "posters",
+  "source": {
+    "url": "https://www.prismposter.com/blog/animated-poster-with-ai",
+    "platform": "PrismPoster",
+    "author": "PrismPoster",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "动态海报五步教程：先做静帧→只动一两个图层→文字后加保持静止→做循环→按平台导出，含成本核算。",
+  "why": "动态海报方向方法论最完整的一篇，核心原则是“只动氛围、标题不动”。",
+  "borrow": [
+    "海报层级不动、只动氛围层（雾/雨/光）的构图法",
+    "文字后置的排版规则"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "动态海报",
+    "教程",
+    "构图"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

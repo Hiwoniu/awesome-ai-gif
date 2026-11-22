@@ -1,0 +1,35 @@
+{
+  "id": "insp-854",
+  "title": "Threads @何愷原：像素角色行走动画四步工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@tapioka__1021/post/Df4vzTiD-00",
+    "platform": "Threads",
+    "author": "@何愷原",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "像素角色行走动画四步流程：站姿精灵图、Claude Code 生成姿势引导、AI 合成、导出 GIF。",
+  "why": "站姿图加姿势引导再合成的分步路线：先定一张站姿定稿、再用代码生成各姿势引导、最后合成，比一句话直出更可控。",
+  "borrow": [
+    "站姿定稿加姿势引导再合成的分步路线",
+    "Claude Code 生成姿势引导的脚本思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；该帖为转述引用帖"
+  },
+  "tags": ["像素风", "行走循环", "工作流", "Threads"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

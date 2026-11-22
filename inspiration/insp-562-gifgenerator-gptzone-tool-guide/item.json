@@ -1,0 +1,42 @@
+{
+  "id": "insp-562",
+  "title": "GifGenerator：文字/照片/草图/Logo 转可编辑循环 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://gptzone.net/aplicaciones-ia/en/gifgenerator",
+    "platform": "GPTZone",
+    "author": "GifGenerator",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "AI GIF 生成器：文字、照片、草图或 Logo 输入，生成循环 GIF 后直接进编辑器调速度、帧与 caption；文字模式一句话描述动作、模型逐帧画、末帧接回首帧；支持卡通、3D 黏土、像素风，2–16 帧；图片模式可用 @ 指向多张图；内置帧编辑器可删帧、调序、反向播放、逐帧点改。",
+  "why": "“生成后可编辑速度/帧/caption”的产品形态，以及 @ 多图指定角色的交互，值得借鉴。",
+  "borrow": [
+    "生成后编辑器：速度、帧、caption 三项可调的收尾流程",
+    "@图片指定角色的引用写法",
+    "草图转 GIF 与 Logo 转 GIF 两条细分路径",
+    "2–16 帧的帧数档位与末帧接回首帧的循环承诺"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "收录页转述，未打开官网核实；仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "文字转GIF",
+    "GIF编辑器",
+    "多图引用",
+    "Logo动画"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

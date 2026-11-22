@@ -1,0 +1,41 @@
+{
+  "id": "insp-885",
+  "title": "IG @ai.aashi：存参考图 @myface，一句话出循环 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df7FdAJAmpX/",
+    "platform": "Instagram",
+    "author": "ai.aashi",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "IG 教程：先把照片存成 @myface 参考图，之后直接说一句出循环 GIF，太快可调 0.5× 播放。",
+  "why": "存一次参考图、之后只点名的工作流最短，适合快速出同角色系列 GIF。",
+  "borrow": [
+    "上传照片存成 @名字参考图的流程",
+    "一句话循环 GIF 提示词：动作加保持面部一致加亮背景加无多余文字",
+    "播得太快先调 0.5× 再改图的验收顺序"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；教程用作者自己的照片做示例，我们只借流程，角色换原创。"
+  },
+  "tags": [
+    "Instagram",
+    "参考图",
+    "循环 GIF",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-405",
+  "title": "ChatGPT Stickers：官方贴纸包功能上线移动端",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.newspointapp.com/english/city/chatgpt-launches-ai-sticker-packs-for-mobile-users-in-india-custom-prompts-how-to-create-them-freepressjournal/articleshow/1450482081f4970388986edeb64219c79b8cae31",
+    "platform": "Free Press Journal（经 newspointapp 转载）",
+    "author": "OpenAI",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "ChatGPT 移动端上线 Stickers 功能：一段文字描述生成一包贴纸（最多 9 张），可选 18 种风格（含全息、动漫、3D），可混搭 emoji 再创作，下载或直发 iMessage/WhatsApp；附 3×3 表情示例提示词。",
+  "why": "这是官方把“贴纸包”做成产品功能的标杆：一次生成一包、风格库、再创作入口，值得对照微信表情包的上架形态。",
+  "borrow": [
+    "一包 9 张的成包规格",
+    "18 种风格库的选型设计",
+    "emoji 混搭再创作",
+    "3×3 九宫格表情提示词写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "新闻转载页，功能方为 OpenAI。"
+  },
+  "tags": [
+    "ChatGPT-Stickers",
+    "贴纸包",
+    "官方功能",
+    "风格库"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

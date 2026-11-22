@@ -1,0 +1,40 @@
+{
+  "id": "insp-541",
+  "title": "Instagram：Upasana 90 年代动漫风循环 GIF，系统提示词可见",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dfm-1bnzaul",
+    "platform": "Instagram",
+    "author": "Upasana",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "录屏展示一款 AI 应用：系统提示词要求按上传照片做 90 年代动漫风无缝循环 GIF（大眼睛、简化面部、扁平赛璐珞上色、柔和色彩），用户选 Love-struck 反应后生成。",
+  "why": "系统提示词结构可见：风格锁定加无缝循环要求两项齐全；选反应表情再生成的产品交互流程也可以借鉴。",
+  "borrow": [
+    "90 年代动漫风的系统提示词结构",
+    "选反应表情再生成的交互流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "动漫风",
+    "系统提示词",
+    "反应GIF",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-591",
+  "title": "Instagram：@aicontentuniversity，NES 像素风提示词：有限调色板 + 硬边 + 平涂",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DZBryaMR4s8/",
+    "platform": "Instagram",
+    "author": "@aicontentuniversity",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "像素风提示词短教程：用 ChatGPT 把照片转复古像素精灵，提示词写明 NES 风格有限调色板、硬边、无模糊、平涂、真实复古游戏精灵质感；示例有自拍像素化、路边行人、汉堡托盘像素化。",
+  "why": "给出像素风的关键风格词（有限调色板/硬边/平涂），是控制像素 GIF 质感的最小可用提示词结构。",
+  "borrow": [
+    "NES 有限调色板加硬边加无模糊加平涂的风格词组合",
+    "照片转像素精灵的通用路径",
+    "多示例验证风格词跨主体稳定"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "像素风",
+    "NES",
+    "风格词",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

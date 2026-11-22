@@ -1,0 +1,43 @@
+{
+  "id": "insp-1064",
+  "title": "Felo：中文草书动态签名九宫格 GIF 案例",
+  "type": "signatures",
+  "source": {
+    "url": "https://openapi.felo.ai/model-cases/gpt-image-2-6/chinese-cursive-signature-grid-gif",
+    "platform": "Felo API Platform",
+    "author": "Leviwoyun（卧云）",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Felo 收录的 GPT Image 2.6 模型案例：把中文草书签名做成九宫格动态 GIF，支持两字、三字签名，附带作者的 Skill 链接。",
+  "why": "动态签名是 signatures 类型的新玩法实例，九宫格呈现方式与精灵图逻辑相通，可借来做原创签名动效。",
+  "borrow": [
+    "中文草书签名动态化的九宫格呈现",
+    "两字／三字签名的适配思路",
+    "动态签名 Skill 的工作流入口",
+    "深色底＋彩色签名的配色呈现"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "页面为 JS 加载，仅看到标题与元描述，未看到正文与提示词细节。签名若用他人姓名有真人／冒用风险，只借九宫格动态手法，不用他人签名。"
+  },
+  "tags": [
+    "动态签名",
+    "草书",
+    "九宫格",
+    "GPT Image 2.6",
+    "Felo"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

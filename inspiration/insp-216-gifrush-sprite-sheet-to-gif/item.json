@@ -1,0 +1,41 @@
+{
+  "id": "insp-216",
+  "title": "GifRush：精灵表转 GIF 工具与参数",
+  "type": "multi",
+  "source": {
+    "url": "https://www.gifrush.com/sprite-sheet-to-gif",
+    "platform": "GifRush",
+    "author": "未署名",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "把精灵表按网格切帧转 GIF 的在线工具说明页，含网格、帧率、缩放的完整参数解释。",
+  "why": "参数规范很实用：像素画 8–12fps、整数倍放大、透明像素处理、网格对齐检查，可直接作为精灵表转 GIF 的验收标准。",
+  "borrow": [
+    "按列行切帧 + 网格叠加预览的交互",
+    "像素画 8–12fps 的帧率建议",
+    "整数倍放大保锐度",
+    "GIF 透明按像素开关、适合硬边缘像素画的说明"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "精灵表",
+    "工具",
+    "参数"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

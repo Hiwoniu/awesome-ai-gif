@@ -1,0 +1,39 @@
+{
+  "id": "insp-833",
+  "title": "X @pigeon__s：背景沸腾失败模式，纯色/透明背景加锁定句",
+  "type": "multi",
+  "source": {
+    "url": "https://x.com/pigeon__s/status/2118129644037939511",
+    "platform": "X",
+    "author": "@pigeon__s",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "背景沸腾失败模式（云、羽毛每帧都变），用纯色或透明背景加“每帧背景不变”锁定句。",
+  "why": "背景锁定句的写法可直接抄进提示词模板。",
+  "borrow": [
+    "背景沸腾的失败模式：云、羽毛每帧都变",
+    "纯色/透明背景加每帧背景不变锁定句的写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "X",
+    "背景锁定",
+    "失败模式"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

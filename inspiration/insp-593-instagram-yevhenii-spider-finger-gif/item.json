@@ -1,0 +1,40 @@
+{
+  "id": "insp-593",
+  "title": "Instagram：@yevhenii.ai.studio，蜘蛛爬手指：一句话指定具体动作的动图提示词",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfdSgOnMJ1o/",
+    "platform": "Instagram",
+    "author": "@yevhenii.ai.studio",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "照片转 GIF 教程：上传一张男子砖墙前竖食指、指尖放小蜘蛛的照片，提示词写“让蜘蛛顺着手指爬下、爬过脸”，指定 GIF 输出；示例还包括给自拍加生日帽蛋糕彩带等。",
+  "why": "“指定一个具体小动作”是比“让它动起来”更可控的提示词写法，适合做带小惊喜的动态表情。",
+  "borrow": [
+    "让 XX 做具体小动作的动效提示词写法",
+    "斜杠式简短指令可作快捷方式",
+    "同一方法换主体（蜘蛛/生日派对）批量出款"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "具体动作",
+    "提示词写法",
+    "惊喜动效"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

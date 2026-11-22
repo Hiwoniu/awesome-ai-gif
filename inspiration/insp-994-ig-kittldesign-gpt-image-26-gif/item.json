@@ -1,0 +1,42 @@
+{
+  "id": "insp-994",
+  "title": "IG @kittldesign：Kittl 的 GPT Image 2.6 GIF 功能，品牌图转动图",
+  "type": "posters",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfiKpNNgU2g/",
+    "platform": "Instagram",
+    "author": "Kittl",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Kittl 接入 GPT Image 2.6 GIF 功能的演示：选一张品牌图、写一句动作提示、设 3 秒时长，沙漏倒置循环可直接投 IG、官网首页和邮件。",
+  "why": "品牌图转动态海报的完整投放链路：同一张 GIF 在社媒、官网、邮件三处复用，是动态海报可直接借的交付形态。",
+  "borrow": [
+    "品牌图转动图的极简输入：一张品牌图+一句动作提示+3 秒时长",
+    "沙漏倒置循环的动作写法：沙流下再翻转回位",
+    "一张 GIF 三处复用的投放组织：IG 帖子、官网首页、邮件上新通知"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；为官方账号的功能演示，无 IP 风险。"
+  },
+  "tags": [
+    "Instagram",
+    "Kittl",
+    "品牌",
+    "动态海报",
+    "GPT Image 2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

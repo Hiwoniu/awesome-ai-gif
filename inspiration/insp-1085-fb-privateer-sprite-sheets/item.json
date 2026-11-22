@@ -1,0 +1,40 @@
+{
+  "id": "insp-1085",
+  "title": "FB Privateer：文生像素角色 + 动作描述出 8 帧行走循环精灵表",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/reel/1081265618035529/",
+    "platform": "Facebook",
+    "author": "Privateer",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-10-09 帖子：文字描述生成像素风狐狸骑士 → 输入“稳步行走”动作 → 出 3 个版本的 8 帧行走循环，逐帧抠像打包成表（privateer.pro）。",
+  "why": "文生角色+动作描述出精灵表的工具链路。",
+  "borrow": [
+    "文生像素角色+动作描述出 8 帧行走循环",
+    "工具选型参照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Facebook",
+    "精灵表",
+    "像素风",
+    "行走循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

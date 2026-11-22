@@ -1,0 +1,39 @@
+{
+  "id": "insp-930",
+  "title": "Facebook：remaker.ai 免费 AI 贴纸生成器演示",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/1144011011329328/",
+    "platform": "Facebook",
+    "author": "remaker.ai",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "录屏演示 remaker.ai 的免费 AI 贴纸生成器（11 月 20 日最新）。",
+  "why": "免费贴纸工具的对照路线，11 月 20 日最新演示。",
+  "borrow": [
+    "免费贴纸工具入口",
+    "录屏演示结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "免费工具",
+    "贴纸生成器",
+    "Facebook"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

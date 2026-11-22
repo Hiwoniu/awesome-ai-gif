@@ -1,0 +1,40 @@
+{
+  "id": "insp-391",
+  "title": "schreiergroup：Instagram Cutouts 贴纸实测——把自己变成 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://schreiergroup.com/hype-audit/instagram-cutout-video-sticker-turn-yourself-into-gif-real/",
+    "platform": "schreiergroup",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Instagram Cutouts 视频贴纸实测：录一段指着镜头的视频，变成可贴的 GIF 贴纸，附真伪核查。",
+  "why": "真人出镜变 GIF 贴纸的手机端路线，1–15 秒规格具体。",
+  "borrow": [
+    "手机端 GIF 贴纸路线",
+    "Cutouts 工作流",
+    "实测核查写法"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "以作者本人出镜为例，只借手机端 Cutouts 工作流，不用真人出镜做案例。"
+  },
+  "tags": [
+    "Instagram",
+    "手机端",
+    "实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

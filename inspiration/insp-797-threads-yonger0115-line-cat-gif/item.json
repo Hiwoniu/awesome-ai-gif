@@ -1,0 +1,40 @@
+{
+  "id": "insp-797",
+  "title": "Threads @yonger0115：中文提示词实测黑白线条猫挥手 16 帧透明 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@yonger0115/post/DfWglawEzkM",
+    "platform": "Threads",
+    "author": "@yonger0115",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "中文提示词实测：黑白线条猫挥手，16 帧透明循环 GIF，Plus 用户无需升级 Pro。",
+  "why": "16 帧透明循环的中文提示词实测可直接对照。",
+  "borrow": [
+    "16 帧透明循环的中文提示词实测",
+    "Plus 档位可做 16 帧的档位信息"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Threads",
+    "中文提示词",
+    "16帧",
+    "线条猫"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "insp-356",
+  "title": "Civitai：低显存 AnimateDiff 简明搭建指南",
+  "type": "multi",
+  "source": {
+    "url": "https://civitai.com/articles/3518/simple-guide-for-creating-video-with-animatediff",
+    "platform": "Civitai",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "面向低显存显卡（RTX 3060）的 AnimateDiff 简明搭建指南，含 --lowvram 参数、运动模块选择与 16 帧/8fps 的设置。",
+  "why": "低显存实测数据具体（7.7GB 显存占用、512×768 出图约 1 小时），对本地跑通门槛有真实参考。",
+  "borrow": [
+    "低显存启动参数组合",
+    "16 帧 8fps 的入门帧率"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Civitai",
+    "AnimateDiff",
+    "低显存"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "insp-395",
+  "title": "Pixelbolt：给 AI agent 的像素画 Skill，可导出 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://npm.io/package/pixelbolt",
+    "platform": "npm / GitHub",
+    "author": "skulitom",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "给 AI agent 用的像素画 Skill，用 JSON recipe 描述像素画与动画，可导出 PNG 精灵表、动画 PNG、GIF 与逐帧图。",
+  "why": "“配方即动画”的思路让 agent 能逐像素改帧、自查自改，像素风表情包的生成—校验闭环可直接借鉴。",
+  "borrow": [
+    "JSON recipe 把动画写成可编辑文本",
+    "agent 读回像素自查自改的闭环",
+    "本地 MCP/CLI、零依赖、无需 API key 的接入形态",
+    "单帧尺寸与总像素上限的规格写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "像素画",
+    "精灵表",
+    "Agent-Skill",
+    "MCP",
+    "开源"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

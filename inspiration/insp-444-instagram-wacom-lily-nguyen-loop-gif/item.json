@@ -1,0 +1,40 @@
+{
+  "id": "insp-444",
+  "title": "Instagram：Wacom 跟拍动态设计师 Lily Nguyen 做循环 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/p/Dd37IXNG9eM/",
+    "platform": "Instagram",
+    "author": "Wacom / Lily Nguyen",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Wacom 的八页图文教程，跟随动态设计师 Lily Nguyen 拆解做一枚循环 GIF 的过程。",
+  "why": "专业设计师视角的 GIF 制作拆解，比纯 AI 教程更讲设计判断。",
+  "borrow": [
+    "设计师视角的过程拆解",
+    "图文轮播教程形式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "动态设计",
+    "循环GIF",
+    "设计师教程",
+    "Wacom"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

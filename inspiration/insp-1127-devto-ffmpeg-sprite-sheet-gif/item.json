@@ -1,0 +1,32 @@
+{
+  "id": "insp-1127",
+  "title": "DEV：用 ffmpeg 从精灵表合成干净动画 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://dev.to/codesugar_lin_037a57b06a4/build-clean-animated-gifs-from-sprite-sheets-with-ffmpeg-5eeh",
+    "platform": "DEV Community",
+    "author": "codesugar_lin",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "用 ffmpeg 从精灵表合成干净动画 GIF 的教程。",
+  "why": "纯本地命令行合成路线，含调色板处理等可直接复用的 ffmpeg 命令。",
+  "borrow": ["ffmpeg 精灵表切帧命令", "调色板优化", "本地合成的参数选择"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实。"
+  },
+  "tags": ["精灵表", "ffmpeg", "本地合成", "调色板", "教程"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-1174",
+  "title": "FB Simple AI：Sheet 模式逐帧批注做 GIF 教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/thesimpleai/posts/pfbid0rxtUGcS6qPrGGZNLpzRdPHk67c1AngjzAFRYteJdMWQUx2txqYg2iMVVPA2Tcg79l",
+    "platform": "Facebook",
+    "author": "Simple AI",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "分步教程：调速 1x、Edit 改图、Sheet 模式逐帧批注、照片/草图起手。",
+  "why": "Sheet 模式逐帧批注的工作流细节是新东西。",
+  "borrow": [
+    "Sheet 模式逐帧批注的工作流",
+    "调速 1x 的参数提法",
+    "照片/草图两种起手方式"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；涉及上传照片，须用原创角色、不用真人照片。"
+  },
+  "tags": [
+    "Facebook",
+    "逐帧批注",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-704",
+  "title": "IG @buildwithvatsala：一张图出 6 个动画，逐帧搭长版再循环",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df49yelOY-_/",
+    "platform": "Instagram",
+    "author": "@buildwithvatsala",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "一张品牌小机器人图出 6 个动画的实测：先让机器人从笔记本里探出来成 5 秒 GIF，再加心形眼、闪光、发光天线逐个变体，最后拼成 30 秒循环。",
+  "why": "一张图多变体的迭代思路很实用；逐帧搭长版再循环成视频的延长做法可借来做长循环。",
+  "borrow": [
+    "一张图出 6 个动画的迭代思路：先出一个 5 秒 GIF，再逐个加元素变体",
+    "逐帧搭长版再循环成视频的延长做法",
+    "从一个小动作开始的创作建议"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "一张图多动画",
+    "迭代",
+    "品牌吉祥物"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

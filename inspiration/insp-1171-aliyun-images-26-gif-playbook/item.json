@@ -1,0 +1,41 @@
+{
+  "id": "insp-1171",
+  "title": "阿里云：Images 2.6 三类 GIF 实战与四段式提示词",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://developer.aliyun.com/article/1780366",
+    "platform": "阿里云开发者社区",
+    "author": "JeecgBoot AI专题研究",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "Images 2.6 三类 GIF 实战：游戏 sprite、美食产品展示、表情包玩梗，附四段式提示词结构。",
+  "why": "三类玩法各有提示词写法与适用边界，另有帧数、时长、体积规格与肖像权提醒。",
+  "borrow": [
+    "“主体与保持+动作分解+约束条件+循环要求”四段式提示词结构",
+    "游戏 sprite“原地动作、位移交给引擎”的约束写法",
+    "2–3 秒展示动图的体积控制经验"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "原文已打开核实，2026-11-07 发布；表情包玩梗一节涉及他人照片，需征得同意、只在熟人小范围用。"
+  },
+  "tags": [
+    "Images 2.6",
+    "提示词结构",
+    "游戏精灵表",
+    "表情包"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

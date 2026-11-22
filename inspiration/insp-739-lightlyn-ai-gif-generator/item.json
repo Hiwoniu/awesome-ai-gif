@@ -1,0 +1,39 @@
+{
+  "id": "insp-739",
+  "title": "Lightlyn AI GIF Generator：6 个一句话循环一次成功",
+  "type": "multi",
+  "source": {
+    "url": "https://image.lightlyn.com/ai-gif-generator",
+    "platform": "Lightlyn",
+    "author": "Lightlyn",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 出 GIF 实测：6 个一句话循环一次成功，附 9 帧×0.2s 规格与透明底说明",
+  "why": "单句提示词分六类循环的写法，可直接作分类提示词库的参考",
+  "borrow": [
+    "单句提示词+六类循环（表情/加载/图标/像素/贴纸/logo）的分类提示词写法",
+    "9 帧×0.2 秒的规格"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "工具",
+    "GPT Image 2.6",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

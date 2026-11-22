@@ -1,0 +1,42 @@
+{
+  "id": "insp-660",
+  "title": "PikaLabsAI：Kling 首尾帧延长视频与循环做法",
+  "type": "posters",
+  "source": {
+    "url": "https://pikalabsai.org/how-to-extend-video-in-kling-ai/",
+    "platform": "pikalabsai.org",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "2026-01-18 的实测教程，用 Kling 2.1 首尾帧功能做长视频与可循环氛围视频，含同帧首尾与双遍回放两种循环做法。",
+  "why": "循环做法具体：首尾用同一帧，或保存末帧反向生成回程再拼接；并记录了失败情况（静态帧、转场不自然）与规避方法。",
+  "borrow": [
+    "同帧首尾做无缝循环",
+    "双遍法做往返循环",
+    "链式拼接长循环",
+    "按帧写 Kling 提示词的分工"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "posters",
+    "Kling",
+    "loop",
+    "first-last-frame"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

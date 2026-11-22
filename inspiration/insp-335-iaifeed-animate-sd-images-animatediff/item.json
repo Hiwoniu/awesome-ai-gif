@@ -1,0 +1,38 @@
+{
+  "id": "insp-335",
+  "title": "IAIFeed：AnimateDiff 入门六步教程",
+  "type": "multi",
+  "source": {
+    "url": "https://www.iaifeed.com/how-to-animate-stable-diffusion-images-with-animatediff",
+    "platform": "iaifeed.com",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "AnimateDiff 入门六步教程（装环境、加载模型与运动模块、给提示词或种子图、设参数、导出 GIF）。",
+  "why": "步骤短而全，适合作为本地动图管线的最小可用版本对照。",
+  "borrow": [
+    "文字转动画与图片转动画两条路线的分工",
+    "循环 GIF 的导出设置"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "AnimateDiff",
+    "入门教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

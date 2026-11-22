@@ -1,0 +1,41 @@
+{
+  "id": "insp-480",
+  "title": "RunComfy：ComfyUI Loopchain 循环节点扩展，让一串节点重复执行",
+  "type": "multi",
+  "source": {
+    "url": "https://www.runcomfy.com/comfyui-nodes/ComfyUI-Loopchain",
+    "platform": "RunComfy",
+    "author": "RunComfy",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "给 ComfyUI 加循环机制的节点包：Loop 节点让一串节点重复执行，配空潜空间循环与图片/潜空间存取节点做动画循环。",
+  "why": "把重复帧任务自动化：循环链的思路可对应多帧表情包与循环海报的批量帧工作流。",
+  "borrow": [
+    "循环链自动跑重复帧任务的思路",
+    "空潜空间循环节点的用法",
+    "帧存取节点的组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实节点细节。"
+  },
+  "tags": [
+    "ComfyUI",
+    "循环节点",
+    "批量帧",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

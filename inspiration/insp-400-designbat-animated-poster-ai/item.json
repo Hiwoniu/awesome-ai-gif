@@ -1,0 +1,42 @@
+{
+  "id": "insp-400",
+  "title": "DesignBat：在线动态海报，AI 选动画、可导出 GIF",
+  "type": "posters",
+  "source": {
+    "url": "https://officebats.com/blog/make-an-animated-poster-online",
+    "platform": "OfficeBats 博客",
+    "author": "OfficeBats",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 DesignBat 时间线加 46 个动效预设做循环动态海报的教程：282 个动态模板起手，可一键让 AI 自动选动画，导出 MP4、GIF 或动态 WebP。",
+  "why": "“预设落成可编辑关键帧、AI 只做选择”的结构，比纯生成更适合动态海报的精修流程。",
+  "borrow": [
+    "标题不动、只动氛围层的动效分配",
+    "循环预设选型（浮动、呼吸、旋转等）",
+    "最后一秒接缝检查法",
+    "GIF/动态 WebP/MP4 的导出取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "动态海报",
+    "教程",
+    "循环",
+    "AI动画"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

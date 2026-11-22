@@ -1,0 +1,43 @@
+{
+  "id": "insp-973",
+  "title": "RunThePrompts：13 个 ChatGPT GIF 创意提示词实测",
+  "type": "multi",
+  "source": {
+    "url": "https://runtheprompts.com/prompts/chatgpt/create-gifs-in-chatgpt-images-2-6/",
+    "platform": "RunThePrompts",
+    "author": "RunThePrompts",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "13 个 ChatGPT Images 2.6 GIF 实测例子，每例有参考图、成品动图与提示词，覆盖宠物渐变、照片变手绘、Logo 变 GIF、千年变迁等。",
+  "why": "例子全是“一张图、一句话出 GIF”的短平快打法，附带防穿帮与反向延长循环的追问技巧，可直接复用到照片转 GIF 的工作流。",
+  "borrow": [
+    "照片转动图的提示词结构：点名不动的元素防穿帮",
+    "反向延长循环的追问技巧（墨水滴落再收回）",
+    "一句话出 GIF 的短提示词打法",
+    "从静态设计出 GIF 再延长的两步走法"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "个别例子涉及真人照片、影视角色与品牌 Logo，只借提示词结构与工作流，不借角色与品牌；其余例子用原创宠物与设计。"
+  },
+  "tags": [
+    "ChatGPT",
+    "GPT Image 2.6",
+    "提示词合集",
+    "照片转GIF",
+    "实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

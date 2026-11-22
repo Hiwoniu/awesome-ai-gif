@@ -1,0 +1,32 @@
+{
+  "id": "insp-1096",
+  "title": "God of Prompt：花卉快递超大字动态海报提示词",
+  "type": "posters",
+  "source": {
+    "url": "https://godofprompt.ai/prompt-library/flower-courier-megatype-motion-poster",
+    "platform": "God of Prompt 提示词库",
+    "author": "",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "一条完整的动态海报提示词，用 Coral Window Megatype 视觉系统规范写成，含主体场景、构图、超大排版、配色、技术参数和排除清单，主副文案用变量占位。",
+  "why": "视觉系统＋变量占位符的动态海报写法很规范，海报文案固定、只动装饰元素的思路可直接复用。",
+  "borrow": ["视觉系统＋变量占位符的动态海报提示词写法", "主副文案用变量替换、其余固定的模板结构", "海报文案固定、只动装饰元素的动效思路"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录；只借提示词结构，不抄提示词原文"
+  },
+  "tags": ["动态海报", "提示词", "超大排版", "模板"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-285",
+  "title": "YouMind：一梗一套微信表情包 Skill",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://youmind.com/zh-HK/skills/wechat-meme-sticker-generator-CMgfGwckf6E6Jb",
+    "platform": "YouMind",
+    "author": "YouMind",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "YouMind 技能市场 Skill：先定角色母图→2 张样图校准→批量 8–16 张白底方形 GIF，附 20 条提示词库与 6 张实测样张（含失败对照）。",
+  "why": "“一梗一套”的选题法很贴合中文网感表情包生产，且有两张样图校准再批量的品控。",
+  "borrow": [
+    "一梗一套的选题法",
+    "两张样图校准再批量的品控",
+    "5 种画风词库"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "与池内已收的 YouMind 上架 Skill（wechat-sticker-publishing-generator）为同一平台的不同 Skill，只收本条的“一梗一套”做法。"
+  },
+  "tags": [
+    "Skill",
+    "微信表情包",
+    "一梗一套"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-1094",
+  "title": "X @lyraxana：Gemini 正在开发 GIF 功能的爆料截图",
+  "type": "multi",
+  "source": {
+    "url": "https://agihunt.info/en/p/1a1e1e734f21afb4ee0c484063d",
+    "platform": "X（经 AGI Hunt 聚合页）",
+    "author": "lyraxana",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Gemini GIF 功能上线前的爆料截图，界面含 GIF 按钮与 Animate image 选项，爆料源为 @Liammagnier7。",
+  "why": "与 11 月 20 日 Gemini 官宣形成爆料到上线的对照，记录功能上线前的界面形态。",
+  "borrow": [
+    "功能上线前的爆料形态与截图取证方式",
+    "GIF 按钮与 Animate image 入口的界面位置参考"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；x.com 直达链接暂缺，待已登录 Chrome 补找；来源为 AGI Hunt 聚合页"
+  },
+  "tags": [
+    "X",
+    "Gemini",
+    "爆料",
+    "GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

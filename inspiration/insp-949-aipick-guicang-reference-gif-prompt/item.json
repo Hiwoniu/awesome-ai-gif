@@ -1,0 +1,35 @@
+{
+  "id": "insp-949",
+  "title": "歸藏：用参考图生成动态 GIF 表情包的完整填空式提示词（X 转述）",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "http://aipick.news/items/pzfq2q16oa52423zl12c8ydul",
+    "platform": "AIPick",
+    "author": "歸藏",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "参考图加主题填空式完整提示词：角色一致、自动设计动作、自动配 2–8 字中文台词，原文为 X @歸藏 11 月 5 日帖的转述。",
+  "why": "填空式模板把角色保持、动作设计、配字拆成四段，换角色复用很方便；字幕排版规范写得具体。",
+  "borrow": [
+    "填空式提示词模板结构：角色保持、自动设计动作、自动配字、画面与输出四段",
+    "顶部粗圆体深蓝字白描边的字幕规范"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "此为 X 原帖的转述页，原帖直达链接未找到；未打开原帖核实，仅凭搜索摘要收录，只借模板结构不抄提示词原文"
+  },
+  "tags": ["X 转述", "填空式提示词", "参考图", "表情包"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

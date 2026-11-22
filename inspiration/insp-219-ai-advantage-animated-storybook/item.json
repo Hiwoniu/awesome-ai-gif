@@ -1,0 +1,41 @@
+{
+  "id": "insp-219",
+  "title": "The AI Advantage：用 GPT Image 2.6 做动画绘本",
+  "type": "storybooks",
+  "source": {
+    "url": "https://www.skool.com/the-ai-advantage/how-to-create-an-animated-storybook-with-gpt-image-26-the-little-bears-special-invitation?p=9d2e1ca9",
+    "platform": "Skool 社区",
+    "author": "The AI Advantage",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 GPT Image 2.6 做六场景动画绘本《小熊的特别邀请》的全流程：写故事 → 设计一致角色 → 生成书页 → 转 GIF 动画 → 合成视频。",
+  "why": "明确把“每页只做轻微动作 + 用 GIF API 输出循环片段，再拼成视频”作为绘本动画路线，与纯视频生成路线形成对照。",
+  "borrow": [
+    "六场景分镜表（场景/事件/视觉方向）",
+    "角色一致性先定稿再出图的顺序",
+    "每段 GIF 只做微动作（耳朵抖动、月光流动）的克制原则",
+    "故事→插画→GIF→配音→成片的五段工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "绘本主角为小熊原创形象，仅借流程"
+  },
+  "tags": [
+    "绘本",
+    "GPT-Image-2.6",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

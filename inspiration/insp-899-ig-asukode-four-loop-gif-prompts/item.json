@@ -1,0 +1,39 @@
+{
+  "id": "insp-899",
+  "title": "Instagram @asukode.ai：四条可复制粘贴的循环 GIF 提示词轮播",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/p/DfWktd8lrwV/",
+    "platform": "Instagram",
+    "author": "@asukode.ai",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "7 页轮播，给出 4 条创建循环 GIF 的复制即用提示词，外加一条让循环更顺滑的专业技巧。",
+  "why": "提示词合集型内容，一条顶多条，适合拆成多个 Skill 示例。",
+  "borrow": [
+    "4 条循环 GIF 提示词",
+    "无缝循环技巧",
+    "轮播式提示词卡片结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "提示词合集",
+    "无缝循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-807",
+  "title": "Facebook Yan Shi Lun：Flare 提速 46% 对比加蓝鸟爱心墨镜 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/yan.shi.lun.933337/posts/pfbid02gEVWfrhq2t4N3y8rrhfa6aUku9vftqQ15UqfLj3L98uqh5kXztDMVa6nafYMukNcl",
+    "platform": "Facebook",
+    "author": "Yan Shi Lun",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "6 页轮播：Flare 提速 46% 对比加蓝鸟爱心墨镜 GIF。",
+  "why": "速度对比数据加 GIF 示例可作模型选型对照。",
+  "borrow": [
+    "Flare 提速 46% 的速度对比数据",
+    "蓝鸟爱心墨镜 GIF 的示例"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Facebook",
+    "Flare",
+    "速度对比",
+    "轮播"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

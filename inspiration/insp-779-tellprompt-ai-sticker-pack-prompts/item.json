@@ -1,0 +1,41 @@
+{
+  "id": "insp-779",
+  "title": "TellPrompt：7 套防角色漂移的贴纸包提示词",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.tellprompt.com/guides/ai-sticker-pack-prompts",
+    "platform": "TellPrompt",
+    "author": "TellPrompt",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "7 套防角色漂移的贴纸包提示词：先做角色锁定卡（三视图加面部特写），再出 3×3 九宫格表情表、8 动作反应包、加文案不改角色、透明底单张、扩包四张。",
+  "why": "角色锁定卡到表情表到动作包到扩包的四步成包法与九宫格情绪分配表可直接套用。",
+  "borrow": [
+    "角色锁定卡到表情表到动作包到扩包的四步成包法",
+    "九宫格情绪分配表：三视图加面部特写先锁角色",
+    "加文案不改角色的写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "提示词",
+    "角色锁定",
+    "九宫格",
+    "成包"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

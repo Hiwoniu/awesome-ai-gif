@@ -1,0 +1,40 @@
+{
+  "id": "insp-458",
+  "title": "YooAI：ChatGPT Images 2.6 的 21 个可直接变现/落地的用法",
+  "type": "multi",
+  "source": {
+    "url": "https://yooai.site/en/articles/chatgpt-images-2-6-playbook",
+    "platform": "YooAI",
+    "author": "YooAI",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "21 个 Images 2.6 用法的合集，含循环 GIF、多平台动态贴纸包、社交动态插画、四格动态短故事等，每类附通用提示词模板。",
+  "why": "情绪反转（先一种情绪动作、再转折到另一种）的 GIF 叙事结构值得借；按发布平台组织用例的分类法可作参考。",
+  "borrow": [
+    "情绪反转的 GIF 叙事结构",
+    "按发布平台分类的用例组织",
+    "通用提示词模板的写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "合集类文章，模板为通用写法，未逐条实测；仅凭搜索摘要收录，未打开原文核实；只借结构"
+  },
+  "tags": [
+    "合集",
+    "提示词模板",
+    "用法"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

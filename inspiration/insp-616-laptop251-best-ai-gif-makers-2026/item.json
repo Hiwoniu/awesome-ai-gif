@@ -1,0 +1,40 @@
+{
+  "id": "insp-616",
+  "title": "Laptop251：2026 年 23 款 AI GIF 工具横评",
+  "type": "multi",
+  "source": {
+    "url": "https://Laptop251.com/best/ai-gif-makers/",
+    "platform": "Laptop251",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "23 款 AI GIF 工具的横评榜单：含输入类型、价格、免费额度与导出规格对照表。",
+  "why": "一次性摸清 2026 年英文 AI GIF 工具全景，适合做工具选型参考。",
+  "borrow": [
+    "23 款工具全景",
+    "价格与免费额度对照",
+    "导出规格表"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "榜单为第三方横评，价格与额度以各工具官网为准；只借选型对照。"
+  },
+  "tags": [
+    "工具横评",
+    "选型",
+    "2026"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

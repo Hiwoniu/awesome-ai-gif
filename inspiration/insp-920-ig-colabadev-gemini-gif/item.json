@@ -1,0 +1,39 @@
+{
+  "id": "insp-920",
+  "title": "Instagram @colabadev：Gemini 文生/图生 GIF 新能力演示",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df-cjBRDhxX/",
+    "platform": "Instagram",
+    "author": "@colabadev",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Gemini 新 GIF 能力演示：文字提示词或自拍照片直接出 GIF（11 月 20 日最新）。",
+  "why": "11 月 20 日当天的最新演示，Gemini GIF 路线可与 ChatGPT 路线对照收录。",
+  "borrow": [
+    "Gemini GIF 最新入口",
+    "文生与图生两条入口对照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Gemini",
+    "Instagram",
+    "新功能"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

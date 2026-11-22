@@ -1,0 +1,41 @@
+{
+  "id": "insp-599",
+  "title": "Facebook：GIF Sprite Sheet Creator，GIF 抽帧成精灵条/网格工具",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/reel/1628993455587514/",
+    "platform": "Facebook",
+    "author": "Facebook 用户",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "onlinegiftools.com 的 GIF Sprite Sheet Creator 工具演示：上传 GIF 自动抽全部帧，排成横向/竖向精灵条或网格，可调行列数、跳帧、留白、改背景等。",
+  "why": "与生成方向互补的后处理工具：已有 GIF 可反向拆成精灵表再利用，行列与跳帧参数齐全。",
+  "borrow": [
+    "GIF 抽帧成条/网格的后处理功能",
+    "行列数、跳帧、留白等可调参数",
+    "已有 GIF 素材的二次利用路径"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；作者未具名。"
+  },
+  "tags": [
+    "工具",
+    "抽帧",
+    "GIF转精灵表",
+    "后处理"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "insp-927",
+  "title": "Threads @vladic_zsc：Gemini 激光眼 GIF 演示",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@vladic_zsc/post/Df-dOAXFQjq",
+    "platform": "Threads",
+    "author": "@vladic_zsc",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "上传金发女子照片，用 Gemini 出激光眼 GIF 的演示（11 月 20 日最新）。",
+  "why": "Gemini 图生 GIF 的最新真人演示，与 IG 激光眼趋势同源，照片加一句提示的做法值得对照。",
+  "borrow": [
+    "照片加一句动作提示",
+    "趣味特效动效"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "演示用一张女子照片，未确认是否为真人或授权肖像；只借照片加一句提示的做法，不复用人物形象；未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Gemini",
+    "激光眼",
+    "Threads"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

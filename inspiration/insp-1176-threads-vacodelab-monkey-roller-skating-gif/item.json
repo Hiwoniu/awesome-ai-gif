@@ -1,0 +1,39 @@
+{
+  "id": "insp-1176",
+  "title": "Threads @vacodelab：猴子轮滑 GIF 实测与测速",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@vacodelab/post/DfoeKoABLax",
+    "platform": "Threads",
+    "author": "@vacodelab",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "实测“Make an animated gif of a monkey roller skating”，约 20 秒出循环动画，附生成速度对比。",
+  "why": "有具体示例提示词与出图耗时口径，可作速度参考。",
+  "borrow": [
+    "具体示例提示词的写法",
+    "生成速度对比的测速口径"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Threads",
+    "实测",
+    "生成速度"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

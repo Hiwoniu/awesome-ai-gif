@@ -1,0 +1,41 @@
+{
+  "id": "insp-595",
+  "title": "Instagram：@salayo520，16 张 LINE 动态贴纸五步流程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dfz2GvNKFeN/",
+    "platform": "Instagram",
+    "author": "@salayo520",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用一张照片 + ChatGPT 做 16 张 LINE 动态贴纸的五步教程：上传照片定角色、用提示词生成 16 种表情动作、让角色动起来（如挥手、眨眼）、导出；示例为金色西装长发女子模型。",
+  "why": "16 张成套 + 五步流程是 LINE/微信表情包上架的完整打法，数量与步骤都贴合表情包制作。",
+  "borrow": [
+    "先定角色、再批量出 16 种表情动作的成套流程",
+    "挥手、眨眼等基础动作用作首批动作库",
+    "单照片输入成套输出，适合原创角色批量生产"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "LINE贴纸",
+    "成套流程",
+    "16张",
+    "五步"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

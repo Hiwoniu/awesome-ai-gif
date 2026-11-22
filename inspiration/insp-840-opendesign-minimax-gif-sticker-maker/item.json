@@ -1,0 +1,41 @@
+{
+  "id": "insp-840",
+  "title": "OpenDesign：MiniMax 官方 gif-sticker-maker Skill，四张 Funko 风动态贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://open-design.ai/skills/gif-sticker-maker/",
+    "platform": "OpenDesign",
+    "author": "MiniMax-AI",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "MiniMax 官方 gif-sticker-maker Skill 的介绍页：一张照片出 4 张 Funko Pop / 盲盒风动态 GIF 贴纸，默认开心挥手、大笑、哭泣、比心四种动作，附多语言字幕对照表。",
+  "why": "官方 Skill 的三段式管线（MiniMax 生图、图生视频、MP4 转 GIF）与四动作默认值是成套表情包可直接借用的结构。",
+  "borrow": [
+    "三段式管线：MiniMax 生图、图生视频、MP4 转 GIF",
+    "四张默认动作的成套规划：挥手、大笑、哭泣、比心",
+    "多语言字幕对照表按语言自动配文案的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "gif-sticker-maker",
+    "MiniMax",
+    "Skill",
+    "Funko风"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

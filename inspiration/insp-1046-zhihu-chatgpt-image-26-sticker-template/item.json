@@ -1,0 +1,42 @@
+{
+  "id": "insp-1046",
+  "title": "知乎：实测 ChatGPT Image 2.6，斗图自由了，附动态表情包万能提示词模版",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://zhuanlan.zhihu.com/p/2101922003016074393",
+    "platform": "知乎专栏",
+    "author": "土著哥聊AI",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "讲透精灵图 3×2 六宫格合成 GIF 的机制，实测三组群聊斗图热梗，附动态表情包提示词万能模版：6 帧分镜动作写进一条提示词。",
+  "why": "万能模版可直接复用，精灵图机制讲解是本轮中文内容里最清楚的。",
+  "borrow": [
+    "六帧分镜提示词写法",
+    "万能模版结构：角色、场景、动作、画风四槽填空",
+    "同张大图出 6 帧保一致的原理解释",
+    "老照片与手绘草图变动图的延展"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已登录浏览器打开原文核实：作者土著哥聊AI，2026-11-05；文中提醒 GIF 审核比静态图严、不拿真人照片生成。"
+  },
+  "tags": [
+    "知乎",
+    "万能模板",
+    "精灵图",
+    "GPT Image 2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

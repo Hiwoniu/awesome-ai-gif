@@ -1,0 +1,40 @@
+{
+  "id": "insp-227",
+  "title": "GeeksGIF：提示词生成与连拍定格二合一 GIF 工具",
+  "type": "multi",
+  "source": {
+    "url": "https://geeksgif.io/",
+    "platform": "GeeksGIF",
+    "author": "未署名",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "提示词生成 GIF、连拍照片转定格 GIF、字幕贴纸工作室三合一的 GIF 工具，附按场景分类的模板。",
+  "why": "少见地把“连拍照片→定格动画”与“提示词生成”放进同一工具，字幕按帧定时的做法对表情包加字环节有参考价值。",
+  "borrow": [
+    "连拍照片做定格 GIF 的路径",
+    "字幕按帧定时而非整段定时",
+    "按场景分类的模板组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "工具",
+    "定格动画",
+    "字幕"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

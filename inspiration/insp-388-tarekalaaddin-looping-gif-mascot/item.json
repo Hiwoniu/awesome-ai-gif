@@ -1,0 +1,40 @@
+{
+  "id": "insp-388",
+  "title": "tarekalaaddin：给 App 做循环 GIF 吉祥物",
+  "type": "multi",
+  "source": {
+    "url": "https://www.tarekalaaddin.com/blog/openai-images-2-6-gif-mascot-svg-icon-tutorial",
+    "platform": "tarekalaaddin",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "给 App 做循环 GIF 吉祥物的教程，含 SVG 图标联动的思路。",
+  "why": "吉祥物循环 GIF 的落点具体（App 内使用），动作设计可借到动态签名/头像方向。",
+  "borrow": [
+    "吉祥物循环动作设计",
+    "App 落点",
+    "图标联动"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "吉祥物",
+    "循环GIF",
+    "App"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

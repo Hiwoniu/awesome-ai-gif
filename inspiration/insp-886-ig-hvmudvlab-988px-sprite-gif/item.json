@@ -1,0 +1,43 @@
+{
+  "id": "insp-886",
+  "title": "IG @hvmudvlab：内置 GIF 按钮只有 224px，精灵表路线出 988px",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfZ_dB8qqze/",
+    "platform": "Instagram",
+    "author": "hvmudvlab",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "IG 教程：ChatGPT 内置 GIF 按钮只出 224px，改走 3×2 六帧精灵表再切帧合成，可出 988px 的循环 GIF，附 8 种风格示例与提示词包。",
+  "why": "给出两条路线的分辨率对照（224px 对 988px），是我们选直出还是精灵表时最直接的依据。",
+  "borrow": [
+    "内置 224px 与精灵表 988px 的分辨率对照",
+    "3×2 六帧、末帧接回首帧的精灵表写法",
+    "黄色怪物吉祥物、跑步吐司等八种示例的选角思路",
+    "切帧后用免费 GIF 工具合成的流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "精灵表",
+    "分辨率",
+    "GIF",
+    "提示词包"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

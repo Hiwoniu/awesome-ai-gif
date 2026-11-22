@@ -1,0 +1,43 @@
+{
+  "id": "insp-1063",
+  "title": "AnimGen：精灵图转 GIF 教程，选帧帧率与对齐",
+  "type": "multi",
+  "source": {
+    "url": "https://animgen.com/zh/blog/sprite-sheet-to-gif",
+    "platform": "AnimGen",
+    "author": "AnimGen",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "用真实 16 帧机器人跑步精灵图演示：从多动作图集里只选跑步动作、按源动画设 24 FPS、独立精灵底部居中对齐、导出透明 GIF 全流程。",
+  "why": "池里少见的精灵图→GIF 合成端实操教程，网格参数、帧率换算、透明边缘检查都可直接复用到我们自己的切帧合成流程。",
+  "borrow": [
+    "多动作图集选帧方法（范围选帧、只选一行、倒序只倒帧序）",
+    "帧率按源动画设、GIF 帧延迟以 10ms 取整的换算",
+    "独立精灵底部居中对齐及跳跃动作慎用贴底对齐的提醒",
+    "透明 GIF 边缘检查（深浅背景各看一次、255 色共享调色板）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。练习素材为机器人案例，复用时换原创角色。"
+  },
+  "tags": [
+    "精灵图",
+    "切帧合成",
+    "帧率",
+    "透明GIF",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

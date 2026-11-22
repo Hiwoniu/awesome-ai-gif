@@ -1,0 +1,40 @@
+{
+  "id": "insp-190",
+  "title": "SuperEmotes：为 Line/Discord/KakaoTalk/WhatsApp 做动画贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://superemotes.com/html/tools/animated-sticker-maker.html",
+    "platform": "SuperEmotes",
+    "author": "未注明",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "为 Line、Discord、KakaoTalk、WhatsApp 做动画贴纸/emoji 的工具，导出 320×320 APNG 或 GIF。",
+  "why": "多平台一稿多出的导出思路，320×320、500KB 以内的体积控制参考。",
+  "borrow": [
+    "多平台一稿多出的导出思路",
+    "320×320、500KB 以内的体积控制",
+    "APNG 与 GIF 双格式导出"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "工具站，只借导出思路",
+    "note": ""
+  },
+  "tags": [
+    "多平台贴纸",
+    "APNG",
+    "导出规格"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

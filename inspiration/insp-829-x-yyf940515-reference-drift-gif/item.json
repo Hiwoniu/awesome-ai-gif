@@ -1,0 +1,39 @@
+{
+  "id": "insp-829",
+  "title": "X @yyf940515：先定稿静帧/存参考图再批量出 GIF 防漂移",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://x.com/yyf940515/status/2118201631011430480",
+    "platform": "X",
+    "author": "@yyf940515",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "没有已保存参考图时，连做 5–6 张 GIF 后人脸和颜色会漂移；先定稿静帧、保存参考图再批量出 GIF。",
+  "why": "先定稿静帧再批量生产的防漂移顺序可直接写进验收清单。",
+  "borrow": [
+    "先定稿静帧、保存参考图再批量出 GIF 的防漂移顺序",
+    "连做 5–6 张后人脸与颜色漂移的失败模式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "X",
+    "参考图",
+    "防漂移"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

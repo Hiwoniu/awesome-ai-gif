@@ -1,0 +1,32 @@
+{
+  "id": "insp-1107",
+  "title": "PixTV：用 GPT Image 2.6 制作动画 GIF 的分步教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.pixtv.ai/zh-CN/blog/gpt-image-2-6-animated-gifs",
+    "platform": "PixTV 博客",
+    "author": "",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "以发条玩具鱼为例的三路线教程：原生 GIF 直出（帧数 6/9/12/16、单帧 50/100/200/400ms）、分姿态组帧、动作过大时改走视频再转 GIF，附主体/动作/固定场景/循环衔接四栏任务说明表与循环接缝检查法。",
+  "why": "单动作 GIF 的任务说明表结构和固定帧数只改时长的节奏对比法很实用，循环接缝检查清单可直接作验收用。",
+  "borrow": ["单动作 GIF 的任务说明表结构（主体/动作/固定场景/循环衔接）", "固定帧数只改时长的节奏对比法", "循环接缝检查清单（眼睛/底座/水平线作固定参照）"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实；只借教程方法与检查清单，不抄提示词原文"
+  },
+  "tags": ["GPT Image 2.6", "教程", "循环接缝", "帧数"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

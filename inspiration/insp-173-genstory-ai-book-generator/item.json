@@ -1,0 +1,40 @@
+{
+  "id": "insp-173",
+  "title": "GenStory：60 秒生成一本 AI 绘本",
+  "type": "storybooks",
+  "source": {
+    "url": "https://www.aiwizard.ai/genstory",
+    "platform": "aiwizard.ai",
+    "author": "GenStory",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "输入提示词、选画风与场景数，约 60 秒生成带配图的绘本，支持 GPT Image 2 与 SeeDance 2。",
+  "why": "“提示词→分景→统一画风→可发布书库”的产品结构，场景数可调的分镜思路值得借。",
+  "borrow": [
+    "提示词+画风+场景数的三段式生成结构",
+    "场景数可调的分镜思路",
+    "公开书库 1 万+ 本的展示做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "商业工具页面，只借结构",
+    "note": "输出以视频/在线书为主，GIF 形态需另做"
+  },
+  "tags": [
+    "绘本",
+    "工具",
+    "分镜"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

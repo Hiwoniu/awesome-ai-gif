@@ -1,0 +1,40 @@
+{
+  "id": "insp-843",
+  "title": "IG @astrlabs：静态 Logo 转动画 GIF 四步流程",
+  "type": "posters",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df1nLfYyMf_/",
+    "platform": "Instagram",
+    "author": "@astrlabs",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "IG 短视频教程：把静态 Logo 做成动画 GIF 的四步流程——上传 logo.png、mascot.svg、product.jpg 等文件，提问、生成、检查后导出。",
+  "why": "Logo 动效是动态海报/品牌动效的常见需求，这条上传、提问、生成、检查的四步流程可直接平移到品牌 Logo 动效制作。",
+  "borrow": [
+    "静态 Logo 转动画 GIF 的四步流程：上传、提问、生成、检查",
+    "Logo、吉祥物、产品图三类素材一起喂给模型的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "Logo动效",
+    "品牌",
+    "四步流程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

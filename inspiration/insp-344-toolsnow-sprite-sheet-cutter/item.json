@@ -1,0 +1,38 @@
+{
+  "id": "insp-344",
+  "title": "ToolsNow：精灵表切割与帧切片工具",
+  "type": "multi",
+  "source": {
+    "url": "https://www.toolsnow.net/sprite-sheet-cutter/",
+    "platform": "ToolsNow",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "浏览器内精灵表切割工具，按透明间隙自动识别帧，可预览动画、导出 PNG/ZIP/GIF/JSON。",
+  "why": "本地处理不上传，导出含 JSON 元数据，适合把 AI 生成的精灵表拆帧复用。",
+  "borrow": [
+    "透明间隙自动切帧",
+    "预览后按需导出单帧或 GIF"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "精灵表切割",
+    "浏览器工具"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

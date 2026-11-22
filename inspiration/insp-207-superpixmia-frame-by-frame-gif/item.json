@@ -1,0 +1,42 @@
+{
+  "id": "insp-207",
+  "title": "SuperPixMia：AI 逐帧法做动态 GIF（表情包/梗图）",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.superpixmia.com/blog/make-ai-gif",
+    "platform": "SuperPixMia",
+    "author": "未署名",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "不用视频模型，AI 逐帧画 4–6 张同一角色不同姿态，批量抠图、去水印、统一尺寸后合成循环 GIF 的完整流水线。",
+  "why": "方法是“逐帧可控”路线的标准写法，帧数、尺寸、帧率都有明确参数，且附网站端不用 GIF 的替代方案，值得借鉴。",
+  "borrow": [
+    "4–6 帧是贴纸最佳帧数，512×512 或 1080×1080 全帧统一尺寸",
+    "角色描述逐字复用、只改动作槽位保一致",
+    "批量抠图得透明底真贴纸",
+    "组装帧率 8–12 fps、长边压到 512 以下控体积"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "逐帧",
+    "表情包",
+    "工作流",
+    "抠图"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

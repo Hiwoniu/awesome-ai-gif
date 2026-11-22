@@ -1,0 +1,40 @@
+{
+  "id": "insp-781",
+  "title": "Ofox：GPT Image 2.6 动图教程，六段式提示词骨架",
+  "type": "multi",
+  "source": {
+    "url": "https://ofox.ai/zh/blog/gpt-image-2-6-gif-guide/",
+    "platform": "Ofox",
+    "author": "Ofox",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "ChatGPT、原生 API、精灵图三条路径对比，六组原创提示词，附输出格式、主体、动作路径、固定项、画风、验收六段式提示词结构。",
+  "why": "六段式动图提示词骨架可直接套用到我们自己的提示词模板。",
+  "borrow": [
+    "六段式动图提示词骨架：输出格式、主体、动作路径、固定项、画风、验收",
+    "ChatGPT、原生 API、精灵图三条路径的对比选型"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Ofox",
+    "提示词骨架",
+    "六段式",
+    "路径对比"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

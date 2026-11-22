@@ -1,0 +1,44 @@
+{
+  "id": "insp-1144",
+  "title": "GIF Sticker Pack AI：一次出 16 张透明循环 GIF 的表情包生成器",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://gif-sticker-pack-ai.bgnwd15.workers.dev/",
+    "platform": "GIF Sticker Pack AI",
+    "author": "GIF Sticker Pack AI",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "上传一张自有角色图，AI 一次画出 4×4 共 16 个姿态的透明图集，浏览器端切片、加描边字幕和动效，导出 16 张 320×320 透明循环 GIF。",
+  "why": "它把“出图”和“加字加动效”彻底分开：模型只画无字姿态图集来保角色一致，文字和动效在浏览器里后加，字不糊、改字不用重画，整包一次出 16 张。",
+  "borrow": [
+    "一次调用画 4×4 共 16 姿态透明图集，角色一致性靠单次生成保障",
+    "模型不写字、浏览器端后加描边字幕的防糊字分工",
+    "16 种动效预设（点头、跳跃、摇摆、颤抖等）、24 帧 80ms 的循环参数",
+    "共享调色板+透明索引+restore-to-background 的透明 GIF 导出规格",
+    "聊天场景模板+可改配文的整包工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": "已打开原文核实。页面自带的两套示例包用了他人的角色作演示，只借工作流；页面明确要求只上传自己创作或有使用权的角色，不上传他人版权角色或未经同意的真人照片。导出器开源 MIT。"
+  },
+  "tags": [
+    "sticker-pack",
+    "sprite-atlas",
+    "transparent-gif",
+    "gpt-image-2-6",
+    "browser-assembly"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

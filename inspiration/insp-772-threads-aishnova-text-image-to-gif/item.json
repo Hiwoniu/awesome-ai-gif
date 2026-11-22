@@ -1,0 +1,40 @@
+{
+  "id": "insp-772",
+  "title": "Threads @Aishnova：文生/图生 GIF 功能卡片演示",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@aishnova.ai/post/DfWLkxGDc9b",
+    "platform": "Threads",
+    "author": "Aishnova",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "轮播展示一段提示词或一张静态图在 App 内转 GIF，可调速与逐帧编辑。",
+  "why": "挥手机器人吉祥物与戴心形墨镜蓝鸟两个循环演示，调速与逐帧编辑的组合值得借。",
+  "borrow": [
+    "文生与图生双入口的功能卡片组织",
+    "调速加逐帧编辑的组合",
+    "吉祥物循环演示的选角：挥手机器人、戴墨镜蓝鸟"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Threads",
+    "功能演示",
+    "逐帧编辑"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

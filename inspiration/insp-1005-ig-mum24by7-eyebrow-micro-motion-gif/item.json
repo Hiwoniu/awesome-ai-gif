@@ -1,0 +1,40 @@
+{
+  "id": "insp-1005",
+  "title": "IG @mum24by7：眉毛上下动微动效提示词实测",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfcggPHhVHm/",
+    "platform": "Instagram",
+    "author": "Mum24by7 @mum24by7",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-07 教程：上传自拍到 ChatGPT，提示词只写眉毛上下动，出眉毛微动 GIF。",
+  "why": "单部位微动效的极简提示词写法，一个动作词就能出可用的表情 GIF。",
+  "borrow": [
+    "单部位微动效的极简提示词写法：只写一个部位加一个动作",
+    "自拍加一句话出微动表情的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "微动效",
+    "自拍",
+    "极简提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

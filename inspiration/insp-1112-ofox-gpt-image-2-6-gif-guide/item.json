@@ -1,0 +1,32 @@
+{
+  "id": "insp-1112",
+  "title": "OFOX：GPT Image 2.6 动图制作教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://ofox.io/zh/blog/gpt-image-2-6-gif-guide",
+    "platform": "OFOX 博客",
+    "author": "OFOX 团队",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "覆盖 ChatGPT / Images API / 精灵图转 GIF 三条路径的系统教程，含 6 组可复用提示词模板、API 请求参数（frame_count 2–64、frame_duration_ms）、GIF 验收检查脚本和 FFmpeg 压缩命令，并附一次 Flare 原生 GIF 实测（9 帧 × 200ms）。",
+  "why": "三条路径对照加提示词六段式结构加可直接复用的 API 参数表，是目前最完整的 2.6 GIF 方法论文章。",
+  "borrow": ["提示词六段式结构：输出格式/主体/动作路径/固定项/画风/验收", "“动作写成一个来回、首尾帧一致”的循环写法", "精灵图转 GIF 的浏览器加本地两条合成路线", "GIF 验收清单：尺寸/帧数/时长/循环元数据逐项核对"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。文中引用第三方猫咪精灵图（jkf87，MIT 许可），只借合成流程，不复用该图。"
+  },
+  "tags": ["GPT-Image-2.6", "教程", "提示词结构", "Images-API", "精灵图"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

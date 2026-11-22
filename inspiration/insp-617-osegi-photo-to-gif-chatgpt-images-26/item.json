@@ -1,0 +1,41 @@
+{
+  "id": "insp-617",
+  "title": "Osegi：照片转 GIF 的 ChatGPT Images 2.6 英文教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://osegi.com/en/turn-photo-into-gif-chatgpt-images-2-6",
+    "platform": "Osegi",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用一张自拍或宠物照加动作描述生成循环 GIF 的英文实操教程：可调速、可逐帧改，表情、卡通、写实三种风格切换。",
+  "why": "有现成提示词结构和逐帧修改流程，可直接借鉴照片转动图的提示词写法。",
+  "borrow": [
+    "照片转 GIF 提示词结构",
+    "调速与逐帧修改",
+    "三种风格切换"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "教程示例是别人的照片，只借提示词结构与修改流程；方法与池中已收的多篇照片转 GIF 教程相近，本条重在提示词示例不同。"
+  },
+  "tags": [
+    "照片转 GIF",
+    "ChatGPT",
+    "提示词",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

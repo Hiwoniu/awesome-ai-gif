@@ -1,0 +1,41 @@
+{
+  "id": "insp-604",
+  "title": "Facebook：kentxchang，LINE 动态贴纸与视频切分工作室：Gemini 出提示词 + 自动切 4×2 网格",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/kentxchang/posts/pfbid0UHfbNJ8AFE2Qk3CsW1knmivksCKerPUpFuzkDshw1XhopKET4WAWgg4ukRr4vNSWl",
+    "platform": "Facebook",
+    "author": "kentxchang",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "在线“LINE 动态贴纸与视频切分工作室”工具分步演示：用 Gemini + Google Flow 生成 8 条贴纸提示词（含角色描述与画风选项），上传视频、去背景色、自动切成 4×2 网格、导出单个 PNG/APNG 文件。",
+  "why": "覆盖“视频 → 切帧 → 贴纸文件”的后半段链路，自动切网格 + APNG 导出正是 LINE/微信动态贴纸上架需要的格式。",
+  "borrow": [
+    "视频自动切 4×2 网格出帧的后处理",
+    "去背景色加导出 PNG/APNG 的上架格式链路",
+    "Gemini 批量生成 8 条贴纸提示词的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "工具",
+    "切帧",
+    "APNG",
+    "LINE上架"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-643",
+  "title": "Instagram @gadgets.360：熊猫摆件照片变跳舞猫 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df1SrzINimA/",
+    "platform": "Instagram",
+    "author": "@gadgets.360",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "印地语手机实操教程：把熊猫摆件照片变成跳舞猫 GIF，可下载并分享到 WhatsApp，全程手机完成。",
+  "why": "照片→GIF→即时通讯分享的极简三步流程，说明手机端也能零门槛做动态表情。",
+  "borrow": [
+    "照片→GIF→WhatsApp 分享的极简流程",
+    "手机端全程实操",
+    "一句话动作描述的实测效果"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；教程用的是对方的摆件照片，只借流程。"
+  },
+  "tags": [
+    "Instagram",
+    "照片转 GIF",
+    "手机实操",
+    "WhatsApp"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

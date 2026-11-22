@@ -1,0 +1,41 @@
+{
+  "id": "insp-370",
+  "title": "Cocos 精灵图实战：一张大图拆成多个动画帧",
+  "type": "multi",
+  "source": {
+    "url": "https://eastondev.com/blog/zh/posts/dev/20260520-cocos-sprite-sheet-animation/",
+    "platform": "Easton Dev",
+    "author": "Easton",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 Midjourney/Stable Diffusion 生成角色序列帧精灵图，再用 TexturePacker、在线工具或 PS 拆帧做成游戏动画的完整方案。",
+  "why": "AI 生成序列帧→拆帧→动画的链路完整，帧命名与尺寸规范可借到精灵图 GIF 制作。",
+  "borrow": [
+    "AI序列帧提示词",
+    "精灵图拆帧",
+    "帧命名规范",
+    "尺寸与内存优化"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "精灵图",
+    "序列帧",
+    "游戏动画"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

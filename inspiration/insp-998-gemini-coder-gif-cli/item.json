@@ -1,0 +1,40 @@
+{
+  "id": "insp-998",
+  "title": "gemini-coder：用 Gemini API 从文本提示逐帧生成 GIF 的 Python CLI",
+  "type": "multi",
+  "source": {
+    "url": "https://pypi.org/project/gemini-coder/0.1.2/",
+    "platform": "PyPI",
+    "author": "daymade",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "pip 安装后用 gemini-coder --subject/--style 等参数逐帧生成 GIF 的开源 CLI，支持编程调用，MIT 开源。",
+  "why": "把 GIF 生成做成可编程 CLI/API 的路线，逐帧生成加自动重试补帧的工作流结构可借鉴。",
+  "borrow": [
+    "「逐帧生成 + imageio 合成 + 自动重试补帧」的 CLI 工作流结构",
+    "--subject/--style/--framerate/--template 提示模板参数设计",
+    "把 GIF 生成做成可编程 API 的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开 PyPI 页核实；最新版 0.1.2 发布于 2025-04-03，基于 Gemini 2.0 Flash 逐帧生成，是原生 Gemini GIF（2026-11-19）之前的老路线，只借工作流结构。"
+  },
+  "tags": [
+    "Gemini",
+    "CLI",
+    "开源"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

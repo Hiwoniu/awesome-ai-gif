@@ -1,0 +1,38 @@
+{
+  "id": "insp-310",
+  "title": "4OVER4：光栅印刷全流程指南（LPI 与帧数取舍）",
+  "type": "cards",
+  "source": {
+    "url": "https://www.4over4.com/guide/how-to-make-lenticular-prints",
+    "platform": "4OVER4",
+    "author": "4OVER4",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "光栅印刷全流程：选透镜 LPI→准备对齐的源帧→交错编织→打印贴合，含翻转/动画/3D/变形四种效果的取舍。",
+  "why": "效果分类清晰，含动画帧（4–20 帧）的制作要点。",
+  "borrow": [
+    "翻转与动画两种效果的帧准备方法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "光栅卡",
+    "印刷",
+    "指南"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

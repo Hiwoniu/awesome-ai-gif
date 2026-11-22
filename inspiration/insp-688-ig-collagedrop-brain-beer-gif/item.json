@@ -1,0 +1,40 @@
+{
+  "id": "insp-688",
+  "title": "IG @collagedrop.out：30 秒出一张 GIF（大脑变啤酒沫拼贴）",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DLQ65j2PoyT/",
+    "platform": "Instagram",
+    "author": "@collagedrop.out",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用一段详细提示词让 ChatGPT 生成“侧脸大脑 morph 成啤酒梗、泡沫拼出 collage 字样”的可下载 GIF，ChatGPT 还给了 PIL 像素帧/滑动 morph 等实现路径。",
+  "why": "一句长提示词直出 GIF 的写法样本，外加“提示词→多帧实现方案”的对照思路；meme/拼贴风只借手法，不借画面与文案。",
+  "borrow": [
+    "一句长提示词直出 GIF 的写法",
+    "提示词→多帧实现方案的对照思路（PIL 像素帧/滑动 morph）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "multi",
+    "拼贴风",
+    "morph",
+    "一句提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

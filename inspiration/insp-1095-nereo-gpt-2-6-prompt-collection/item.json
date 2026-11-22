@@ -1,0 +1,32 @@
+{
+  "id": "insp-1095",
+  "title": "Nereo：24 条 GPT Image 2.6 提示词合集，含 6 条循环 GIF 模板",
+  "type": "multi",
+  "source": {
+    "url": "https://www.nereo.io/blog/gpt-2-6-prompts",
+    "platform": "Nereo 博客",
+    "author": "",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "一份 24 条可直接复制的 GPT Image 2.6 提示词合集，按 GIF、标注编辑、海报、产品图等用途分组，其中 6 条是循环 GIF 提示词。",
+  "why": "按用途分组的 GIF 提示词模板库结构清晰，循环 GIF 的三要素写法可直接复用。",
+  "borrow": ["按用途分组的 GIF 提示词模板库结构", "循环 GIF 提示词三要素写法：描述动作＋固定镜头＋说明循环如何收尾", "品牌吉祥物、产品光扫、反应 GIF 等六类 GIF 场景划分"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录；只借提示词结构，不抄提示词原文"
+  },
+  "tags": ["GPT Image 2.6", "提示词合集", "循环 GIF", "模板库"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

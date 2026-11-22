@@ -1,0 +1,40 @@
+{
+  "id": "insp-256",
+  "title": "Facebook Gadgets 360：ChatGPT 照片→GIF→WhatsApp 实录",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/1582073250452281/",
+    "platform": "Facebook",
+    "author": "Gadgets 360",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "手机录屏实录：上传熊猫摆件照片、对 ChatGPT 说一句“Create GIF”，秒出可下载 .gif，再分享进 WhatsApp 聊天。",
+  "why": "最短的端到端演示，证明“一张图 + 一句话”就能出 GIF，适合做新手路径验证。",
+  "borrow": [
+    "一句话出 GIF",
+    "照片直转 GIF 不经视频模型",
+    "成品直接进 WhatsApp 的分发闭环"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录；只借方法"
+  },
+  "tags": [
+    "Facebook",
+    "实录",
+    "WhatsApp"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

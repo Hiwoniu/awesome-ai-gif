@@ -1,0 +1,40 @@
+{
+  "id": "insp-537",
+  "title": "Instagram：Ritesh 一张照片变循环 GIF，保真提示词实测",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfcHee4zYm-",
+    "platform": "Instagram",
+    "author": "Ritesh ✦ Studio",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "创作者把一张照片变成自己眨眼、咧嘴笑、竖大拇指的循环 GIF，录屏展示所用提示词：保留长相与背景、精确描述眨眼、笑、竖拇指的动作序列。",
+  "why": "保真提示词写得很细：保留长相与背景、精确描述动作序列，两点都是照片转 GIF 最容易翻车的地方。",
+  "borrow": [
+    "保留长相与背景的保真写法",
+    "精确描述动作序列的方法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "Type GIF 获取提示词是引流话术，不必学；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "照片转GIF",
+    "保真",
+    "Instagram",
+    "动作序列"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-411",
+  "title": "GifPt：DALL·E 3 精灵表转 GIF 的 GPT 工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://raw.githubusercontent.com/dmezzadri/Leaked-GPTs/main/gpts/GifPt.md",
+    "platform": "GitHub（Leaked-GPTs 仓库）",
+    "author": "friuns2",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "早期 GifPt 自定义 GPT 的系统提示词：用 DALL·E 画 4×4 共 16 帧精灵表，再用代码解释器切片对齐合成 GIF，含自动精修与调试模式。",
+  "why": "精灵表转 GIF 路线的原始范式之一，16 帧网格与自动精修、调试模式的写法值得借鉴。",
+  "borrow": [
+    "4×4 精灵表提示词写法",
+    "切片加对齐合成 GIF 的代码思路",
+    "上传起始图做风格种子的用法",
+    "自动精修与调试模式设计"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "泄露的他人 GPT 系统提示词，只借流程结构，不抄原文。"
+  },
+  "tags": [
+    "精灵表",
+    "GPTs",
+    "历史案例",
+    "DALL-E"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

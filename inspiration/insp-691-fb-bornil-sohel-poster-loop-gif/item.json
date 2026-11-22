@@ -1,0 +1,40 @@
+{
+  "id": "insp-691",
+  "title": "Facebook Bornil Sohel：一句话把海报变循环 GIF（三步法）",
+  "type": "posters",
+  "source": {
+    "url": "https://www.facebook.com/reel/967427989381822/",
+    "platform": "Facebook",
+    "author": "Bornil Sohel",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "5 页轮播教程，核心是一句提示词“Make this a looping GIF”，三步：上传图片或描述（如咖啡促销海报）→输入“Make it a GIF”选循环选项→调速度（示例 2.0x）、单帧修复；并列出客户场景（促销帖、logo、贴纸）。",
+  "why": "最简三步法的对照样本：上传→一句话转 GIF→调速度与单帧修复；2.0x 速度参数示例可作调速参考；语言为孟加拉语，但步骤与提示词本身是英文。",
+  "borrow": [
+    "最简三步法：上传→一句话转 GIF→调速与单帧修复",
+    "速度参数示例 2.0x",
+    "客户场景分类：促销帖、logo、贴纸"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "posters",
+    "动态海报",
+    "三步法"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-670",
+  "title": "IG @thisisnickys：狮子吉祥物 LB 的品牌循环 GIF 与提示词",
+  "type": "posters",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df20bgvD1f1/",
+    "platform": "Instagram",
+    "author": "Nicky Saunders（@thisisnickys）",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-17 的帖子：用 ChatGPT Images 2.6 给自己的狮子吉祥物 LB 做品牌循环 GIF，画面是狮子看空白卡片、灵光一闪、举起一爪、再平滑回到开头，橙色背景；配文建议只做两到三张自家品牌 GIF，用在 Stories、邮件、Substack、Threads 与 X。",
+  "why": "品牌吉祥物 GIF 的最小可用结构：一个动作分镜（看卡片→想主意→举爪→回正）加固定配色底，配文点出品牌 GIF 的克制用法（只做两到三张、不用随机猫狗），可直接套到我们自己的原创吉祥物上。",
+  "borrow": [
+    "品牌吉祥物一动作分镜写法：看卡片→想主意→举爪→回正",
+    "固定配色底突出主体",
+    "品牌 GIF 只做两到三张的克制用法",
+    "同一 GIF 跨 Stories/邮件/文章复用"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。演示用作者自己的狮子吉祥物，只借分镜结构与品牌用法。"
+  },
+  "tags": [
+    "posters",
+    "brand-mascot",
+    "ChatGPT",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

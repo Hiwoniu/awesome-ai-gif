@@ -1,0 +1,42 @@
+{
+  "id": "insp-435",
+  "title": "Gootaku：AI GIF 制作器，动漫循环、反应与贴纸",
+  "type": "multi",
+  "source": {
+    "url": "https://gootaku.com/gif-maker",
+    "platform": "Gootaku",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "面向动漫风的 AI GIF 制作器：每帧一句提示词，逐帧生成循环，附 4 组可用提示词示例（Q 版女孩弹跳、少年回头、史莱姆挤压、猫耳角色喝咖啡）。",
+  "why": "逐帧提示词法对动作控制最细，4 组示例覆盖弹跳、转头、挤压、喝咖啡四种典型循环，适合拆解借鉴。",
+  "borrow": [
+    "每帧一句提示词的逐帧写法",
+    "每帧只改一处运动、其余锁死的原则",
+    "Discord/Twitch 表情包尺寸落点",
+    "从一帧扩展成两帧循环的最小可行做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "动漫风",
+    "逐帧提示词",
+    "反应GIF",
+    "表情包"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

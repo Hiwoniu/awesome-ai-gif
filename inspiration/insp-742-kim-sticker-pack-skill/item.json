@@ -1,0 +1,39 @@
+{
+  "id": "insp-742",
+  "title": "kim-sticker-pack Skill：批量生成动态表情包，先做 3 条样片",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.aiking.dev/blog/chatgpt%E4%B8%8A%E6%96%B0%E5%8A%9F%E8%83%BD-%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E6%89%B9%E9%87%8F%E7%94%9F%E6%88%90%E5%8A%A8%E6%80%81%E8%A1%A8%E6%83%85%E5%8C%85%E7%9A%84skill",
+    "platform": "KimYx Blog",
+    "author": "老金",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "开源 kim-sticker-pack Skill：先定角色方向，8 条聊天场景+短句+动作分镜，先做 3 条样片确认再扩成 8 张",
+  "why": "先做 3 条样片再批量的品控流程，四套角色方向可作选题参考",
+  "borrow": [
+    "先做 3 条情绪不同的样片再批量的品控流程",
+    "微表情回应（眨眼/闭眼/低头）的动作设计"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Skill",
+    "微信表情包",
+    "批量"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-618",
+  "title": "X @SSSS_CRYPTOMAN：4×4 游戏精灵表规范帖",
+  "type": "multi",
+  "source": {
+    "url": "https://x.com/SSSS_CRYPTOMAN/status/2097797456117539136",
+    "platform": "X",
+    "author": "@SSSS_CRYPTOMAN",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 GPT Image 画 4 列×4 行共 16 帧的 2D 游戏角色动作精灵表，再均分切帧合成 GIF 的完整规范（日文原帖）。",
+  "why": "帧对齐、站位与地面线一致的要求可直接借给光栅卡与多帧 GIF。",
+  "borrow": [
+    "4×4 均分网格规范",
+    "逐帧站位对齐",
+    "切帧后合成 GIF",
+    "单动作单张表"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "精灵表",
+    "X",
+    "4×4",
+    "游戏角色"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "insp-1030",
+  "title": "Ludo.ai：AI 制作与动画化像素风精灵官方文档",
+  "type": "multi",
+  "source": {
+    "url": "https://ludo.ai/docs/sprite-generator/pixel-art-sprites",
+    "platform": "Ludo.ai Docs",
+    "author": "Ludo.ai",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "像素风精灵制作加动画的官方文档：五种像素风格、Forge Pixel 低分辨率动画模型、关键帧与动作迁移、最近邻导出。",
+  "why": "像素精灵表方向规格最细的官方文档：帧数、尺寸、网格打包、TexturePacker 导出一次给全。",
+  "borrow": [
+    "五档像素风格划分：Micro Pixel、8-Bit、16-Bit、32-Bit、Free Pixel",
+    "Forge Pixel 低分辨率动画模型的选型思路",
+    "Use Pixel Grid 打包法：按像素网格切表保硬边",
+    "最近邻导出防糊边的处理",
+    "帧数 4–64、尺寸 32–384px 的规格表"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "官方文档，工具本身为付费产品；只借规格与流程，不搬界面截图。"
+  },
+  "tags": [
+    "精灵表",
+    "像素风",
+    "Ludo.ai",
+    "规格"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

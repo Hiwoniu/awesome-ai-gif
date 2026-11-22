@@ -1,0 +1,39 @@
+{
+  "id": "insp-311",
+  "title": "IG @deafgeeky：照片变 WhatsApp 贴纸手机端教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Ddb0E0sm00C/",
+    "platform": "Instagram",
+    "author": "@deafgeeky",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "手机端分步教程：上传照片→选 ChatGPT 贴纸模板→生成多风格贴纸表→一键加入 WhatsApp，含像素风、漫画、holographic 等风格示例。",
+  "why": "面向普通用户的完整手机端流程，风格多样性展示好。",
+  "borrow": [
+    "多风格贴纸表的生成方式",
+    "手机端一键入 WhatsApp 的流程"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；输入是用户自己的照片。"
+  },
+  "tags": [
+    "Instagram",
+    "照片转贴纸",
+    "手机端"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

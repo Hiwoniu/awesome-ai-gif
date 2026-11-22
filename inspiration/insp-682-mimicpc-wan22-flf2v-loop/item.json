@@ -1,0 +1,41 @@
+{
+  "id": "insp-682",
+  "title": "MimicPC：Wan 2.2 FLF2V 首尾帧循环教程（待机首帧+动作尾帧）",
+  "type": "multi",
+  "source": {
+    "url": "https://www.mimicpc.com/learn/wan-22-flf2v-ai-video-start-end-frame",
+    "platform": "MimicPC",
+    "author": "MimicPC",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Wan 2.2 FLF2V（首尾帧到视频）的 ComfyUI 原生教程：上传首尾两帧、模型自动补中间帧；明确提到用“待机姿势首帧 + 动作姿势尾帧”做游戏角色短循环，5B 模型 8GB 显存可跑。",
+  "why": "开源本地路线的首尾帧循环做法很具体：待机姿势当首帧、动作姿势当尾帧；无缝循环只需首尾用同一帧；5B 模型 8GB 显存可跑，本地可复现的门槛写清楚了。",
+  "borrow": [
+    "待机姿势首帧 + 动作姿势尾帧的短循环做法",
+    "无缝循环只需首尾用同一帧",
+    "5B 模型 8GB 显存可跑的本地门槛"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "multi",
+    "Wan 2.2",
+    "首尾帧",
+    "ComfyUI"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

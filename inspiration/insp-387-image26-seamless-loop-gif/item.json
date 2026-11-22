@@ -1,0 +1,40 @@
+{
+  "id": "insp-387",
+  "title": "image26：GPT Image 2.6 做无缝循环 GIF 指南",
+  "type": "multi",
+  "source": {
+    "url": "https://www.image26.com/posts/gpt-image-26-gif-generation",
+    "platform": "image26",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 做无缝循环 GIF 的指南：小动作自然回到起点、首尾过渡的检查法，附 API 代码。",
+  "why": "无缝循环的“小动作回起点”选动作思路与首尾过渡检查法很具体，还有 API 代码。",
+  "borrow": [
+    "小动作回起点选动作法",
+    "首尾过渡检查",
+    "API 代码"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "无缝循环",
+    "API",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

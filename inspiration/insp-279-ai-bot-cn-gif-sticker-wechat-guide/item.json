@@ -1,0 +1,40 @@
+{
+  "id": "insp-279",
+  "title": "ai-bot.cn：ChatGPT Images 2.6 一键生成 GIF 表情包完整教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://ai-bot.cn/chatgpt-images-26-gif-sticker-tutorial/",
+    "platform": "ai-bot.cn",
+    "author": "ai-bot.cn",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "从生成 GIF 到上架微信表情开放平台的完整流程，含 ray-sticker-shop Skill 调用法和 240×240 / 500KB 规格。",
+  "why": "端到端闭环（生成→Skill 成套→上架），且给出“单次 1.5–2 秒、9 帧较合适”的实测经验。",
+  "borrow": [
+    "Skill 成套工作流",
+    "上架前规格清单",
+    "小动作优先的选动作原则"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "微信表情包",
+    "教程",
+    "上架"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

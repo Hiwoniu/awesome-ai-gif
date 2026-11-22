@@ -1,0 +1,42 @@
+{
+  "id": "insp-770",
+  "title": "Instagram @Digital Dynamo：12 张 chibi 动效贴纸 4×4 表格提示词",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DMNY1gUBoIa/",
+    "platform": "Instagram",
+    "author": "Digital Dynamo",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "把原贴纸图加提示词贴进 ChatGPT，出 12 张 chibi 动效贴纸 4×4 网格并展示 WhatsApp 实发效果。",
+  "why": "以图带图的 12 张成套做法与 WhatsApp 实发验证，成套表情包可直接参考。",
+  "borrow": [
+    "以图带图：贴原贴纸图加提示词复刻风格出 12 张",
+    "4×4 网格一次出 12 张的排布",
+    "十二种表情一次覆盖的清单组织",
+    "WhatsApp 实发效果的验收方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "chibi",
+    "4x4",
+    "成套"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

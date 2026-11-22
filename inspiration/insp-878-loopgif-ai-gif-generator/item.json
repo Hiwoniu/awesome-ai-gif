@@ -1,0 +1,37 @@
+{
+  "id": "insp-878",
+  "title": "LoopGIF：照片、文字与 Logo 转无缝循环 GIF，结尾回到首帧",
+  "type": "multi",
+  "source": {
+    "url": "https://buildvoyage.com/products/loopgif",
+    "platform": "BuildVoyage",
+    "author": "LoopGIF",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "2026 年 11 月上线的 AI GIF 生成器，把照片、文字或 Logo 做成无缝循环，结尾回到原始帧，另附免注册的浏览器 GIF 小工具。",
+  "why": "“循环结尾必须回到原始帧”的产品承诺和文字动效（霓虹、闪光）是做品牌小动效时可直接参考的选型。",
+  "borrow": [
+    "无缝循环以回到原始帧收尾的产品定义",
+    "文字与 Logo 动效：霓虹、闪光等风格化做法",
+    "免费浏览器 GIF 工具组合：打字机文字 GIF、录屏转 GIF、调速压缩裁剪",
+    "新账号 3 个免费额度的试用设计"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "来源为产品收录页，未打开工具站核实；只借产品形态"
+  },
+  "tags": ["AI GIF 生成器", "无缝循环", "文字动效", "Logo 动效", "工具"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

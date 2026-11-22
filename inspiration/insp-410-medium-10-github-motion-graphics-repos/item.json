@@ -1,0 +1,41 @@
+{
+  "id": "insp-410",
+  "title": "10 GitHub Repos to 10x Your AI Motion Graphics",
+  "type": "multi",
+  "source": {
+    "url": "https://medium.com/@devwebtesting151/10-github-repos-to-10x-your-ai-motion-graphics-3ab5feeef928",
+    "platform": "Medium",
+    "author": "offlegal",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-11 发布的开源仓库合集：按“风格、3D 引擎、物理、后期”分组介绍 10 个 AI 动态图形相关仓库，含影片风格库、提示词包、像素动效、Blender MCP 等。",
+  "why": "一篇抵多篇的仓库地图，其中像素动效库已在池内，其余风格库与提示词包是新的可挖方向。",
+  "borrow": [
+    "风格库加引擎加物理加后期的分组选型法",
+    "提示词包式提示词资产化",
+    "像素动效库的效果清单（爆炸/天气/火焰）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "GitHub合集",
+    "动态图形",
+    "开源仓库",
+    "风格库"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

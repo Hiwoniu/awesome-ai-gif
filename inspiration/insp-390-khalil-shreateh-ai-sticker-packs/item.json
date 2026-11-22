@@ -1,0 +1,40 @@
+{
+  "id": "insp-390",
+  "title": "khalil-shreateh：用 ChatGPT 做 WhatsApp/Telegram/Discord 贴纸包",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://khalil-shreateh.com/khalil.shtml/social-media-hacks-and-tutorials/tech-socialmedia/45533-how-to-create-ai-generated-sticker-packs-for-whatsapp-telegram-and-discord-using-chatgpt.html",
+    "platform": "khalil-shreateh",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "两句提示词加一张照片做 3×3 贴纸表、再裁切打包的 WhatsApp/Telegram/Discord 贴纸包教程。",
+  "why": "3×3 贴纸表加裁切打包的套件化流程很具体，可套到微信表情包成套制作。",
+  "borrow": [
+    "3×3 贴纸表",
+    "裁切打包流程",
+    "跨平台贴纸包"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "贴纸包",
+    "套件化",
+    "跨平台"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

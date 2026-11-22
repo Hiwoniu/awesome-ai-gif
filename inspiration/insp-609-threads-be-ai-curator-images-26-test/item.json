@@ -1,0 +1,42 @@
+{
+  "id": "insp-609",
+  "title": "Threads：@be.ai.curator，Images 2.6 十二页实测：官方演示 + 自测",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@be.ai.curator/post/DfXE5fVDMbx",
+    "platform": "Threads",
+    "author": "@be.ai.curator",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "十二页图文实测 OpenAI 11 月 4 日 Images 2.6 更新：ChatGPT 可生成稳定连续图片、直接拼成 GIF；除官方演示（跳舞猫、青蛙、公鸡、狗、小马等）外，作者自测了黏土猫拆礼物、水彩花开、机器人吉祥物八种工作反应表情（可作 LINE 贴纸与 Slack/Teams 用）。",
+  "why": "官方演示 + 作者自测对照最扎实，机器人八反应表情直接对标职场表情包场景。",
+  "borrow": [
+    "稳定连续出图再拼 GIF 的新能力验证",
+    "机器人吉祥物八种工作反应的成套选题",
+    "自测与官方演示对照的验证方法",
+    "LINE 加 Slack/Teams 双场景复用"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Images-2.6",
+    "实测",
+    "机器人",
+    "职场表情"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-1132",
+  "title": "Facebook Casey Sapp：真人照片转循环 8-bit 像素风 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/casey.sapp/posts/pfbid02v3WwM2MGVjjtnWDqxVJHrAtUDTXCvhP1DwjUcnomx12AgRjE3JueTJ7ow6o11bKMl",
+    "platform": "Facebook",
+    "author": "Casey Sapp",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "四组实例把真人照片变成循环 8-bit 像素 GIF，并附 iPhone 保存与转贴纸的步骤。",
+  "why": "真人照片转像素风循环的玩法加四组动作示例，手机端保存转贴纸的收尾步骤可直接借。",
+  "borrow": [
+    "真人照片转像素风循环的玩法",
+    "四组动作示例：钓鱼、碰杯、抱娃挥手、抽烟西装男",
+    "手机端保存转贴纸的收尾步骤"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；用真人照片示范，重做时必须换原创角色"
+  },
+  "tags": [
+    "像素风",
+    "照片转GIF",
+    "Facebook",
+    "贴纸"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

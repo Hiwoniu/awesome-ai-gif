@@ -1,0 +1,41 @@
+{
+  "id": "insp-543",
+  "title": "Threads：Banana Prompts 影像工作室，格式切 GIF 加 1.8s 循环演示",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@banana.prompts.studio/post/DfZ8NpqiG40",
+    "platform": "Threads",
+    "author": "Banana Prompts",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "录屏演示 Banana Prompts Image Studio 的 Images 2.6 模型（Flare/Sunburst）：设置里把格式从 PNG 切到 GIF，出现动画选项（Normal - 1.8s loop），输入详细提示词生成戴墨镜骑摩托男加后座篮里戴墨镜的狗的无缝循环 GIF。",
+  "why": "GIF 格式切换加时长选项的工作流很具体：格式从 PNG 切到 GIF、选 1.8s 循环、选 Sunburst 模型，三步都有数；提示词示例也完整。",
+  "borrow": [
+    "格式切换到 GIF 的工作流",
+    "1.8s 循环的时长选项",
+    "Flare 与 Sunburst 的模型选择"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "关联网站 banana.prompts.xyz/studio/image 已在池内，本条是该团队的 Threads 演示帖，内容为格式切换工作流；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "格式切换",
+    "Threads",
+    "1.8s循环",
+    "Sunburst"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

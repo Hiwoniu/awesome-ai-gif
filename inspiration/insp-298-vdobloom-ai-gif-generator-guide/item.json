@@ -1,0 +1,39 @@
+{
+  "id": "insp-298",
+  "title": "VdoBloom：AI GIF Generator 文生 GIF 教程（首帧锚定）",
+  "type": "multi",
+  "source": {
+    "url": "https://vdobloom.com/blog/ai-gif-generator/",
+    "platform": "VdoBloom",
+    "author": "VdoBloom",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "按帧计费的文生 GIF 教程：先画首帧、后续帧以首帧为基准只改动作，3/5/8/10 帧可选，含成本核算。",
+  "why": "讲清了“逐帧生成保一致性”的机制与价格模型。",
+  "borrow": [
+    "首帧锚定法",
+    "动作风格（走/飞/舞/转）选项设计"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "文生GIF",
+    "教程",
+    "成本"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

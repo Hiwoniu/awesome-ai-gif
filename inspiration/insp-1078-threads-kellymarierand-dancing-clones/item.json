@@ -1,0 +1,40 @@
+{
+  "id": "insp-1078",
+  "title": "Threads @kellymarierand：'Dancing Miniature Clones' 五分身同舞提示词",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@kellymarierand/post/DfwNEz4lM_7",
+    "platform": "Threads",
+    "author": "@kellymarierand",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-14 帖子：编号创意提示词，让 AI 生成 5 个皮克斯风大头 3D 迷你版自己，各跳不同搞笑舞步、保留面部特征，拼成顺滑循环 GIF，附 ChatGPT 对话链接。",
+  "why": "提示词结构完整（人数+风格+动作差异+保脸+循环），可直接换原创角色复用。",
+  "borrow": [
+    "五分身同舞的提示词结构",
+    "保面部特征+多动作差异化"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "已打开原文核实；帖子用的是作者本人照片，只借提示词结构，不用人像。"
+  },
+  "tags": [
+    "Threads",
+    "提示词",
+    "迷你分身",
+    "保脸"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

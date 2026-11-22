@@ -1,0 +1,40 @@
+{
+  "id": "insp-553",
+  "title": "Threads：@ssktechy.ai 照片变循环 GIF，微笑挥手加背景静止",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@ssktechy.ai/post/Df2M92_hXml",
+    "platform": "Threads",
+    "author": "Sai Santosh Kumar",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "教程：上传自拍到 ChatGPT，输入提示词做微笑挥手的短循环 GIF（背景保持静止），约 30 秒生成，可再要求换动作；提示词写法为微笑挥手加背景静止；一次生成后追问换动作的迭代用法。",
+  "why": "微笑挥手加背景静止的提示词写法很实用：一次生成后追问换动作的迭代用法也很省事，适合批量出同角色不同动作。",
+  "borrow": [
+    "微笑挥手加背景静止的提示词写法",
+    "一次生成后追问换动作的迭代用法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "以 2025 Ghibli 风潮作引子；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "自拍转GIF",
+    "挥手",
+    "Threads",
+    "迭代"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

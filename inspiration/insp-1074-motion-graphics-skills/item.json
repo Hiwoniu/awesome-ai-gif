@@ -1,0 +1,44 @@
+{
+  "id": "insp-1074",
+  "title": "motion-graphics-skills：代码逐帧做循环 GIF 的 Skill 包",
+  "type": "posters",
+  "source": {
+    "url": "https://github.com/immamdouhaboammar/motion-graphics-skills",
+    "platform": "GitHub",
+    "author": "imMamdouhaboammar",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Claude Code Motion Studios 的 64 个 Agent Skill 包：其中 loop-cover 把封面图做成 896×640、180 帧@20fps 的无缝循环 GIF（含接缝测量），animated-chart 做循环动态图表。",
+  "why": "池内少见的“代码逐帧生成循环 GIF”路线（HTML/JS 动画 + ffmpeg 编码），loop-cover 的接缝量化与“首帧即成品图”规则可直接借给动态海报/封面。",
+  "borrow": [
+    "loop-cover 的 180 帧@20fps 编码参数与无 dithering 的 ffmpeg 写法",
+    "接缝（seam）与动幅（excursion）的量化验收指标",
+    "首帧即成品图的循环旋转规则",
+    "只动一个元素的单动效约束",
+    "animated-chart 循环图表的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "Other（NOASSERTION）",
+    "note": "已打开原文核实（GitHub README；67 stars，创建于 2026-09-29）；License 为 Other（NOASSERTION），复用边界不明；GIF 只是其中一个技能，仓库整体偏视频动效。"
+  },
+  "tags": [
+    "GitHub",
+    "Skill",
+    "逐帧生成",
+    "循环接缝",
+    "动态图表"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

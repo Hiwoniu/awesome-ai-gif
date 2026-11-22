@@ -1,0 +1,36 @@
+{
+  "id": "insp-725",
+  "title": "Nano Banana 一句话出 8 帧组装动画再切图成 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://dev.to/airabbit/turn-a-single-prompt-into-a-full-animation-with-nano-banana-45d0",
+    "platform": "DEV",
+    "author": "airabbit",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 Nano Banana 一条提示词生成 8 帧连续组装过程九宫格（锁定机位、光线、背景，只变新增零件），再用开源 Image Cutter 切图导出 GIF 的教程。",
+  "why": "有可直接借鉴的 8 帧提示词模板（逐帧递进加全局锁定约束）与切图成 GIF 的完整链路。",
+  "borrow": [
+    "单提示词多帧网格结构",
+    "除新增零件外一切不变的锁定写法",
+    "网格图切图导出 GIF 的后处理链路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["Nano Banana", "九宫格", "多帧", "教程", "切图"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

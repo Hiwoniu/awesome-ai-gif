@@ -1,0 +1,40 @@
+{
+  "id": "insp-476",
+  "title": "Threads：ChatGPT 直接生成 GIF，生活技巧 GIF 与厌世猫 GIF 等三套模板",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@workflowhelper/post/DfhXA3mmM-t",
+    "platform": "Threads",
+    "author": "Yu",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "给出 3 个可替换场景占位符的复用模板，覆盖 LINE 贴纸之外的用途：文字步骤变动态教学、上班梗图。",
+  "why": "不是只秀效果，而是给可替换占位符的复用模板，还覆盖了教学与梗图两种用途。",
+  "borrow": [
+    "场景占位符的模板写法",
+    "文字步骤变动态教学的思路",
+    "上班梗图的选题角度"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "提示词模板",
+    "动态教学",
+    "Threads"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

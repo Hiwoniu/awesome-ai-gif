@@ -1,0 +1,38 @@
+{
+  "id": "insp-787",
+  "title": "Instagram @cosynkai.lab：宠物照片转循环 GIF 三档提示词",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dfh79jVkjqJ/",
+    "platform": "Instagram",
+    "author": "@cosynkai.lab",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "宠物照片转循环 GIF，三条示例提示词（2 秒轻微动态、卡通贴纸 GIF 等）。",
+  "why": "宠物图转 GIF 的三档提示词可直接套用到宠物类表情包。",
+  "borrow": [
+    "宠物图转 GIF 的三档提示词：2 秒轻微动态、卡通贴纸 GIF 等"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "宠物",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

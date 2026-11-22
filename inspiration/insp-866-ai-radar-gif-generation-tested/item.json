@@ -1,0 +1,41 @@
+{
+  "id": "insp-866",
+  "title": "AI Radar：ChatGPT Images 2.6 GIF 生成实测（文生/图生、帧数与速度控制）",
+  "type": "multi",
+  "source": {
+    "url": "https://radar.aitoolnet.com/guide/chatgpt-images-26-gif-generation-tested-text-photo-to-animated-gifs-mw2r1z29",
+    "platform": "AI Radar",
+    "author": "AI Radar",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "实测 ChatGPT Images 2.6 的 GIF 生成：一段文字或一张照片变成循环 GIF，帧数 4–16、每帧毫秒可调，并给出适用与不适用的边界。",
+  "why": "不是功能复述，而是实测结论：扁平贴纸风最稳、真人快动作会抖、透明背景与精确时序做不了，可直接当我们做 GIF 的验收清单。",
+  "borrow": [
+    "8 帧 + 120ms 起测、验角色一致性后再加帧的工作流",
+    "GIF 与视频模型、FFmpeg 手工路线的选型对照表",
+    "扁平插画与贴纸风最稳、真人快动作易抖的选型结论"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "原文已打开核实；示例为柴犬雨中奔跑等通用场景，无 IP 角色。"
+  },
+  "tags": [
+    "GPT-Image-2.6",
+    "GIF实测",
+    "帧数控制",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

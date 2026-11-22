@@ -1,0 +1,41 @@
+{
+  "id": "insp-265",
+  "title": "WatermarkGemini：GPT Image 2.6 API 原生 GIF 路线",
+  "type": "multi",
+  "source": {
+    "url": "https://www.watermarkgemini.com/blog/chatgpt-image-2-6-gif",
+    "platform": "WatermarkGemini",
+    "author": "WatermarkGemini Editorial Team",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "区分聊天端与 API 两条路线，讲清原生 GIF 输出的帧数、帧时长、输出格式等 API 参数与校验方法。",
+  "why": "给出可复现的 API 参数范围（2–16 帧、每帧 20–2000ms），适合做批量、程序化 GIF 生产的规格依据。",
+  "borrow": [
+    "output_format=gif 的 API 路线",
+    "帧数与时长换算（9 帧 × 200ms ≈ 1.8s）",
+    "下载后校验是否真为动图",
+    "先简单循环再加复杂动作"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "GPT-Image-2.6",
+    "API",
+    "参数"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

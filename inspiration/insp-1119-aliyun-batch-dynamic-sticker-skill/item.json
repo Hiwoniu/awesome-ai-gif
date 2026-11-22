@@ -1,0 +1,32 @@
+{
+  "id": "insp-1119",
+  "title": "阿里云：批量生成动态表情包的 Skill",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://developer.aliyun.com/article/1779633",
+    "platform": "阿里云开发者社区",
+    "author": "",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "作者自制的批量生成动态表情包 Skill 分享。",
+  "why": "批量化路线的实测 Skill，与单张教程形成互补。",
+  "borrow": ["批量生成的流程设计", "Skill 的提示词编排", "批量场景下的角色一致性处理"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实。"
+  },
+  "tags": ["Skill", "批量生成", "动态表情包", "教程"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "insp-858",
+  "title": "IG 企鹅像素精灵表：33 帧七动作演示",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df485Kuzykv/",
+    "platform": "Instagram",
+    "author": "حمزة الحوسني",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "企鹅像素精灵表 33 帧演示：STAND、IDLE、WALK、DIVE、SLIDE、BRAKE、HURT 七个动作。",
+  "why": "一张表覆盖七个动作的组织方式：待机、行走、跳水、滑行、刹车、受伤分帧排布，是游戏向精灵表的完整动作库样本。",
+  "borrow": [
+    "一张精灵表排七个动作的动作库组织",
+    "33 帧在七动作间的帧数分配参照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["像素风", "精灵表", "多动作", "企鹅", "Instagram"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

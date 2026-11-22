@@ -1,0 +1,39 @@
+{
+  "id": "insp-350",
+  "title": "Dev.to：文字提示词生成游戏精灵图（SpriteFlow）",
+  "type": "multi",
+  "source": {
+    "url": "https://dev.to/alvy/from-text-prompt-to-sprite-sheet-generating-game-ready-2d-character-animations-with-ai-3g7a",
+    "platform": "Dev.to",
+    "author": "alvy",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "文字提示词生成游戏用 2D 角色动画的工作流分享，核心是“先锁定风格再批量出帧”，导出精灵图集+JSON。",
+  "why": "把风格漂移问题讲得很透，给出用参考图锁定配色、线宽与比例再批量生成的解法。",
+  "borrow": [
+    "一次锁定风格、多帧复用的防漂移流程",
+    "按动作类型出动画的编排"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "作者为工具 SpriteFlow 的制作者，文章带推广性质，但工作流本身具体可用。"
+  },
+  "tags": [
+    "Dev.to",
+    "精灵图",
+    "风格一致"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

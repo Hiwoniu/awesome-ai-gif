@@ -1,0 +1,39 @@
+{
+  "id": "insp-922",
+  "title": "Instagram @borod.in：高跟鞋茶壶 12 帧 100ms 循环 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfaWohUE9wp/",
+    "platform": "Instagram",
+    "author": "@borod.in",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "提示词“穿高跟鞋的茶壶”出 12 帧、每帧 100ms 的循环 GIF（11 月 6 日）。",
+  "why": "帧数与帧时规格写得最明确的一条（12 帧×100ms），荒诞拟物角色的点子也值得借。",
+  "borrow": [
+    "12 帧×100ms 规格写法",
+    "荒诞拟物角色点子"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "帧数规格",
+    "拟物",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

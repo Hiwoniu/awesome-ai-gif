@@ -1,0 +1,41 @@
+{
+  "id": "insp-627",
+  "title": "motion-anything：聊天驱动的开源动效引擎，可导出 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/nexu-io/motion-anything",
+    "platform": "GitHub",
+    "author": "nexu-io",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "本地优先的 agentic 动效引擎：一句话描述感觉，由编码 Agent 生成动画，内置 403 条动效配方与关键帧编辑器，可导出 JSON、CSS、Lottie、MP4 与 GIF。",
+  "why": "「描述感觉出动效」的交互和配方库的组织方式值得借，动态文字类配方可以直接转成 GIF 用法。",
+  "borrow": [
+    "动效配方库组织",
+    "动态文字配方",
+    "在运行页面上逐组件改动效"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "Apache-2.0",
+    "note": "开源引擎，只借配方分类与交互思路。"
+  },
+  "tags": [
+    "动效引擎",
+    "开源",
+    "动态文字",
+    "导出 GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

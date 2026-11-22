@@ -1,0 +1,44 @@
+{
+  "id": "insp-1138",
+  "title": "来财啦：实测 GPT Image 2.6 一键生成 GIF 表情包，附提示词",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.laicaila.com/news/review-image-generation-gif",
+    "platform": "来财啦",
+    "author": "来财啦",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 中文实测合集：GIF 表情包、真人动态表情包、动态伪视频、教育科普动画、商业动态图表五组提示词，外加 vargHQ 表情包 Skill 与像素表情包项目的上手记录。",
+  "why": "一篇同时覆盖表情包、伪视频、科普动画、商业图表五种 GIF 用法的中文实测，提示词按场景分组、可直接对照着改；其中“拿爆火 meme 换主角重做”的换角写法和“先确认标准形象再批量出整套”的验收顺序值得借。",
+  "borrow": [
+    "参考 GIF 换主角重做的提示词结构：动作与镜头照原片、外观照角色图",
+    "先确认角色标准形象、再批量出整套的验收顺序",
+    "科普动画的分步标签与无缝循环写法",
+    "商业动态图表的生长+描线分段动画写法",
+    "动态伪视频的 10 秒分镜结构"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "已打开原文核实；文中含奶龙 IP 案例与真人动态表情包做法，只借方法与结构，不复刻 IP 角色与真人"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "表情包",
+    "提示词",
+    "实测",
+    "伪视频"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

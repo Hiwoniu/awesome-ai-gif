@@ -1,0 +1,40 @@
+{
+  "id": "insp-521",
+  "title": "toolji：视频转 GIF 实践方案，分场景帧率与尺寸规格表",
+  "type": "multi",
+  "source": {
+    "url": "https://www.toolji.com/blog/case-video-to-gif",
+    "platform": "toolji.com",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "视频转 GIF 的在线实操指南，按使用场景给参数方案与全流程操作指引：社群表情包 10–12fps、宽 480px、≤2MB；公众号演示动图 15–18fps、宽 640px；产品宣传动图 20fps、宽 1080px。",
+  "why": "分场景的帧率、尺寸、体积规格表可以直接借用到 GIF 导出环节：不同落点各一套参数，体积超标时的降帧降尺寸处理法也很实用。",
+  "borrow": [
+    "分场景的帧率尺寸体积规格表",
+    "体积超标时的降帧降尺寸处理法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "通用视频转 GIF 教程，非 AI 生成路线，价值在导出参数而不在生成方法；仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "导出规格",
+    "视频转GIF",
+    "帧率",
+    "体积控制"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-697",
+  "title": "IG @googleflow：手绘涂鸦变毛茸茸小怪物（涂鸦→行走循环）",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Da0qISzEbkM/",
+    "platform": "Instagram",
+    "author": "@googleflow",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "官方轮播：蓝粉条纹猫涂鸦、蘑菇涂鸦、黄色涂鸦小人等，先用 Nano Banana 精修、再用 Gemini Omni 做成会走路、探头、被摸的毛茸 3D 小生物，全程保留原涂鸦叠加对照。",
+  "why": "涂鸦→角色→行走循环的“手绘转动态角色”路径：先精修再动起来，两步分开；全程保留原涂鸦叠加对照，适合我们原创角色从草图起步的路线。",
+  "borrow": [
+    "手绘涂鸦→角色→行走循环的路径",
+    "精修与动效分两步的做法",
+    "全程保留原涂鸦叠加对照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "multi",
+    "涂鸦",
+    "原创角色",
+    "行走循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

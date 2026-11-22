@@ -1,0 +1,40 @@
+{
+  "id": "insp-513",
+  "title": "Sprite Flow：AI 精灵动画生成器，一次生成多动作加多引擎导出",
+  "type": "multi",
+  "source": {
+    "url": "https://www.toolify.ai/tool/sprite-flow",
+    "platform": "Toolify",
+    "author": "Sprite Flow",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "AI 精灵动画生成器：上传图片或文字描述生成走路、待机、跑跳、攻击等一致性 2D 角色动画，像素、卡通、动漫等风格，导出精灵表、单帧 PNG、GIF、APNG、ZIP 及 Unity/Godot/Unreal 引擎资产。",
+  "why": "一次生成多动作加多引擎导出的产品形态很完整：一个角色一次出齐走路、待机、跑跳、攻击，导出直接进游戏引擎。",
+  "borrow": [
+    "一次生成多动作的产品形态",
+    "多引擎导出的资产组合"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "聚合工具站转述页，非官方原站，未实测；仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "精灵图",
+    "工具",
+    "多动作",
+    "游戏引擎"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-401",
+  "title": "Wobble：浏览器动画制作器，可导出 GIF",
+  "type": "posters",
+  "source": {
+    "url": "https://usewobble.com/",
+    "platform": "Wobble",
+    "author": "Wobble",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "浏览器里的动画制作器：模板起手，一键加弹出、滑动、打字机等效果、时间线排布，导出 MP4/GIF/WebM；可用文字描述让 AI 生成可编辑的初版。",
+  "why": "“AI 出初版、图层全部可改”的定位与动态海报 GIF 的制作流程直接相关，且免费工具无需注册即可出 GIF。",
+  "borrow": [
+    "逐字/逐词/逐行动画与缓动选择",
+    "AI 生成结果落为可编辑文件而非成品视频",
+    "同一设计多尺寸导出",
+    "浏览器内渲染、所见即所得"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "动态海报",
+    "动画制作器",
+    "GIF导出",
+    "模板"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

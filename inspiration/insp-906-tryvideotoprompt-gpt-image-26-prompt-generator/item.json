@@ -1,0 +1,32 @@
+{
+  "id": "insp-906",
+  "title": "Video to Prompt：GPT Image 2.6 提示词生成器（视频转提示词、精灵表六要素）",
+  "type": "multi",
+  "source": {
+    "url": "https://www.tryvideotoprompt.com/gpt-image-2-6/",
+    "platform": "网站",
+    "author": "Video to Prompt",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "上传视频或参考图，生成针对 GPT Image 2.6 的结构化提示词；GIF 部分按精灵表格式出规约。",
+  "why": "把官方公告里的精灵表写法拆成六要素清单（帧数、网格、等格、固定镜头、递进动作、回环接缝、硬排除），可直接当提示词检查表用。",
+  "borrow": ["精灵表六要素拆解：帧数、网格、等格、固定镜头、递进动作、回环接缝、硬排除", "Flare/Sunburst 与 quality/complexity 参数的分工", "先改约束段、每轮只改一处”的迭代法"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "工具页本身是提示词生成器，未实测生成效果；页面引用的官方示例提示词只借结构，不照搬原文"
+  },
+  "tags": ["GPT Image 2.6", "sprite-sheet", "prompt-generator", "tools"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

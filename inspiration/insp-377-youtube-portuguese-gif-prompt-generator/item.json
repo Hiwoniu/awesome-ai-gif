@@ -1,0 +1,40 @@
+{
+  "id": "insp-377",
+  "title": "YouTube：葡语教程——GIF 提示词生成器与时长控制",
+  "type": "multi",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=iRSGg4r2XSI",
+    "platform": "YouTube",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "葡语完整教程：免费做动画 GIF、附自建的 GIF 提示词生成器，实测时长与帧率控制、GIF 转视频技巧。",
+  "why": "附免费的 GIF 提示词生成器工具，时长/帧率控制与 GIF 转视频的接法值得借鉴。",
+  "borrow": [
+    "GIF 提示词生成器",
+    "时长帧率控制",
+    "GIF 转视频"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "视频教程",
+    "提示词生成器",
+    "时长控制"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

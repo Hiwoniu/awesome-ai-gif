@@ -1,0 +1,43 @@
+{
+  "id": "insp-894",
+  "title": "SkillHub 图片转动态表情专家：六种表情动画加多平台规格的 Skill",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://blog.yeyupiaoling.cn/article/1795043459958?lang=en",
+    "platform": "SkillHub",
+    "author": "user_442551c3",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "SkillHub 社区 Skill：静态图先做内容与区域分析，再选六种表情动画之一、叠文字气泡，按微信 240×240、抖音 540×540、Telegram 512×512 等多平台规格出 GIF，同一角色可批量做系列。",
+  "why": "把一张静态图转动图的步骤收敛成一条 Agent 工作流：动区标记、六种表情动画分类、文字气泡叠加、多平台尺寸规格表，适合直接当作我们静态图转动图的检查清单。",
+  "borrow": [
+    "六种核心表情动画的分类：眨眼、张嘴、点头、摇头、抖动、变形",
+    "先分析静态内容与区域、再标记动区的工作流",
+    "文字与气泡叠加的做法",
+    "多平台尺寸规格表：微信 240×240、抖音 540×540、Telegram 512×512",
+    "同一角色批量做系列的组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "SkillHub 原页内容较少，能力细节凭博客介绍收录，未逐项核实 Skill 原文；博客含安装命令，本条只收 Skill 能力说明，不执行安装。"
+  },
+  "tags": [
+    "SkillHub",
+    "Skill",
+    "微信表情包",
+    "静态图转动态"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

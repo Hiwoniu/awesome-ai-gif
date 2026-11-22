@@ -1,0 +1,42 @@
+{
+  "id": "insp-456",
+  "title": "motion-sticker-pack Skill：角色图转透明循环贴纸包",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://github.com/kobingogo/motion-sticker-pack",
+    "platform": "GitHub",
+    "author": "kobingogo",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Claude Code / Codex 用 Skill：角色图或文字定义角色，先审静态九宫格，再走视频生成、清理、切分、打包，输出 240×240、8fps、3 秒可循环的透明 GIF/WebP/PNG 贴纸包。",
+  "why": "“先审静态表再动起来”的流程与我们先审定妆照的思路一致；纯绿底源图加本地像素检查的透明化做法值得借。",
+  "borrow": [
+    "先审静态九宫格再生成动图的流程",
+    "纯绿底源图加本地像素检查的透明化做法",
+    "240×240、8fps、3 秒的贴纸规格",
+    "视频生成再抽帧切分的路线"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "开源 Skill，许可证未在摘要中确认，入库前以仓库 LICENSE 为准；仅凭搜索摘要收录，未打开仓库核实"
+  },
+  "tags": [
+    "Skill",
+    "贴纸包",
+    "透明GIF",
+    "GitHub"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

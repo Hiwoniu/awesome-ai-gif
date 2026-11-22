@@ -1,0 +1,39 @@
+{
+  "id": "insp-751",
+  "title": "Instagram @openai：官方跳舞猫 GIF 演示，可追问改动",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfV-nD5psyE",
+    "platform": "Instagram",
+    "author": "@openai",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "OpenAI 官方 Images 2.6 跳舞猫 GIF 演示：一句话出循环 GIF，还能追问加粉色激光、调 2 倍速",
+  "why": "官方“提示词→GIF→追问改动”的演示结构，可编辑速度与单帧",
+  "borrow": [
+    "提示词→GIF→追问改动的演示结构",
+    "追问调速与单帧改动的玩法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Instagram",
+    "官方",
+    "追问改动"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-349",
+  "title": "Dev.to：优化 GIF 变“幽灵精灵表”的四个坑",
+  "type": "multi",
+  "source": {
+    "url": "https://dev.to/fancy39_9841cbc02f99f729c/why-optimized-gifs-turn-into-haunted-sprite-sheets-and-4-tiny-canvas-fixes-for-2d-game-devs-3960",
+    "platform": "Dev.to",
+    "author": "fancy39",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "讲 GIF 优化后转精灵表出现“幽灵肢体”的四个坑与修复代码，含增量帧重建、AI 生成不规则表的切分、EPX 像素放大。",
+  "why": "直击 AI 生成精灵表最常见的脏数据问题（不规则间隙、残影帧、≤10ms 帧延迟被浏览器钳制到 100ms），附可直接参考的算法思路。",
+  "borrow": [
+    "增量帧重建",
+    "边缘泛洪切不规则表",
+    "EPX 放大像素画"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Dev.to",
+    "精灵表",
+    "踩坑",
+    "GIF优化"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

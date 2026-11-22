@@ -1,0 +1,43 @@
+{
+  "id": "insp-868",
+  "title": "OPC：ChatGPT 能做 GIF 贴纸了，但版权与交付仍卡住变现",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.opcnew.com/en/chatgpt-gif-sticker-commercialization-zh",
+    "platform": "OPC New",
+    "author": "OPC New",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "一篇分析：开源 Skill 把角色定稿、聊天场景、动作分镜、字体、导出拆成可复用工作流；但 Skill 解决不了版权与交付，微信表情与电商平台的准入边界各不相同。",
+  "why": "补了池里少见的一角：不是怎么做 GIF，而是做完能不能卖——先定角色、小批量验动作再扩整套、文字单独成层防串帧，外加版权与平台检查清单。",
+  "borrow": [
+    "Skill 式拆解：角色定稿→聊天场景→动作分镜→字体→导出的五段工作流",
+    "先定角色、小批量验动作再扩整套的放量节奏",
+    "文字单独成层防跨帧串字的处理、GIF 本质是逐帧序列的验收视角",
+    "版权与交付检查清单：角色、字体、肖像权与生成工具条款，微信表情与电商平台边界不同"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "原文已打开核实；文中提到的开源 Skill 未给出仓库链接，落地前需另找对应 Skill 核对。"
+  },
+  "tags": [
+    "GPT-Image-2.6",
+    "Skill",
+    "版权",
+    "微信表情包",
+    "变现"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

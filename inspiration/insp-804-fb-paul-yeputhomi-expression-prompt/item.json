@@ -1,0 +1,40 @@
+{
+  "id": "insp-804",
+  "title": "Facebook Paul Yeputhomi：表情分解式提示词，三步照片转 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/paul.yeputhomi/posts/pfbid02J1vwfHP1zQheLL4Kke8A9W4ibWfQUTBYVzsVTXzUR6YiF2w3KANVJuxiws62wQVxl",
+    "platform": "Facebook",
+    "author": "Paul Yeputhomi",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "三步信息图：照片转 GIF，示例提示词细化到“眉毛上扬、眼睛睁大、下巴掉下、双手捂脸颊”式震惊表情。",
+  "why": "表情分解式提示词写法可直接套用到表情类 GIF。",
+  "borrow": [
+    "表情分解式提示词写法：眉毛、眼睛、下巴、双手逐项写动作",
+    "三步照片转 GIF 的信息图结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Facebook",
+    "表情分解",
+    "提示词",
+    "信息图"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

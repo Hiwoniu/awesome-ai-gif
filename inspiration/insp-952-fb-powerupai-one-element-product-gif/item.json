@@ -1,0 +1,35 @@
+{
+  "id": "insp-952",
+  "title": "FB @PowerUpAI：产品图只动一个元素出 GIF 的工作流",
+  "type": "posters",
+  "source": {
+    "url": "https://www.facebook.com/PowerUpAI/posts/pfbid0RJZud4sNnD5ofj1CkGFhx81TvgoLkqZxqnXnGKqSTsvizwHGjbzUSnWkWhR4ro8kl",
+    "platform": "Facebook",
+    "author": "@PowerUpAI",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "产品、门店、logo 图只动一个元素出 GIF 的工作流，面向商业宣传场景。",
+  "why": "只动一个元素的决策法落在产品图上很实用：主体不动、一个元素动，循环稳且制作成本低，可作动态海报的取材。",
+  "borrow": [
+    "只动一个元素的商业 GIF 决策法",
+    "产品、门店、logo 三类图的动效取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；只借决策法与工作流"
+  },
+  "tags": ["Facebook", "产品图", "只动一个元素", "动态海报"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

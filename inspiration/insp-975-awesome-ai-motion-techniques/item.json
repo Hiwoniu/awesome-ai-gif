@@ -1,0 +1,43 @@
+{
+  "id": "insp-975",
+  "title": "Awesome AI Motion：637 种动效技法的 Agent 可读指南",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/gongnyang/awesome-ai-motion",
+    "platform": "GitHub",
+    "author": "gongnyang",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "637 种动效技法、128 条参考 clips、11 个 recipes、7 条 design routes 的开源动效 field guide，每张 effect 卡含定义、调参、示例与 Agent 提示词，可本地渲染出 preview.gif。",
+  "why": "动效选型方法论完整：按场景要传达什么选动效，effect 卡加默认参数加渲染验证的工作流，对动态海报与卡片的动效设计可直接借鉴。",
+  "borrow": [
+    "按传达意图选动效的选型方法论",
+    "effect 卡结构：定义+默认参数+示例+提示词",
+    "本地渲染验证的工作流（出 preview.gif 再验收）",
+    "16 个高 impact 动效的分类组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": "原作 MIT；GSAP 与字体保留各自授权，转载时看 ATTRIBUTIONS。"
+  },
+  "tags": [
+    "GitHub",
+    "开源",
+    "动效",
+    "动态海报",
+    "Agent Skill"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

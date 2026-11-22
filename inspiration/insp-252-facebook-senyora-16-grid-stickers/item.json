@@ -1,0 +1,41 @@
+{
+  "id": "insp-252",
+  "title": "Facebook Senyora：16 格 AI 表情包（4×4 表情九宫格）",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/nyoraofficial/posts/pfbid0XSvLH8vtDEbkzF5X1URq1XVEv1AfYDiHiAr9B9EK3J3JaiEesDm3Mi1Mg3kWTTzzl",
+    "platform": "Facebook",
+    "author": "Senyora",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "同一卡通形象 4×4 共 16 种夸张表情配短 caption 的表情包图，评论区大量用户互传 ChatGPT、Gemini 做法。",
+  "why": "2026 年 5 月菲律宾爆火的 AI 表情包模板，42K 赞、3.8K 评论，是“一人 16 表情”玩法的源头级帖子。",
+  "borrow": [
+    "16 表情一次成图排布",
+    "每格一表情一短词",
+    "评论区即教程的传播结构",
+    "同一角色多表情一致性"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录；只借排布与方法"
+  },
+  "tags": [
+    "Facebook",
+    "16格",
+    "爆款"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

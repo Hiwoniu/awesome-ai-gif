@@ -1,0 +1,40 @@
+{
+  "id": "insp-1086",
+  "title": "FB：ChatGPT 遥控 spritepaint.com 画逐帧像素动画",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/reel/1424405343204490/",
+    "platform": "Facebook",
+    "author": "未署名",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-10-20 帖子：让 ChatGPT 操作 spritepaint.com，按参考图画跑/跳/挥剑 3 组 4 帧像素动画，全程约 40 分钟延时摄影，最后成 GIF。",
+  "why": "Agent 遥控逐帧工具的罕见实测，做法新颖。",
+  "borrow": [
+    "ChatGPT 遥控逐帧工具的 Agent 工作流",
+    "参考图保一致+三组动作批量出帧"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Facebook",
+    "Agent",
+    "逐帧动画",
+    "像素风"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

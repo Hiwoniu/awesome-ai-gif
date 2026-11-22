@@ -1,0 +1,35 @@
+{
+  "id": "insp-951",
+  "title": "IG @designpreneurss：Images 2.6 GIF 功能点介绍",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfjsikkO8Rh/",
+    "platform": "Instagram",
+    "author": "@designpreneurss",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Images 2.6 GIF 功能介绍短片：文字或照片出 GIF、可调速、改单帧。",
+  "why": "功能点清单很干净，调速与改单帧是做循环 GIF 时最常用的两个后期操作，可作教程类内容的取材对照。",
+  "borrow": [
+    "功能点清单：文字或照片出 GIF、可调速、改单帧",
+    "短片式功能介绍的呈现结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["Instagram", "功能介绍", "调速", "改单帧"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

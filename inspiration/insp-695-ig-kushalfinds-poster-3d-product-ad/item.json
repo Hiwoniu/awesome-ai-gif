@@ -1,0 +1,40 @@
+{
+  "id": "insp-695",
+  "title": "IG @kushalfinds.ai：海报变 3D 产品广告（保真＋转 3D 动效）",
+  "type": "posters",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dc8lsyqyK3t/",
+    "platform": "Instagram",
+    "author": "@kushalfinds.ai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Nike Air Jordan 海报变红液飞溅＋旋转鞋款的 3D 动画，披萨、连帽衫海报同法处理；流程是上传海报→flow.google.com→粘贴“保留产品/logo/文字/颜色，做 10 秒高级 3D 广告”的提示词→生成。",
+  "why": "“保真（产品/logo/文字/颜色不变）＋转 3D 动效”的提示词约束写法：动效再大也不能改产品与文字，是产品海报动起来的关键约束句。",
+  "borrow": [
+    "保真约束写法：产品/logo/文字/颜色不变",
+    "海报→10 秒 3D 广告的提示词结构"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "示例为 Nike 品牌海报，只借保真约束与转 3D 动效的写法，不用它的品牌与产品形象。"
+  },
+  "tags": [
+    "posters",
+    "动态海报",
+    "3D 广告",
+    "保真"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

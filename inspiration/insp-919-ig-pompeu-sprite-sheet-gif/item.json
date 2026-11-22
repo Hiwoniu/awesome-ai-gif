@@ -1,0 +1,39 @@
+{
+  "id": "insp-919",
+  "title": "Instagram @pompeu.ia：精灵表老动画技巧出 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfX9euwhOsl/",
+    "platform": "Instagram",
+    "author": "@pompeu.ia",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "用传统 sprite sheet 思路让 ChatGPT 一次出多帧、再拼成 GIF 的演示（葡语，11 月 5 日）。",
+  "why": "精灵表提示词写法（格数、动作分解）讲得直接，适合微信表情包批量出帧的对照。",
+  "borrow": [
+    "精灵表提示词写法",
+    "格数与动作分解",
+    "一次出多帧再拼 GIF"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "精灵表",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

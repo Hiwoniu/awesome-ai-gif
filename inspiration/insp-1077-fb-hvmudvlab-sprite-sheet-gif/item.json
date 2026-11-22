@@ -1,0 +1,41 @@
+{
+  "id": "insp-1077",
+  "title": "FB @hvmudvlab：8 个 GIF 示例 + 精灵表工作流（224px vs 988px 避坑）",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/1885821599458080/",
+    "platform": "Facebook",
+    "author": "@hvmudvlab",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-06 帖子：8 个卡通 GIF 各一句话提示词；关键做法是跳过内置 GIF 按钮（只出 224px 低清），改要 3×2 六帧精灵表，第 6 帧必须接回第 1 帧，裁切后用免费 GIF 工具拼成 988px。",
+  "why": "有明确的规格对比（224px vs 988px）和防跳帧要点，是池内少见的“避坑参数”。",
+  "borrow": [
+    "3×2 六帧精灵表+首尾相接防跳帧",
+    "224px 与 988px 规格取舍",
+    "一句话提示词出 8 例的批量思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；同作者的 IG 帖子已收为 insp-846（OpenArt 精灵表），这是另一条 FB 帖子、另一套工作流。"
+  },
+  "tags": [
+    "Facebook",
+    "精灵表",
+    "规格",
+    "防跳帧"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

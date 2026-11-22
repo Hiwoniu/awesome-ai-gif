@@ -1,0 +1,38 @@
+{
+  "id": "insp-808",
+  "title": "Facebook Tavaana Tech：印刷机插画四帧 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/TavaanaTech/posts/pfbid0HNMYk5rhGmav9PaUMAGc5aZ7tX9TivEFRCgGJfAvsC9b4Gu738wCNuVfjPtaTRExl",
+    "platform": "Facebook",
+    "author": "Tavaana Tech",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "印刷机插画：提示词加参考照进、四帧 GIF 出。",
+  "why": "四帧输出的示意可作少帧 GIF 的参考。",
+  "borrow": [
+    "四帧 GIF 的输出示意：提示词加参考照进、四帧出"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Facebook",
+    "四帧",
+    "插画"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

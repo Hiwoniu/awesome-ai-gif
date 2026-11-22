@@ -1,0 +1,32 @@
+{
+  "id": "insp-957",
+  "title": "AtlasCloud：三个 GPT Image 2.6 反应 GIF 实测与逐帧检查法",
+  "type": "multi",
+  "source": {
+    "url": "https://www.atlascloud.ai/blog/tips/gpt-image-2.6-reaction-gif",
+    "platform": "AtlasCloud",
+    "author": "AtlasCloud",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "三个已发布的 GPT Image 2.6 反应 GIF（点赞猫、兴奋猫头鹰、真人挥手）加一个原创小狗示例，配逐帧检查与提示词写法。",
+  "why": "把反应 GIF 的验收方法讲清楚了：先看首末帧接缝、再看聊天尺寸下情绪是否可读，三个案例正好是贴纸、角色、真人三种用途。",
+  "borrow": ["一情绪一动作的反应结构：中性→峰值→回正", "首末帧对照检查法：连续播三遍、比对首帧与峰值帧、末帧", "逐帧分镜提示词写法：按帧号写表情与动作变化", "背景色写死具体色值、留足安全边的验收点"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。三个案例 GIF 来自 Flixly 与 PTTL 的已发布作品，只借检查方法与提示词结构，不复用其角色画面；真人挥手案例只借接缝检查法。"
+  },
+  "tags": ["GPT Image 2.6", "反应GIF", "逐帧检查", "提示词结构"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

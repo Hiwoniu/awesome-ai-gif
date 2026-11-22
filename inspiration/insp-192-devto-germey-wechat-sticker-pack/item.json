@@ -1,0 +1,41 @@
+{
+  "id": "insp-192",
+  "title": "DEV（Germey）：用 GPT Image 2.6 做微信动态表情包，从角色设计到提交审核",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://dev.to/germey/yong-gpt-image-26-zhi-zuo-wei-xin-dong-tai-biao-qing-bao-cong-jiao-se-she-ji-dao-ti-jiao-shen-he-4io2",
+    "platform": "DEV Community",
+    "author": "Germey",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "以卡皮巴拉为例，从九宫格定角色、4 个场景试做、整套生成到微信表情开放平台提交的全流程。",
+  "why": "“先定角色再批量、先试 4 个常用场景看稳定性”的工作流；角色一致性提示词写法。",
+  "borrow": [
+    "先定角色再批量、先试 4 个场景看稳定性的工作流",
+    "角色一致性提示词：固定头身比、配色、五官、服装",
+    "九宫格定角色的选稿做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "教程文章，引用注明出处",
+    "note": "与已收 Ace Data 卡皮巴拉表情包教程同题材不同文章，内容为独立全流程"
+  },
+  "tags": [
+    "微信表情包",
+    "卡皮巴拉",
+    "工作流",
+    "提交审核"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

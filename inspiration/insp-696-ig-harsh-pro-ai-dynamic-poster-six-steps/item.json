@@ -1,0 +1,42 @@
+{
+  "id": "insp-696",
+  "title": "IG @harsh.pro.ai：六步做动态发布海报（含多尺寸导出）",
+  "type": "posters",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dc1CBU6jAoV/",
+    "platform": "Instagram",
+    "author": "@harsh.pro.ai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "10 页动画教程，用黑点小人讲六步：ChatGPT 定 brief（竖版海报、标题、日期、300+ 校友数据）→联网核实数字→文字定风格→GPT Image 出静帧并校对拼写→Gemini 锁定镜头做定时动效→CapCut 导出竖版/16:9/方形多版本。",
+  "why": "从 brief 到多尺寸导出的完整动态海报 SOP：步骤最全的一条；联网核实数字与出静帧后校对拼写两处，是海报类最容易翻车的检查点。",
+  "borrow": [
+    "从 brief 到多尺寸导出的完整动态海报 SOP",
+    "联网核实数字的检查点",
+    "出静帧后校对拼写的检查点",
+    "CapCut 导出竖版/16:9/方形多版本"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "posters",
+    "动态海报",
+    "SOP",
+    "多尺寸"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

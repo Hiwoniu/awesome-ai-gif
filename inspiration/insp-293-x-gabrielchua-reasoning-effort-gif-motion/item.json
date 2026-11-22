@@ -1,0 +1,38 @@
+{
+  "id": "insp-293",
+  "title": "X @gabrielchua：reasoning_effort 影响 GIF 动作流畅度",
+  "type": "unknown",
+  "source": {
+    "url": "https://x.com/gabrielchua/status/2118135343354720648",
+    "platform": "X/Twitter",
+    "author": "@gabrielchua",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "指出低 reasoning_effort 会跳过后空翻等动作的旋转帧，调高后更平滑。",
+  "why": "官方工程师给出的 GIF 动作质量调参依据，有实测对比。",
+  "borrow": [
+    "复杂动作要调高 reasoning_effort 的参数经验"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "X",
+    "调参",
+    "GPT-Image-2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

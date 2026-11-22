@@ -1,0 +1,43 @@
+{
+  "id": "insp-976",
+  "title": "Ludo AI Sprite Animation：静态精灵图变动作库工具",
+  "type": "multi",
+  "source": {
+    "url": "https://ludo.ai/tools/sprite-animation",
+    "platform": "Ludo AI",
+    "author": "Ludo AI 团队",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "把一张静态精灵图变成完整动作库的工具页：文字动作、3 张手绘关键帧、参考视频、641 个动作预设四种输入，可导出 GIF、精灵表 PNG、JSON 图集、MP4。",
+  "why": "“动作预设库”思路好：641 个带视频预览的命名动作，加首帧加末帧两帧插值工作流，帧数、时长、循环剪裁规格表齐全。",
+  "borrow": [
+    "动作预设库的组织：641 个命名动作+视频预览",
+    "首帧+可选末帧的两帧插值工作流",
+    "帧数/时长/循环剪裁的规格表",
+    "静态精灵图变动作库的产品思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "与池内 insp-077、insp-762 的 Ludo 工具不同页，静态图变动作是独立功能。"
+  },
+  "tags": [
+    "Ludo AI",
+    "精灵表",
+    "游戏精灵",
+    "动作库",
+    "工具"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

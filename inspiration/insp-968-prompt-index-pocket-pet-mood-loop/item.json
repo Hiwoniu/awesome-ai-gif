@@ -1,0 +1,43 @@
+{
+  "id": "insp-968",
+  "title": "Prompt Index：Pocket Pet Mood Loop，一张宠物照出六格情绪循环 GIF 表",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://prompt-index.com/prompt/gpt-image-2-6-pocket-pet-mood-loop",
+    "platform": "Prompt Index",
+    "author": "Prompt Index",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "一张宠物照做参考，GPT Image 2.6 一次出一张 3×2 六格表，六种情绪各一格、末格回开场姿势，可拼成循环 GIF 的提示词条目。",
+  "why": "六格一格一情绪的结构很适合做微信表情包的情绪组：一次出齐、角色锚点写得具体、末格回开场保证循环不断。",
+  "borrow": [
+    "3×2 六格表的情绪分组法：开心弹跳、好奇歪头、困倦蜷缩、惊讶小跳、轻轻挥手、回到开场中性姿势",
+    "身份锚点写法：花纹、配饰、眼睛颜色、体型比例、材质、背景、机位、光线逐项锁定",
+    "末格回开场姿势的循环闭合要求",
+    "贴纸尺寸可读性的验收点：动作在小尺寸下仍能看清"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "原文已打开核实；页面注明提示词为改写后的公开来源措辞，未照抄原文；示例为猫咪照片，换原创角色重做。"
+  },
+  "tags": [
+    "GPT-Image-2.6",
+    "sprite-sheet",
+    "prompt",
+    "pet",
+    "wechat-stickers"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

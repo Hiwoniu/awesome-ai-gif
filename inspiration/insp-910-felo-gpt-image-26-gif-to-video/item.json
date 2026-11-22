@@ -1,0 +1,40 @@
+{
+  "id": "insp-910",
+  "title": "Felo：GPT Image 2.6 GIF 转视频分镜工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://felo.ai/blog/gpt-image-2-6-gif-to-video/",
+    "platform": "Felo",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "浏览器直出 1.8 秒 GIF 做动作分镜预览，再经 API 出 3×3 帧表、用 Kling 扩成视频镜头的双路线工作流。",
+  "why": "把 GIF 当“动作预演/分镜”的用法是池内少见的跨媒介思路，四段式动作提示词可直接复用。",
+  "borrow": [
+    "GIF 当动作分镜预演",
+    "四段式动作提示词",
+    "Flare/Sunburst 选型对照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "GIF转视频",
+    "分镜",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

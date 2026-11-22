@@ -1,0 +1,41 @@
+{
+  "id": "insp-1007",
+  "title": "FB AI MATT：business-gif-generator——单张商业照片变 GIF 的 GitHub 项目",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/aimattant/posts/pfbid02agS55tuknoeUQHMTooWEzkUu9ETg3eQbfrJpAVLcZndynYj7qdNUwPRA9abBUu1gl",
+    "platform": "Facebook",
+    "author": "AI MATT",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-06 图文：展示 GitHub 仓库 business-gif-generator 的 Python 代码，ChatGPT 把单张商业照片变动图，含水管完工、五星好评等 7 个示例概念。",
+  "why": "商业照片变 GIF 的代码化工作流，7 个场景概念是现成的商业 GIF 题材清单。",
+  "borrow": [
+    "商业照片变 GIF 的代码化工作流",
+    "7 个商业场景概念：水管完工、五星好评等",
+    "单张照片变动图的批量做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；GitHub 仓库本身未单独打开核实。"
+  },
+  "tags": [
+    "Facebook",
+    "GitHub",
+    "商业 GIF",
+    "代码"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

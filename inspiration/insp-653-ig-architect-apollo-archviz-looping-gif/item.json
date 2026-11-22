@@ -1,0 +1,42 @@
+{
+  "id": "insp-653",
+  "title": "IG @architect.apollo：建筑效果图变循环 GIF 的九帧公式",
+  "type": "posters",
+  "source": {
+    "url": "https://www.instagram.com/p/Df1_THKCCRW/",
+    "platform": "Instagram",
+    "author": "@architect.apollo",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "建筑可视化方向的循环 GIF 教程：用一张室内效果图做 9 帧 9 阶段“从毛坯到精装”的建成过程，给出四种动法（昼夜切换、建成过程、室内环绕、立面环绕）与六条 GIF 提示词公式。",
+  "why": "把建筑/室内场景的动效拆成 9 帧 9 阶段的做法很具体，六条公式（定九帧、只做一个动作、锁设计、锁机位、闭合循环、保持干净）可直接迁移到动态海报。",
+  "borrow": [
+    "9 帧 9 阶段的建成过程拆法",
+    "四种建筑场景动法",
+    "六条 GIF 提示词公式",
+    "室内环绕的镜头写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭社交搜索摘要收录，未打开原帖核实；帖子示例为作者自己的建筑效果图，只借拆帧与公式。"
+  },
+  "tags": [
+    "建筑可视化",
+    "动态海报",
+    "九帧公式",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

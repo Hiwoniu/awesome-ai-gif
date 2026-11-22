@@ -1,0 +1,41 @@
+{
+  "id": "insp-710",
+  "title": "GifFrame：ChatGPT 做 GIF 表情包全流程，像素风轻动效",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://gifframe.com/zh/blog/how-to-make-a-gif-with-chatgpt/",
+    "platform": "GifFrame 博客",
+    "author": "GifFrame",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "从提示词到整套表情包的流程，含像素风 320×320 轻动效提示词与 Codex GIF 工厂安装法。",
+  "why": "320×320 像素风轻动效的规格与成套流程可直接对照微信表情包规格。",
+  "borrow": [
+    "像素风 320×320 轻动效的规格",
+    "从单张到整套表情包的流程",
+    "Codex GIF 工厂的安装用法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原页核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "微信表情包",
+    "像素风",
+    "GPT Image 2.6",
+    "Codex"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

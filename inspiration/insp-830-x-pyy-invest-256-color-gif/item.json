@@ -1,0 +1,39 @@
+{
+  "id": "insp-830",
+  "title": "X @pyy_invest：GIF 256 色上限，扁平纯色角色最稳",
+  "type": "multi",
+  "source": {
+    "url": "https://x.com/pyy_invest/status/2118193596306280486",
+    "platform": "X",
+    "author": "@pyy_invest",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "GIF 每帧只有 256 色，渐变和柔边会断层，扁平纯色角色最稳。",
+  "why": "256 色断层的色彩规则可直接写进角色设计清单。",
+  "borrow": [
+    "GIF 每帧 256 色的色彩规则：渐变与柔边会断层",
+    "扁平纯色角色最稳的选角结论"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "X",
+    "256色",
+    "扁平风格"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-223",
+  "title": "Imagens.app：成套一致性的 AI 贴纸包工作流",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://imagens.app/ai-sticker-maker-emoji-pack",
+    "platform": "Imagens.app 博客",
+    "author": "未署名",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "以“成套一致性”为核心的贴纸包工作流：先写 pack brief，再用固定风格块 + 9 个表情分镜表批量出图。",
+  "why": "点破了贴纸包真正的难点不是单张好看，而是九张放一起像同一画师；固定块（含标点与词序）一字不改的纪律可直接复用。",
+  "borrow": [
+    "pack brief 四要素（角色/用途/风格/必备表情）",
+    "固定风格块写法",
+    "九张分三组（日常反应/情绪/场景）的分镜表",
+    "小图 120px 下的审稿标准"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "贴纸包",
+    "一致性",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

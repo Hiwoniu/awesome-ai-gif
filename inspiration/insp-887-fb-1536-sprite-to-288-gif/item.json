@@ -1,0 +1,42 @@
+{
+  "id": "insp-887",
+  "title": "FB：1536×1024 精灵表切 288×288 帧做 1.2 秒循环 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/1174338578354864/",
+    "platform": "Facebook",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "FB 教程：向 ChatGPT 要 6 帧 3×2 精灵表，1536×1024 的表切成 288×288 的帧、每帧 200ms，拼成 1.2 秒无缝循环 GIF，附橘猫斜眼等多个成品示例。",
+  "why": "从表尺寸到帧尺寸、帧时长全套数字一次给齐，是目前看到的最具体的精灵表转 GIF 导出参数。",
+  "borrow": [
+    "1536×1024 精灵表切 288×288 帧的导出参数",
+    "6 帧 200ms、1.2 秒循环的时序",
+    "橘猫斜眼等多个成品的命名式示例组织",
+    "每帧只变一点点的动作幅度控制"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；原帖作者未在摘要中显示。"
+  },
+  "tags": [
+    "Facebook",
+    "精灵表",
+    "导出参数",
+    "循环 GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

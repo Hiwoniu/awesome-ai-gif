@@ -1,0 +1,41 @@
+{
+  "id": "insp-615",
+  "title": "Spoken：ChatGPT 精灵表加代码切图拼 GIF 的老方法实录",
+  "type": "multi",
+  "source": {
+    "url": "https://spoken.md/episode/wait-chatgpt-can-make-animations-1000802133373",
+    "platform": "Spoken",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "ChatGPT 做动画的老方法实录：DALL·E 3 生成 9-12 格精灵表，再用 Code Interpreter 按网格切图拼成 GIF，附对齐修正技巧。",
+  "why": "精灵表加代码切图拼 GIF 的流程具体，可作低成本替代路线。",
+  "borrow": [
+    "9-12 格精灵表提示词结构",
+    "代码解释器切图拼 GIF",
+    "对齐修正技巧"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "节目示例是别人的角色，只借精灵表加切图的流程。"
+  },
+  "tags": [
+    "精灵表",
+    "ChatGPT",
+    "切图",
+    "低成本"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

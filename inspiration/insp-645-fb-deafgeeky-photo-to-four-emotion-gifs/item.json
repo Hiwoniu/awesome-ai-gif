@@ -1,0 +1,41 @@
+{
+  "id": "insp-645",
+  "title": "Facebook @deafgeeky：一张游轮照片出 4 种情绪循环 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/1950759585903209/",
+    "platform": "Facebook",
+    "author": "@deafgeeky",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "教程：把一张游轮甲板照片变成开心、难过、惊讶、推眼镜 4 张不同情绪循环 GIF，含详细提示词流程，另演示素描变 3D 土豆角色。",
+  "why": "一张照片一次出 4 种情绪 GIF 的批量提示词结构，角色一致性写法可直接借鉴。",
+  "borrow": [
+    "一张照片出 4 种情绪 GIF 的批量结构",
+    "情绪切换的提示词写法",
+    "角色一致性要求"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；教程用的是对方的照片，只借批量结构与提示词写法。"
+  },
+  "tags": [
+    "Facebook",
+    "照片转 GIF",
+    "情绪",
+    "批量"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

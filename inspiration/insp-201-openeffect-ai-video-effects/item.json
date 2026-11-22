@@ -1,0 +1,41 @@
+{
+  "id": "insp-201",
+  "title": "OpenEffect：开源 BYOK 的 AI 视频特效工作台",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/openeffect/openeffect",
+    "platform": "GitHub",
+    "author": "openeffect",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "开源、本地运行、BYOK（自带 fal.ai 密钥）的 AI 视频特效工具：选特效、传照片、返回短视频，每个特效是一份可 fork 的 YAML 清单，支持 Kling、PixVerse、Wan 等多模型。",
+  "why": "把“特效”做成可移植、可分享的 YAML 清单的思路很新，对沉淀“手法/规格”而非“成品”很有启发；MIT 开源、本地存储。",
+  "borrow": [
+    "特效 YAML manifest 的结构设计（氛围/运镜/变换可组合）",
+    "BYOK + 本地存储的成本与隐私模式",
+    "社区特效目录的组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": ""
+  },
+  "tags": [
+    "开源",
+    "视频特效",
+    "YAML",
+    "MIT"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

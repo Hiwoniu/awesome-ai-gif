@@ -1,0 +1,40 @@
+{
+  "id": "insp-1022",
+  "title": "IG @saji.motion：静态 Logo 转 Telegram 动态贴纸的格式转换链路",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df5PfRCsCbS/",
+    "platform": "Instagram",
+    "author": "@saji.motion",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "静态 Logo 转 Telegram 动态贴纸：AE 2024 导出透明 MOV（RGB＋Alpha）→ cloudconvert 转 WEBM（VP9）→ Telegram Stickers 机器人导入。",
+  "why": "池内少有的 Telegram 端落地做法，格式转换链路完整，可对照微信与 WhatsApp 的导出链路。",
+  "borrow": [
+    "透明 MOV 到 WEBM 的格式转换链路",
+    "Telegram 动态贴纸的导入流程",
+    "Logo 动效只动图形不动字标的取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Telegram",
+    "动态贴纸",
+    "格式转换"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-500",
+  "title": "Mike Lane：不写代码用 ChatGPT 做 GIF，提示词驱动 Pillow 逐帧生成",
+  "type": "multi",
+  "source": {
+    "url": "https://mikellane.com/chatgpt-gifs/",
+    "platform": "Mike Lane",
+    "author": "Mike Lane",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "前 2.6 时代的代码执行路线：让 ChatGPT 用 Python 加 Pillow 生成 GIF（Flash Sale 促销图、万圣节蜘蛛与南瓜灯），提示词全文可见，含弹跳文字、蜘蛛网等叠加修改。",
+  "why": "提示词驱动 Pillow 逐帧生成的代码路线，与原生 GIF、精灵图路线互补，适合程序化图形类动图。",
+  "borrow": [
+    "提示词驱动 Pillow 逐帧生成的路线",
+    "弹跳文字与叠加修改的写法",
+    "程序化图形 GIF 的适用场景"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "非原生 2.6 GIF 路线，生成的是程序化图形而非模型直出动画；配套 YouTube 视频 ID 为 ItuvCzY0ewk。"
+  },
+  "tags": [
+    "Pillow",
+    "代码生成",
+    "程序化GIF",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

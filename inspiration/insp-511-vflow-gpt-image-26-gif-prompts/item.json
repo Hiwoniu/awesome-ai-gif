@@ -1,0 +1,41 @@
+{
+  "id": "insp-511",
+  "title": "VFlow：GPT Image 2.6 GIF 提示词指南，三种循环类型对照表",
+  "type": "multi",
+  "source": {
+    "url": "https://www.vflow.live/guides/gpt-image-2-6-gif-prompts/",
+    "platform": "VFlow",
+    "author": "VFlow",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "GPT Image 2.6 GIF 提示词指南：三种循环类型对照表（往返式、单程回路、胀缩式）与各类型的首尾衔接检查点；API 参数说明（output_format=gif、frame_count 2–64、frame_duration_ms 20–2000ms，默认 9 帧×200ms）。",
+  "why": "三种循环类型的分类法很清晰：不同动作该用哪种循环一目了然；检查最后一帧到第一帧过渡的验收思路可以直接用。",
+  "borrow": [
+    "三种循环类型的分类法",
+    "首尾衔接检查点的验收思路",
+    "GIF 的 API 参数表"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "作者声明提示词未实测生成，属方法论而非实测；仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "GPT-Image",
+    "循环类型",
+    "提示词指南",
+    "API参数"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

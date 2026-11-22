@@ -1,0 +1,42 @@
+{
+  "id": "insp-1089",
+  "title": "Gemini 官宣原生 GIF 功能：Omni 1.2 Flash 文/图/视频出 3 秒循环",
+  "type": "multi",
+  "source": {
+    "url": "https://x.com/GeminiApp/status/2123813017855103449",
+    "platform": "X",
+    "author": "@GeminiApp",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Google 在 X 官宣 Gemini 可用 Omni 1.2 Flash 生成 GIF：文字提示、照片或视频作参考，约 3 秒循环，附现成反应梗模板，8 国免费开放。",
+  "why": "11 月 20 日最新官宣，继 ChatGPT Images 2.6 之后第二个主流聊天 App 的原生 GIF 功能，规格明确（3 秒循环、最多 5 张参考图加 1 个参考视频）。",
+  "borrow": [
+    "文/图/视频三种输入做 3 秒循环的规格",
+    "现成反应梗模板的打法",
+    "用官方演示 GIF 做功能传播的节奏"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；原帖链接取自新闻聚合页引用的来源标注。池内 insp-916 为新闻转载、920 为 IG 演示、927 为 Threads 演示，与本条 X 原帖来源不同。"
+  },
+  "tags": [
+    "X",
+    "Gemini",
+    "Omni 1.2 Flash",
+    "官宣",
+    "原生 GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

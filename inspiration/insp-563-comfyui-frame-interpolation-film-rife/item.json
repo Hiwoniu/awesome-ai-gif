@@ -1,0 +1,42 @@
+{
+  "id": "insp-563",
+  "title": "ComfyUI 官方帧插值教程：FILM/RIFE 让低帧率片段变顺滑",
+  "type": "unknown",
+  "source": {
+    "url": "https://docs.comfy.org/tutorials/utility/frame-interpolation",
+    "platform": "ComfyUI",
+    "author": "ComfyUI 官方",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "官方帧插值教程：用 FILM 或 RIFE 模型在已有帧之间生成中间帧，提高帧率而不重新生成；模板库可直接取工作流，模型放 models/frame_interpolation/ 目录。",
+  "why": "循环 GIF 收尾阶段的通用提顺滑度手段：16fps 的生成结果插帧到更高帧率，抖动明显减少。",
+  "borrow": [
+    "生成低帧率验证、插帧提顺滑的两段式工作流",
+    "FILM 与 RIFE 的取舍：RIFE 快、适合小幅运动；FILM 慢、容忍大幅运动",
+    "模板库工作流加模型目录约定的可复现结构",
+    "插帧作为生成后处理而非生成内参数的定位"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "ComfyUI",
+    "帧插值",
+    "RIFE",
+    "FILM"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

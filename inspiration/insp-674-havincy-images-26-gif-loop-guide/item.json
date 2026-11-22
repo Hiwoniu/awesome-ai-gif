@@ -1,0 +1,41 @@
+{
+  "id": "insp-674",
+  "title": "Havincy：Images 2.6 循环 GIF 实测指南（2–16 帧、Flare/Sunburst 选型）",
+  "type": "multi",
+  "source": {
+    "url": "https://havincy.com/blog/chatgpt-images-2-6-gif",
+    "platform": "Havincy 博客",
+    "author": "Havincy",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Images 2.6 原生 GIF 的完整实测指南，给出 API 硬参数：2–16 帧、默认 9 帧、每帧 20–2000ms，并对比 Flare（快）与 Sunburst（质）两个模型的选型与定价。",
+  "why": "池里可直接当 GIF 规格基线的一条：帧数/帧时长是 API 级硬参数，不是经验值；Flare 与 Sunburst 的快慢分工能直接对应我们“先出草稿再出精修”的两档流程。",
+  "borrow": [
+    "循环 GIF 的帧数/帧时长规格表：2–16 帧、默认 9 帧、每帧 20–2000ms",
+    "一个动作回到起始姿势的提示词写法",
+    "Flare（快）与 Sunburst（质）的双模型选型思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "multi",
+    "GPT Image 2.6",
+    "循环 GIF",
+    "规格"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

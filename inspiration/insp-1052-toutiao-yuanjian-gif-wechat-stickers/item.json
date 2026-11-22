@@ -1,0 +1,40 @@
+{
+  "id": "insp-1052",
+  "title": "远见明察：GPT Image 2.6 会做 GIF 了，微信表情包这条路值得试试",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.toutiao.com/article/7704638937389679146/",
+    "platform": "今日头条",
+    "author": "远见明察",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "大肥鱼 8 张动态表情实测（退退退、啊对对对、已老实），走“生成关键姿势再合成 GIF”路线，讲微信表情投稿与赞赏链路。",
+  "why": "8 张成套表情加投稿链路，是从生成到上架的完整链条。",
+  "borrow": [
+    "成套表情选题法：敷衍、反问、起哄、认输",
+    "投稿准备流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "大肥鱼为 DeepSeek 鲸鱼梗形象，只借流程不借角色；子代理打开原文核实。"
+  },
+  "tags": [
+    "实测",
+    "今日头条",
+    "投稿",
+    "成套"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

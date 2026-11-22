@@ -1,0 +1,39 @@
+{
+  "id": "insp-1042",
+  "title": "程序员鱼皮：GPT Images 2.6 发布，直接生成 GIF 动图首发实测",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://developer.aliyun.com/article/1779528",
+    "platform": "阿里云开发者社区",
+    "author": "程序员鱼皮",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "首发实测，7 张动图：表情包、真人整活、微信聊天记录，每例附完整提示词，讲透固定角色必须传参考图。",
+  "why": "鱼皮首发实测，案例加提示词齐全，参考图必要性有正反对照。",
+  "borrow": [
+    "参考图固定角色的工作流",
+    "正反对照写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "大肥鱼为 DeepSeek 鲸鱼梗形象，只借流程不借角色；子代理打开原文核实。"
+  },
+  "tags": [
+    "实测",
+    "阿里云",
+    "GPT Image 2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-664",
+  "title": "Facebook：四步做个人动态贴纸包，GIF 转 MP4 上 LINE",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/2901025920283551/",
+    "platform": "Facebook",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-13 的四步教程：上传自拍生成 Q 版全身头像，让 GPT 按该头像出多张带指定表情和中文文案的动图，GIF 转 MP4 方便在 LINE 分享；第二演示为滑板女性照片动画化。",
+  "why": "从头像定稿→批量动图→跨平台格式转换的完整链路，点出免费账号可用和内容限制的绕法。",
+  "borrow": [
+    "先定 Q 版全身头像再批量出动图",
+    "表情+中文文案成对设计",
+    "GIF→MP4 跨平台转换",
+    "免费账号验证"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。演示用真人自拍与中文文案，只借流程与结构。"
+  },
+  "tags": [
+    "wechat-stickers",
+    "ChatGPT",
+    "LINE",
+    "sticker-pack"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

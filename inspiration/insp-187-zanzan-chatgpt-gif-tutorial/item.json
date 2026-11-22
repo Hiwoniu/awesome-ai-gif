@@ -1,0 +1,40 @@
+{
+  "id": "insp-187",
+  "title": "贊贊小屋：ChatGPT GIF 动画教学（免费版实测）",
+  "type": "multi",
+  "source": {
+    "url": "https://zanzan.tw/archives/a00163",
+    "platform": "贊贊小屋",
+    "author": "贊贊小屋",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用免费版 ChatGPT 实测的 GIF 教学，完整跑通六格“会计恒等式”教学动图，含速度调整与下载流程。",
+  "why": "提示词五要素写法（内容、每格顺序、角色外观、色彩风格、文字要求），适合 storybooks/教学类 GIF 的结构参考。",
+  "borrow": [
+    "提示词五要素：内容/每格顺序/角色外观/色彩风格/文字要求",
+    "六格教学动图的实测记录（处理时间 30 秒）",
+    "免费版实测的可用性验证"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "博客文章，引用注明出处",
+    "note": "繁体中文站"
+  },
+  "tags": [
+    "教学GIF",
+    "免费版",
+    "实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

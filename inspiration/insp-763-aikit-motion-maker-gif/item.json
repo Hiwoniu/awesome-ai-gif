@@ -1,0 +1,40 @@
+{
+  "id": "insp-763",
+  "title": "aiKit Motion Maker：29 种风格的邮件与社媒 GIF 工具",
+  "type": "multi",
+  "source": {
+    "url": "https://aikit.ai/tools/motion-maker",
+    "platform": "aiKit",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "一句话选风格尺寸做邮件与社媒动图的在线工具。",
+  "why": "29 种动画风格与 85 个模板的组织方式、首帧完整与体积建议可借。",
+  "borrow": [
+    "按场景组织模板：邮件首帧完整、社媒竖版等不同交付要求",
+    "一句话选风格尺寸的交互：描述意图后自动匹配风格",
+    "GIF、MP4、WebM 多格式导出与体积控制思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "GIF工具",
+    "邮件动图",
+    "模板"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

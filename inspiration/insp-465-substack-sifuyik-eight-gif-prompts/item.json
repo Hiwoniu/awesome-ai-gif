@@ -1,0 +1,41 @@
+{
+  "id": "insp-465",
+  "title": "Substack：上传照片到 ChatGPT Images 2.6，8 条 GIF 提示词全公开",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://sifuyik.substack.com/p/upload-your-photo-to-chatgpt-images",
+    "platform": "Substack",
+    "author": "Sifu Yik",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "8 条完整提示词：舞蹈循环、迷你克隆、震惊反应、英雄变身等，附帧表转 GIF 的流程。",
+  "why": "8 条提示词各有为什么有效的说明，覆盖真人照片转动态表情包的主要玩法，结构清晰可复用。",
+  "borrow": [
+    "8 条场景提示词的结构",
+    "每条为什么有效的拆解写法",
+    "帧表转 GIF 的流程",
+    "只用本人照片的提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "同一作者同一组内容另有 Facebook 帖，本条留长文原版，Facebook 版不再另收。"
+  },
+  "tags": [
+    "提示词合集",
+    "照片转GIF",
+    "真人表情包"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

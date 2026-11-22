@@ -1,0 +1,36 @@
+{
+  "id": "insp-947",
+  "title": "博客园 foxlab：一张照片做成 GIF 的四种方法横评",
+  "type": "multi",
+  "source": {
+    "url": "https://www.cnblogs.com/foxlab/p/23628930",
+    "platform": "博客园",
+    "author": "foxlab",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "一张照片出 GIF 的四种路线横向对比：免费拼帧、AI 序列帧、GPT Image 2.6 直出、视频模型，含 4×4 精灵表提示词与成本表。",
+  "why": "四条路线放在一张表里比成本与帧数，选路线时可直接对照；精灵表提示词的四要点写得很干净。",
+  "borrow": [
+    "16 帧 4×4 精灵表提示词结构（同角色同位置加分割线）",
+    "四种路线的成本与帧数对照表",
+    "提示词四要点：只写一个动作、写清回起点、固定镜头、背景简单"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录；只借路线对照与提示词结构"
+  },
+  "tags": ["照片转GIF", "精灵表", "路线对比", "成本"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

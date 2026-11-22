@@ -1,0 +1,40 @@
+{
+  "id": "insp-1049",
+  "title": "gptcard：用 ChatGPT 做动态贴纸和 Loading 图，三组 GIF 提示词这样写",
+  "type": "posters",
+  "source": {
+    "url": "https://gptcard.cn/2026/11/09/d-261109-chatgpt-gif/",
+    "platform": "gptcard.cn",
+    "author": "gptcard",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "三组可直接套用的提示词：动态贴纸（水獭举信封“收到啦”）、Loading 图、PPT 流程依次亮起，讲“起点到动作再到回起点”循环结构。",
+  "why": "Loading 图与流程动效是本轮唯一的非表情包小素材角度，提示词短而可用。",
+  "borrow": [
+    "循环结构拆解法：起点、动作、回起点",
+    "三组提示词的选题：贴纸、Loading、流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "子代理打开原文核实。"
+  },
+  "tags": [
+    "Loading",
+    "动态贴纸",
+    "提示词",
+    "小素材"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

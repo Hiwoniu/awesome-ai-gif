@@ -1,0 +1,36 @@
+{
+  "id": "insp-864",
+  "title": "IG @ssktechy.ai：照片一句话变循环 GIF，同聊里调慢挥手",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df2M-GLgOf5/",
+    "platform": "Instagram",
+    "author": "@ssktechy.ai",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "照片变循环 GIF 教程：上传照片、一句动作描述让人物微笑挥手，约 30 秒出 GIF；同一对话里用大白话继续改（挥手慢一点），粗糙草图涂鸦同样能动起来变挥手角色。",
+  "why": "同聊连续改是 Images 2.6 最实用的调参方式，照片与草图两条素材路线都给了示范。",
+  "borrow": [
+    "照片上传加一句动作描述的极简入口",
+    "同一对话用大白话改速度的迭代写法",
+    "粗糙草图同样能变挥手角色的素材扩展思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["照片转 GIF", "挥手", "同聊迭代", "草图", "Instagram"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

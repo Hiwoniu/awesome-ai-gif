@@ -1,0 +1,42 @@
+{
+  "id": "insp-559",
+  "title": "Diffusion Studio：text-to-lottie，自然语言出 Lottie 动画的开源 Skill",
+  "type": "posters",
+  "source": {
+    "url": "https://diffusion.studio/changelog/text-to-lottie",
+    "platform": "Diffusion Studio",
+    "author": "Diffusion Studio",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "开源 Skill + 脚手架：让 Claude Code/Codex 等编码 Agent 用自然语言生成可直接上线的 Lottie 动画，Agent 直接写 lottie.json 与 controls.json，内置 Skottie 播放器实时热重载预览；擅长 SVG 路径描边揭示、数据驱动动画与 Logo 揭示。",
+  "why": "“提示词→Lottie JSON→实时预览→再改”的工作流，以及用 SVG 作动画脚本的思路，可迁移到动态海报与签名档的矢量动效。",
+  "borrow": [
+    "拿 SVG/真实数据/截图给模型打底的提示词原则",
+    "用缓动术语与镜头语言直接控制关键帧曲线的写法",
+    "可编辑 controls.json 插槽的参数化设计",
+    "每个动画一个 scene 目录的工程结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；产出是 Lottie 矢量动画而非 GIF，收的是工作流与提示词原则。"
+  },
+  "tags": [
+    "Lottie",
+    "SVG动画",
+    "Agent-Skill",
+    "动态海报"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

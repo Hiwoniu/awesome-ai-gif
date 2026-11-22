@@ -1,0 +1,41 @@
+{
+  "id": "insp-439",
+  "title": "Medium：邮件 GIF 的第一帧要能独立成立",
+  "type": "signatures",
+  "source": {
+    "url": "https://medium.com/@mchfollow/the-first-frame-does-most-of-the-work-in-an-email-gif-32e7f425d3fd",
+    "platform": "Medium",
+    "author": "mchfollow",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "讲邮件 GIF 设计的文章，核心观点是第一帧要能独立成立，再谈循环时序与帧速。",
+  "why": "给出可直接复用的 GIF 规格：16 帧、每帧 100 毫秒、1.6 秒循环，以及首帧优先的设计原则。",
+  "borrow": [
+    "首帧独立可读原则",
+    "16帧100毫秒循环规格",
+    "只让局部动的克制做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "邮件GIF",
+    "签名",
+    "首帧设计",
+    "循环规格"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

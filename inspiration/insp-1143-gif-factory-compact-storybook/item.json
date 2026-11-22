@@ -1,0 +1,45 @@
+{
+  "id": "insp-1143",
+  "title": "GIF 工厂紧凑动态绘本：每页只做一个动作，翻页不断片",
+  "type": "storybooks",
+  "source": {
+    "url": "https://www.xmsumi.com/detail/4548",
+    "platform": "苏米客",
+    "author": "苏米客",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "GIF 工厂的 compact-storybook 子 Skill 详解：12 页四章、每页约 3 秒、动作只做一遍不倒放的动态绘本做法。",
+  "why": "“动作只做一次、角色道具连续性”两条硬约束是动态绘本与循环表情包的关键区别，起始-动作-结果的拆页法与翻页交接可直接复用到绘本类制作。",
+  "borrow": [
+    "每页“起始—一个动作—结果”的拆页结构",
+    "动作只做一遍、末态保留、不倒放的硬约束",
+    "每页约 3 秒、实际 6 帧的小样先行",
+    "动作姿态表加静态背景分离的生成模板",
+    "翻页冻结旧页末态、新页从首态开始的交接",
+    "整本、分章、单页三种交付形态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": "同一仓库 GIF 工厂主项目已收为 insp-001，本条只收其紧凑动态绘本子 Skill 的做法；案例《风送来的茶会》为原作者作品，只借结构不复用角色；已打开原文核实。"
+  },
+  "tags": [
+    "storybooks",
+    "gif-factory",
+    "skill",
+    "动态绘本",
+    "翻页"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

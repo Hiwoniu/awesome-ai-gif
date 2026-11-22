@@ -1,0 +1,44 @@
+{
+  "id": "insp-646",
+  "title": "Stable Diffusion Art：AnimateDiff 文生视频完整教程",
+  "type": "multi",
+  "source": {
+    "url": "https://stable-diffusion-art.com/animatediff/",
+    "platform": "Stable Diffusion Art",
+    "author": "Stable Diffusion Art",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "AnimateDiff 完整教程：安装运动模块、选检查点、调帧数与采样，覆盖 Motion LoRA、提示词旅行、ControlNet 结合与图生视频，附多组示例与参数。",
+  "why": "从安装到高级技巧的全链路很完整，提示词旅行与 Motion LoRA 是做可控小循环的实用手法，16 帧 8fps 的 GIF 参数可直接参考。",
+  "borrow": [
+    "运动模块选型与安装步骤",
+    "16 帧 8fps 的 GIF 参数取向",
+    "Motion LoRA 强化动作",
+    "提示词旅行切换动作",
+    "ControlNet+AnimateDiff 控构图"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "教程示例是对方的生成结果，只借方法与参数；AnimateDiff 为开源项目，具体许可见其仓库。"
+  },
+  "tags": [
+    "AnimateDiff",
+    "文生视频",
+    "Motion LoRA",
+    "提示词旅行",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

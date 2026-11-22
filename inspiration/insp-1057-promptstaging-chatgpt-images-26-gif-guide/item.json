@@ -1,0 +1,44 @@
+{
+  "id": "insp-1057",
+  "title": "PromptStaging：ChatGPT Images 2.6 循环 GIF 全流程教程",
+  "type": "multi",
+  "source": {
+    "url": "https://promptstaging.site/article-make-animated-gifs-in-chatgpt-images-2-6.html",
+    "platform": "PromptStaging",
+    "author": "TJ Singh",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-05 发布的 Images 2.6 GIF 教程：文生 GIF 与照片转动图两条路径，附逐帧检查与单帧修复流程。",
+  "why": "把首尾帧一致提炼为通用要求，并给出反应、产品演示、讲解、故事板四种提示词模式，提示词结构可直接借鉴。",
+  "borrow": [
+    "反应／产品演示／讲解／故事板四种提示词模式的分类",
+    "先修单帧、不要整图重抽的纠错流程",
+    "API 侧帧数 2–16、默认 9 帧×200ms 的规格参数",
+    "站内 GIF 提示词生成器工具的形态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。内容与池内多篇 Images 2.6 教程主题重叠，增量主要是四种提示词模式与单帧修复流程。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "教程",
+    "提示词模式",
+    "单帧修复",
+    "Flare",
+    "Sunburst"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

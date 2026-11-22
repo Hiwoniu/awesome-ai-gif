@@ -1,0 +1,39 @@
+{
+  "id": "insp-328",
+  "title": "Pizyn：GPT Image 2.6 原生循环 GIF 生成器",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://pizyn.com/ai-gif-maker/",
+    "platform": "Pizyn",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "基于 GPT Image 2.6 的原生 GIF 生成工具页，强调不经视频转码、首尾帧自然衔接，给出 6–16 帧的选帧建议。",
+  "why": "讲清了原生 GIF 与视频转 GIF 在循环接缝上的区别，选帧建议可直接对照。",
+  "borrow": [
+    "原生循环的“首尾同姿势”写法",
+    "按动作复杂度选帧数的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "GPT-Image-2.6",
+    "原生GIF",
+    "循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

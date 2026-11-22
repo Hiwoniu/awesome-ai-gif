@@ -1,0 +1,41 @@
+{
+  "id": "insp-1037",
+  "title": "ChatCut：ChatGPT 能做 GIF 吗？15 条 Images 2.6 循环提示词",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://chatcut.io/blog/chatgpt-gif",
+    "platform": "ChatCut 博客",
+    "author": "ChatCut",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "实测 20 个循环、15 条可复制提示词加 5 组对照实验，给出 Flare 与 Sunburst 耗时和设置对照表。",
+  "why": "15 条现成循环提示词加对照实测数据，反应贴纸、UI 加载、产品循环分类齐全。",
+  "borrow": [
+    "15 条循环提示词模板",
+    "反应贴纸、UI 加载、产品循环的分类法",
+    "Flare 与 Sunburst 的实测取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "子代理打开原文核实。"
+  },
+  "tags": [
+    "提示词",
+    "实测",
+    "GPT Image 2.6",
+    "循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "insp-758",
+  "title": "Threads @wyne2030t：LINE 贴纸提示词生成器",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@wyne2030t/post/DfAlnCMEz-e",
+    "platform": "Threads",
+    "author": "@wyne2030t",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "LINE 贴纸提示词生成器：选项式生成，选风格/字体/描边/颜色，20 主题×60 词共 1200 短语、20 种 AI 可生成字体，透明底",
+  "why": "选项式拼提示词+主题词库的工具形态",
+  "borrow": [
+    "选项式拼提示词+主题词库的工具形态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Threads",
+    "LINE贴纸",
+    "提示词生成器"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

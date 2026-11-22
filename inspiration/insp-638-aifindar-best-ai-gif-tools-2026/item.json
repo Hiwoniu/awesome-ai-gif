@@ -1,0 +1,40 @@
+{
+  "id": "insp-638",
+  "title": "AIFindar：2026 年 8 款 AI GIF 工具横评",
+  "type": "multi",
+  "source": {
+    "url": "https://aifindar.com/blog/best-ai-gif-generator-tools",
+    "platform": "AIFindar",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "2026 年 8 款 AI GIF 工具横评：Gifify、Magic Hour、Canva、Fotor、Picsart、Simplified、Microsoft Designer、SeaArt，按文本/图片/视频转 GIF 分类并给出选型建议。",
+  "why": "一次摸清英文 AI GIF 工具全景，含 API、商用授权、导出格式等选型维度。",
+  "borrow": [
+    "8 款工具全景对照",
+    "文本/图片/视频/表情包四类输入划分",
+    "选型维度清单（API、商用授权、导出格式）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "榜单为第三方横评，价格与功能以各工具官网为准；只借选型对照，不采信具体评分。"
+  },
+  "tags": [
+    "工具横评",
+    "选型",
+    "2026"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

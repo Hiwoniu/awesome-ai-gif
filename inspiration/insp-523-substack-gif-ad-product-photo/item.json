@@ -1,0 +1,41 @@
+{
+  "id": "insp-523",
+  "title": "Substack：用 GPT Image 2.6 把一张产品照片做成循环 GIF 广告",
+  "type": "posters",
+  "source": {
+    "url": "https://motherusingai.substack.com/p/chatgpt-images-2-6-free-ad",
+    "platform": "Substack",
+    "author": "Mother Using AI",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 GPT Image 2.6 把一张产品照片做成循环 GIF 广告的实测：6 个真实产品、24 次对话，拿随手一句话和作者自写提示词做对照；随手写法 12 次里 4 次改坏产品，自写提示词 11 次 0 次改坏。",
+  "why": "只动一样东西、其余全部锁死的提示词思路很关键；对照实测数据（改坏率 4/12 对 0/11）可以借来做提示词值不值的验收依据。",
+  "borrow": [
+    "只动一样东西其余全部锁死的提示词思路",
+    "随手写法与自写提示词的对照实测",
+    "单产品照片到 GIF 广告再拼竖版视频的工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "完整可复制的 Ad Loop 提示词在付费墙后，摘要里只给了思路和对照结果，未给全文；仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "GIF广告",
+    "产品照片",
+    "对照实测",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

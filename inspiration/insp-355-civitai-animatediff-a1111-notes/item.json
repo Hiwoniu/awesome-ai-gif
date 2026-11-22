@@ -1,0 +1,40 @@
+{
+  "id": "insp-355",
+  "title": "Civitai：A1111 AnimateDiff 动画图实战笔记",
+  "type": "multi",
+  "source": {
+    "url": "https://civitai.com/articles/3966/some-notes-for-making-animated-pictures-with-animediff-in-auto1111",
+    "platform": "Civitai",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "A1111 里用 AnimateDiff 做动画图的实战笔记，含运动模型选型、closed_loop R+P 循环设置、提示词漫游与 morph 工作流链接。",
+  "why": "closed_loop R+P 做循环动画的参数细节是别处少见的实操点，附多个相关教程索引。",
+  "borrow": [
+    "closed_loop 循环参数",
+    "24 帧/16fps 的帧数取舍",
+    "morph 转场思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Civitai",
+    "AnimateDiff",
+    "循环参数"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

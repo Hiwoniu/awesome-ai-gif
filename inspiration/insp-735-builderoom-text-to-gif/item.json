@@ -1,0 +1,30 @@
+{
+  "id": "insp-735",
+  "title": "Builderoom Text to GIF：文字转 GIF 工具，2–16 帧与五种导出格式",
+  "type": "multi",
+  "source": {
+    "url": "https://www.builderoom.com/en/product/text-to-gif",
+    "platform": "Builderoom",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "网页端文字转 GIF 工具：输入自然语言描述生成原创循环 GIF，可做反应表情与动态贴纸，另有图转 GIF 功能",
+  "why": "参数档位给得很全：2–16 帧、每帧 20–2000ms、五档质量、1K–4K 分辨率、15 种宽高比、五种导出格式，可直接当作文字转 GIF 工具的参数对照表",
+  "borrow": [
+    "帧数与帧时长参数范围：2–16 帧、20–2000ms/帧",
+    "五档质量与 1K–4K 分辨率的档位组织",
+    "GIF/SVG/PNG/WebP/JPG 五种导出格式的对照",
+    "图转 GIF 作为文生 GIF 之外的第二入口"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已用浏览器打开原页核实；页面未提及微信/LINE/WhatsApp 贴纸包，只说可做动态贴纸，不按贴纸包工具收"
+  },
+  "tags": ["文生GIF", "工具", "参数", "导出格式"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-20", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

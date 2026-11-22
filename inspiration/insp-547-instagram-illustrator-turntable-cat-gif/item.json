@@ -1,0 +1,40 @@
+{
+  "id": "insp-547",
+  "title": "Instagram：Illustrator Turntable，一只黄猫转一圈导出 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DcRoQqbDeze",
+    "platform": "Instagram",
+    "author": "Adobe Creative Cloud",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "动画师 Billy 演示 Illustrator 新 Turntable 功能：手绘黄色小猫、Turntable 自动生成 360° 旋转各角度可编辑矢量、手动修帧、直接导出 GIF。",
+  "why": "角色转圈 GIF 的工作流很干净：画、转盘生成、修帧导出三步；旋转展示类循环动作的制作思路可以直接借。",
+  "borrow": [
+    "画加转盘生成加修帧导出的三步工作流",
+    "旋转展示类循环动作的制作思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "非 AI 生成路线，属旋转展示工作流参考；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Illustrator",
+    "转盘",
+    "旋转展示",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

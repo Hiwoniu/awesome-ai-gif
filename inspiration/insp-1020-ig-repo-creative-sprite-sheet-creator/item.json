@@ -1,0 +1,40 @@
+{
+  "id": "insp-1020",
+  "title": "IG @repo.creative：开源 Sprite Sheet Creator，多动作多方向精灵表",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DeqvQ0fCX6o/",
+    "platform": "Instagram",
+    "author": "@repo.creative",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "开源工具 Sprite Sheet Creator（3D Dioramas 框架）：文字描述或上传照片生成像素角色，含走/跳/攻击/待机动画，输出干净 2×2 网格精灵表，另有横版卷轴与等距地图两种模式。",
+  "why": "多动作加多方向的精灵表规格一次给齐，适合游戏向精灵表与多状态表情的规划。",
+  "borrow": [
+    "多动作加多方向的精灵表规格",
+    "2×2 网格输出的组织方式",
+    "横版卷轴与等距地图两种模式的取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；池内 insp-902 是另一款同名 Sprite Sheet Creator（@safesynt），本条为 3D Dioramas 框架的另一款，需复核是否为同一工具"
+  },
+  "tags": [
+    "开源",
+    "精灵表",
+    "像素风"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

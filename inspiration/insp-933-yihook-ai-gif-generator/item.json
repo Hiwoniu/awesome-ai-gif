@@ -1,0 +1,41 @@
+{
+  "id": "insp-933",
+  "title": "Yihook：AI GIF 生成器，8 个商业案例配完整提示词与参数",
+  "type": "multi",
+  "source": {
+    "url": "https://www.yihook.ai/en/ai-gif-generator",
+    "platform": "Yihook",
+    "author": "Yihook",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "用 GPT Image 2.6 文生 GIF 的指南，8 个商业案例（产品 360° 旋转、运动鞋弹跳、口红试色等）各附完整提示词、帧数与帧时长。",
+  "why": "8 个可直接套用的商业 GIF 提示词与参数表，覆盖产品展示类动图。",
+  "borrow": [
+    "商业场景提示词写法：主体+单一动作+固定镜头+无缝循环",
+    "512/768 分辨率、2–16 帧、100–500ms 的参数组合",
+    "产品 360° 旋转与试色过渡两类动作设计"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "文生GIF",
+    "商业案例",
+    "提示词",
+    "GPT Image 2.6"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "insp-1017",
+  "title": "Threads @glennhasabeard：Runway 集成 GPT Image 2.6——一套素材出 GIF + SVG + 产品图",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@glennhasabeard/post/DfqAy7SqBHG",
+    "platform": "Threads",
+    "author": "@glennhasabeard",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Runway 内用 GPT Image 2.6 的三种格式实测：Flare 出 GIF 格式无缝循环贴纸（肉桂卷挥手，约 24 秒）；同模型切 SVG 出 12 图标矢量集（真实矢量、可全局改色、放大 1600% 不糊）；Sunburst 出 PNG 透明底产品图（约 1 分 40 秒）。",
+  "why": "同一模型三格式联动的实测数据（耗时 + 效果），是池内少见的 GIF + 矢量 + 产品图打包工作流。",
+  "borrow": [
+    "GIF/SVG/PNG 三格式一站式的工作流结构",
+    "SVG 矢量图标集的生成法",
+    "透明底产品图的落点",
+    "各格式耗时实测数据",
+    "同一角色跨格式复用的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；含推广码 GLENN25，有营销成分，但方法与实测数据具体。"
+  },
+  "tags": ["Runway", "GPT Image 2.6", "SVG", "三格式"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

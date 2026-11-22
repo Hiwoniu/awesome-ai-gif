@@ -1,0 +1,42 @@
+{
+  "id": "insp-423",
+  "title": "DEV @Germey：GPT Image 2.6 角色一致的动态贴纸流水线",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://dev.to/germey/gpt-image-26-build-a-character-consistent-animated-sticker-pipeline-22j7",
+    "platform": "DEV",
+    "author": "Germey",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "先做 3×3 静态概念表锁定视觉契约，再做 4 张 GIF 试产、验收通过才批量扩产的贴纸流水线教程。",
+  "why": "解决了成套表情包最难的“十张变十个人”问题，两阶段门禁法可直接复用。",
+  "borrow": [
+    "静态概念表先行的工作流",
+    "四动作试产（问候、拍手、张臂、跳跃）覆盖不同翻车模式",
+    "512×512、9 帧 200ms 的规格",
+    "先审小样再批量的门禁思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "贴纸包",
+    "角色一致性",
+    "工作流",
+    "DEV"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

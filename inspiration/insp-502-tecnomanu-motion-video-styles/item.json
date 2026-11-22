@@ -1,0 +1,41 @@
+{
+  "id": "insp-502",
+  "title": "GitHub：motion-video-styles，HTML+GSAP 确定性渲染的动态视频 Skill",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/tecnomanu/motion-video-styles",
+    "platform": "GitHub",
+    "author": "tecnomanu",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 HTML+GSAP 场景做竖版/横版短视频的 Agent Skill：7 种现成风格、按品牌适配，每段动画对齐口播词、卡拉 OK 字幕，Playwright 逐帧渲染加 ffmpeg 确定性输出。",
+  "why": "代码画帧、逐帧渲染的确定性动效路线，可迁移到动态海报与循环 GIF 的逐帧可控生成；7 种风格的样式拆分法也值得借。",
+  "borrow": [
+    "代码画帧逐帧渲染的确定性路线",
+    "7 种风格的样式拆分法",
+    "动画对齐口播词的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "产出是视频而非 GIF，收的是确定性渲染路线，方法可迁移；仅凭搜索摘要收录，未打开仓库核实。"
+  },
+  "tags": [
+    "Skill",
+    "GSAP",
+    "逐帧渲染",
+    "动态视频"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

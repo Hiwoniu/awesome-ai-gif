@@ -1,0 +1,42 @@
+{
+  "id": "insp-637",
+  "title": "VidAU：单图转 5 秒循环 GIF 的操作手册",
+  "type": "multi",
+  "source": {
+    "url": "https://www.vidau.ai/ai-gif-maker/",
+    "platform": "VidAU",
+    "author": "VidAU 编辑团队",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "单图转 5 秒循环 GIF 的操作手册：Flixier 出底图动效、Giphy 加动态文字，附工具对照表与尺寸、时长、循环验收要点。",
+  "why": "图生 GIF 的分工链路清晰（生成、加字、验收三步），5 秒循环与三档比例可作导出参数参考。",
+  "borrow": [
+    "单图→5 秒循环→加动态文字的分工流程",
+    "1:1/9:16/16:9 三档比例取舍",
+    "工具分工对照表",
+    "循环接缝验收要点"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "指南示例与工具截图是对方内容，只借流程与参数；Flixier、Magic Hour 等为第三方工具，以官网为准。"
+  },
+  "tags": [
+    "图生 GIF",
+    "5 秒循环",
+    "工作流",
+    "工具对照"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

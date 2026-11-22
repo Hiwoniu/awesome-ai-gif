@@ -1,0 +1,42 @@
+{
+  "id": "insp-413",
+  "title": "用豆包工作做 IP 形象教程：头像、变体、表情包一次搞定",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://ai-bot.cn/doubaowork-create-ip-tutorial/",
+    "platform": "AI工具集（ai-bot.cn）",
+    "author": "AI工具集",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "在豆包工作里安装 GitHub 6k 星的 ip-as-logo-skill 生成原创 IP 头像，再衍生打工人表情包，并把调好的标准沉淀为专属 sticker-pack Skill 复用。",
+  "why": "展示了“Skill 加豆包工作”国产 Agent 路线：一次调标准、后续一句话复用，与项目 Skill 思路直接相关。",
+  "borrow": [
+    "ip-as-logo-skill 的审美标准化做法（构图、轮廓、配色、角落探头构图）",
+    "表情包衍生流程（头像到变体到配文排版）",
+    "把制作标准沉淀为可复用 Skill 的 SOP 思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开页面核实；文末注明原文为微信公众号文章，本链接为转载页。"
+  },
+  "tags": [
+    "豆包工作",
+    "ip-as-logo-skill",
+    "IP形象",
+    "表情包",
+    "Skill"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

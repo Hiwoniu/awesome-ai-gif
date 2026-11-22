@@ -1,0 +1,39 @@
+{
+  "id": "insp-740",
+  "title": "Scenario Motion Loops Skill：代码画 12 秒无缝循环动效背景",
+  "type": "posters",
+  "source": {
+    "url": "https://skillsafe.ai/skill/@scenario-labs/scenario-motion-loops/",
+    "platform": "SkillSafe",
+    "author": "Scenario Labs",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Canvas 2D 代码画 12 秒无缝循环动效背景与转场，帧是时间的纯函数，附缝合检测脚本",
+  "why": "代码循环思路与生图路线互补，适合动态海报背景层",
+  "borrow": [
+    "“t 的纯函数=天然无缝”的代码循环思路",
+    "缝合检测脚本写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Skill",
+    "代码动画",
+    "动态海报"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

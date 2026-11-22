@@ -1,0 +1,44 @@
+{
+  "id": "insp-883",
+  "title": "Hotelemarketer：自己变 7 张反应 GIF，3 张能用、4 张翻车",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://hotelemarketer.com/2026/11/07/i-turned-myself-into-7-reaction-gifs-three-of-them-work/",
+    "platform": "Hotelemarketer",
+    "author": "Jitendra Jain",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "作者把自己画成卡通角色做 7 张反应 GIF，3 张能用、4 张翻车，总结出一个道具加一个直视镜头的凝视的规律，并给出 3×3 九帧精灵表提示词包。",
+  "why": "少见的成功与失败对照实测：翻车原因都写明了，提示词包可直接换成我们自己的角色测试。",
+  "borrow": [
+    "道具加凝视的反应 GIF 规律：变化要大、凝视要直视镜头",
+    "首帧停 0.5 秒、主反应停 0.9 秒的时序写法",
+    "3×3 九帧精灵表提示词结构：每帧写清动作与表情",
+    "先定一张角色图、每张 GIF 都挂同一张图的定角色流程",
+    "文案最后加、只加在画面上方横条的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "作者用自己的照片做角色原型；我们只借提示词结构与时序写法，角色换成原创，不用真人原型。原文已打开核实。"
+  },
+  "tags": [
+    "反应 GIF",
+    "精灵表",
+    "实测",
+    "提示词包",
+    "时序"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

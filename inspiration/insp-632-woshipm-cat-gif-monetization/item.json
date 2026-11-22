@@ -1,0 +1,40 @@
+{
+  "id": "insp-632",
+  "title": "人人都是产品经理：旧表情包半小时变整套猫咪动图，一单 30 元",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.woshipm.com/ai/6491509.html",
+    "platform": "人人都是产品经理",
+    "author": "萤柳设计",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "把以前做的静态猫咪表情包丢给 GPT-image-2.6，先立体化再动起来，7 分钟出 16 个立体动态表情，批量上传微信表情开放平台，并在小红书、闲鱼接单变现。",
+  "why": "「旧静态素材先立体化、再动态化」的改造路线和平台批量上传流程是现成的变现案例。",
+  "borrow": [
+    "旧素材立体化再动态化",
+    "批量上传含义词流程",
+    "小红书闲鱼接单路径"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "作者用的是自己旧作表情包；借路线时须用自有或原创素材。"
+  },
+  "tags": [
+    "微信表情包",
+    "变现",
+    "旧素材改造"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

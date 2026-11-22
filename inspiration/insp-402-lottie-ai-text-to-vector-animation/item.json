@@ -1,0 +1,42 @@
+{
+  "id": "insp-402",
+  "title": "Lottie AI：文字提示生成可编辑矢量动画，可导出 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://webmail.hunted.space/dashboard/lottiefiles",
+    "platform": "Product Hunt（hunted.space 镜像页）",
+    "author": "LottieFiles",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用文字提示生成可编辑的矢量动画（Lottie）：可改色、改样式、改尺寸而无需重新生成，导出 dotLottie、JSON、GIF、视频；2026-11-10 上线 Product Hunt，当日第 7。",
+  "why": "“生成一次、矢量可改、多格式导出”的路线，对表情包与动效素材的复用性有启发，且是 11 月刚上线的 GIF 相关新品。",
+  "borrow": [
+    "提示词生成可编辑矢量动画而非位图",
+    "改色改尺寸不重新生成的复用思路",
+    "GIF 作为多导出格式之一的定位"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "来源为 Product Hunt 上线页的 hunted.space 镜像页，已打开核实内容一致。"
+  },
+  "tags": [
+    "Lottie",
+    "矢量动画",
+    "文字生成动画",
+    "GIF导出",
+    "Product-Hunt"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

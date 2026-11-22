@@ -1,0 +1,40 @@
+{
+  "id": "insp-718",
+  "title": "OakGen：Seedream 5.5、GPT Image 2.6、Nano Banana 三模型对照",
+  "type": "multi",
+  "source": {
+    "url": "https://oakgen.ai/blog/seedream-5-5-vs-gpt-image-2-6-vs-nano-banana-2-1",
+    "platform": "OakGen 博客",
+    "author": "OakGen",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "三模型对照表：GPT Image 2.6 的 GIF 为 2–16 帧、20–2000ms 每帧，Seedream 5.5 为 11 月 9 日发布。",
+  "why": "三模型 GIF 能力的规格对照，选模型时可直接查帧数与帧时范围。",
+  "borrow": [
+    "三模型 GIF 帧数与帧时的规格对照",
+    "按模型选出图路线的取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原页核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "模型对照",
+    "Seedream 5.5",
+    "GPT Image 2.6",
+    "Nano Banana"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

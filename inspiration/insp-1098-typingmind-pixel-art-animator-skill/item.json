@@ -1,0 +1,32 @@
+{
+  "id": "insp-1098",
+  "title": "TypingMind Pixel Art Animator Skill：动画标签＋链接帧的精灵动画组织",
+  "type": "multi",
+  "source": {
+    "url": "https://www.typingmind.com/skills/willibrandon-pixel-art-animator",
+    "platform": "TypingMind Skills",
+    "author": "willibrandon",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "一个像素画动画 Skill，管精灵动画的帧管理、动画标签（命名动作序列）、帧时长和链接帧，触发词含行走、奔跑、待机、攻击、循环。",
+  "why": "动画标签＋链接帧的组织方式可作为我们自己的精灵表/GIF 制作 Skill 的结构参考。",
+  "borrow": ["动画标签＋链接帧的精灵动画组织方式", "动作按命名序列管理而不是散着出帧", "行走/奔跑/待机/攻击/循环的触发词设计"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录；源码在 GitHub willibrandon/pixel-plugin，许可证待核实"
+  },
+  "tags": ["Skill", "像素画", "精灵动画", "帧管理"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

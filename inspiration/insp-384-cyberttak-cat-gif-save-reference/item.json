@@ -1,0 +1,40 @@
+{
+  "id": "insp-384",
+  "title": "cyberttak：猫照片变循环 GIF，还能让 ChatGPT 记住它",
+  "type": "multi",
+  "source": {
+    "url": "https://cyberttak.com/news/chatgpt-can-now-turn-your-cats-photo-into-a-looping-gif-and-remember-the-831cef13",
+    "platform": "cyberttak",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用猫照片做循环 GIF 的 5 步教程，附“存参考图、下次复用”的做法。",
+  "why": "“存参考图保角色一致”是贴纸包批量化的关键一步，步骤很具体。",
+  "borrow": [
+    "存参考图复用",
+    "猫照片变 GIF 步骤",
+    "角色一致性"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "以自家猫照片为例，只借存参考图的做法，不用它的猫形象。"
+  },
+  "tags": [
+    "教程",
+    "参考图",
+    "角色一致"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

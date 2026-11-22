@@ -1,0 +1,42 @@
+{
+  "id": "insp-209",
+  "title": "Gif Creator Skill：PIL 程序化渲染 LinkedIn 信息图 GIF",
+  "type": "posters",
+  "source": {
+    "url": "https://www.skillsdirectory.com/skills/benaios-gif-creator",
+    "platform": "Skills Directory",
+    "author": "BenAIOS",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 PIL 程序化渲染 LinkedIn 信息图 GIF 的 Claude Skill：标题停留→节点逐个出现→终帧长停留，附完整模板代码。",
+  "why": "池内少有的“代码生成动态信息图”路线，帧时序和尺寸规格非常具体，可为动态海报/信息图类提供另一条实现思路。",
+  "borrow": [
+    "800×998 竖版、3 倍渲染后 LANCZOS 缩放保清晰",
+    "帧时序：标题停留 12 帧、每节点 7 帧、终帧 30 帧",
+    "总文件控制在 300KB 内",
+    "静态 PNG 终帧兜底"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Skill",
+    "信息图",
+    "代码生成",
+    "PIL"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

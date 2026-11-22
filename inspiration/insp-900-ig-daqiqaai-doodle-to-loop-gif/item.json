@@ -1,0 +1,40 @@
+{
+  "id": "insp-900",
+  "title": "Instagram @daqiqaai.en：涂鸦变循环 GIF 七步教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/p/DfmD8RFCDsN/",
+    "platform": "Instagram",
+    "author": "@daqiqaai.en",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "7 页轮播教程：纸上或手机上画个简单角色，上传后出循环 GIF（基于 ChatGPT Images 2.6）。",
+  "why": "门槛最低的手绘到动效路线，适合原创角色从草图起步。",
+  "borrow": [
+    "手绘草图起步",
+    "上传涂鸦出 GIF 步骤",
+    "简笔画角色动效化"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "手绘",
+    "草图",
+    "涂鸦"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

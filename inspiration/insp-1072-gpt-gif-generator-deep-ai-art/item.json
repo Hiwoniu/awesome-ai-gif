@@ -1,0 +1,41 @@
+{
+  "id": "insp-1072",
+  "title": "GPT GIF Generator：提示词直出循环 GIF 的多模型工作台",
+  "type": "multi",
+  "source": {
+    "url": "https://www.deep-ai.art/img-effects/gpt-gif-generator",
+    "platform": "deep-ai.art",
+    "author": "deep-ai.art",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "提示词直出循环 GIF 的在线工作台：GPT Image 2 逐帧渲染（512×512、最多 16 帧），可上传参考图、可换模型（Gemini、Nano Banana Pro、Seedream 等），卖点是帧内文字/标签在循环中保持清晰可读。",
+  "why": "规格明确（512×512、16 帧上限、多模型切换），“文字不糊”是带字表情包/动态海报的差异化卖点，可作备选路线。",
+  "borrow": [
+    "提示词展开为有序帧序列",
+    "帧内文字保真",
+    "多模型切换做同一循环"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实；这是工具营销页，无独立实测案例，价值低于同轮其他工具类条目。"
+  },
+  "tags": [
+    "工具",
+    "GPT Image 2",
+    "多模型",
+    "帧内文字"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

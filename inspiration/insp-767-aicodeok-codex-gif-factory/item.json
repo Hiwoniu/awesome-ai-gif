@@ -1,0 +1,40 @@
+{
+  "id": "insp-767",
+  "title": "AIDE 社区：Codex 里装 GIF 工厂 Skill 做动图实测",
+  "type": "multi",
+  "source": {
+    "url": "https://www.aicodeok.com/t/codex-gif/539",
+    "platform": "AIDE社区",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "在 Codex 里安装 GIF 工厂 Skill，用现成风格批量做动图的实测帖。",
+  "why": "Codex 端的安装调用流程与六秒循环验收要点，是池内 GIF 工厂条目没有的另一条使用路径。",
+  "borrow": [
+    "Codex 端调用 Skill 的流程：安装后按风格入口选像素、粘土吉祥物、光栅卡等",
+    "六秒循环验收要点：循环不断、风格统一的检查思路",
+    "现成风格套用的做法：先选风格再套自己的图或一句话"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Skill",
+    "Codex",
+    "GIF工厂"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "insp-726",
+  "title": "LookRoll 微信表情包制作工具：GPT Image 2.6 出 8 张透明循环贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://lookroll.ai/zh-cn/tools/emoji-generator/wechat-sticker-maker",
+    "platform": "LookRoll",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 GPT Image 2.6 把照片做成微信动态表情包的工具：12 种风格、中文配字，每张 512×512、8 帧、透明背景循环 GIF，按微信专辑规格导出 240×240 GIF 加封面和 50×50 聊天面板图标，每次做 8 个。",
+  "why": "规格完整明确（帧数、尺寸、透明、导出清单），可直接对标微信上架要求。",
+  "borrow": [
+    "8 帧 512×512 透明 GIF 的规格组合",
+    "一次 8 张的成套做法",
+    "微信专辑导出清单的结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["微信表情包", "GPT Image 2.6", "工具", "规格"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

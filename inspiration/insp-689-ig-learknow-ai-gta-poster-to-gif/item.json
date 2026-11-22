@@ -1,0 +1,39 @@
+{
+  "id": "insp-689",
+  "title": "IG @learknow_ai：GTA 风海报一句话变 GIF",
+  "type": "posters",
+  "source": {
+    "url": "https://www.instagram.com/reel/DftPpTUnPYU/",
+    "platform": "Instagram",
+    "author": "@learknow_ai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "先用 AI 做一张 GTA 风格游戏海报，再上传到 ChatGPT、输入“Turn this into a GIF”，几秒出动画；还可调播放速度、逐帧加雨、霓虹灯闪烁、车流等效果。",
+  "why": "静态海报→GIF 的“一句话转 GIF＋逐帧微调”工作流：先转起来，再逐帧加雨、霓虹、车流等局部动效，海报类可直接借鉴这个两步法。",
+  "borrow": [
+    "静态海报→GIF 的一句话转 GIF + 逐帧微调工作流",
+    "局部动效叠加：雨、霓虹灯闪烁、车流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例为 GTA 风格海报，只借海报转 GIF 的工作流，不用它的游戏 IP 风格。"
+  },
+  "tags": [
+    "posters",
+    "动态海报",
+    "海报转 GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

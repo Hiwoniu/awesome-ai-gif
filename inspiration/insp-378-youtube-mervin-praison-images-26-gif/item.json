@@ -1,0 +1,40 @@
+{
+  "id": "insp-378",
+  "title": "YouTube：Mervin Praison 实测 Images 2.6 GIF 与 Python 代码",
+  "type": "multi",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=Brc9adOBEtc",
+    "platform": "YouTube",
+    "author": "Mervin Praison",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Images 2.6 实测：GIF 怎么做、首日作品与限制，以及用 OpenAI Python 库与 PraisonAI 出 GIF 的代码。",
+  "why": "带实测数据（出图耗时、token 消耗对比）与可直接跑的 Python 代码，是 API 路线的参考。",
+  "borrow": [
+    "Python 出 GIF 代码",
+    "实测耗时与 token 数据",
+    "API 路线"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "实测",
+    "Python",
+    "API"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

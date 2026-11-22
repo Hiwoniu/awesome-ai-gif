@@ -1,0 +1,37 @@
+{
+  "id": "insp-860",
+  "title": "AnimateDiff 参数终极指南：闭环循环与 ControlNet 精确控动作",
+  "type": "multi",
+  "source": {
+    "url": "https://www.aigcvid.com/articles/mastering-animatediff-settings-ultimate-guide-stable-diffusion-video-2924",
+    "platform": "AIGC Vid",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "AnimateDiff 参数详解：闭环无缝循环、ControlNet 精确控动作、上下文批量与重叠保一致性、运动模块选型与显存要求。",
+  "why": "闭环循环与 ControlNet 两条 GIF 关键参数讲得最全的一篇，可作 AnimateDiff 出无缝循环 GIF 的参数检查清单。",
+  "borrow": [
+    "闭环循环（closed loop）做无缝循环的设置思路",
+    "ControlNet 用深度、边缘、骨架控动作的精确路线",
+    "上下文批量、步幅与重叠保多帧一致性的参数组织",
+    "16 帧起步、8–12 FPS 的参数取向"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录"
+  },
+  "tags": ["AnimateDiff", "参数指南", "无缝循环", "ControlNet", "ComfyUI"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

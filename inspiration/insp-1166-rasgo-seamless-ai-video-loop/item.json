@@ -1,0 +1,40 @@
+{
+  "id": "insp-1166",
+  "title": "Rasgo：三种无缝 AI 视频循环做法与接缝处理",
+  "type": "multi",
+  "source": {
+    "url": "https://www.rasgo.ai/blog/make-seamless-ai-video-loop",
+    "platform": "Rasgo 博客",
+    "author": "Rasgo",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "三种无缝循环方法：首尾帧匹配、藏接缝、倒放，附“回开场状态”的提示词结构与三例。",
+  "why": "循环接缝处理是 GIF 循环质量的关键，有具体方法与示例。",
+  "borrow": [
+    "三种藏接缝方法：首尾帧匹配、藏接缝、倒放",
+    "“回开场状态”的提示词写法",
+    "香水瓶/戒指/人物三类示例的组织"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实；讲的是视频循环，落到 GIF 要按帧数/体积再收敛。"
+  },
+  "tags": [
+    "无缝循环",
+    "接缝处理",
+    "视频循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

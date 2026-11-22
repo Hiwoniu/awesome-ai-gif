@@ -1,0 +1,32 @@
+{
+  "id": "insp-1099",
+  "title": "Sorceress Games：两分钟出游戏精灵表的两条流水线",
+  "type": "multi",
+  "source": {
+    "url": "https://sorceress.games/blog/how-to-make-a-sprite-sheet-in-2-minutes-with-ai-in-2026",
+    "platform": "Sorceress Games 博客",
+    "author": "",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "两分钟出游戏精灵表的两条流水线：Quick Sprites（像素风，四方向行走 4×4 共 16 帧、32×32 小精灵、VFX 特效三种规格）和 Auto-Sprite v2（任意风格：生图→AI 视频动画→转精灵表）。",
+  "why": "四方向行走 16 帧固定规格和生图→视频→切表两条路线的分工很清楚，取舍思路可直接复用。",
+  "borrow": ["四方向行走 16 帧固定规格", "生图→视频→切表与像素专用模型两条路线的分工", "像素风走专用模型、其他风格走视频转表的取舍"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原文核实，仅凭搜索摘要收录；只借流程与规格，不抄对方素材"
+  },
+  "tags": ["精灵表", "游戏", "像素风", "工作流"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

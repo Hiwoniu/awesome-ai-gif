@@ -1,0 +1,39 @@
+{
+  "id": "insp-769",
+  "title": "note：ChatGPT 九帧挥键盘 GIF 实测（日文）",
+  "type": "multi",
+  "source": {
+    "url": "https://note.com/bluesnyaiper/n/nba77ab176cca",
+    "platform": "note",
+    "author": "bluesnyaiper",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "日文实测：ChatGPT 做角色挥动键盘的九帧 GIF。",
+  "why": "九帧单动作循环的实测记录，可作帧数与动作幅度的对照。",
+  "borrow": [
+    "九帧单动作循环的帧数取舍",
+    "角色加道具的动效：挥动键盘这类手持物动作的写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "实测",
+    "日文",
+    "九帧"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

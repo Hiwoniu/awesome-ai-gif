@@ -1,0 +1,39 @@
+{
+  "id": "insp-926",
+  "title": "Threads @mihcreativeai：手绘草图变无缝循环 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@mihcreativeai/post/Df3TNGilk2d",
+    "platform": "Threads",
+    "author": "@mihcreativeai",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "把手绘草图用 ChatGPT Images 2.6 转成无缝循环 GIF 的教程帖（11 月 18 日）。",
+  "why": "草图→无缝循环的提示词要点讲得直接，与涂鸦路线互补。",
+  "borrow": [
+    "草图转无缝循环提示词要点",
+    "手绘起步流程"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "草图",
+    "无缝循环",
+    "Threads"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

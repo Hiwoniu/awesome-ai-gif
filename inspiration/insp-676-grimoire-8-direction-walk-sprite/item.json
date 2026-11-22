@@ -1,0 +1,41 @@
+{
+  "id": "insp-676",
+  "title": "Grimoire：八方向行走精灵工作流（文生图→8 方向循环→总精灵表）",
+  "type": "multi",
+  "source": {
+    "url": "https://itch.io/blog/1735713/how-to-make-an-8-direction-walking-sprite-with-grimoire",
+    "platform": "itch.io 博客",
+    "author": "Grimoire 团队",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "八方向行走精灵完整工作流：文生图出角色后原地旋转取 8 个方向帧，逐方向提示“原地行走”做循环，再像素化、减色、去底，导出一张总精灵表。",
+  "why": "游戏类行走循环的分解思路很干净：方向与动作分开控制，同一句式只换方向词；对我们做多角度角色循环有直接参考价值。",
+  "borrow": [
+    "八方向循环的分解步骤：出角色→取 8 方向帧→逐方向做循环→合总表",
+    "同一句式只换方向词的提示词控制法",
+    "像素化/减色/去底的后处理顺序"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "multi",
+    "行走循环",
+    "精灵表",
+    "游戏"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

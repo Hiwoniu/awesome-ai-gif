@@ -1,0 +1,38 @@
+{
+  "id": "insp-295",
+  "title": "X @OpenAIDevs：官方循环动作建议（回到起始姿势）",
+  "type": "unknown",
+  "source": {
+    "url": "https://x.com/OpenAIDevs/status/2118124755442151684",
+    "platform": "X/Twitter",
+    "author": "@OpenAIDevs",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "OpenAI 官方建议的循环动作写法（挥手、双重惊讶、胜利舞后回到起始姿势）。",
+  "why": "官方给出的“回到起始姿势”循环锁定表述，可直接借鉴为提示词结构。",
+  "borrow": [
+    "循环锁定（loop-lock）的官方措辞"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "X",
+    "官方",
+    "循环锁定"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

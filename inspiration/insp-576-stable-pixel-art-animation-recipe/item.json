@@ -1,0 +1,42 @@
+{
+  "id": "insp-576",
+  "title": "itch.io：Stable Pixel Art Animation Recipe，免费像素精灵表提示词配方",
+  "type": "multi",
+  "source": {
+    "url": "https://haruka-apps-games.itch.io/stable-pixel-art-animation-recipe",
+    "platform": "itch.io",
+    "author": "haruka_apps",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "一份免费的像素风精灵图表提示词配方（CC0 协议），用强约束让 AI 在单张横排图里画出 4–6 帧风格一致的像素角色循环动画。",
+  "why": "它是池里少有的“纯提示词配方”类素材，约束写法可直接借用到我们自己的像素风表情包/卡片提示词里，且 CC0 授权干净。",
+  "borrow": [
+    "用脚底与身体重心锚定在完全相同的 X/Y 坐标锁定每帧位置，防角色漂移",
+    "横排 4–6 帧单行结构，配合原地动作、不位移的动作限定，专做待机/原地循环",
+    "模板变量 TARGET_ANIMATION_DESCRIPTION 占位写法，换动作即复用",
+    "强约束清单（禁文字、禁标题、禁 UI、禁渐变）写法可作提示词负面约束参考"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；CC0 协议。"
+  },
+  "tags": [
+    "像素风",
+    "精灵图",
+    "提示词配方",
+    "待机循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

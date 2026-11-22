@@ -1,0 +1,41 @@
+{
+  "id": "insp-677",
+  "title": "gifgenerator.app：一句话文生 GIF（16 帧、三档速度、五种画幅）",
+  "type": "multi",
+  "source": {
+    "url": "https://gifgenerator.app/text-to-gif-ai",
+    "platform": "gifgenerator.app",
+    "author": "gifgenerator.app",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "一句话文生 GIF 的工具页：固定 16 帧输出，5/10/20 fps 三档速度，附 6 条循环提示词（反应节拍与氛围循环两类），支持 1:1、4:3、3:4、16:9、9:16 五种画幅。",
+  "why": "极简提示词公式的对照样本：一个主体加一个能回到起点的重复动作；帧率决定循环时长的对照表（5fps 约 3.2 秒、10fps 约 1.6 秒、20fps 约 0.8 秒）可直接拿来定我们的帧率档位。",
+  "borrow": [
+    "一个主体 + 一个能回到起点的重复动作的极简提示词公式",
+    "帧率决定循环时长的对照表：5/10/20fps 对应约 3.2/1.6/0.8 秒",
+    "反应节拍与氛围循环两类提示词的分类"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "multi",
+    "文生 GIF",
+    "提示词公式",
+    "帧率"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

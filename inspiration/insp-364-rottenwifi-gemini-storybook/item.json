@@ -1,0 +1,40 @@
+{
+  "id": "insp-364",
+  "title": "Gemini Storybook：10–12 页可朗读插画故事书指南",
+  "type": "storybooks",
+  "source": {
+    "url": "https://blog.rottenwifi.com/google-gemini-storybook-how-to-create-illustrated-ai-storybooks/",
+    "platform": "RottenWifi",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Gemini Storybook 功能的完整上手指南：文字、照片或孩子涂鸦可生成 10–12 页可朗读的插画故事书。",
+  "why": "分步操作加可直接套用的故事提示词示例，补故事书方向的主流官方功能。",
+  "borrow": [
+    "故事书分步提示词结构",
+    "角色一致性写法",
+    "朗读版输出思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "绘本",
+    "Gemini",
+    "故事书"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

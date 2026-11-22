@@ -1,0 +1,40 @@
+{
+  "id": "insp-904",
+  "title": "Instagram @agenticforreal：素描变无缝循环 GIF，哪句提示词管循环",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dfa711LiTbp/",
+    "platform": "Instagram",
+    "author": "@agenticforreal",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "三步教程：上传素描（保持单角色简单），点明循环要求，出无缝循环 GIF，并点出是哪句提示词在管循环。",
+  "why": "把循环拆成可复用的提示词子句，是做 Skill 时最值得借的结构点。",
+  "borrow": [
+    "管循环的关键提示词句",
+    "素描三步法",
+    "单角色简化原则"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "素描",
+    "无缝循环",
+    "提示词子句"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-631",
+  "title": "Fish Ai：GPT Image 2.6 Flare 与 Grok 教程——中文海报与 GIF 表情模板",
+  "type": "multi",
+  "source": {
+    "url": "https://fishai.yanyumeta.cn/news/ai-image-generation-gpt-flare",
+    "platform": "Fish Ai 资讯中心",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "四大场景的高分提示词模板（商业海报、中文排版、GIF 表情、参考图编辑），加 Flare 与 Grok Imagine Image 2.0 的能力选型对照表。",
+  "why": "中文文字渲染的技巧（要显示的文字用双引号括起、并指定字体与位置）和双模型分工表可以直接借。",
+  "borrow": [
+    "引号锁定画面文字",
+    "Flare 与 Grok 选型分工",
+    "场景化提示词模板"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "平台教程带推广性质，只借提示词写法与选型对照，价格以官网为准。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "中文海报",
+    "提示词模板"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

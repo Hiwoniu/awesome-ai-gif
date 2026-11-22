@@ -1,0 +1,39 @@
+{
+  "id": "insp-346",
+  "title": "nrtechstudio：精灵表转 GIF 工具",
+  "type": "multi",
+  "source": {
+    "url": "https://www.nrtechstudio.com/tools/convert-sprite-sheet-to-gif/",
+    "platform": "nrtechstudio",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "浏览器内按网格切精灵表并编码成真 GIF 的工具，可设帧时长与循环，附中位切分调色说明。",
+  "why": "讲清了“切表是切片工作而非重绘”的定位与 GIF 256 色调色取舍，规格实在。",
+  "borrow": [
+    "按网格等分切帧",
+    "帧时长与循环设置"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "精灵表转GIF",
+    "调色",
+    "浏览器工具"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

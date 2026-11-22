@@ -1,0 +1,41 @@
+{
+  "id": "insp-262",
+  "title": "Instagram @embrace_socials：自拍视频→IG Cutouts 动态贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DJDymWNIVuQ/",
+    "platform": "Instagram",
+    "author": "@embrace_socials",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "录一段自拍动作视频，用 Instagram Stories 的 Cutouts 功能自动抠像，生成可复用的动态贴纸贴到照片上。",
+  "why": "三条同类 Cutouts 教程中互动最好的一条（2.9K 赞），是“真人出镜变 GIF 贴纸”的零成本路径。",
+  "borrow": [
+    "自拍视频作动作源",
+    "平台自带抠像免去底处理",
+    "贴纸存入“你的贴纸”复用",
+    "纯手机端完成"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录；只借方法"
+  },
+  "tags": [
+    "Instagram",
+    "Cutouts",
+    "自拍"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

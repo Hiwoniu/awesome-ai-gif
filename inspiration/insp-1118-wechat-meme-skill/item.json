@@ -1,0 +1,32 @@
+{
+  "id": "insp-1118",
+  "title": "wechat-meme-skill：微信梗图/表情包 Skill",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://github.com/abxxvrv/wechat-meme-skill",
+    "platform": "GitHub",
+    "author": "abxxvrv",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "面向 Agent 的微信梗图/表情包 Skill。",
+  "why": "早期微信表情包 Skill 之一，可作 Skill 形态演进的对照。",
+  "borrow": ["Skill 的任务拆分方式", "梗图类表情的提示词组织"],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实。梗图类内容可能涉及网络迷因形象与真人素材，只借 Skill 结构，需核查其示例是否含真人/IP。"
+  },
+  "tags": ["Skill", "微信表情包", "开源", "梗图"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

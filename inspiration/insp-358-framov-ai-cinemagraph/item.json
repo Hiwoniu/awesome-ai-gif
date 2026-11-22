@@ -1,0 +1,40 @@
+{
+  "id": "insp-358",
+  "title": "Framov AI Cinemagraph：静态照片只动一处做循环",
+  "type": "posters",
+  "source": {
+    "url": "https://www.framov.com/ai-cinemagraph",
+    "platform": "Framov",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "上传一张静态照片，用文字指定唯一动的元素并明确冻结其余部分，生成无缝循环的 Cinemagraph。",
+  "why": "“只动一处、其余全冻住”的提示词写法和防跑偏检查法，是静态照片动起来的关键手法。",
+  "borrow": [
+    "单元素动效提示词结构",
+    "冻结其余部分的写法",
+    "循环接缝检查法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Cinemagraph",
+    "动态海报",
+    "静态照片"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

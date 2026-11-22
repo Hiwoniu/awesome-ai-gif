@@ -1,0 +1,42 @@
+{
+  "id": "insp-522",
+  "title": "MagicBoat：AI 动漫循环接缝跳动成因与修复，四阶段循环规划法",
+  "type": "multi",
+  "source": {
+    "url": "https://www.magicboat.net/mobile/zh/blog/ai-dongman-xunhuan-jiefeng-xiufu",
+    "platform": "MagicBoat",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "专门讲 AI 动漫循环接缝跳动成因与修复的长文：问题出在运动状态不匹配，而不只是画面不像；给出四阶段循环规划法（静止→离开→峰值→返回）、循环式语言与事件式语言的提示词写法、首尾帧并排对比的验收法。",
+  "why": "接缝跳动的成因分析很到位：运动状态不匹配才是根因；四阶段规划法与循环式语言的写法可以直接抄进提示词模板。",
+  "borrow": [
+    "四阶段循环规划法",
+    "循环式语言与事件式语言的写法",
+    "首尾帧并排对比的验收法",
+    "只修接缝不重生成的修复思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "作者名未从摘要中确认；仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "接缝修复",
+    "循环规划",
+    "动漫循环",
+    "提示词写法"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

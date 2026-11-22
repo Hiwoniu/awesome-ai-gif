@@ -1,0 +1,38 @@
+{
+  "id": "insp-1015",
+  "title": "IG @finnmckenty：植物字体动画——手绘字母变开花「LOVE YOU」全流程",
+  "type": "posters",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfzfXgutTgj",
+    "platform": "Instagram",
+    "author": "@finnmckenty",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "完整工作流：手绘字母→Illustrator 描摹→Flora 导入→GPT Image + Nano Banana Pro 结合字母造型与花丛照片生成植物字母→四角度空房间 + 字母轮廓定形→Seedance 2.5 做 360 度环绕藤蔓生长镜头→按音乐节拍剪辑。",
+  "why": "多工具串联（手绘 + AI 生图 + 视频模型 + 剪辑）的高质量动态字体案例，文字动效方向池内稀缺。",
+  "borrow": [
+    "字母造型 + 参考图双图投喂法",
+    "四角度空房间定形的防走样思路",
+    "Seedance 2.5 环绕运镜的提示方向",
+    "按音乐节拍剪辑成片的方法",
+    "字体动画的完整链路结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": ["字体动画", "动态海报", "多工具串联", "Seedance"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

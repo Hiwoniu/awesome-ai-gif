@@ -1,0 +1,39 @@
+{
+  "id": "insp-303",
+  "title": "TypingMind Gif Sticker Maker：照片转 4 张盲盒风动态贴纸 Skill",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.typingmind.com/skills/hhu3637kr-gif-sticker-maker",
+    "platform": "TypingMind",
+    "author": "HHU3637kr",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "把照片转成 4 张 Funko Pop / 泡泡玛特风动态 GIF 贴纸的 Skill：先出静态贴纸→图生视频→转 GIF，全流程含脚本。",
+  "why": "三段式流水线（静态→视频→GIF）与盲盒风造型是另一条技术路线。",
+  "borrow": [
+    "静态先行、视频中转、再转 GIF 的三段式流程",
+    "盲盒风造型"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "输入是用户自己的照片；示例走 Funko Pop / 泡泡玛特风格，只借三段式流程，不用它的品牌风格示例。"
+  },
+  "tags": [
+    "Skill",
+    "照片转贴纸",
+    "三段式"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

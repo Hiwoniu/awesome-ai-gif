@@ -1,0 +1,39 @@
+{
+  "id": "insp-921",
+  "title": "Instagram @ekbaltech：Gemini Flash meme 表情包提示词",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfYqbepR5pm/",
+    "platform": "Instagram",
+    "author": "@ekbaltech",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "手机录屏演示：在 Gemini Flash 里粘贴提示词出 meme 表情包（11 月 6 日）。",
+  "why": "Gemini 出表情包的提示词模板（含 emoji 混搭写法）是 Gemini 路线少见的实操帖。",
+  "borrow": [
+    "Gemini 出表情包提示词模板",
+    "emoji 混搭写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Gemini",
+    "meme表情包",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

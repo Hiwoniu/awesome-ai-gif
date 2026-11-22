@@ -1,0 +1,41 @@
+{
+  "id": "insp-536",
+  "title": "Instagram：Vidit Mehrotra 静态图转 GIF 三步指南，局部动效思路",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/p/DfWOFFWn4Af",
+    "platform": "Instagram",
+    "author": "Vidit Mehrotra",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "轮播教程，以柴犬 GIF 前后对比开场，给出三步指南与可复制提示词模板：明确什么动、怎么动、什么保持不动、背景，并要求主体、背景、光线、构图全程不变；只让狗屁股 wiggle 的局部动效思路值得借。",
+  "why": "提示词模板结构很完整：什么动、怎么动、什么保持不动、背景四项分工明确；局部动效（只让狗屁股 wiggle）的思路可以直接用到动态海报上。",
+  "borrow": [
+    "什么动怎么动什么不动的模板结构",
+    "局部动效的思路",
+    "主体背景光线构图全程不变的约束"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "静态转GIF",
+    "提示词模板",
+    "局部动效",
+    "Instagram"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

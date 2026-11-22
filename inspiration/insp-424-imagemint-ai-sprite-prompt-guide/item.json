@@ -1,0 +1,42 @@
+{
+  "id": "insp-424",
+  "title": "ImageMint：如何写出可用的 AI 精灵表提示词",
+  "type": "multi",
+  "source": {
+    "url": "https://imagemint.net/tutorials/ai-sprite-prompt-guide",
+    "platform": "ImageMint",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "针对“AI 精灵表网格不准、格子不对齐”四大通病的提示词规则教程，附两套完整示例提示词。",
+  "why": "精灵表可用性是 GIF 合成的前提，这篇把网格、尺寸、透明、禁文案讲得最系统。",
+  "borrow": [
+    "网格数字说两遍（4×4、16 张、4 行 4 列）",
+    "画布尺寸须能被网格整除",
+    "用纯品红底代替透明底再抠图的技巧",
+    "每格只描述一个主体、风格一次定死"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "精灵表",
+    "提示词",
+    "像素风",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

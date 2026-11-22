@@ -1,0 +1,42 @@
+{
+  "id": "insp-1027",
+  "title": "TypingMind：Gemini Omni 视频转微信 GIF 表情包 Skill",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.typingmind.com/skills/cafe3310-gemini-omni-video-to-sticker-gif",
+    "platform": "TypingMind Skills",
+    "author": "cafe3310",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "一个中文开源 Skill，把任意视频转成微信 GIF 动态表情包，附 ffmpeg 实现的 video_to_gif.py 脚本。",
+  "why": "池内多为文生 GIF，这条补视频转 GIF 的另一条生产路线，且有可复用的精确裁剪工作流。",
+  "borrow": [
+    "坐标校准法：grid 模式在预览帧上叠加像素刻度，先定裁剪坐标再出图",
+    "参数化脚本：起止时间、裁剪、缩放、变速、末帧定格等参数",
+    "微信体积控制：GIF 过大时减时长、降帧率、从 600×600 缩到 300×300",
+    "陷阱清单：ffmpeg 与 ffprobe 依赖、裁剪越界检查"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实；Skill 发布于 2026-02-18、更新于 2026-06-26，属较早 Skill，但视频转 GIF 路线与池内文生 GIF 条目不重复"
+  },
+  "tags": [
+    "视频转GIF",
+    "Skill",
+    "ffmpeg",
+    "微信表情包"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

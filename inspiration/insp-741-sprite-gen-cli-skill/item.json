@@ -1,0 +1,39 @@
+{
+  "id": "insp-741",
+  "title": "sprite-gen：单角色图出透明精灵表与循环的开源 CLI+Skill",
+  "type": "multi",
+  "source": {
+    "url": "https://www.aigamer.gg/tools/sprite-gen",
+    "platform": "AIGamer",
+    "author": "aldegad",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "开源 CLI+Skill：单张角色图生成透明精灵表（JSON 帧清单）与 GIF/WebP 循环",
+  "why": "每行动一行、同一参考保形的精灵表管线，带 manifest.json 帧结构",
+  "borrow": [
+    "每行动一行、同一参考保形的精灵表管线",
+    "manifest.json 帧结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；落地前查许可证"
+  },
+  "tags": [
+    "精灵表",
+    "Skill",
+    "开源"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

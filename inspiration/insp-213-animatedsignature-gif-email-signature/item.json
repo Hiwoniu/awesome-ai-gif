@@ -1,0 +1,42 @@
+{
+  "id": "insp-213",
+  "title": "AnimatedSignature：从照片生成动态邮件签名 GIF",
+  "type": "signatures",
+  "source": {
+    "url": "https://AnimatedSignature.com/gif-email-signature/",
+    "platform": "AnimatedSignature 官网",
+    "author": "未署名",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "从真人照片生成动态邮件签名 GIF 的工具页，附带一整套“为什么多数签名 GIF 会坏”的原理说明。",
+  "why": "提出一个很具体的技巧：把动画旋转成“首帧即成品图”，并给出 250KB 字节预算、2 倍尺寸渲染保锐度的规格。",
+  "borrow": [
+    "首帧即成品的旋转动画法",
+    "250KB 字节预算",
+    "2 倍尺寸渲染再缩小显示的锐度做法",
+    "浏览器内渲染、不上传照片的隐私设计",
+    "Outlook 首帧检测工具的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "演示用真人照片，仅借方法"
+  },
+  "tags": [
+    "邮件签名",
+    "工具",
+    "首帧"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

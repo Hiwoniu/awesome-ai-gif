@@ -1,0 +1,41 @@
+{
+  "id": "insp-694",
+  "title": "IG @logoduniya.designs：Higgsfield＋Kling 2.6 菜品海报冒热气",
+  "type": "posters",
+  "source": {
+    "url": "https://www.instagram.com/reel/DTkFx5yElOI/",
+    "platform": "Instagram",
+    "author": "@logoduniya.designs",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "上传一张写着“You Can Smell This Poster”的黄焖鸡海报到 Higgsfield，选 Kling 2.6 模型、写暖金光线与真实质感的提示词、开音频与无限模式，生成后菜品冒出逼真蒸汽。",
+  "why": "餐饮/产品海报“只动一个元素（蒸汽）”的克制动效思路：模型、光线质感、音频与无限模式四个参数一次给齐，是“少动即精”的样本。",
+  "borrow": [
+    "只动一个元素的克制动效：菜品冒蒸汽",
+    "暖金光线与真实质感的提示词写法",
+    "Kling 2.6 + 音频 + 无限模式的参数组合"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "posters",
+    "动态海报",
+    "Kling",
+    "产品海报"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

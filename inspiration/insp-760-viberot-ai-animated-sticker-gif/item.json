@@ -1,0 +1,42 @@
+{
+  "id": "insp-760",
+  "title": "Viberot：AI 动态贴纸 GIF 生成器",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://viberot.com/image/ai-sticker-gif",
+    "platform": "Viberot",
+    "author": "Viberot",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "文字描述角色、动物或物品，生成扁平色块加粗白描边的循环动态贴纸 GIF，一个贴纸只做一个简单动作（挥手、跳舞、喝咖啡），输出 512×512、每轮约 1 秒，每月 20 个免费额度。",
+  "why": "贴纸规格写得很清楚：扁平色块、粗白描边、单一简单动作、512×512，可直接作为我们做贴纸时的规格参考。",
+  "borrow": [
+    "扁平色块加粗白描边的贴纸画风",
+    "一个贴纸只做一个简单动作",
+    "512×512、单循环约 1 秒的规格",
+    "文字描述直出贴纸的工具形态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "工具页，未实测生成效果；每月 20 个免费额度、失败返额度为页面说法。"
+  },
+  "tags": [
+    "工具",
+    "贴纸",
+    "512×512",
+    "扁平画风"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-633",
+  "title": "人人都是产品经理：Image 2.5 一致性实测——4×4 阵列切 16 帧做 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://www.woshipm.com/ai/6465263.html",
+    "platform": "人人都是产品经理",
+    "author": "知危",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "系统实测 GPT-Image 2.5 的阵列图玩法：一张 4×4 图切成 16 帧合成 GIF，测动作、运镜、空间、物理与变形金刚变身等场景，结论是能做但不稳定。",
+  "why": "成功与翻车的边界完整：48 帧跨 3 张大图承接的做法、旋转类动作的翻车点，对排产很有参考价值。",
+  "borrow": [
+    "4×4 阵列切帧合成",
+    "多张大图帧承接",
+    "动作类型翻车边界"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "实测引用了 X 上他人的案例图，只借方法与结论；极限测试涉及变形金刚形象，我们不碰。"
+  },
+  "tags": [
+    "阵列图",
+    "实测",
+    "一致性",
+    "切帧"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

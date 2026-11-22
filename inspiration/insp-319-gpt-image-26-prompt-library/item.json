@@ -1,0 +1,42 @@
+{
+  "id": "insp-319",
+  "title": "GPT Image 2.6 提示词库：98 条含 GIF 循环模板",
+  "type": "multi",
+  "source": {
+    "url": "https://gptimage26.fengnian9527.workers.dev/prompts",
+    "platform": "GPT Image 2.6 提示词库",
+    "author": "fengnian9527",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一个收了 98 条 GPT Image 2.6 提示词的在线库，其中一批是带 8 帧×200ms 参数的 GIF 循环模板（反应、转盘、像素猫、吉祥物等），每条配成品示例。",
+  "why": "池里提示词合集不少，但这库把 GIF 模板单独标出帧数与时长、按反应/转盘/吉祥物分类，拿来做动作—帧数—时长的对照表很顺手。",
+  "borrow": [
+    "GIF 模板的固定写法：动作 + 回到起点 + 帧数/时长参数",
+    "反应类、转盘类、吉祥物类 GIF 的分类组织",
+    "参考图必填与不必填的标注方式",
+    "像素猫、柴犬贴纸等现成动作脚本的骨架"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "站内部分提示词疑似改编自官方示例与社区帖（如吃饭反应 GIF），只借模板结构，不照搬具体文案；作者与授权未注明。"
+  },
+  "tags": [
+    "提示词库",
+    "GPT Image 2.6",
+    "GIF",
+    "模板"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

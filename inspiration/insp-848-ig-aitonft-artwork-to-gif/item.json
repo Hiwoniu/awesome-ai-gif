@@ -1,0 +1,35 @@
+{
+  "id": "insp-848",
+  "title": "IG @aitonft.io：艺术品上传转 GIF，送 5 张免费额度",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df2avfUghUY/",
+    "platform": "Instagram",
+    "author": "@aitonft.io",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "toNFT.io 的 AI Studio：上传一幅艺术品、输入提示词转成 GIF，新用户送 5 张免费额度。",
+  "why": "图生 GIF 的极简入口形态：上传作品加一句话提示词就出动效，免费额度降低试做门槛，可作工具类灵感对照。",
+  "borrow": [
+    "上传艺术品加一句话提示词的图生 GIF 入口形态",
+    "免费额度引导试用的产品组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["图生GIF", "工具", "Instagram"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

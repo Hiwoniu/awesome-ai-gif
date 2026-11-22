@@ -1,0 +1,41 @@
+{
+  "id": "insp-485",
+  "title": "hinablue：AnimateDiff 加 4 路 ControlNet 的 ComfyUI 工作流，附 closed_loop 循环参数",
+  "type": "multi",
+  "source": {
+    "url": "https://blog.hinablue.me/english-comfyui-animatediff-vid2vid-workflow/",
+    "platform": "hinablue",
+    "author": "hinablue",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "AnimateDiff 加 4 路 ControlNet（Depth/SoftEdge/Lineart/OpenPose）的 ComfyUI 工作流，附工作流文件，Video Combine 支持 image/gif 输出与 closed_loop 循环参数。",
+  "why": "ControlNet 串联顺序与闭环循环做法讲得很透，工作流文件可直接下载对照，是图生动图的实用参考。",
+  "borrow": [
+    "4 路 ControlNet 的串联顺序",
+    "closed_loop 闭环循环的做法",
+    "Video Combine 的 GIF 输出设置"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "2024 年旧文（AnimateDiff Evolved 早期版本），节点版本可能已变；英文版，另有中文版链接。"
+  },
+  "tags": [
+    "AnimateDiff",
+    "ControlNet",
+    "ComfyUI",
+    "闭环循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

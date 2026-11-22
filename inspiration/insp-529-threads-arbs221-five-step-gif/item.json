@@ -1,0 +1,41 @@
+{
+  "id": "insp-529",
+  "title": "Threads：@arbs221 ChatGPT 做动态 GIF 五步教程，附提示词截图",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@arbs221/post/DfkLarkFCnn",
+    "platform": "Threads",
+    "author": "Ariel Narciso",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "五步轮播教程——打开 ChatGPT、上传照片/描述动作、要求循环 GIF、指定帧数与循环设置、生成保存，附多段循环演示；最后一页有 ChatGPT 界面里的提示词截图；动作尽量简单的避坑提示。",
+  "why": "五步工作流很清晰：帧数与循环设置写法加最后一页的提示词截图，都有参考价值；动作尽量简单的避坑提示也值得记。",
+  "borrow": [
+    "五步工作流",
+    "帧数与循环设置的写法",
+    "动作尽量简单的避坑提示"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "同一作者在 Instagram 有同内容帖子，只收 Threads 版；未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "五步教程",
+    "Threads",
+    "工作流",
+    "提示词截图"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

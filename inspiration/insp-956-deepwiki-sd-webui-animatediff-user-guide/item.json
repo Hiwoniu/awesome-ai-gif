@@ -1,0 +1,32 @@
+{
+  "id": "insp-956",
+  "title": "DeepWiki：sd-webui-animatediff 用户指南，闭环与 Prompt Travel 参数",
+  "type": "multi",
+  "source": {
+    "url": "https://deepwiki.com/continue-revolution/sd-webui-animatediff/1.3-user-guide",
+    "platform": "DeepWiki",
+    "author": "DeepWiki",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "sd-webui-animatediff 扩展的完整参数指南，覆盖闭环模式、Prompt Travel、插帧与去闪烁设置。",
+  "why": "把 AnimateDiff 的循环做法讲透了：三种闭环模式、按帧号换提示词、FreeInit 去闪烁，都是直接能用的循环控制参数。",
+  "borrow": ["闭环模式 R-P/R+P/A 的取舍：R-P 做无缝循环", "Prompt Travel 按帧号排提示词的调度写法", "FreeInit 去闪烁的参数思路", "FILM 插帧提顺滑度的用法", "GIF/MP4/WebP 多格式导出对照"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。文档发布于 2025-04-20，是扩展的参数说明，非最新实测。"
+  },
+  "tags": ["AnimateDiff", "SD WebUI", "循环", "Prompt Travel", "插帧"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

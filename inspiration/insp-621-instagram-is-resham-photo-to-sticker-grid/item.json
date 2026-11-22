@@ -1,0 +1,41 @@
+{
+  "id": "insp-621",
+  "title": "Instagram @is.resham：照片发给 ChatGPT 生成 4×4 表情贴纸格",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DYSfKInhpd4/",
+    "platform": "Instagram",
+    "author": "@is.resham",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "实拍演示把个人照片发给 ChatGPT，生成 16 格带文案的 Q 版表情贴纸，评论区大量求提示词。",
+  "why": "真实演示了照片到贴纸格的完整流程，评论区验证了用户对提示词的需求点。",
+  "borrow": [
+    "照片转贴纸格流程",
+    "16 格情绪排布",
+    "评论区提示词需求"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "演示用的是博主本人的照片，只借流程与排布思路。"
+  },
+  "tags": [
+    "照片转贴纸",
+    "Instagram",
+    "16 格",
+    "演示"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

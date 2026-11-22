@@ -1,0 +1,43 @@
+{
+  "id": "insp-419",
+  "title": "用即梦 Seedream 5.5 做综艺感人物出场动态海报",
+  "type": "posters",
+  "source": {
+    "url": "https://aipick.news/items/tlv4o4p79bjz2uph4ipkopakp",
+    "platform": "AIPick",
+    "author": "抖音博主“镜间 Foto”",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "即梦 Seedream 5.5 加无限画布：把参考图和人物图拖入画布连接、一键复刻海报，再用“动态海报”功能让人物、文字、背景动起来，最后回剪辑软件与实拍视频衔接。",
+  "why": "“静态海报到动态海报再到与实拍衔接”的完整链路，是动态海报落地的实例。",
+  "borrow": [
+    "无限画布拖图连接复刻海报",
+    "图层分离单独调整元素再合并",
+    "动态海报功能按动词出效果",
+    "模型支持多轮编辑保人物一致"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；本页为抖音视频口播转写聚合页，原视频在抖音。"
+  },
+  "tags": [
+    "即梦",
+    "Seedream-5.5",
+    "动态海报",
+    "无限画布",
+    "抖音"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

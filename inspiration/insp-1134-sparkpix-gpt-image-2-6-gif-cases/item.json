@@ -1,0 +1,37 @@
+{
+  "id": "insp-1134",
+  "title": "SparkPix GPT Image 2.6 实测：照片变 GIF 的 10 个带提示词案例",
+  "type": "multi",
+  "source": {
+    "url": "https://sparkpix.ai/gpt-image-2-6",
+    "platform": "SparkPix",
+    "author": "SparkPix 团队",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026 年 11 月 6 日用 GPT Image 2.6 Flare 实测的 10 个案例，各附提示词与实测参数：照片挥手、咖啡蒸汽 cinemagraph、宠物摇尾、产品 360° 转盘、猫咪 HI! 反应贴纸、纸船循环插画等，另有 9 帧/150ms、约 720px、耗时 23–37 秒等实测数据。",
+  "why": "不是泛泛教程，而是带真实成品、帧数、尺寸、耗时和失败边界的实测记录，提示词公式“一个动作+锁定不变项+looping”可直接复用。",
+  "borrow": [
+    "提示词公式：一个小动作+逐项点名每帧必须完全相同的元素+looping 收尾",
+    "局部动态法：只让蒸汽/窗帘两处动，其余全部静止，做 cinemagraph 效果",
+    "动作选型原则：9 帧只够做一个手势，跨房间行走这类多步动作必然糊",
+    "贴纸写法：粗白描边+扁平亮色+引号里的短词，让结果像聊天贴纸而非卡通静帧"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实；2026-11-06 实测，模型为当时 GPT Image 2.6 Flare，版本信息以原文为准"
+  },
+  "tags": ["GPT Image 2.6", "照片转GIF", "cinemagraph", "反应贴纸", "提示词公式"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-560",
+  "title": "SVGator MCP：AI Agent 直连 SVG 动画编辑器，出 SVG/Lottie/GIF",
+  "type": "posters",
+  "source": {
+    "url": "https://www.svgator.com/mcp-for-ai-animations",
+    "platform": "SVGator",
+    "author": "SVGator",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "SVGator 官方 MCP 服务器：把 SVG 动画能力接到任意 AI Agent，一句话描述动作即可生成可编辑的动画 SVG，同一对话内可反复改，导出自包含 SVG、Lottie、GIF、视频等格式。",
+  "why": "“Agent 写提示词、编辑器管时间轴、导出多格式”的分工形态，GIF 只是其中一种导出，适合动态海报与签名档的矢量动效管线参考。",
+  "borrow": [
+    "MCP 接入动画编辑器的产品形态",
+    "同一对话内迭代修改而非重建的交互模式",
+    "SVG/Lottie/GIF/视频同源多格式导出的思路",
+    "动画结果保持可编辑的设计原则"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "SVG动画",
+    "MCP",
+    "Lottie",
+    "GIF导出"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

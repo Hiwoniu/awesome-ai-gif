@@ -1,0 +1,39 @@
+{
+  "id": "insp-838",
+  "title": "FB HubToolify Sticker Creator：分层做动态贴纸工具",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/reel/1159667479829189/",
+    "platform": "Facebook",
+    "author": "HubToolify",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "分层做动态贴纸的工具：角色加文字加描边加弹跳循环，导出 PNG、WebP、SVG、GIF、APNG，适配 WhatsApp、Telegram、Signal、iMessage。",
+  "why": "分层制作加多格式导出的工具形态可直接对照现有管线。",
+  "borrow": [
+    "分层做动态贴纸的产品形态：角色加文字加描边加弹跳循环",
+    "多格式导出适配多平台：PNG/WebP/SVG/GIF/APNG"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Facebook",
+    "贴纸工具",
+    "多格式导出"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

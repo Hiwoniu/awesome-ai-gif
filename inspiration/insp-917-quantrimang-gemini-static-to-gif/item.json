@@ -1,0 +1,40 @@
+{
+  "id": "insp-917",
+  "title": "QuanTriMang：Gemini 内静态图变 GIF 分步教程",
+  "type": "multi",
+  "source": {
+    "url": "https://Quantrimang.com/bien-anh-tinh-thanh-gif-tren-gemini-217599",
+    "platform": "QuanTriMang",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Gemini 内把静态图变 GIF 的分步教程，按图片类型分写动效提示词（海报霓虹灯闪、风景云雾水面、人物发丝衣摆微动）。",
+  "why": "“固定构图/人物/色彩/文字，只让局部轻微动、循环无缝”的提示词模板可直接借用，按图分类的写法也适合做 Skill 的分支。",
+  "borrow": [
+    "只让局部轻微动的提示词模板",
+    "按图片类型分写动效",
+    "固定构图与循环无缝写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Gemini",
+    "静态图转动图",
+    "提示词模板"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

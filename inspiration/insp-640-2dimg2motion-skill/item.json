@@ -1,0 +1,53 @@
+{
+  "id": "insp-640",
+  "title": "2dimg2motion Skill：一张 2D 原画转 14 帧透明游戏动画序列",
+  "type": "multi",
+  "source": {
+    "url": "https://skillsllm.com/skill/2dimg2motion",
+    "platform": "SkillsLLM",
+    "author": "WU-HAOTIAN34",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "把一张 2D 角色原画转成风格一致的透明背景游戏动画序列的 Skill：默认每动作 14 帧、首尾回位，交付关键帧提示词、精灵表与预览 GIF。",
+  "why": "身份锁定与硬失败约束写得很细，14 帧锚点计划可直接作精灵表工作的验收框架。",
+  "borrow": [
+    "14 帧锚点计划（关键帧 02/05/08/11）",
+    "身份锁定写法",
+    "硬失败约束清单",
+    "关键帧提示词模板"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "MIT",
+    "note": "开源 Skill（MIT），只借方法与验收框架；示例角色是对方的，不搬运。"
+  },
+  "tags": [
+    "Skill",
+    "精灵表",
+    "游戏动画",
+    "14 帧"
+  ],
+  "status": "approved",
+  "review": {
+    "decision": "approved",
+    "by": "向明",
+    "date": "2026-11-19",
+    "note": "借 14 帧锚点计划、身份锁定写法、硬失败约束清单与关键帧提示词模板作验收框架；示例角色不搬运"
+  },
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "approved",
+      "by": "向明",
+      "note": "主人在对话中确认通过（第一批推荐）"
+    }
+  ]
+}

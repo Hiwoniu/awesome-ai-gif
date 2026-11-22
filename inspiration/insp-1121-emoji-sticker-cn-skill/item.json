@@ -1,0 +1,32 @@
+{
+  "id": "insp-1121",
+  "title": "emoji-sticker-cn：中文表情贴纸 Claude Skill",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.skillsdirectory.com/skills/bonniegeng-max-emoji-sticker-cn",
+    "platform": "Skills Directory",
+    "author": "bonniegeng-max",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "收录于 Skills Directory 的中文表情贴纸 Claude Skill，获 Grade A 评级。",
+  "why": "第三方 Skill 目录的 A 级评分可作质量背书，是 Skill 类候选的又一可复用来源。",
+  "borrow": ["Skill 的结构与指令设计", "中文表情贴纸场景的提示词组织"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实。"
+  },
+  "tags": ["Skill", "Claude", "中文表情贴纸", "Skills-Directory"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

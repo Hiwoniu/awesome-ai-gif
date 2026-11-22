@@ -1,0 +1,32 @@
+{
+  "id": "insp-959",
+  "title": "IG @m_artlynsup：水墨风吃面循环 GIF，酱汁滴落加拟声词",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df8-nVqTD5J/",
+    "platform": "Instagram",
+    "author": "Marilyn (@m_artlynsup)",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "黑白水墨风短循环：筷子夹食物送入口中，酱汁滴落，旁边配一个 SMACK 拟声词，是作者用 ChatGPT GIF 功能做的实验。",
+  "why": "水墨风加吃播微动作是个少见的组合：只动筷子与酱汁、其余全静，拟声词排版补了声音感。",
+  "borrow": ["水墨风单动作循环：只动筷子与酱汁", "拟声词排版：SMACK 一词放在画面边上补声音感", "吃播类微动效的取景：只拍下半张脸与碗"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。画面为水墨插画，非真人照片。"
+  },
+  "tags": ["ChatGPT", "水墨风", "吃播", "拟声词", "循环"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

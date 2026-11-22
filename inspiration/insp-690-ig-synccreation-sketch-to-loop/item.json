@@ -1,0 +1,40 @@
+{
+  "id": "insp-690",
+  "title": "IG @synccreation：手绘草图动起来（骷髅素描→循环动画）",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/Dfa0T29hgPw/",
+    "platform": "Instagram",
+    "author": "@synccreation",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "上传一张骷髅手绘草图，提示“animate this sketch”，得到带阴影与烟雾的短循环；同法可做猫头鹰挥手、品牌吉祥物、logo、反应贴纸；强调是逐帧循环而非完整视频生成。",
+  "why": "草图/线稿→循环 GIF 的最小可行路径：手绘风动态贴纸与签名方向的低成本入口；逐帧循环而非完整视频生成的定位值得记下来。",
+  "borrow": [
+    "草图/线稿→循环 GIF 的最小可行路径",
+    "逐帧循环而非完整视频生成的定位"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "视频中举例含海绵宝宝等 IP 反应 meme，只借草图变动效的手法，不用它的 IP 角色。"
+  },
+  "tags": [
+    "multi",
+    "手绘风",
+    "草图动画",
+    "循环"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

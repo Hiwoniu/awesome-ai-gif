@@ -1,0 +1,42 @@
+{
+  "id": "insp-966",
+  "title": "深云：微信表情包上架全流程——规格、注册与避坑清单",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.shenyun.co/knowledge/wechat-sticker-open-platform-launch-guide/",
+    "platform": "深云知识中心",
+    "author": "深云",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "微信表情开放平台投稿的独立总结：专辑与单品取舍、五类素材硬规格、六步注册卡点、七类高频被拒原因与自查清单。",
+  "why": "池里缺一张投稿落地的规格总表：240×240/500KB/透明底、横幅封面图标尺寸、被拒清单，动图做完上架前逐项对照。",
+  "borrow": [
+    "五类素材硬规格表：主图/缩略图/横幅/封面/聊天图标的尺寸与大小上限",
+    "专辑与单品取舍：16 个起步、专辑可开赞赏、单品不支持",
+    "七类高频被拒原因与提交前自查清单",
+    "单次投稿固化成流程的思路：角色与风格提示词沉淀成模板、生图压缩预览三步固化"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "内容据公众号记录独立总结，带 WorkBuddy 服务推广；规格与赞赏口径以微信表情开放平台官网当期页面为准"
+  },
+  "tags": [
+    "微信表情包",
+    "投稿上架",
+    "规格",
+    "审核"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-170",
+  "title": "远见杂志：ChatGPT 免费做动态贺卡全教学",
+  "type": "cards",
+  "source": {
+    "url": "https://www.gvm.com.tw/article/134582",
+    "platform": "遠見雜誌",
+    "author": "遠見编辑部",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "整理 OpenAI 官方 8 项提示词原则，示范圣诞/新年四种动态图卡。",
+  "why": "官方提示词原则的中文转述，加上节日动态卡片的构图套路，可直接套用到 cards 类型。",
+  "borrow": [
+    "“场景/主体/细节/限制”四段式提示词结构",
+    "节日动态贺卡：固定背景+局部动效的构图",
+    "免费版可用性的核实写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "杂志文章，引用注明出处",
+    "note": ""
+  },
+  "tags": [
+    "ChatGPT",
+    "GPT-Image-2.6",
+    "贺卡",
+    "节日",
+    "提示词原则"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

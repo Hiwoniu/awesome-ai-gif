@@ -1,0 +1,39 @@
+{
+  "id": "insp-709",
+  "title": "PhotoGrid：Images 2.6 上线综述与 GIF 提示词",
+  "type": "multi",
+  "source": {
+    "url": "https://www.photogrid.app/blog/gpt-image-2-6/",
+    "platform": "PhotoGrid 博客",
+    "author": "PhotoGrid",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Images 2.6 上线综述，附像素风生日蛋糕等 GIF 提示词。",
+  "why": "像素风小物件循环的提示词写法可套我们的贴纸与海报小动效。",
+  "borrow": [
+    "像素风小物件循环的提示词写法",
+    "上线功能点的 GIF 适用场景划分"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原页核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "像素风",
+    "综述"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

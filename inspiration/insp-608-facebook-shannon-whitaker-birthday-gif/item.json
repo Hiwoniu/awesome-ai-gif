@@ -1,0 +1,42 @@
+{
+  "id": "insp-608",
+  "title": "Facebook：Shannon Whitaker，生日 GIF：照片 → ChatGPT Q 版娃娃 → Canva 1080×1080 加闪烁动画",
+  "type": "cards",
+  "source": {
+    "url": "https://www.facebook.com/reel/1507761804000231/",
+    "platform": "Facebook",
+    "author": "Shannon Whitaker",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "免费做个性化生日 GIF 的分步教程：上传个人照到 ChatGPT，提示词转成可爱卡通 Q 版娃娃、配品牌色与“Happy Blessed Birthday Dad”文字，再导入 Canva（1080×1080 自定义尺寸）加星星、粉色爱心气球等装饰，套用 Flicker 等动画后导出。",
+  "why": "ChatGPT + Canva 的跨工具组合覆盖“生成形象 + 排版 + 动效”三段，是动态贺卡类最完整的打法。",
+  "borrow": [
+    "照片到 Q 版娃娃到 Canva 排版的三段式",
+    "1080×1080 方形尺寸与品牌色、文字的排版要素",
+    "Canva 动画效果（Flicker）做最后动效",
+    "生日场景文案可换中文节日场景"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "生日贺卡",
+    "Canva",
+    "跨工具",
+    "1080"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

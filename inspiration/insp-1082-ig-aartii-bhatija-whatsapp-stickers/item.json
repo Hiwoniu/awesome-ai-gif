@@ -1,0 +1,40 @@
+{
+  "id": "insp-1082",
+  "title": "IG @aartii_bhatija：个人照片做 WhatsApp 3D 贴纸包教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DeAFX14oFs8/",
+    "platform": "Instagram",
+    "author": "@aartii_bhatija",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-10-02 帖子：分步教程，ChatGPT → Stickers 模板 → 3D 风格 → 上传自拍 → 提示词要透明底 3×3 九张不同表情姿势 → 导出到 WhatsApp。",
+  "why": "步骤完整、落点是真实可用的 WhatsApp 贴纸包。",
+  "borrow": [
+    "3×3 九宫格贴纸包提示词结构",
+    "Stickers 模板+3D 风格+导出 WhatsApp 流程"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；用的是作者本人照片，借流程和结构即可。"
+  },
+  "tags": [
+    "Instagram",
+    "贴纸包",
+    "九宫格",
+    "WhatsApp"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

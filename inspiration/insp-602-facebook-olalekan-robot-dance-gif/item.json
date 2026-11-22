@@ -1,0 +1,41 @@
+{
+  "id": "insp-602",
+  "title": "Facebook：Olalekan，机器人跳舞 GIF：文字生成 / 照片转 GIF 双方法",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/reel/1021452060969029/",
+    "platform": "Facebook",
+    "author": "Olalekan",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "介绍 ChatGPT 直接生成动画 GIF 与表情包的两种方法：方法一纯文字描述生成（如拉各斯街头跳 Afrobeats 的机器人），并展示所用的精确提示词；方法二从照片出发转 GIF。",
+  "why": "同时覆盖“无中生有”与“照片转 GIF”两条路径，机器人跳舞示例动作幅度大，可作动效上限参考。",
+  "borrow": [
+    "文字生成与照片转 GIF 双路径对照",
+    "动作加场景加文字三要素的提示词结构",
+    "大幅度舞蹈动作验证循环稳定性"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "双路径",
+    "机器人",
+    "舞蹈GIF",
+    "提示词示例"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

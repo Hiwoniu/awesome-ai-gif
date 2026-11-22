@@ -1,0 +1,39 @@
+{
+  "id": "insp-929",
+  "title": "Threads @infectedfairy：个性化 GIF 提示词，按你的信息生成",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@infectedfairy/post/DfXjRqKGj28",
+    "platform": "Threads",
+    "author": "@infectedfairy",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "分享一个让 ChatGPT 根据对你的了解生成个性化 GIF 的提示词，并附共享对话链接（11 月 5 日）。",
+  "why": "“根据我的信息生成我的 GIF”的个性化提示词思路，是表情包个性化方向的一个现成切口。",
+  "borrow": [
+    "个性化 GIF 提示词思路",
+    "按用户信息生成表情"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "个性化",
+    "提示词",
+    "Threads"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "insp-1068",
+  "title": "Neowin：Gemini 原生 GIF 生成上线，免费用户也能用",
+  "type": "multi",
+  "source": {
+    "url": "https://www.neowin.net/news/google-follows-chatgpt-with-ai-generated-gifs-in-gemini-available-even-to-free-users/",
+    "platform": "Neowin",
+    "author": "Pradeep Viswanathan",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-21 报道：Google 11 月 20 日宣布 Gemini 支持原生 GIF 生成，基于 Gemini Omni 1.2 Flash，文本/图片/视频均可作输入，输出约 3 秒无缝循环 GIF，附现成反应梗图模板。",
+  "why": "与 GPT Image 2.6 GIF 直接对标的新路线，规格明确（3 秒循环、Omni 1.2 Flash、模板机制），是后续用 Gemini 做表情包/反应 GIF 的入口。",
+  "borrow": [
+    "Gemini 原生 GIF 工作流：文本/图片/视频三种输入",
+    "约 3 秒无缝循环的规格",
+    "现成反应梗图模板机制",
+    "生成后直接复制进聊天软件/下载标准 .gif 的分发方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。美、日、韩等 8 国免费用户可用，全球付费用户可用；与池内 alphasignal 同题报道是不同来源的独立报道。"
+  },
+  "tags": [
+    "Gemini",
+    "原生 GIF",
+    "Omni 1.2 Flash",
+    "反应梗图",
+    "新闻"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

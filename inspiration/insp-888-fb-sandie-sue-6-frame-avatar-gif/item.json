@@ -1,0 +1,42 @@
+{
+  "id": "insp-888",
+  "title": "FB Sandie Sue：六帧 3×2 提示词，3D 卡通头像微笑变大笑加灯泡",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/groups/243564508613243/permalink/1179561981680153/",
+    "platform": "Facebook",
+    "author": "Sandie Sue",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "FB 小组帖：评论里给出完整提示词——上传照片做身份参考，3×2 六格无边框，3D 卡通化、交叉双臂、薰衣草背景，从放松微笑变到兴奋咧嘴、眉毛上扬加灯泡亮起再淡回，0.2 秒一帧循环。",
+  "why": "一条提示词里同时写清身份参考、六格布局、动作递进与收尾淡回，是头像类 GIF 可直接参考的完整模板。",
+  "borrow": [
+    "六格 3×2 无边框精灵表的提示词结构",
+    "微笑到咧嘴加灯泡的动作递进写法",
+    "身份参考锁定脸、发型、眼镜、衣服与纹身的约束清单",
+    "0.2 秒一帧的循环时序"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；提示词在原帖评论中，不在正文。"
+  },
+  "tags": [
+    "Facebook",
+    "提示词",
+    "头像 GIF",
+    "精灵表"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

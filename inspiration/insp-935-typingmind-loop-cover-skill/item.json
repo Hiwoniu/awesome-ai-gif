@@ -1,0 +1,41 @@
+{
+  "id": "insp-935",
+  "title": "Loop Cover Skill：只动一个元素做的循环封面 GIF",
+  "type": "posters",
+  "source": {
+    "url": "https://www.typingmind.com/skills/charlie947-loop-cover",
+    "platform": "TypingMind",
+    "author": "charlie947",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "把一张静态封面变成循环 GIF 的 Skill：只选一个会动的元素（灯塔光束、线条自绘、辉光），用代码逐帧改色或 HTML 动画后截帧合成。",
+  "why": "“只动一处”的封面动效方法论，附 180 帧 20fps 的取帧规格与首帧即封面的验收要求。",
+  "borrow": [
+    "只动一个元素的动效决策：先定封面、再定动什么、再定怎么动",
+    "按颜色取 mask 只改局部像素的逐帧做法",
+    "首帧必须能独立当封面的验收标准"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Skill",
+    "循环封面",
+    "动态海报",
+    "只动一处"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

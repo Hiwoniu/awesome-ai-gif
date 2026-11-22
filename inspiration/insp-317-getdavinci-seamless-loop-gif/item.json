@@ -1,0 +1,44 @@
+{
+  "id": "insp-317",
+  "title": "GetDavinci：无缝循环 GIF 藏接缝三法",
+  "type": "multi",
+  "source": {
+    "url": "https://getdavinci.ai/how-to-make-seamless-loop-gif/",
+    "platform": "GetDavinci",
+    "author": "GetDavinci（King Kaisar）",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "一篇讲无缝循环 GIF 怎么做才看不出接缝的指南：回环、乒乓回放、交叉淡化三种藏接缝方法，配共享调色板与文件瘦身做法。",
+  "why": "池里缺一节专门讲接缝藏法的通用方法论，这篇把三种方法、适用场景与常见翻车列成表，可直接当循环验收清单用。",
+  "borrow": [
+    "藏接缝三法：循环动作、乒乓回放、交叉淡化的选型表",
+    "末帧比首帧少一步、避免停顿的剪辑细节",
+    "全片共享调色板防闪烁的做法",
+    "Boomerang 只适合可逆动作的判断",
+    "12-15fps、64/128 色、关抖动的瘦身参数"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "工具页带自家产品推广，方法本身通用；配图为 davinci 实测输出，只借方法不搬图。"
+  },
+  "tags": [
+    "无缝循环",
+    "GIF",
+    "Boomerang",
+    "调色板",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

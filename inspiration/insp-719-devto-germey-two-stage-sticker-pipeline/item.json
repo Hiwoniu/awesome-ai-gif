@@ -1,0 +1,41 @@
+{
+  "id": "insp-719",
+  "title": "Dev.to：GPT Image 2.6 两阶段贴纸管线，Flare 探索加 Sunburst 定稿",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://dev.to/germey/gpt-image-26-build-a-two-stage-sticker-pipeline-with-preservation-gates-3i22",
+    "platform": "Dev.to",
+    "author": "germey",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Flare 探索加 Sunburst 定稿的两阶段贴纸管线，附水豚拍手循环 GIF 的 API 请求示例。",
+  "why": "探索与定稿分两个模型、中间设保留关卡的做法，能减少定稿轮次的返工。",
+  "borrow": [
+    "Flare 探索、Sunburst 定稿的两阶段分工",
+    "保留关卡（preservation gates）的检查点设计",
+    "API 出循环 GIF 的请求参数写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "示例水豚为通用动物形象，只借两阶段管线与参数写法；未打开原页核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "贴纸管线",
+    "GPT Image 2.6",
+    "API",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

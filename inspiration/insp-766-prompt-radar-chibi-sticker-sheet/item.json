@@ -1,0 +1,42 @@
+{
+  "id": "insp-766",
+  "title": "Prompt Radar：自拍转 3×3 九宫格 Q 版贴纸表",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://prompt-radar.net/p/chibi-sticker-sheet",
+    "platform": "Prompt Radar",
+    "author": "Orion",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "一张自拍生成九宫格 Q 版贴纸表的提示词页，含九种表情与防脸崩补充句。",
+  "why": "九宫格表情结构与防脸崩补充句可直接套用到微信表情包九宫格。",
+  "borrow": [
+    "3×3 九宫格结构：九种表情一次排布，厚白边加柔和投影的模切感",
+    "防脸崩补充句：脸跑偏时追加同一角色、同一发型眼镜的锁定句",
+    "表情清单组织：挥手、大笑、困意、爱心眼、点赞、噘嘴、吃零食、胜利手势",
+    "肤色与长相锁定写法：点名保留发型、肤色、眼镜与服装颜色"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实；该页是静态贴纸表，转动态需再按精灵表思路拆帧。"
+  },
+  "tags": [
+    "九宫格",
+    "Q版",
+    "贴纸表",
+    "自拍"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

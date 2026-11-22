@@ -1,0 +1,40 @@
+{
+  "id": "insp-230",
+  "title": "Facebook Jessline Tan：9 步做 WhatsApp 动态表情包",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.facebook.com/groups/3208727879422567/permalink/4091116237850389/",
+    "platform": "Facebook",
+    "author": "Jessline Tan",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "粉色竖版信息图教程《用 ChatGPT 制作 WhatsApp 动态表情包》，9 步含手机截图：开 ChatGPT → 选 Anime 反应模板 → 传照片 → 选情绪 → 生成 GIF → 存图 → WhatsApp 建贴纸 → 发送。",
+  "why": "步骤最细的“小白向”WhatsApp 动态表情包教程之一，模板化选情绪的做法降低了提示词门槛。",
+  "borrow": [
+    "按情绪选模板的傻瓜式流程",
+    "9 步信息图的信息组织",
+    "WhatsApp 端建包收尾步骤"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录；演示用上传照片，仅借方法"
+  },
+  "tags": [
+    "Facebook",
+    "WhatsApp",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

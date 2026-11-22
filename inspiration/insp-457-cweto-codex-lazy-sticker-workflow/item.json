@@ -1,0 +1,41 @@
+{
+  "id": "insp-457",
+  "title": "克维网：把教程丢给 Codex 学，懒人版微信动态表情包流程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.cweto.cn/post-197.html",
+    "platform": "克维网",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "“研究交给 Codex、决定留给自己”的分工：把 X 上的两篇教程丢给 Codex 学习，再给角色图与文案，由 Codex 自行规划动作、合成 GIF、准备投稿素材；作者用这套流程做了 16 张“打工日常”并已提交审核。",
+  "why": "“先让 Agent 上课再开工”的提示词写法值得借：明确学什么、不学什么，把研究与决策拆开。",
+  "borrow": [
+    "让 Codex 先学教程再开工的提示词写法",
+    "学什么、不学什么的边界交代",
+    "从口头禅里捞表情文案的选题方法",
+    "表达意义词的投稿填写思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实；文中提到的两篇 X 教程未逐一核对出处"
+  },
+  "tags": [
+    "Codex",
+    "工作流",
+    "微信表情包"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

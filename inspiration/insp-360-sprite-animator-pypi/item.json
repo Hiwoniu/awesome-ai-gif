@@ -1,0 +1,40 @@
+{
+  "id": "insp-360",
+  "title": "sprite-animator：照片转 16 帧像素风 GIF 的命令行工具",
+  "type": "multi",
+  "source": {
+    "url": "https://pypi.org/project/sprite-animator/",
+    "platform": "PyPI",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 Gemini 把任意照片变成 16 帧像素风动画 GIF 的命令行工具，带两步法（先像素化定稿、再做动画）。",
+  "why": "4×4 网格模板引导、两步法定住人物长相、帧时长 150–200ms 的实测经验，像素风表情包可直接照搬。",
+  "borrow": [
+    "4×4 精灵表模板法",
+    "两步法保长相",
+    "帧时长参数经验"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "像素风",
+    "精灵表",
+    "命令行工具"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

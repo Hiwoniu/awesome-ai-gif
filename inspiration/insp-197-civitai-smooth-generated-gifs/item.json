@@ -1,0 +1,40 @@
+{
+  "id": "insp-197",
+  "title": "Civitai：Smooth Generated Gifs 指南（SD 平滑 GIF 三步法）",
+  "type": "multi",
+  "source": {
+    "url": "https://civitai.com/models/65726/smooth-generated-gifs-guide",
+    "platform": "Civitai",
+    "author": "未注明",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Stable Diffusion 生成平滑 GIF 的三步指南：找资源（帧网格 LoRA 等）→ Auto1111 脚本出 GIF → Flowframes + RIFE 插帧平滑。",
+  "why": "“生成→成 GIF→插帧平滑”三段式旧但有效的平滑 GIF 工作流；帧网格 LoRA 这类按帧排布的生成资源选型思路。",
+  "borrow": [
+    "生成→成 GIF→插帧平滑的三段式工作流",
+    "帧网格 LoRA 的选型思路",
+    "Flowframes + RIFE 插帧平滑的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "社区指南，引用注明出处",
+    "note": "2023 年的老指南，SD era 方法，仅作方法参考"
+  },
+  "tags": [
+    "StableDiffusion",
+    "插帧",
+    "Civitai"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

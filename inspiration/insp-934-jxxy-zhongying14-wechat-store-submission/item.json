@@ -1,0 +1,41 @@
+{
+  "id": "insp-934",
+  "title": "觉醒AI知识库：麻酱猫 GIF 投稿微信表情商店全流程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.jxxy.net/ai/articles/zhongying14-2118326311030591942/",
+    "platform": "觉醒AI知识库",
+    "author": "@zhongying14（麻酱AI实验室）",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "用 GPT Image 2.6 做的赛博狸花猫“麻酱”动态表情包，投稿微信表情商店的完整流程：规格处理、专辑资料填写与审核。",
+  "why": "微信表情商店投稿的实操流程与规格清单（240×240、透明背景、循环、500KB），是表情包从生成到上架的最后一环。",
+  "borrow": [
+    "投稿规格清单：240×240、透明背景、循环衔接、单张体积控制",
+    "静态关键帧留作封面与缩略图的做法",
+    "专辑名称/介绍/版权署名的填写示例"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "涉及作者自有 IP 角色“麻酱”，只借投稿流程与规格，不借角色；未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "微信表情商店",
+    "投稿流程",
+    "规格",
+    "麻酱猫"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

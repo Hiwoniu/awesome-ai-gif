@@ -1,0 +1,41 @@
+{
+  "id": "insp-594",
+  "title": "Instagram：@otherworldly.design，ChatGPT Image V2 精灵表测试：参考旧表 + 新角色一句话出表",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DXdmxvEjcrf/",
+    "platform": "Instagram",
+    "author": "@otherworldly.design",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "录屏演示 ChatGPT Image V2 生成游戏精灵表：左侧放一张蓝色洛克人旧精灵表作参考，中间是提示词窗口，右侧出黑棕配色猴子角色新表；解说称可拿任意旧表 + 新角色参考图、一句话生成新表。",
+  "why": "“旧表作结构参考 + 新角色图作形象参考”的双参考法，是批量做系列角色精灵表的省力路径。",
+  "borrow": [
+    "旧精灵表当版式参考、新角色图当形象参考的双参考结构",
+    "一句话生成新表的极简调用",
+    "游戏角色表的行列动作排布可直接借用"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "精灵表",
+    "双参考",
+    "游戏角色",
+    "测试"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

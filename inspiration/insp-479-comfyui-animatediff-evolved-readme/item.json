@@ -1,0 +1,42 @@
+{
+  "id": "insp-479",
+  "title": "GitHub：ComfyUI-AnimateDiff-Evolved，滑动上下文窗口突破 16 帧限制",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved",
+    "platform": "GitHub",
+    "author": "Kosinkadink",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "AnimateDiff 在 ComfyUI 的现行维护分支：Evolved 采样、滑动上下文窗口突破 16 帧限制、prompt travel、VideoHelperSuite 合成 GIF。",
+  "why": "本地长动画管线的关键参考：循环锁定机制与分段生成设置，是程序化批量出 GIF 的底座。",
+  "borrow": [
+    "滑动上下文窗口的长动画设置",
+    "Looped Context 的循环锁定机制",
+    "prompt travel 的分段提示词写法",
+    "VideoHelperSuite 合成 GIF 的收尾"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "通过分支镜像的 README 了解内容，未直接打开原仓库正文核实；池内已有 AnimateDiff 官方文档（insp-463），本条是 ComfyUI 落地分支。"
+  },
+  "tags": [
+    "AnimateDiff",
+    "ComfyUI",
+    "长动画",
+    "循环锁定"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

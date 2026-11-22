@@ -1,0 +1,41 @@
+{
+  "id": "insp-253",
+  "title": "Instagram @lolo_learns_animation：7 关键帧快速做 GIF 贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DdagYaqJKrH/",
+    "platform": "Instagram",
+    "author": "@lolo_learns_animation",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "把真人舞蹈参考拆成 7 个编号关键帧（左转、中间帧、正面、右摆等），换头为可爱角色，加装饰后出循环贴纸。",
+  "why": "少见的“关键帧拆解”教学，动作设计可直接迁移到 AI 逐帧生成。",
+  "borrow": [
+    "动作拆 7 关键帧",
+    "参考视频转关键帧",
+    "换头保留动作骨架",
+    "落花等装饰收尾"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭社交搜索摘要收录；只借方法"
+  },
+  "tags": [
+    "Instagram",
+    "关键帧",
+    "教学"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

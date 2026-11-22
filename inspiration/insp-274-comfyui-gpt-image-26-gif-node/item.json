@@ -1,0 +1,41 @@
+{
+  "id": "insp-274",
+  "title": "ComfyUI v0.45 原生 GPT Image 2.6 GIF 节点实测",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://blog.laozhang.ai/en/posts/gpt-image-2-6-gif-comfyui",
+    "platform": "老张博客",
+    "author": "老张",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "ComfyUI v0.45 内置的 GPT Image 2.6 GIF 节点实测：两节点手工搭图出 GIF，含 fps 接线与帧数计费阶梯。",
+  "why": "第一手实测，踩坑点（无模板、无 GIF 写入器、fps 必须接线否则快 17–20%）都写清楚了。",
+  "borrow": [
+    "GIF 节点接线结构",
+    "fps 校准防变速",
+    "帧数计费阶梯",
+    "循环提示词写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "ComfyUI",
+    "GPT-Image-2.6",
+    "实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

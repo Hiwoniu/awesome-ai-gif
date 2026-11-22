@@ -1,0 +1,41 @@
+{
+  "id": "insp-1076",
+  "title": "IG @techtalksbyash：一句话出 6 帧精灵表循环 GIF 教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DgActarhD5J/",
+    "platform": "Instagram",
+    "author": "@techtalksbyash",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-21 当天新帖：亮色教程视频，用一句话提示词让 ChatGPT 出 6 帧 3×2 精灵表（粉色 blob 吉祥物挥手），再切帧拼成循环 GIF；还演示吉祥物、旋转商品、反应梗图等多个例子。",
+  "why": "提示词结构 + 切帧拼 GIF 的完整工作流，当天最新，与池内已收的精灵表做法互补。",
+  "borrow": [
+    "6 帧 3×2 精灵表提示词结构",
+    "切帧后拼 GIF 的流程",
+    "同一方法套吉祥物/商品/反应梗图的扩展思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "Instagram",
+    "精灵表",
+    "教程",
+    "切帧"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

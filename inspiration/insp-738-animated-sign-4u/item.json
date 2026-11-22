@@ -1,0 +1,39 @@
+{
+  "id": "insp-738",
+  "title": "animated-sign-4u：动态签名开源工具，动画 SVG/PNG/GIF 导出",
+  "type": "signatures",
+  "source": {
+    "url": "https://github.com/YuniqueUnic/animated-sign-4u",
+    "platform": "GitHub",
+    "author": "YuniqueUnic",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "动态签名开源工具：动画 SVG/PNG/GIF 导出，含循环 repeat 开关",
+  "why": "签名类动态 GIF 的完整导出形态，循环开关是签名场景的关键参数",
+  "borrow": [
+    "动态签名的循环开关设计",
+    "SVG/PNG/GIF 多格式导出形态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；落地前查许可证"
+  },
+  "tags": [
+    "动态签名",
+    "GitHub",
+    "开源"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

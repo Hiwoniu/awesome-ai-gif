@@ -1,0 +1,42 @@
+{
+  "id": "insp-449",
+  "title": "Clawd's new clothes：48 支像素循环 GIF 与换装引擎",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/CharlieLuinaris/clawds-new-clothes",
+    "platform": "GitHub",
+    "author": "CharlieLuinaris",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "像素风 Clawd 角色的 48 支循环 GIF 与换装引擎：一个动作一个文件，四套服装按图层叠加，Node 引擎可逐字节复现导出。",
+  "why": "动作库按文件拆分的工程组织值得借：每支动画独立文件、换装做成图层、导出结果可复现，适合把我们自己的角色动作也做成可复用的小引擎。",
+  "borrow": [
+    "一个动作一个文件的动作库组织",
+    "换装做成图层、每帧叠加的思路",
+    "manifest 记录帧信息的导出组织",
+    "300×300、1-bit 透明、永久循环的贴纸规格"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "CC BY-NC-SA 4.0",
+    "note": "Clawd 是 Anthropic 的 Claude Code 吉祥物，本仓库为非官方同人作品、明确限非商业使用；只借工程组织与导出流程，不用该角色形象。"
+  },
+  "tags": [
+    "像素风",
+    "GIF引擎",
+    "换装",
+    "GitHub"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

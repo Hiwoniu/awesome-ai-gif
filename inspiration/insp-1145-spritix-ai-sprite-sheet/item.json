@@ -1,0 +1,44 @@
+{
+  "id": "insp-1145",
+  "title": "Spritix：一张全身角色图出待机/行走/跑跳/攻击循环精灵表与 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://spritix.ai",
+    "platform": "Spritix",
+    "author": "Spritix",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "上传一张全身角色图，AI 先做归一化角色参考锚点，再生成待机、行走、跑、跳、攻击五种预设动作或自定义动作，浏览器里修循环后导出精灵表 PNG、预览 GIF、Atlas JSON 与逐帧 ZIP。",
+  "why": "它把“生成”和“修循环”分开计费：生成耗积分，修循环在浏览器里免费做，Perfect Loop 能自动找到最干净的接缝；同一套设置一次重建四种导出文件，预览与交付完全一致。",
+  "borrow": [
+    "先做归一化角色参考锚点、再按动作复用同一锚点的保一致做法",
+    "待机/行走/跑/跳/攻击五种预设动作加自定义动作（单方向、一次或循环）的动作词表",
+    "Perfect Loop 自动找最干净接缝、两端裁剪、旋转起始帧、0.5x-2x 变速的循环修复流程",
+    "浏览器内修循环不耗积分、只重建受影响文件的编辑分工",
+    "四件套导出结构：精灵表 PNG、预览 GIF、Atlas JSON（帧坐标与时序）、逐帧 ZIP"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开官网核实。商业 SaaS，免费版每月 20 积分、每月限下载 2 次，生成需账号；官网示例角色为其自有演示，只借工作流与导出结构，不拿示例角色。"
+  },
+  "tags": [
+    "sprite-sheet",
+    "game-sprite",
+    "loop-repair",
+    "perfect-loop",
+    "atlas-json"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

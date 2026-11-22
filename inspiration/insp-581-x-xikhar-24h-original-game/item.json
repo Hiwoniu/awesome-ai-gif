@@ -1,0 +1,41 @@
+{
+  "id": "insp-581",
+  "title": "X：@xikhar，24 小时做完整原创游戏，四向视图 + 关卡概念图",
+  "type": "multi",
+  "source": {
+    "url": "https://x.com/xikhar/status/2117776295534997818",
+    "platform": "X",
+    "author": "@xikhar",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "24 小时内做出的完整原创游戏：用 GPT Image 生成四个方向（side views）视图与关卡概念图，该帖获 8.4k 赞。",
+  "why": "“AI 出图 + 24 小时成游戏”的完整交付案例：四向视图是角色动画的基础素材，关卡概念图是场景素材，两者结合说明 GIF/精灵表路线可以走通从单张循环到可玩游戏的完整链路。",
+  "borrow": [
+    "四向视图作为角色动画基础素材的组织方式",
+    "24 小时限时交付的流程压缩：概念图与角色视图并行生成",
+    "高赞（8.4k likes）说明该路线在 X 上的传播度，可作值得跟进的方向的佐证"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "游戏",
+    "四向视图",
+    "24小时",
+    "关卡概念图"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

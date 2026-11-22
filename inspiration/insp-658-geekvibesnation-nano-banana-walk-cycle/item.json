@@ -1,0 +1,42 @@
+{
+  "id": "insp-658",
+  "title": "GeekVibesNation：Nano Banana Pro 行走循环精灵表教程",
+  "type": "multi",
+  "source": {
+    "url": "https://geekvibesnation.com/nano-banana-pro-sprite-sheets-make-the-walk-cycle-work/",
+    "platform": "GeekVibesNation",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "2026-10-05 的教程，教用 Nano Banana Pro 生成 6 帧侧面行走循环精灵表，重点在帧间连续性而非单帧好看。",
+  "why": "给出帧简报提示词结构（6 帧一排、固定地面线、同一比例）与逐帧检查法（先看脚、再看剪影、最后验首尾衔接），规格示例 128px 单元、768×128，含 Godot 导入方法。",
+  "borrow": [
+    "精灵表帧简报的提示词结构",
+    "先修序列再修像素的检查顺序",
+    "首尾衔接不靠重复首帧的写法",
+    "透明底去背后的边缘检查"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "multi",
+    "sprite-sheet",
+    "Nano Banana Pro",
+    "walk-cycle"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-1032",
+  "title": "OpenAI 官方：Introducing Images 2.6——原生 GIF 功能发布",
+  "type": "multi",
+  "source": {
+    "url": "https://openai.com/index/introducing-images-2-6",
+    "platform": "OpenAI 官网",
+    "author": "OpenAI",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Images 2.6 官方发布：原生 GIF、Flare 与 Sunburst 双版本、SVG 导出、complexity 参数，附两例完整精灵表提示词。",
+  "why": "原生 GIF 功能的官方源头，两例 6 帧 3×2 精灵表提示词是官方示范写法。",
+  "borrow": [
+    "官方精灵表提示词结构：帧数加网格加阅读顺序加逐帧表情动作加首尾衔接",
+    "Flare 快、Sunburst 精的分工",
+    "complexity 参数的概念：规划量与出图精度的取舍"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "官方公告，只借结构与参数定义，不搬示例画面。"
+  },
+  "tags": [
+    "官方",
+    "GPT Image 2.6",
+    "GIF",
+    "精灵表"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

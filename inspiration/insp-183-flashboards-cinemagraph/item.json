@@ -1,0 +1,40 @@
+{
+  "id": "insp-183",
+  "title": "FlashBoards：影格图（Cinemagraph）怎么做",
+  "type": "posters",
+  "source": {
+    "url": "https://flashboards.yaroflasher.com/learn/post-production/cinemagraph/",
+    "platform": "FlashBoards",
+    "author": "YaroFlasher",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "AI 影格图教程：9 支实拍演示，静帧先用 Nano Banana 2 Lite/GPT Image 2.5 生成，再用 MiniMax 图生视频只动一个元素。",
+  "why": "“仅一个元素动、其余与镜头完全冻结”的提示词锁定句式；“先生成静帧、再动画化、再遮罩合成”的三段式工作流。",
+  "borrow": [
+    "仅一个元素动、其余冻结的提示词锁定句式",
+    "静帧→动画化→遮罩合成的三段式工作流",
+    "循环接缝做法：交叉淡化或正反播"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "教程文章，引用注明出处",
+    "note": "演示为实拍转制，非纯 AI 生成"
+  },
+  "tags": [
+    "影格图",
+    "Cinemagraph",
+    "动态海报"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

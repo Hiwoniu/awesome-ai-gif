@@ -1,0 +1,36 @@
+{
+  "id": "insp-820",
+  "title": "Felo 转述 @higgsfield_ai：太空射击游戏，GIF 精灵表做飞船与弹幕素材",
+  "type": "multi",
+  "source": {
+    "url": "https://openapi.felo.ai/model-cases/gpt-image-2-6/space-shooter-game-gif-sprites",
+    "platform": "Felo（转述 X @higgsfield_ai）",
+    "author": "@higgsfield_ai",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "竖版太空射击游戏演示，飞船、子弹、宇宙特效均来自 GPT Image 2.6 GIF 精灵表。",
+  "why": "同一技术在不同玩法下的对照样本：与僵尸猎人横版游戏同属 Higgsfield 的 GIF 精灵表游戏系列，可合并看分层精灵表的做法。",
+  "borrow": [
+    "飞船、子弹、宇宙特效分层出精灵表的做法",
+    "竖版射击游戏的循环素材组织",
+    "与 insp-819 对照，看同一精灵表技术在不同玩法下的表现"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未找到直达 x.com 原帖链接，以 Felo 转述页收录；转述页已打开核实，原帖未打开核实，仅凭页面与搜索摘要收录。"
+  },
+  "tags": ["GPT Image 2.6", "sprite sheet", "太空射击", "游戏", "X"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

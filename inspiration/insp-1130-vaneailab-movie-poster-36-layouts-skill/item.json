@@ -1,0 +1,32 @@
+{
+  "id": "insp-1130",
+  "title": "X @VaneAILab：GPT 电影级海报 36 种版式 Skill 开源",
+  "type": "posters",
+  "source": {
+    "url": "https://x.com/VaneAILab/status/2120872250156925422",
+    "platform": "X",
+    "author": "@VaneAILab",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "用 GPT 制作电影级海报的 36 种版式 Skill 开源分享（2026-11-12 帖）。",
+  "why": "海报版式一次给到 36 种的 Skill 形态，可借版式清单与提示词组织方式，用到动态海报的版式设计上。",
+  "borrow": ["36 种电影级海报版式的分类清单", "版式 Skill 的提示词组织方式", "海报版式与动效结合的切入点"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。x.com 抓取被屏蔽，原帖未打开。"
+  },
+  "tags": ["海报", "版式", "Skill", "X原帖"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "insp-193",
+  "title": "FlipSketch：把一张静态素描 + 文字变成素描动画（arXiv）",
+  "type": "storybooks",
+  "source": {
+    "url": "https://arxiv.org/html/2411.10818v1",
+    "platform": "arXiv",
+    "author": "SketchX, University of Surrey",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "把一张静态素描 + 文字描述变成素描动画的系统，用文生视频扩散模型的运动先验。",
+  "why": "翻页书构图（课本角落小人跳舞）；参考帧机制保草图身份、双注意力保动作流畅的方法论。",
+  "borrow": [
+    "翻页书构图：课本角落小人跳舞",
+    "参考帧机制保草图身份的做法",
+    "双注意力保动作流畅的方法论"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "学术论文，只借方法",
+    "note": "研究原型，非开箱工具"
+  },
+  "tags": [
+    "素描动画",
+    "论文",
+    "翻页书"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

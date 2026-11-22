@@ -1,0 +1,40 @@
+{
+  "id": "insp-1033",
+  "title": "AgentCraft：GPT Image 2.6 提示词库，附生成结果",
+  "type": "multi",
+  "source": {
+    "url": "https://agentcraft.dev/en/prompts/image/gpt-image-2-6",
+    "platform": "AgentCraft",
+    "author": "AgentCraft",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "带生成结果的 GPT Image 2.6 提示词库，按类别收录高赞提示词全文，含多例 GIF：像素哨所循环、12 表情贴纸、拉面热气等。",
+  "why": "提示词加结果对照最直观的库，最高赞一条就是 @0xluffy_eth 的表情包模板结构。",
+  "borrow": [
+    "模板槽位写法：角色锁定加动作槽加配字槽加画幅规格",
+    "按类别组织提示词库的方式",
+    "GIF 示例的分类标注法"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "库里含 Tifa 等 IP 角色与真人照片类提示词，只借模板结构，不用其角色与示例。"
+  },
+  "tags": [
+    "提示词库",
+    "GPT Image 2.6",
+    "GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

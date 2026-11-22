@@ -1,0 +1,40 @@
+{
+  "id": "insp-393",
+  "title": "LA Photo Party：从 GIF 做光栅印刷",
+  "type": "cards",
+  "source": {
+    "url": "https://support.laphotoparty.com/support/solutions/articles/5000858776-create-a-lenticular-print-from-a-gif",
+    "platform": "LA Photo Party",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "把 GIF 配置成光栅印刷的教程：标准翻转、滑轨拍 3D、绿幕单张三种做法，含 LPI 选型。",
+  "why": "GIF→实体光栅卡的直接链路，LPI 与做法对照具体。",
+  "borrow": [
+    "GIF 转光栅配置法",
+    "三种光栅做法",
+    "LPI 选型"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "光栅卡",
+    "印刷",
+    "GIF转光栅"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

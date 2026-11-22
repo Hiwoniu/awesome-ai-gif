@@ -1,0 +1,40 @@
+{
+  "id": "insp-341",
+  "title": "DeepWiki：WanVideoWrapper 图生视频工作流文档",
+  "type": "multi",
+  "source": {
+    "url": "https://deepwiki.com/kijai/ComfyUI-WanVideoWrapper/13.2-control-and-motion-workflows",
+    "platform": "DeepWiki",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "WanVideoWrapper 图生视频工作流文档，覆盖基础 I2V、VACE 首尾帧插值、Control LoRA 等多种策略。",
+  "why": "VACE 在首尾帧之间插值的讲法对“首尾相接的无缝循环”直接有用，节点流程写得细。",
+  "borrow": [
+    "VACE 首尾帧插值做无缝循环",
+    "Control LoRA 精细控运动"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "DeepWiki 生成的仓库文档页，内容以仓库为准。"
+  },
+  "tags": [
+    "Wan",
+    "VACE",
+    "无缝循环",
+    "文档"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

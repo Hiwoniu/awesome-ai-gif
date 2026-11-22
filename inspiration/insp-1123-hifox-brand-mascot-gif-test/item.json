@@ -1,0 +1,32 @@
+{
+  "id": "insp-1123",
+  "title": "HiFox：ChatGPT Images 2.6 品牌吉祥物动图实测",
+  "type": "multi",
+  "source": {
+    "url": "http://hifox.com/blog/animate-brand-mascot-chatgpt-images-2-6",
+    "platform": "HiFox 博客",
+    "author": "HiFox",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "用 ChatGPT Images 2.6 让品牌吉祥物动起来的实测。",
+  "why": "吉祥物动效的实测记录，可对照品牌角色类 GIF 的表现与翻车点。",
+  "borrow": ["吉祥物动效的提示词写法", "实测中的角色保真检查", "动效幅度选择"],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实。品牌吉祥物可能涉及他人品牌形象，只借方法，不复用文中吉祥物。"
+  },
+  "tags": ["GPT-Image-2.6", "吉祥物", "实测", "角色保真"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

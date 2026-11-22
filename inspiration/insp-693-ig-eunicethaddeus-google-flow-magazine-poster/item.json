@@ -1,0 +1,41 @@
+{
+  "id": "insp-693",
+  "title": "IG @eunicethaddeus_：Google Flow 杂志风海报 10 秒组装动画",
+  "type": "posters",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfplQJIOqd1/",
+    "platform": "Instagram",
+    "author": "@eunicethaddeus_",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "上传一张“Women World”杂志风海报到 flow.google.com，粘贴详细提示词要求 10 秒优雅组装动画，设 6 秒 720p 生成，海报元素逐件拼合。",
+  "why": "海报→组装动画的提示词写法样本：元素逐件拼合的组装感；6 秒 720p 的时长与分辨率参数可作对照。",
+  "borrow": [
+    "海报→组装动画的提示词写法",
+    "元素逐件拼合的组装感",
+    "6 秒 720p 的生成参数"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "posters",
+    "动态海报",
+    "Google Flow",
+    "组装动画"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

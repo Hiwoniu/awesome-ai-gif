@@ -1,0 +1,42 @@
+{
+  "id": "insp-650",
+  "title": "findskill.ai：ChatGPT 动图分步指南，逐条拆解 Images 2.6 官方提示词",
+  "type": "multi",
+  "source": {
+    "url": "https://findskill.ai/blog/chatgpt-animated-gif-images-2-6-how-to-make-2026/",
+    "platform": "findskill.ai",
+    "author": "findskill.ai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Images 2.6 动图分步指南：逐条拆解 OpenAI 官方公布的提示词，讲清帧数、速度调节与逐帧编辑的完整步骤，并标注官方未公布的上限（时长、体积、免费额度）在哪里。",
+  "why": "不只给步骤，还把官方提示词按段拆开讲作用，并诚实标出哪些数字官方没公布、哪些是未实测的自拟提示词，可直接当出图前的核对清单。",
+  "borrow": [
+    "官方提示词的逐段拆解法",
+    "帧数/速度/逐帧编辑的操作顺序",
+    "未公布上限的核对清单写法",
+    "自拟提示词标注未实测的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "指南引用 OpenAI 官方公告与 The Verge 报道，只借方法与拆解；文中自拟提示词标注为未实测。"
+  },
+  "tags": [
+    "Images 2.6",
+    "教程",
+    "提示词拆解",
+    "官方示例"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

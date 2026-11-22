@@ -1,0 +1,42 @@
+{
+  "id": "insp-564",
+  "title": "Loop Interpolate：专治循环接缝的 ComfyUI 节点",
+  "type": "unknown",
+  "source": {
+    "url": "https://comfy.icu/node/LoopInterpolate",
+    "platform": "ComfyUI Cloud",
+    "author": "MiniMax H3 Loop 套件",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "循环插值节点：解决“循环 GIF 接缝处一跳”的问题。做法是把第 0 帧追加到序列末尾再整体插值，让插值器在循环点处也生成真实的过渡帧，最后去掉重复帧，得到帧数 × 倍数的干净循环。",
+  "why": "循环接缝处理的具体算法思路，比“剪掉最后一帧”更彻底，可直接迁移到任何循环 GIF 的收尾流程。",
+  "borrow": [
+    "首帧追加到末尾再插值、最后去重的闭环算法",
+    "RIFE 与 FILM 在循环点的取舍",
+    "倍数 2–8 与输入 fps 联动的帧率换算",
+    "插值只能修过渡、修不了主体跳变的前提认知"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；节点文档页，方法来自文档摘要。"
+  },
+  "tags": [
+    "循环接缝",
+    "帧插值",
+    "ComfyUI节点",
+    "RIFE"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

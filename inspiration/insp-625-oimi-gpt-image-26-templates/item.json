@@ -1,0 +1,41 @@
+{
+  "id": "insp-625",
+  "title": "Oimi：GPT-Image-2.6 模板页——大字海报与贴纸变动图四条工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://oimi.ai/zh/templates/gpt-image-2-6",
+    "platform": "Oimi",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "一个提示词入口跑四条工作流：大字排版运动海报、图生图改风格、透明 PNG 贴纸、文生/图生 GIF，全部配真实成品案例，可一键复跑。",
+  "why": "海报类「换名词、留骨架」的排版拆解和静态贴纸两步变动态贴纸的串联值得借。",
+  "borrow": [
+    "大字海报排版骨架",
+    "静态贴纸两步变动态",
+    "回到起始姿势消循环接缝"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "页面案例是平台自己的素材，只借工作流结构与排版骨架。"
+  },
+  "tags": [
+    "动态海报",
+    "GPT Image 2.6",
+    "模板",
+    "贴纸"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

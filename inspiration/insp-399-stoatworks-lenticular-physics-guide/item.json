@@ -1,0 +1,42 @@
+{
+  "id": "insp-399",
+  "title": "Stoatworks Lenticular：光栅卡翻转效果的物理模拟指南",
+  "type": "cards",
+  "source": {
+    "url": "https://stoatworks-labs.com/guides/lenticular.pdf",
+    "platform": "Stoatworks Labs",
+    "author": "Stoatworks Labs",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "一份 FFGL/OpenFX 混合器用户指南：把两层画面切条交错，模拟真实光栅透镜卡的翻转，含视角、翻转角、摩尔纹等光学行为推导。",
+  "why": "池内光栅卡多讲“怎么印”，这篇讲“翻转为什么是这样发生的”，能帮我们把 GIF 版光栅卡的帧间切换做得更像真卡。",
+  "borrow": [
+    "双图交错加倾斜翻转的物理模型",
+    "翻转边缘扫过卡面的时序",
+    "透镜间距失配导致摩尔纹与重影的成因",
+    "OpenFX/Resolume 落地形态"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "光栅卡",
+    "翻转效果",
+    "物理模拟",
+    "OpenFX"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

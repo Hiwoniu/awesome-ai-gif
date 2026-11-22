@@ -1,0 +1,39 @@
+{
+  "id": "insp-296",
+  "title": "AI Learning Guides：ChatGPT Animated GIFs 2026 入门指南",
+  "type": "multi",
+  "source": {
+    "url": "https://ailearningguides.com/chatgpt-animated-gif-maker-how-to-use/",
+    "platform": "AI Learning Guides",
+    "author": "AI Learning Guides",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "从功能机制讲起的入门指南，含提示词模板（主体/动作/风格/循环四要素）和上传图片做动图的路线。",
+  "why": "结构清晰，适合作为新人的第一篇方法参考。",
+  "borrow": [
+    "提示词模板的字段拆分",
+    "上传图只动局部元素的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "教程",
+    "入门",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "insp-1016",
+  "title": "IG @haofreeai：微信表情包变现路径——打赏机制 + 240×240 + 一分钟出 8 张",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfY0aTvM053",
+    "platform": "Instagram",
+    "author": "@haofreeai",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "中文视频讲微信表情包赚钱：15 万 + 下载、2500+ 元打赏收入；机制是上传作品后开打赏，他人长按表情可打赏；AI 做法是用 GPT Image 2.6 一分钟生成一套，改 240×240 后打包送审，通过后再开打赏。",
+  "why": "池内少见的变现全链路（收入数据 + 打赏机制 + 尺寸规格 + 送审流程），不只是做法。",
+  "borrow": [
+    "微信表情包打赏变现机制",
+    "240×240 尺寸规格",
+    "一分钟出一套的批量思路",
+    "打包送审流程",
+    "下载量/打赏收入的验证口径"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；演示含真人照片转表情，借鉴时须换原创角色；收入数据为博主自述，未经核实。"
+  },
+  "tags": ["微信表情包", "变现", "打赏"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-532",
+  "title": "Instagram：ThinXai 做 GIF 的四步提示法，防脸融化的锁定写法",
+  "type": "multi",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfXFLAKOTrk",
+    "platform": "Instagram",
+    "author": "ThinXai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "低多边形 3D 科普短片，解释 GIF 是翻页动画，并给出四步提示方法：定帧数（6 帧 1 个循环 GIF）、锁定不动项（同角色同背景、镜头不动）、逐帧描述动作节拍、首尾闭环；防脸融化的锁定写法可直接借用。",
+  "why": "四步提示结构很干净：定帧数、锁定不动项、逐帧描述动作节拍、首尾闭环；防脸融化的锁定写法是新手最容易踩的坑。",
+  "borrow": [
+    "四步提示结构",
+    "锁定不动项的写法",
+    "逐帧描述动作节拍的方法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "四步提示法",
+    "Instagram",
+    "锁定写法",
+    "科普"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-526",
+  "title": "乔木博客：GPT Image 2.6 提示词完全指南，27 个官方案例拆解",
+  "type": "multi",
+  "source": {
+    "url": "https://blog.qiaomu.ai/gpt-image-2-6-prompting-guide",
+    "platform": "乔木博客",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "按 OpenAI 官方《Image prompting》指南顺序整理的 2.6 提示词全指南：模型选型、参数表、8 条提示词原则、27 个官方案例逐个拆解并重写成可复用的英文提示词；循环 GIF 官方案例的完整参数为 output_format=gif、frame_count=9、frame_duration_ms=200、1.8 秒一圈。",
+  "why": "27 个官方案例逐个拆解加可复用提示词，是现成的提示词库素材；循环 GIF 官方案例的完整调用参数与提示词原文结构（起始姿势、抬灯、眨眼、回到原位）可以直接抄。",
+  "borrow": [
+    "27 个官方案例的拆解与复用提示词",
+    "循环 GIF 官方案例的完整参数",
+    "8 条提示词原则"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "作者名未从摘要中确认；仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "提示词指南",
+    "官方案例",
+    "参数表",
+    "循环GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

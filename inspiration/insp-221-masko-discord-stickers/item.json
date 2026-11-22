@@ -1,0 +1,42 @@
+{
+  "id": "insp-221",
+  "title": "Masko：Discord 动态贴纸完整教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://masko.ai/docs/tutorials/discord-stickers",
+    "platform": "Masko 官方教程",
+    "author": "未署名",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "用 AI 做 Discord 动态贴纸的完整教程，含 Discord 官方规格与 API 调用方式。",
+  "why": "规格给得最全：动态贴纸须为 320×320 APNG、小于 512KB、最长 5 秒，并给出 curl 调用的 API 路线，对微信表情包的跨平台规格对照很有参考价值。",
+  "borrow": [
+    "320×320 / APNG / 512KB / 5 秒的平台规格表",
+    "“一个角色 + 一情绪 + 无背景”的贴纸提示词法",
+    "动画转贴纸四版本导出的做法",
+    "API 批量生成贴纸的路线"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Discord",
+    "贴纸",
+    "规格",
+    "API"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

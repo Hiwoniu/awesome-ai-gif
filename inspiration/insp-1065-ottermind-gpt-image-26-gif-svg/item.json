@@ -1,0 +1,43 @@
+{
+  "id": "insp-1065",
+  "title": "Ottermind：GPT Image 2.6 GIF 动图、SVG 与局部编修",
+  "type": "multi",
+  "source": {
+    "url": "https://ottermind.ai/zh-TW/blog/gpt-image-2-6",
+    "platform": "Ottermind",
+    "author": "Ottermind",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "繁体中文教程，按官方文档整理 GIF、SVG、标注编辑、complexity 四项新功能，附猴子提灯笼循环 GIF 提示词与 API 参数表。",
+  "why": "API 参数表完整（帧数／帧时长／尺寸），猴子提灯笼提示词可作循环 GIF 的起手模板。",
+  "borrow": [
+    "API 参数表（frame_count、frame_duration_ms、size）",
+    "动作开始→结束→回起点的提示词写法",
+    "循环接缝检查清单（手臂位移、灯笼变形、多余物件）",
+    "complexity 与 quality 分工（规划深度 vs 渲染画质）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。内容基本是官方文档整理、无独立实测，价值弱于同轮其他实测类条目。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "API参数",
+    "SVG",
+    "繁体中文",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "insp-729",
+  "title": "Giffusion：关键帧提示词插值生成 GIF 的开源 Web UI",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/DN6/giffusion",
+    "platform": "GitHub",
+    "author": "DN6",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用 Stable Diffusion 生成 GIF 与视频的 Web UI：关键帧提示词插值、关键帧动画字符串控制角度、缩放、平移、音频驱动动画，支持 ControlNet 与多 ControlNet，可保存提示词与生成记录。",
+  "why": "有真实的关键帧动画工作流与参数（插值、镜头运动字符串），是 AnimateDiff 之外的另一条开源 GIF 路线。",
+  "borrow": [
+    "关键帧提示词插值写法",
+    "用动画字符串控制镜头运动的做法",
+    "音频驱动动画的思路"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["开源", "Stable Diffusion", "关键帧", "插值", "Web UI"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "insp-1014",
+  "title": "FB @Arham Fahmi：Pixel Quest——单张正脸照片变游戏角色表",
+  "type": "multi",
+  "source": {
+    "url": "https://www.facebook.com/reel/1015297957491621",
+    "platform": "Facebook",
+    "author": "@Arham Fahmi",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "Pixel Quest 第 2 关：角色选择教程：上传一张正脸照片到 ChatGPT 或 Gemini，生成一整套游戏可用的像素风角色表。",
+  "why": "照片直接变游戏角色表的完整链路，区别于池内已有的手绘/文字生成精灵表。",
+  "borrow": [
+    "正脸照片做角色表源图的思路",
+    "像素风角色表的规格认知",
+    "ChatGPT/Gemini 双模型可选的写法",
+    "游戏化分关教程结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；演示用真人照片，借鉴时须换原创角色。"
+  },
+  "tags": ["像素风", "角色表", "游戏", "照片转 GIF"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

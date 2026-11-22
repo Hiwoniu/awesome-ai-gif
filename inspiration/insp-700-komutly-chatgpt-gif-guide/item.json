@@ -1,0 +1,42 @@
+{
+  "id": "insp-700",
+  "title": "Komutly：ChatGPT 做 GIF 指南——文字/照片/精灵表三路与提示词模板",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://komutly.com/chatgpt-ile-gif-yapma/",
+    "platform": "Komutly",
+    "author": "Komutly",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "土耳其语 ChatGPT GIF 指南：文字、照片、精灵表三条做法，附反应 GIF、贴纸 GIF、Logo GIF 三类提示词模板。",
+  "why": "三类提示词模板可直接拆成我们的结构；GIF 选项未开通时用 6 帧精灵表兜底的流程值得借。",
+  "borrow": [
+    "提示词模板结构：主体+动作+固定项+无缝循环",
+    "照片做 GIF 的身份固定写法：脸、衣服、光线、背景每帧不变",
+    "GIF 选项未开通时用 6 帧精灵表兜底的流程",
+    "反应/贴纸/Logo 三类 GIF 的分类组织方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "土耳其语页面，提示词模板为英文；未打开原页核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "提示词模板",
+    "精灵表",
+    "ChatGPT GIF"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

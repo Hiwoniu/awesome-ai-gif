@@ -1,0 +1,41 @@
+{
+  "id": "insp-761",
+  "title": "TECHBOOK 实测：把 GIF 变成 WhatsApp 动态贴纸",
+  "type": "multi",
+  "source": {
+    "url": "https://www.techbook-magazine.com/mobile-lifestyle/whatsapp-trick-turns-gifs-into-animated-stickers-heres-how-it-works",
+    "platform": "TECHBOOK",
+    "author": "TECHBOOK",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "在 WhatsApp 里先把 GIF 正常发出去，再长按复制、重新粘贴发送，GIF 会被自动转成可收藏复用的动态贴纸；iPhone 实测有效，而网上流传的“复制 X 上的视频链接再粘贴”并不管用。",
+  "why": "给做好的 GIF 多了一条分发路径：不用再转格式，直接在 WhatsApp 里发一次就能变成贴纸收藏，适合把我们的表情 GIF 推到更多聊天场景。",
+  "borrow": [
+    "已发送 GIF 长按复制再粘贴转贴纸的操作",
+    "先在真实聊天里验证再推广的分发思路",
+    "只复制链接不管用的反例提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "德文原文的机翻版经母语者校对；只在 iPhone 上实测，安卓路径文中只转述未实测。"
+  },
+  "tags": [
+    "WhatsApp",
+    "分发",
+    "GIF 转贴纸",
+    "实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

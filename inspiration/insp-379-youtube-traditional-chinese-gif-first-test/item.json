@@ -1,0 +1,40 @@
+{
+  "id": "insp-379",
+  "title": "YouTube：繁中第一手实测——珍珠奶茶 9 帧无缝循环",
+  "type": "multi",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=WE4f3se7wWA",
+    "platform": "YouTube",
+    "author": "未知",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "繁中第一手实测：6 项挑战计时，珍珠奶茶 GIF 9 帧无缝循环 35.5 秒，附官方提示词模板。",
+  "why": "有计时实测与精灵图提示词模板（角色描述+动作序列+6 帧 3×2 排布），可直接对照。",
+  "borrow": [
+    "精灵图提示词模板",
+    "9 帧循环实测",
+    "计时对照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "实测",
+    "精灵图模板",
+    "繁中"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

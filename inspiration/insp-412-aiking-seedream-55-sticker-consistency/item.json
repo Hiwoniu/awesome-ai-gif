@@ -1,0 +1,43 @@
+{
+  "id": "insp-412",
+  "title": "惊人的一致性！Seedream 5.5 实测",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.aiking.dev/blog/%E6%83%8A%E4%BA%BA%E7%9A%84%E4%B8%80%E8%87%B4%E6%80%A7-seedream-5-5%E5%AE%9E%E6%B5%8B",
+    "platform": "KimYx Blog",
+    "author": "老金",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "用即梦 Seedream 5.5 先做 Q 版角色设定图（三视图加四表情），再以设定图为唯一参考出一张 4×2 八格精灵图，切帧拼成循环 GIF，全文附完整提示词原文。",
+  "why": "本轮中文方向最完整的一条实测：设定表锁角色、八格动作、切帧参数（每帧 0.24 秒）全套可复用，且是即梦与豆包国产路线的代表做法。",
+  "borrow": [
+    "角色设定图写法（头身比 1:2.5、三视图加 2×2 表情、透明底）",
+    "八格精灵图提示词结构（动作逐格写清、脚底与字幕基线统一）",
+    "切帧顺序与帧时长（0.24 秒/帧）",
+    "用作参考图多轮改图保一致的工作流"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开页面核实，内容与搜索摘要一致。"
+  },
+  "tags": [
+    "Seedream-5.5",
+    "即梦",
+    "角色设定图",
+    "精灵图",
+    "实测"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

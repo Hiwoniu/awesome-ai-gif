@@ -1,0 +1,39 @@
+{
+  "id": "insp-832",
+  "title": "X @798145343h：动作幅度大、中间帧少会卡顿，宜小幅度配足帧数",
+  "type": "multi",
+  "source": {
+    "url": "https://x.com/798145343h/status/2118164732989608405",
+    "platform": "X",
+    "author": "@798145343h",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "动作幅度大、中间帧少会卡顿的失败模式，宜小幅度配足帧数。",
+  "why": "幅度与帧数配比的经验值可直接写进帧数选择规则。",
+  "borrow": [
+    "大幅度加少帧会卡顿的失败模式",
+    "小幅度配足帧数的帧数选择规则"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "X",
+    "帧数",
+    "卡顿"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

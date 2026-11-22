@@ -1,0 +1,40 @@
+{
+  "id": "insp-912",
+  "title": "1Bit AI：9 条 Nano Banana 提示词，含九姿势 Q 版表情包",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.1bit.ai/blog/30-nano-banana-ai-prompts-3d-chibi-cinematic-1bitai",
+    "platform": "1Bit AI",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "9 条 Nano Banana 提示词合集，含九姿势红底 Q 版表情贴纸（比心、哭、拥抱、睡觉、指、飞吻等动作清单）。",
+  "why": "九姿势表情包提示词一次给齐动作清单，留白抠图的要求可直接借进贴纸包做法。",
+  "borrow": [
+    "九姿势表情包提示词",
+    "动作清单写法",
+    "留白便于抠图的构图要求"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Nano Banana",
+    "提示词合集",
+    "九姿势"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

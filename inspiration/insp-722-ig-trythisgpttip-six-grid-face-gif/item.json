@@ -1,0 +1,42 @@
+{
+  "id": "insp-722",
+  "title": "IG @trythisgpttip：六格图切帧做法环 GIF，附 Outlook 首帧提醒",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df8c7G_gfpm/",
+    "platform": "Instagram",
+    "author": "@trythisgpttip",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "做循环人脸 GIF 的四步法：一句话要一张六格图、每帧同一角色光线背景、把格子切成六帧、丢进免费 GIF 工具循环播放；附注旧版 Outlook 只显示第一帧，所以首帧要当静态图来做。",
+  "why": "六格出帧再切帧的路线比逐帧生成省次数，且首帧即封面的提醒对聊天和邮件场景很实用。",
+  "borrow": [
+    "六格图一句话出帧的提示词结构",
+    "切帧拼 GIF 的四步流程",
+    "首帧当静态封面验收的提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；视频为英文解说。"
+  },
+  "tags": [
+    "Instagram",
+    "六格图",
+    "切帧",
+    "循环 GIF",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

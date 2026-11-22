@@ -1,0 +1,35 @@
+{
+  "id": "insp-852",
+  "title": "IG @Milan James：单提示词 3×2 六帧精灵表循环 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/Df4xhFbghL3/",
+    "platform": "Instagram",
+    "author": "@Milan James",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "一句话提示词要 3×2 六帧精灵表做循环 GIF：同角色、同比例、同背景的约束写法。",
+  "why": "单提示词出整套循环帧的极简写法：三条一致性约束写进一句话里，适合快速出表情包循环的模板对照。",
+  "borrow": [
+    "单提示词出 3×2 六帧精灵表的写法",
+    "同角色、同比例、同背景三条一致性约束的句式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": ["精灵表", "提示词", "循环", "Instagram"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

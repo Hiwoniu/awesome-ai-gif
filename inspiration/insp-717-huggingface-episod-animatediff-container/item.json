@@ -1,0 +1,40 @@
+{
+  "id": "insp-717",
+  "title": "Tenstorrent AnimateDiff 服务：512×512 GIF 循环输出",
+  "type": "multi",
+  "source": {
+    "url": "https://huggingface.co/episod/tt-animatediff-container-v5.1",
+    "platform": "Hugging Face",
+    "author": "episod",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Tenstorrent 上的 AnimateDiff 文生视频服务：512×512 GIF 循环输出，支持风格 LoRA、prompt travel、MotionAdapter。",
+  "why": "在线服务形态的 AnimateDiff 参考实现，prompt travel 的写法可借来做渐变类循环。",
+  "borrow": [
+    "512×512 GIF 循环输出的规格",
+    "prompt travel 做渐变循环的写法",
+    "风格 LoRA 的接入方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原页核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "AnimateDiff",
+    "Hugging Face",
+    "在线服务"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

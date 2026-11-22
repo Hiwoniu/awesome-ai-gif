@@ -1,0 +1,41 @@
+{
+  "id": "insp-516",
+  "title": "HitPaw：动态照片指南，Bounce 往返循环天然无接缝",
+  "type": "posters",
+  "source": {
+    "url": "https://www.hitpaw.com/ai-photo-editing-tips/how-to-make-a-moving-photo.html",
+    "platform": "HitPaw",
+    "author": "HitPaw",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "动态照片（cinemagraph）制作指南：两种循环类型（Bounce 往返循环 vs Repeat 重复循环）、从视频片段刷选动区的做法、工具对照与 HitPaw FotorPea 的 AI 自动动画法。",
+  "why": "Bounce 与 Repeat 两种循环方式的取舍很关键：往返循环天然无接缝，适合接缝难修的循环；这个判断可以直接用于循环 GIF 的接缝方案选择。",
+  "borrow": [
+    "Bounce 与 Repeat 两种循环的取舍",
+    "往返循环天然无接缝的判断",
+    "刷选动区的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "厂商软文性质较重，方法论部分可用；仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "cinemagraph",
+    "动态照片",
+    "往返循环",
+    "接缝"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

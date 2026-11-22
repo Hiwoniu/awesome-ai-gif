@@ -1,0 +1,36 @@
+{
+  "id": "insp-1164",
+  "title": "IG @chenbuildsai：ChatGPT 应用内置 STICKERS 入口，自拍一句话出 6 张表情贴纸",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.instagram.com/reel/DfKLw8vjCi3/",
+    "platform": "Instagram",
+    "author": "@chenbuildsai",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "一条剪纸风教程短片：ChatGPT 手机应用里新增 STICKERS 入口，上传自拍、写一句话就能出一张卡通贴纸，再出一版 6 种表情的贴纸片，可直接发 iMessage 与 WhatsApp，全程不用装别的工具。",
+  "why": "记录了一个新的分发入口：表情包不必先导出文件再导入，应用内生成后直发聊天应用；一句话出 6 表情的出片方式也可对照池里已有的九宫格做法。",
+  "borrow": [
+    "应用内 STICKERS 入口这个新路径：生成与发送在同一应用内完成，省掉导出导入",
+    "一句话提示词出 6 表情一版贴纸片的轻量做法：先看整版效果再决定是否单张细化",
+    "剪纸风讲解短片的呈现方式：角色带路加分步演示，适合把我们自己的做法也拍成短教程"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；示例用自拍真人，只借入口与流程，不拿真人照片做案例，角色一律换原创。"
+  },
+  "tags": ["Instagram", "ChatGPT应用", "贴纸", "自拍", "分发入口"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

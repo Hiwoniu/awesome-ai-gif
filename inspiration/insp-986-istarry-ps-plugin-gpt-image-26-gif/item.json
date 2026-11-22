@@ -1,0 +1,38 @@
+{
+  "id": "insp-986",
+  "title": "istarry：PS 插件内调用 GPT Image 2.6 做 GIF 表情包",
+  "type": "multi",
+  "source": {
+    "url": "https://istarry.com.cn/ps/gpt-image-2-6-emoji-gif/",
+    "platform": "istarry",
+    "author": "JIUYUE",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "经 StartAI 插件在 PS 内调用 GPT Image 2.6 出 GIF 的教程；五条动作聚焦规则。",
+  "why": "五条动作聚焦规则可直接复用；PS 插件内调用的国内入口路径。",
+  "borrow": [
+    "五条动作聚焦规则：一次一个动作、明写回起点、固定镜头干净背景、字只留一到两个词、帧数跟动作幅度走",
+    "PS 插件内调用 2.6 的入口路径"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；该文插件推广色彩较重，只借规则，不借推广内容。"
+  },
+  "tags": [
+    "Photoshop插件",
+    "动作规则"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

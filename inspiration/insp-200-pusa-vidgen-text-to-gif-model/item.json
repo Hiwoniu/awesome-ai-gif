@@ -1,0 +1,40 @@
+{
+  "id": "insp-200",
+  "title": "Pusa-VidGen：开源文生视频模型，可直接输出 GIF",
+  "type": "multi",
+  "source": {
+    "url": "https://github.com/Yaofang-Liu/Pusa-VidGen",
+    "platform": "GitHub",
+    "author": "Yaofang-Liu",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "基于阿里 Wan 2.1 的开源文生视频模型，输出格式明确包含 GIF（另有 MP4/WebM），配有论文 arXiv:2506.15838。",
+  "why": "开源可自部署的视频模型直接输出 GIF，可作为“模型直出 GIF”路线的对照参考，而非只依赖闭源 API。",
+  "borrow": [
+    "文生视频直出 GIF 的模型选型参考",
+    "向量化时间步自适应等提速思路",
+    "GIF 作为模型原生输出格式的定位"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "开源模型，商用前需核对仓库授权说明"
+  },
+  "tags": [
+    "开源模型",
+    "文生视频",
+    "Wan"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

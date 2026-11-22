@@ -1,0 +1,29 @@
+{
+  "id": "insp-990",
+  "title": "imagetogif：Text to GIF，23 个真实样本带完整参数",
+  "type": "multi",
+  "source": {
+    "url": "https://imagetogif.app/text-to-gif",
+    "platform": "imagetogif.app",
+    "author": "imagetogif.app",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "文字转 GIF 工具页：23 个真实生成样本，每个贴出原提示词与帧数/尺寸/循环时长/耗时（如打哈欠小猫 16 帧 3.2 秒、像素幽灵悬浮）；输入分文字想法/现有照片/自备帧三种。",
+  "why": "样本量最大、参数最透明的一站；一句话提示词样本可直接扩提示词库，16 帧 3.2 秒的时序可作参考。",
+  "borrow": [
+    "“困意小猫打哈欠”等一句话提示词样本",
+    "16 帧 3.2 秒循环的时序参考",
+    "按文字想法/现有照片/自备帧三分输入方式"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。"
+  },
+  "tags": ["工具", "GPT Image 2.6", "提示词样本"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-21", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

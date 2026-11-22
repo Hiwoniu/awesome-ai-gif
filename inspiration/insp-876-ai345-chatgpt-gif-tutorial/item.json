@@ -1,0 +1,38 @@
+{
+  "id": "insp-876",
+  "title": "ai345：ChatGPT 做 GIF 动图教程，6 帧提示词模板与逐帧修改方法",
+  "type": "multi",
+  "source": {
+    "url": "https://www.ai345.info/ai-guide/chatgpt-gif-animation-tutorial",
+    "platform": "ai345",
+    "author": "ai345",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "一篇 ChatGPT Images 2.6 做 GIF 的中文教程，给出 6 帧提示词模板、官方精灵图六要素拆解和逐帧修改的写法，还有常见翻车对照表。",
+  "why": "模板可直接套用：帧数加连续动作拆分加首尾衔接，以及“锁、点、限”逐帧修改法，是做循环 GIF 时最实用的两段式写法。",
+  "borrow": [
+    "6 帧提示词模板结构：帧数加连续动作拆分加镜头固定加首尾衔接",
+    "官方精灵图六要素拆解：定性、帧数排布、格尺寸一致、固定机位、动作递进、负向约束",
+    "逐帧修改的“锁、点、限”写法：锁定不动帧、点明帧号、限制改动范围",
+    "首尾衔接单独处理：末帧姿态接近首帧",
+    "翻车对照表：静图、跳动、改一帧变样、接不上、有乱码文字的成因与解法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "原文已打开核实；只借提示词结构与修改方法，不抄示例文案"
+  },
+  "tags": ["ChatGPT", "Images 2.6", "GIF 教程", "提示词模板", "精灵图", "逐帧修改"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

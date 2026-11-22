@@ -1,0 +1,45 @@
+{
+  "id": "insp-881",
+  "title": "Morphic：ChatGPT Images 2.6 指南，面包房品牌全流程 GIF 与参考表",
+  "type": "multi",
+  "source": {
+    "url": "https://morphic.com/resources/how-to/chatgpt-images-2-6-guide",
+    "platform": "Morphic",
+    "author": "Morphic",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Morphic 的 Images 2.6 指南：以虚构面包房品牌 Ember & Oat 为例，讲 GIF 制作、Flare 与 Sunburst 选型、复杂度设置与角色参考表。",
+  "why": "同一套角色参考表贯穿 GIF、海报与场景，GIF 参数与失败模式写得具体，可直接套进我们的多类型工作流。",
+  "borrow": [
+    "2–16 帧、20ms–2 秒、默认 9 帧 200ms 的 GIF 参数写法",
+    "Flare 快速迭代、Sunburst 锁定成品的分工",
+    "正面、侧面、背面加四种表情的角色参考表结构",
+    "循环四习惯：锁机位、只动一处、首尾接回、禁杂字",
+    "GIF 只能由新图生成、编辑只出静帧的边界提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "指南用虚构品牌 Ember & Oat 做示例，无真人或 IP 风险；只借流程与参数，不抄示例角色。原文已打开核实。"
+  },
+  "tags": [
+    "GPT Image 2.6",
+    "GIF",
+    "参考表",
+    "Flare",
+    "Sunburst",
+    "Morphic"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

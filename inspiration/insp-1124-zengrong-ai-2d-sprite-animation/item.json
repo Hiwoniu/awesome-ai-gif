@@ -1,0 +1,32 @@
+{
+  "id": "insp-1124",
+  "title": "ZRONG：从一张图到 SpriteSheet 的 2D 精灵动画实操",
+  "type": "multi",
+  "source": {
+    "url": "https://blog.zengrong.net/post/ai-2d-sprite-animation",
+    "platform": "ZRONG's Blog",
+    "author": "ZRONG",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "AI 自动生成 2D 精灵动画的实操教程。",
+  "why": "单图转精灵表的自动化流程，偏工程实现，可补技术路线。",
+  "borrow": ["单图转精灵表的流程", "自动化切帧与合成方法"],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开原文核实。"
+  },
+  "tags": ["精灵表", "2D动画", "自动化", "教程"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "insp-768",
+  "title": "凤凰网科技：GPT Image 2.6 大肥鱼 GIF 表情包实测",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://tech.ifeng.com/c/8xne8ORGH6U",
+    "platform": "凤凰网科技",
+    "author": "凤凰网科技",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "Images 2.6 上线当日实测：大肥鱼三例、六帧魔法学徒与小鸟线稿转 GIF。",
+  "why": "六帧动作链的完整呈现与小动作优先的适用边界，是判断什么 GIF 值得做的对照。",
+  "borrow": [
+    "六帧动作链写法：起手、失控、收尾回到起手姿势的完整链条",
+    "线稿转 GIF：保留原线条风格只补腮红再加眨眼蹦跳爱心",
+    "小动作优先的边界判断：短时循环小动作适用，长叙事不适用",
+    "产品等待动效的用法：虚拟角色在输入框上方做等待动画"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "已打开原文核实；以网络迷因角色大肥鱼做测试，只借实测方法与六帧动作链写法，不复用该角色。"
+  },
+  "tags": [
+    "实测",
+    "GPT-Image-2.6",
+    "表情包"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

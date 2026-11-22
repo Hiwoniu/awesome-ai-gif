@@ -1,0 +1,39 @@
+{
+  "id": "insp-1056",
+  "title": "X @jev_chat：ChatGPT 从零到 1 做微信动态表情包保姆级教程",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://x.com/jev_chat/status/2118511250275704964",
+    "platform": "X",
+    "author": "@jev_chat",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "ChatGPT 从零到 1 做微信动态表情包的保姆级教程，附投稿全流程。",
+  "why": "从零到 1 的完整流程加投稿全流程，是新手向教程的代表。",
+  "borrow": [
+    "从零到 1 的完整流程组织",
+    "投稿全流程写法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "X",
+    "微信表情包",
+    "教程"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "insp-733",
+  "title": "掘金：OpenAI Images 2.6 拆解，GIF 的边界、选型与成本",
+  "type": "multi",
+  "source": {
+    "url": "https://article.juejin.cn/post/7704923158558670902",
+    "platform": "掘金",
+    "author": "",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "从 API 视角拆解 Images 2.6 的 GIF 能力：Flare 与 Sunburst 双模型分工、帧数与帧时长边界、complexity 参数，以及低画质档用量涨约 4.2 倍的成本账",
+  "why": "把 GIF 的参数边界算得很实在，并点明 GIF 只支持文生图、编辑端点不支持，选型与避坑信息集中，适合当作接 API 前的核对清单",
+  "borrow": [
+    "GIF 参数边界：2–64 帧、20–2000ms/帧，与 3 秒 72 帧超限的推算",
+    "Flare 走速度试效果、Sunburst 走多轮一致性的选型逻辑",
+    "complexity 三档的取舍思路",
+    "已有图片先重绘多帧拼图、再本地切帧的兜底路线"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "原文已打开核实；4.2 倍用量涨幅作者自述未见官方定价页原文，引用时以官方文档与实测为准；帧数上限两处文档口径不一致，以账户实际校验为准"
+  },
+  "tags": ["GPT Image 2.6", "API", "参数边界", "成本"],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [{"date": "2026-11-20", "status": "pending", "by": "八哥", "note": "收进灵感池"}]
+}

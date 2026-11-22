@@ -1,0 +1,41 @@
+{
+  "id": "insp-1000",
+  "title": "Threads @davishal.exe：Gemini 个性化循环 GIF 四步工作流",
+  "type": "multi",
+  "source": {
+    "url": "https://www.threads.com/@davishal.exe/post/DgAEC-ZDvwG",
+    "platform": "Threads",
+    "author": "Vishal @davishal.exe",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "2026-11-21 帖子：用 Gemini 把个人照片做成循环 GIF 的四步流程，上传最多 5 张照片，提示词示例写缓慢推镜加蒸汽，约 3 秒循环，需订阅、部分地区不可用。",
+  "why": "Gemini GIF 上线后的第一批实测工作流，运镜提示词写法与规格备注都很具体。",
+  "borrow": [
+    "“提示动作而非场景”的运镜提示词写法：缓慢推镜加蒸汽",
+    "3 秒循环的规格备注",
+    "最多上传 5 张照片做角色参考的做法",
+    "需订阅与地区限制的提醒"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实。"
+  },
+  "tags": [
+    "Gemini",
+    "Threads",
+    "工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

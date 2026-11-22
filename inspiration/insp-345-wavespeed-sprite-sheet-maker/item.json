@@ -1,0 +1,39 @@
+{
+  "id": "insp-345",
+  "title": "WaveSpeed：GIF/视频转精灵表工具",
+  "type": "multi",
+  "source": {
+    "url": "https://wavespeed.ai/free-tools/sprite-sheet-maker",
+    "platform": "WaveSpeed AI",
+    "author": "",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "浏览器内把视频/GIF/多帧图转成游戏用精灵表，带 AI 抠图、裁剪、网格排布，导出 PNG + TexturePacker 风格 JSON。",
+  "why": "反向管线（GIF→精灵表）完整，支持 Phaser/PixiJS/Godot/Unity，最高 150 帧、8192px。",
+  "borrow": [
+    "GIF 帧转精灵表的完整导出规格",
+    "AI 抠图后统一对齐"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "GIF转精灵表",
+    "AI抠图",
+    "游戏引擎"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

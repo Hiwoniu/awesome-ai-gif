@@ -1,0 +1,43 @@
+{
+  "id": "insp-1152",
+  "title": "Sadesign：用 Gemini 参考图做 12 表情 Q 版贴纸套装",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://sadesign.ai/instructions-on-how-to-create-adorable-stickers-from-real-photos-preserving-your-babys-face-using-gemini",
+    "platform": "Sadesign",
+    "author": "Sadesign",
+    "found_at": "2026-11-22",
+    "found_by": "八哥"
+  },
+  "what": "用 Gemini 参考图一次出 12 个表情的 Q 版贴纸教程，附一致性检查与 Canva 抠图导出步骤。",
+  "why": "12 个表情清单与分批出图（每批 4–6 张）、逐项点名五官发色服装的保一致写法可直接复用。",
+  "borrow": [
+    "12 表情清单结构：大笑、哭、闹别扭、惊讶、困、比心、嘟嘴、吃蛋糕、吐舌、眨眼、害羞、开心",
+    "提示词结构：先定识别特征（圆脸、发型、发色、眼睛、服装、头身比）再列 12 个表情",
+    "分批出图：每批 4–6 张，便于逐张验一致性",
+    "同一张参考图重复提交、不一次改多处细节的保一致纪律",
+    "Canva 抠图加白边、按表情分组存 PNG 的导出流程"
+  ],
+  "risks": {
+    "ip_or_real_person": true,
+    "license": "unknown",
+    "note": "原文以宝宝形象为例，且明确提醒真人儿童照片可能被模型拒绝；只借表情清单与一致性写法，不用真人儿童照片做参考图，角色换原创。"
+  },
+  "tags": [
+    "Gemini",
+    "贴纸套装",
+    "参考图",
+    "一致性"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

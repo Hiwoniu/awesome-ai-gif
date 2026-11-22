@@ -1,0 +1,39 @@
+{
+  "id": "insp-347",
+  "title": "Dev.to：GIF 转精灵表的 Phaser/Godot 管线",
+  "type": "multi",
+  "source": {
+    "url": "https://dev.to/zheng_9094a855fc59df623af/gif-to-sprite-sheet-the-pipeline-i-use-for-phaser-and-godot-and-where-it-breaks-4mpm",
+    "platform": "Dev.to",
+    "author": "zheng",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "作者自述的 GIF→精灵表+图集管线，含浏览器解码、打包布局、Phaser/Godot/Unity 接入代码与踩坑清单。",
+  "why": "有真实代码与“按动作命名帧、间距≥2px、4096 上限”等硬经验，工程味很足。",
+  "borrow": [
+    "GIF 解码取帧→打包→引擎接入的三段式管线",
+    "帧命名与间距规范"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "Dev.to",
+    "GIF转精灵表",
+    "游戏引擎"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

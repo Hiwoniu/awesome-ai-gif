@@ -1,0 +1,41 @@
+{
+  "id": "insp-517",
+  "title": "FreeOnlineTools：Cinemagraph Maker，局部动加其余冻结的浏览器工具",
+  "type": "posters",
+  "source": {
+    "url": "https://www.freeonlinetools.io/en/tools/cinemagraph-maker",
+    "platform": "FreeOnlineTools",
+    "author": "FreeOnlineTools",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "浏览器本地动态照片工具：上传短视频、定格一帧做静底、笔刷涂抹要动的区域（蒸汽、头发、水、霓虹闪烁），其余冻结，设循环时长后导出 GIF 或 WebM；视频在设备内解码、不上传服务器；建议 2–4 秒循环、超 6 秒 GIF 过重。",
+  "why": "局部动加其余冻结的 cinemagraph 制作法可以直接迁移到动态海报；2–4 秒最佳循环时长的经验值也很实用。",
+  "borrow": [
+    "局部动加其余冻结的制作法",
+    "2–4 秒最佳循环时长的经验",
+    "笔刷涂抹动区的操作"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "cinemagraph",
+    "局部动效",
+    "工具",
+    "循环时长"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-460",
+  "title": "Dev.to：GPT Image 2.6 API 做 GIF 的真实耗时与单次成本",
+  "type": "unknown",
+  "source": {
+    "url": "http://dev.to/super_lewis/animated-gifs-and-markup-guided-edits-with-the-gpt-image-26-api-real-timings-and-per-call-cost-2jmd",
+    "platform": "Dev.to",
+    "author": "super_lewis",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "API 实测：6 帧 GIF 首次因精灵图超长边被拒，改 832×832 后 25 秒完成，约 0.03 美元。",
+  "why": "少见的 API 侧硬数据：帧尺寸预算、提交后轮询、markup 引导编辑与按 token 计费都实测过。",
+  "borrow": [
+    "精灵图长边 3840px 上限的避坑经验",
+    "帧尺寸与帧数的预算关系",
+    "markup 引导编辑的调用思路",
+    "按 token 计费的成本模型"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": ""
+  },
+  "tags": [
+    "API",
+    "成本实测",
+    "GPT-Image-2.6",
+    "sprite-sheet"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

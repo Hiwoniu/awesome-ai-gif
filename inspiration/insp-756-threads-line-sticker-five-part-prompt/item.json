@@ -1,0 +1,39 @@
+{
+  "id": "insp-756",
+  "title": "Threads @osolemiotaiwan：LINE 贴纸提示词五段拆解",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://www.threads.com/@osolemiotaiwan/post/Df8i04yCKeA",
+    "platform": "Threads",
+    "author": "@osolemiotaiwan",
+    "found_at": "2026-11-20",
+    "found_by": "八哥"
+  },
+  "what": "LINE 贴纸提示词五段拆解：主体、风格、16 张 PNG 透明底 370×320、角色一致、16 个指定表情",
+  "why": "五段式提示词结构与 370×320 规格",
+  "borrow": [
+    "五段式提示词结构",
+    "370×320 透明底规格"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录"
+  },
+  "tags": [
+    "Threads",
+    "LINE贴纸",
+    "提示词"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

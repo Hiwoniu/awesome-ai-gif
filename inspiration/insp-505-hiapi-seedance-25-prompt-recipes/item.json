@@ -1,0 +1,41 @@
+{
+  "id": "insp-505",
+  "title": "hiapi：Seedance 2.5 提示词配方，循环角色动画要求首尾帧完全匹配",
+  "type": "multi",
+  "source": {
+    "url": "https://hiapi.ai/en/blog/seedance-2-5-prompt-recipes",
+    "platform": "hiapi.ai",
+    "author": "hiapi.ai",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "4 条实测过的 Seedance 2.5 图生视频提示词配方，每条附真实生成片段、可复现的 API 调用与关键细节；其中 Recipe 4 是循环角色动画：侧面卡通萨摩耶走路循环，绿幕背景，明确要求首尾帧完全匹配。",
+  "why": "循环走路的提示词写法很干净：首帧提示加绿幕抠像便于转 GIF/贴纸；first_frame_url/last_frame_url 的 API 参数结构也值得借。",
+  "borrow": [
+    "循环走路的提示词写法",
+    "绿幕抠像便于转 GIF 的做法",
+    "首尾帧 URL 的 API 参数结构"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；4 条配方中只有 1 条是循环动画，其余为通用视频配方。"
+  },
+  "tags": [
+    "Seedance",
+    "提示词配方",
+    "循环动画",
+    "API"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

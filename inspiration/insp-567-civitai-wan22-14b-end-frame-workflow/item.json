@@ -1,0 +1,42 @@
+{
+  "id": "insp-567",
+  "title": "Civitai：Wan 2.2 14B 图生视频 + 末帧工作流",
+  "type": "unknown",
+  "source": {
+    "url": "https://civitai.com/models/2744914/workflow-wan-22-14b-image-to-video-end-frame",
+    "platform": "Civitai",
+    "author": "Civitai 社区作者",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Wan 2.2 14B 的图生视频工作流：上传首帧、可选末帧，模型补中间运动；480p、6 步、固定种子为默认起点，输出插帧后的顺滑 MP4；首末帧相同即为循环，首末帧不同即为可控转场。",
+  "why": "“首末帧相同=循环、首末帧不同=转场”的一体两用结构，是循环 GIF 最直接的开源实现路径。",
+  "borrow": [
+    "首帧加末帧双锚点的工作流结构，循环与转场共用一套管线",
+    "480p、6 步、固定种子的低成本验证起点",
+    "高/低噪声双专家分工的模型结构认知",
+    "插帧作为默认收尾步骤的做法"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；产出为视频而非 GIF，收的是首末帧双锚点结构。"
+  },
+  "tags": [
+    "Wan-2.2",
+    "首末帧",
+    "循环",
+    "ComfyUI工作流"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

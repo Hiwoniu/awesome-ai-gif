@@ -1,0 +1,42 @@
+{
+  "id": "insp-1029",
+  "title": "AI Prompt Explorer：9 合 1 3D 卡通头像贴纸提示词，撕纸效果九宫格",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "http://aipromptexplorer.blogspot.com/2026/11/9-in-1-ai-cartoon-avatar-sticker-prompt.html",
+    "platform": "Blogger",
+    "author": "AI Prompt Explorer",
+    "found_at": "2026-11-21",
+    "found_by": "八哥"
+  },
+  "what": "同一人 9 种表情的 3D 卡通头像贴纸九宫格提示词，含身份锁定、撕纸效果与完整负面提示词。",
+  "why": "身份锁定清单与负面提示词写得最细，撕纸破圈效果是九宫格里少见的视觉处理。",
+  "borrow": [
+    "身份锁定清单写法：面部结构、肤色、眼形、发型等逐项锁定，只变表情姿势服装",
+    "9 表情乘 9 配色的行列编排：每格表情、手势、服装颜色都不同",
+    "撕纸破圈效果：圆形撕口、纸纤维、内阴影、3D 纵深，角色从纸后探出",
+    "负面提示词的防翻车写法：不同脸、表情重复、格数不对、裁切、文字水印等"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "已打开原文核实，发布 2026-11-18；静态贴纸表、非 GIF，只借九宫格结构、身份锁定与撕纸效果"
+  },
+  "tags": [
+    "九宫格",
+    "身份锁定",
+    "负面提示词",
+    "撕纸效果"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "insp-421",
+  "title": "X @lyraxana：OpenArt 上班族股市 GIF 的 3×2 精灵表提示词",
+  "type": "multi",
+  "source": {
+    "url": "https://x.com/lyraxana/status/2118123296738677133",
+    "platform": "X/Twitter",
+    "author": "@lyraxana",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "OpenAI 官方 Images 2.6 合作展示中的一例：同一角色“股市崩盘痛哭 vs 牛市撒钱庆祝”的 6 帧精灵表提示词结构。",
+  "why": "官方示例的完整提示词结构可直接借鉴，是“一张精灵表出无缝循环 GIF”最权威的写法样本。",
+  "borrow": [
+    "开场先声明目标是可无缝循环 GIF 的单张精灵表",
+    "6 帧 3 列×2 行网格、逐行阅读、每格尺寸相同、固定机位与场景",
+    "首尾帧衔接写法（末帧平滑回到首帧）",
+    "禁止项清单（无文案、无边框、无留白）"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录。"
+  },
+  "tags": [
+    "精灵表",
+    "提示词结构",
+    "OpenAI官方示例",
+    "X"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

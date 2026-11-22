@@ -1,0 +1,40 @@
+{
+  "id": "insp-251",
+  "title": "X @Gorden_Sun：单句 caption 吃饭表情包 GIF",
+  "type": "wechat-stickers",
+  "source": {
+    "url": "https://x.com/Gorden_Sun/status/2118166046175908016",
+    "platform": "X",
+    "author": "@Gorden_Sun",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "角色吃米饭的单主题循环 GIF，配一句 caption，主打一句话提示词出图。",
+  "why": "与成套模板同源的极简对照版，证明同一模板可压缩到一句话，适合做“极简版”参考。",
+  "borrow": [
+    "一句话主题描述",
+    "单动作+单 caption",
+    "与成套模板的繁简对照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "未打开原帖核实，仅凭搜索摘要收录；只借方法，不抄出镜的提示词原文"
+  },
+  "tags": [
+    "X",
+    "极简",
+    "caption"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

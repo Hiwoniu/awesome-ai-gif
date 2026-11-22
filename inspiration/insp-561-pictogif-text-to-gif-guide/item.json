@@ -1,0 +1,42 @@
+{
+  "id": "insp-561",
+  "title": "PictoGIF：文字转 GIF 指南，含动态海报示例提示词",
+  "type": "posters",
+  "source": {
+    "url": "https://www.pictogif.com/guides/text-to-gif",
+    "platform": "PictoGIF",
+    "author": "PictoGIF",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "文字转 GIF 的实操指南：写清主体、一个可见动作与回到起始姿势，选模型、画幅、帧数与帧延迟后生成，可直接下载 .gif；示例含电子音乐节竖版动态海报（9 帧、每帧 200ms、循环），标题文字固定、仅扬声器与光波做局部脉动。",
+  "why": "动态海报的“文字与版式固定、仅局部元素动”的写法非常具体，9 帧 200ms 的参数可直接参考。",
+  "borrow": [
+    "动态海报提示词结构：固定版式与标题加两个局部脉动元素加固定机位",
+    "一个可见动作加回到起始姿势的循环提示词写法",
+    "帧数与帧延迟作为显式生成参数的交互设计",
+    "文字转 GIF 与图片转 GIF 两条路径的区分"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实。"
+  },
+  "tags": [
+    "文字转GIF",
+    "动态海报",
+    "局部动效",
+    "帧参数"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

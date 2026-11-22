@@ -1,0 +1,41 @@
+{
+  "id": "insp-242",
+  "title": "Hugging Face Diffusers：文生/图生视频官方指南（含 GIF 导出）",
+  "type": "multi",
+  "source": {
+    "url": "https://huggingface.co/docs/diffusers/v0.31.0/en/using-diffusers/text-img2vid",
+    "platform": "Hugging Face",
+    "author": "Hugging Face",
+    "found_at": "2026-11-18",
+    "found_by": "八哥"
+  },
+  "what": "Diffusers 官方的文生、图生视频指南，覆盖 AnimateDiff、SVD、I2VGen-XL、ModelScopeT2V、CogVideoX，含导出 GIF 的代码模式。",
+  "why": "官方指南，最权威的开源文生视频到 GIF 代码路径。",
+  "borrow": [
+    "AnimateDiff 运动适配器的加载方式",
+    "export_to_gif 的标准收尾",
+    "多模型选型对照"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "官方文档，代码示例可参考"
+  },
+  "tags": [
+    "Diffusers",
+    "开源",
+    "代码",
+    "GIF导出"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-18",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}

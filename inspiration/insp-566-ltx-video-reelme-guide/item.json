@@ -1,0 +1,42 @@
+{
+  "id": "insp-566",
+  "title": "ReelMe：LTX-Video 图生视频与深度控制指南",
+  "type": "unknown",
+  "source": {
+    "url": "https://reelme.art/academy/resources/ltx-video",
+    "platform": "ReelMe Academy",
+    "author": "ReelMe",
+    "found_at": "2026-11-19",
+    "found_by": "八哥"
+  },
+  "what": "Lightricks 开源 LTX-Video 的图生视频与控制指南：文字/图片/多关键帧/视频延展多种模式，可把图片或短片钉在指定帧号并设强度；Depth/Pose/Canny 三种控制模型可把参考视频的动作搬到新场景；13B 蒸馏版在 H100 上 10 秒出 HD，另有 ComfyUI 长镜头工作流可出 60 秒。",
+  "why": "“关键帧钉帧 + 控制模型搬动作”的思路，可用来做角色动作一致的循环 GIF 与多段动画。",
+  "borrow": [
+    "把参考图钉在指定帧号并设强度的关键帧控制法",
+    "用 Depth/Pose/Canny 控制模型把一段参考动作迁移到新角色的做法",
+    "先低分辨率验证、再高清出片的速度与质量取舍",
+    "开源模型加 ComfyUI 工作流的落地路径"
+  ],
+  "risks": {
+    "ip_or_real_person": false,
+    "license": "unknown",
+    "note": "仅凭搜索摘要收录，未打开页面核实；产出为视频而非 GIF，收的是关键帧控制与动作迁移思路。"
+  },
+  "tags": [
+    "LTX-Video",
+    "图生视频",
+    "动作迁移",
+    "开源模型"
+  ],
+  "status": "pending",
+  "review": null,
+  "landed": [],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "by": "八哥",
+      "note": "收进灵感池"
+    }
+  ]
+}
